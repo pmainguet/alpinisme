@@ -1,0 +1,5 @@
+[filter "png"]
+	clean = find -name 'ort-*.png' -print0 | xargs -0 optipng -nc -nb -o7
+
+[filter "jpg"]
+	clean = jpegoptim *.jpg --max=90 --all-progressive --strip-all --strip-com --strip-exif --strip-iptc --strip-iccjp
