@@ -1,42 +1,19 @@
 NOTES ALPINISME
 
-## Matériels
+## Code de l'alpinisme amateur
 
-* trousse de premiers secours:
-    * pansements de taille diverse
-    * Strap
-* un ou deux pitons
-* cordelette
-* grand sac poubelle en cas de bivouac improvisé
-* boussole
-* altimètre
-* carte au 1/25000e
-* Nourriture
+1. Décider que l'autonomie précède la pratique.
+2. Choisir un compagnon de cordée fiable.
+3. S'introduire en montagne comme un bédouin par des randonnées sous tente.
+4. S'initier à l'escalade efficacement avec un moniteur breveté d’État. 5. Lire tout.
+6. S'initier au cramponnage en une paire d'heures par une école de glace avec un guide de haute-montagne.
+7. Réaliser sa première course d'alpinisme, courte, facile, en bonnes conditions, et en autonomie, sans suivre quiconque.
+8. L'échec ? Une aubaine pour progresser.
+9. S'inscrire par la suite à des stages de cascade de glace, incontournable pour la suite de la progression.
+10. Préférer les bivouacs aux nuits en refuge.
+11. Préférer les vieilles courses classiques aux voies modernes.
+12. Le risque, un produit à usage personnel qu'on ne prescrit pas aux autres.
 
-## Livres à lire
-
-* Alpinisme sans guide
-* Kirkpatrick
-* Autres à regarder:
-    * Alpinismes, B.Amy, P.Beghin, P.Faivre, éditions Arthaud, 1988.
-    * L'alpinisme, P.de Bellefon, éditions Denoël, 1987.
-    * L'escalade, D.Belden, éditions Denoël, 1987.
-    * Alpinisme, des premiers pas aux grandes courses, G.Decorps, J.F.Hagenmuller, C.Moulin, éditions Glénat, 1997.
-    * L'alpinisme, des premiers pas aux grandes ascensions, J.F.Hagenmuller, F.Marsigny, F.Palandre, éditions Glénat, 2016.
-    * Glace, couloirs et cascades, B.Gardent, P.Tournaire, éditions Glénat, 1990.
-    * Assure sec !, John Rander, éditions Edisud, 1990.
-    * Alpinisme et escalade, guide des techniques, E.Decamp, éditions Didier Richard, 1992.
-    * Alpinisme et escalade (les guides du CAF), J.Coudray, M.Cadot, C.Gardien,
-    * L.Jourjon, J.P.Verdier, éditions du Seuil, 1998.
-    * Escalade en terrain d'aventure, S. Conche , éditions Amphora, 2004.
-    * Glaces, J.Blanc-Gras, M.Ibarra, éditions Blue ice, 2011.
-    * Le massif du Mont-Blanc, les cent plus belles courses, G.Rébuffat, éditions Denoël, 1973.
-    * Le massif des Écrins, les cent plus belles courses, G.Rébuffat, éditions Denoël, 1974.
-    * Oisans nouveau, Oisans sauvage, partie est et partie ouest, J.M.Cambon, plusieurs autoéditions renouvelées.
-    * Le topo du massif du Mont-Blanc, plusieurs tomes , M.Piola, plusieurs autoéditions renouvelées.
-    * Guide du Haut-Dauphiné, plusieurs tomes, GHM et F.Labande, éditions Cartothèque, éditions renouvelées.
-    * La chaîne du Mont-Blanc, tomes 1 et 2 guide Vallot, F.Labande, éditions Arthaud, éditions renouvelées.
-    
 ## Checklist - Techniques de base
 
 * S'encorder avec une corde à simple par un nœud en huit.
@@ -70,2129 +47,75 @@ votre belle corde en monstrueux plat de nouilles.
 * Vous savez qu'une vache en sangle n'est pas dynamique et ne résiste pas à une petite chute de facteur deux, aussi vous
 restez en tension permanente sur une vache de ce type quand vous l'utilisez, et vous êtes taillé dans votre ancienne corde une vache dynamique que vous tachez de ne pas oublier pour les grandes occasions.
 
-## Noeud d'encordement
-
-Voici en quelques mots, vos acquis techniques.
-2/ Le nœud d'encordement : un objet sous surveillance
-Pour la montagne, on choisit une corde dont la gaine répond à deux
-caractéristiques : 1/ Elle reçoit un traitement hydrophobe, indispensable si on ne veut
-pas voir sa corde gorgée d'eau à la moindre promenade sur glacier, mais qui la rend
-glissante, surtout quand elle est neuve. 2/ Son épaisseur et son tressage serré la
-rendent résistante à l'abrasion (voir chapitre 10), mais diminuent sa souplesse et donc
-la faculté de serrer un nœud.
-Il est par conséquent normal qu'une corde adaptée à l'alpinisme soit aussi
-une corde qui tienne plus mal les nœuds que votre vieille corde à simple ultra-souple
-73 Face au Mont-Blanc, les aiguilles Rouges 1, Michel Piola, autoédition, 2008.
-
-27
-
-dépourvue de traitement hydrophobe. Le nœud d'encordement a plus de risque de se
-desserrer tout seul et réclame une attention constante. Attention également requise,
-soit dit en passant, pour la fermeture du baudrier. Vous éviterez ainsi la mésaventure
-de ce cascadeur de l'Alpe d'Huez qui, au moment où il mettait son poids pour le
-dernier rappel de 40 mètres de Symphonie d'automne, vit son baudrier lui tomber
-sous les genoux complètement dégrafé. Présent au relais, j'eus juste le temps de
-tendre le bras vers lui avant qu'il ne s'envole dans les airs, mais que tenir dans ces
-conditions ? Chacun d'une main tremblante, nous l'avons rhabillé au mieux,
-maladroitement, tandis qu'il déclarait d'un rire jaune et chevrotant qu'il ne faudrait
-surtout pas qu'il raconte un jour cette histoire à sa mère...
-Le nœud de huit est le nœud d'encordement le plus courant car très résistant et
-facile à contrôler, une erreur se détectant au premier coup d’œil. Certains l'expédient
-en deux secondes en réalisant un beau huit à plat qui laisse les brins croisés. Ils font
-dépasser une quarantaine de centimètres de corde au cas où, puis terminent par un
-nœud d'arrêt à la fois pour sécuriser le tout et parce qu'il ne savent que faire de ce
-long bout qui dépasse. Il est vrai que la résistance d'un nœud en huit dont les brins
-sont croisés est sensiblement identique à celle d'un nœud aux brins parallèles. Par
-contre, sa durabilité n'a rien à voir, puisque le croisement des brins empêche de serrer
-intimement le nœud. Pour être tranquille toute une journée de montagne, il est
-préférable de réaliser son nœud de huit sans croiser. Il a donc l'aspect d'une boule, en
-trois dimensions, et non d'un huit à plat.
-(Idem bien sûr pour le nœud de jonction servant à abouter deux cordes pour un
-rappel puisqu'il s'agit du même nœud.)
-
-Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée à droite.
-
-Le nœud de chaise a pour avantage principal d'être moins volumineux, ce qui
-se justifie surtout quand on s'encorde en cours de corde pour l'encordement en N
-puisqu'on traite deux brins à la fois. Un nœud de chaise sous tension constante est très
-résistant même sans nœud d'arrêt quand on tire sur le dormant, c'est à dire la corde
-allant à l'autre grimpeur. C'est la raison pour laquelle il est utilisé sans nœud d'arrêt en
-plaisance pour frapper la drisse sur la têtière de grand-voile. Cependant, en
-alpinisme, on est obligé de bloquer ce nœud de chaise par un double nœud d'arrêt
-28
-
-serré contre lui pour deux raisons :
-1/ Le nœud de chaise seul glisse pour des valeurs très faibles quand on tire sur
-la boucle d'encordement elle-même (la ganse) comme si on voulait l'agrandir. Le
-glissement va jusqu'à ouvrir le nœud. Ce cas de traction se produit quand, pour
-l'encordement montagne classique (cf. p.34), on a choisi de repasser la boucle venant
-des anneaux de buste dans la boucle d'encordement. Sans nœud d'arrêt, le nœud glisse
-pour des valeurs très insuffisantes et la boucle s'agrandit puis lâche.
-2/ Un nœud d'encordement, au contraire du point de drisse de la grand-voile,
-n'est pas en tension constante et peut donc facilement se desserrer. Or, un nœud de
-chaise qui se desserre peut également se retourner et se transformer en nœud coulant,
-à la façon inverse de la méthode rapide parfois décrite pour le fabriquer et qui
-commence précisément par la réalisation d'un nœud coulant sur le dormant. S'il se
-retourne, il lâche.
-Le double nœud d'arrêt fait donc partie intégrante de la sécurité du nœud et son
-serrage énergique contre le nœud de chaise sera régulièrement vérifié tout au long de
-la course.
-Pour ceux qui prennent l'habitude de réaliser leur nœud de chaise en
-commençant par un nœud coulant, n'oubliez pas que le brin coulissant doit être le
-dormant et non le courant. Sinon, le nœud obtenu est vicié car la boucle non croisée
-vient entourer la ganse et non le dormant, selon la photographie suivante.
-
-ATTENTION : nœud vicié en haut à gauche.
-
-Pour ceux qui ont entendu parler du finish Yosemite qui peut remplacer le
-29
-
-double nœud d'arrêt, n'oubliez pas que cette clef ne se réalise que quand le courant (le
-bout libre) est placé à l'intérieur de la ganse, et non à l'extérieur. L'avantage de la clef
-Yosemite est un encombrement moindre que le double nœud d'arrêt, mais elle mérite
-plus de surveillance. Certains lui adjoignent un nœud d'arrêt supplémentaire.
-
-Clef Yosemite sur nœud de chaise.
-
-3/ La neige
-Le but étant d'aller promener ses guêtres dans les neiges de moins en
-moins éternelles, commençons par arpenter un glacier, lequel est constitué d'une
-glace fracturée par des crevasses, recouverte d'une couche de neige plus ou moins
-épaisse et plus ou moins solide. L'été, la neige est dure le matin, quand on a bénéficié
-d'un bon regel, molle au retour de course.
-a/ Le glacier enneigé
-Sur glacier, on progresse en cramponnage dix pointes, dit technique
-française à l'étranger avec cette admiration amusée que le génie suranné de notre
-nation ne manque pas de susciter. Il s'agit de faire mordre les dix pointes inférieures
-de chaque crampon dans la neige, un crampon classique en comptant deux de plus
-dirigées vers l'avant qui ne sont d'aucune utilité sur pente faible. En conséquence, on
-tord la cheville au gré de l'inclinaison de la pente. Contrairement au ski, on ne prend
-pas de « carre ».
-A la montée, pour éviter d'allonger dangereusement le tendon d'Achille,
-on progresse de côté, voire presque à reculons, dans une sorte de traversée
-ascendante. C'est à dire qu'on présente une hanche vers l'amont, une autre vers l'aval.
-Le pied amont se positionne de travers à la pente, voire pointe légèrement dirigée
-vers l'aval sur une pente plus importante. Le pied aval, lors du pas, va passer devant
-le tibia amont, se placer en avant et en amont du pied amont, pointe nettement
-dirigée vers l'aval d'autant plus que la pente est grande. On a donc à cet instant les
-jambes croisées, l'équilibre étant maintenu grâce au piolet tenu comme une canne par
-30
-
-la main amont posée sur la panne, lame orientée vers l'avant : c'est la technique du
-piolet-canne. On reporte le poids du corps sur le nouveau pied amont, puis l'ancien
-pied amont, devenu aval, passe derrière le mollet du nouveau pied amont (c'est à dire
-entre la pente de neige et la jambe, espace de plus en plus réduit à mesure que la
-pente s'accentue), et se pose de nouveau de travers à la pente, mais plus haut sur la
-pente. Plus la pente est forte, plus l'ensemble du corps se tourne vers l'aval, donnant
-alors l'impression de progresser à reculons.
-
-Technique dix pointes, au moment du croisement de jambes.
-
-La progression forme donc des lacets. En bout de lacet, le changement
-de direction se fait pour le premier de cordée en se tournant vers l'aval, ce qui lui
-évite de devoir enjamber la corde qui relie les deux membres de la cordée, car la
-corde doit rester du côté de la hanche aval du leader pour l'empêcher d'être soumis à
-une rotation qui le déséquilibrerait lors d'une glissade du second.
-A la descente, les deux pieds sont en canard. Pour éviter la prise de
-carres, on porte le poids sur l'avant du pied. On peut s'aider à conserver la bonne
-position du corps vers l'avant en pente soutenue en plaçant la main libre, celle qui ne
-tient pas le piolet, sur le genou.
-Si la neige est molle et épaisse, on peut s'affranchir de la technique en
-imprimant des marches. A la montée, on marche alors normalement, comme on
-monte un escalier. A la descente, on attaque franchement du talon. Mais dès que la
-couche de neige devient insuffisamment malléable, on revient au poids du corps porté
-sur l'avant du pied car une glissade sur le talon est une glissade sans filet. Derrière le
-talon, il n'y a en effet plus rien pour retenir la chute, tandis que derrière l'avant-pied
-31
-
-qui glisse, il y a encore toute la longueur du crampon pour se rattraper.
-L'encordement pour glacier enneigé est l'encordement dit en N, c'est à
-dire en divisant la corde en trois parties. Chaque alpiniste réalise son nœud
-d'encordement au tiers de la corde. Pour trouver le bon endroit sur la corde, soit on a
-marqué les tiers au feutre, soit chaque grimpeur place provisoirement un mousqueton
-à son pontet, dans lequel il place une boucle de la corde (photo page 115). Tout en
-tenant chacun une extrémité de la corde, les deux grimpeurs s'éloignent l'un de l'autre,
-la corde coulissant dans les deux mousquetons, jusqu'à tendre la corde. On obtient
-ainsi les tiers. Le nœud d'encordement est le nœud de chaise avec double nœud
-d'arrêt. On peut également réaliser un nœud en huit au lieu du nœud de chaise, mais il
-présente l'inconvénient d'être très volumineux quand, comme ici, on le réalise avec
-deux épaisseurs de corde, puisqu'on s'encorde dans le cours de la corde et non à son
-extrémité.
-
-Nœud de chaise en cours de corde.
-
-Après la réalisation du nœud de chaise, on love le tiers libre en un petit
-écheveau qu'on place sous le rabat de son sac à dos. C'est la réserve de corde. Elle va
-servir à faciliter les manœuvres de sauvetage en crevasse le cas échéant : confection
-d'un mouflage ou jet de cette réserve au compagnon tombé dans le pot afin qu'il s'en
-serve pour remonter sur corde fixe, car la portion de corde reliant les deux grimpeurs
-peut avoir pénétré profondément dans la lèvre de la crevasse et être difficilement
-utilisable.
-Au baudrier, chacun porte au moins une ou deux broches à glace, deux
-anneaux de cordelettes (fermés par un double nœud de pêcheur) en 6mm, l'un de
-60cm de long, l'autre de 120cm, deux mousquetons à vis, un petit bloqueur
-32
-
-mécanique de type ropeman (de la marque Wild Country) ou tibloc (de la marque
-Petzl), quatre mousquetons simples. En bandoulière, chacun porte une sangle de
-60cm et une sangle de 120cm. Il s'agit du matériel minimum pour se sortir d'une
-crevasse ou réaliser un relais et un petit mouflage. On peut y ajouter une petite poulie.
-La progression se fait corde tendue. L'idéal est que la corde ne touche
-pas le sol. La tension est cependant fatigante pour le grimpeur de tête car elle le
-freine. On peut donc détendre légèrement dans les zones peu suspectes de crevasses
-et tendre à la perfection dès qu'un doute se présente.
-Si un grimpeur perce un pont de neige fragile recouvrant une crevasse, la
-corde déjà tendue empêche la chute. Chacun doit donc progresser en gardant à l'esprit
-qu'il peut être tiré brusquement vers l'autre à tout instant, et qu'il lui appartiendra de
-ne pas se laisser entraîner.
-Pour cet encordement, on peut utiliser un seul brin d'une corde à double
-car il s'agit d'enrayer une glissade plus que de stopper une véritable chute. Mais on
-peut aussi bien entendu utiliser une corde à simple : qui peut le plus peut le moins.
-L'idéal est d'avoir un brin de 50 mètres de façon à disposer d'une quinzaine de mètres
-entre les grimpeurs. Si la corde est plus courte, on privilégie la longueur de
-l'encordement par rapport à la réserve de corde, qui sera alors plus courte.
-L'encordement n'est donc plus rigoureusement au tiers.
-b/ La pente raide
-On quitte le glacier pour la pente de neige raide. Le risque de glissade
-remplace le risque de chute en crevasse. L'encordement en N devient trop long. Un
-encordement long est en effet très trompeur en neige du fait de l'élasticité de la corde.
-C'est quand l'assureur croit avoir enrayé la glissade de son compagnon que la corde
-transmet avec une relative douceur sa force de choc maximale et le décroche de la
-pente à la façon d'une catapulte. Il arrivera de nouveau la même infortune à celui-ci
-même s'il a réussi entre temps à se stopper. On ménage ainsi toutes ses chances pour
-sauter la formidable barre rocheuse située en contrebas et figurer en bonne page du
-journal local.
-Il faut donc s'encorder très court, environ trois mètres, afin d'enrayer la
-glissade dès son début, avant toute prise de vitesse dans la pente. On est donc proche,
-mais pas au point de s'envoyer un coup de crampon dans la figure... Si le leader est
-très à son affaire, il peut conserver quelques anneaux de corde à la main, le dernier
-serré en tour mort autour de la paume. La corde est bien tendue de façon à sentir le
-second par la corde, un coup de poignet énergique le remettant en selle en cas de
-déséquilibre. Si le leader a besoin de ses deux mains, on progresse sans anneaux à la
-main, à corde tendue, en conservant cette même distance très courte. Dans les deux
-cas, la corde ne touche pas le sol. Nous reparlerons plus loin de la question des
-anneaux à la main.
-On réduit la longueur de l'encordement en prenant des anneaux de
-buste. Il s'agit de l'encordement montagne classique. Si on vient du glacier
-crevassé avec un encordement en N, que la portion raide et non crevassée sera suivie
-33
-
-d'une nouvelle portion de glacier crevassée, on peut prendre ces anneaux de buste à
-partir de l'encordement en N pour ne pas tout défaire. Puis on relâchera ces anneaux
-de buste quand le risque de crevasse reprendra. Mais si le risque de chute en crevasse
-a définitivement disparu et qu'on aborde un terrain plus complexe, neigeux puis
-rocheux, où on devra peut-être changer encore la distance d'encordement, on peut
-préférer, pour plus de simplicité, défaire l'encordement en N puis réaliser
-l'encordement montagne classique à partir des extrémités de la corde.
-Voici comment on réalise l'encordement montagne classique :
-Chaque membre de la cordée est encordé à une extrémité de la corde par
-un nœud en huit ou un nœud de chaise assorti de son double nœud d'arrêt, selon sa
-préférence. La corde est en tas, posée au sol. Chacun va raccourcir la corde en
-prenant des anneaux de buste. On place sa main droite, paume ouverte vers bas,
-devant et légèrement au-dessus du pontet de son baudrier. La main gauche, en
-glissant le long de la corde depuis le nœud d'encordement, va amener la corde
-derrière la nuque, de gauche à droite. On fait plusieurs tours, jusqu'à obtenir la bonne
-longueur entre les grimpeurs, en tenant compte de la longueur nécessaire pour les
-nœuds d'arrêt. Une fois le dernier anneau formé, on enfile le bras droit puis l'épaule
-droite dans la totalité des anneaux. On a donc ces anneaux en bandoulière sous
-l'aisselle droite, et derrière l'épaule droite. Si vous souhaitez tout inverser, à votre
-guise, aucune religion ne l'interdit.
-
-Le dernier anneau passe sous tous les anneaux puis dans la boucle
-d'encordement que forme le premier nœud d'encordement.
-
-34
-
-Il reste à nouer le tout. On fait une boucle avec le dernier anneau qu'on
-enfile sous tous les anneaux (c'est à dire entre le paquet d'anneaux et la poitrine) de
-haut en bas. Cette boucle est ensuite repassée dans la boucle du nœud d'encordement
-initial (ou dans le pontet), puis est nouée sur elle-même par un nœud simple qui
-emprisonne la corde allant à l'autre grimpeur. En tendant alors cette corde, la tension
-est transmise à la boucle d'encordement. On place enfin un mousqueton entre la
-boucle et le pontet pour prévenir le lâchage progressif du nœud simple.
-Faut-il prendre ces anneaux de buste avant ou après avoir mis son sac à
-dos ?
-Avant, c'est la possibilité d'ôter son sac sans tout défaire (quitter les
-crampons, ranger un vêtement, prendre sa gourde, etc.), mais on aura une bosse un
-peu gênante formée par les anneaux entre le dos et le sac. Surtout, on ne pourra pas
-faire varier la longueur sans retirer son sac. Ces deux inconvénients ne sont pas
-rédhibitoires et cette option a souvent notre préférence car nous préférons pouvoir
-nous libérer de notre sac à tout moment.
-Après avoir mis le sac, celui-ci est piégé, mais on peut modifier très vite
-la longueur d'encordement, ce qui peut être très intéressant sur certains terrains
-variés. Tout va donc dépendre du terrain.
-
-Encordement montagne terminé. On sécurise généralement la
-boucle en la mousquetonnant au pontet.
-
-35
-
-Vous trouverez dans la littérature ou sur internet plusieurs variantes de
-l'encordement montagne classique. Le CAF74 enseigne la façon de faire que nous
-avons décrite, de même que le Club Alpin Suisse à ceci près que la dernière boucle
-entourant la totalité des anneaux est introduite dans l'autre sens, ce qui revient
-strictement au même75. La FFME76 préconise un double nœud (voir photographie
-suivante) pour finir l'encordement à la place du nœud simple, ce qui ne rend plus
-indispensable le mousqueton venant sécuriser le nœud simple. C'est donc une bonne
-idée. La FFME suggère également la possibilité d'utiliser un nœud de chaise (avec
-son double nœud d'arrêt), sans véritablement le promouvoir, car plus difficile à
-réaliser (puisque réalisé en cours de corde donc sur deux brins comme lors de
-l'encordement en N), et en l'ayant certainement repris de l'ENSA qui l'enseigne.
-Précisément, l'ENSA (citée par l'EMHM 77) préconise deux méthodes :
-l'une est donc, comme nous venons de le dire, la méthode que nous avons décrite en
-remplaçant le nœud simple par le nœud de chaise ; l'autre consiste à faire des anneaux
-de buste très serrés sous l'aisselle et non arrêtés par un nœud, puis de réaliser un
-nœud de cabestan sur un mousqueton à vis directionnel placé sur le pontet du
-baudrier. Cette seconde méthode est indiquée quand on pense devoir souvent changer
-la longueur de l'encordement. (Un mousqueton directionnel est un mousqueton
-équipé d'une patte à son extrémité la plus étroite pour empêcher le mousqueton de se
-mettre de travers et l'obliger à travailler selon son grand axe. On considère
-actuellement qu'on peut remplacer un mousqueton à vis directionnel par un
-mousqueton à vis classique doublé d'un mousqueton normal placé en sens inverse.)
-
-A gauche, nœud simple à sécuriser par un mousqueton. A droite, la solution FFME :
-nœud double. La corde, emprisonnée dans le nœud, part en bas de
-l'image vers le compagnon de cordée.
-74
-75
-76
-77
-
-36
-
-Alpinisme et escalade, Les guides du Club Alpin Français, éditions Seuil, 1998.
-Wladimir Tislenkoff, youtube.
-ffme.fr/fiches-ffme-techniques/page/s-encorder-avec-des-anneaux-de-buste.html
-www.emhm.terre.defense.gouv.fr/memento/alpinisme
-
-Enfin, les militaires de l'EMHM78 (École Militaire de Haute Montagne),
-qui ne font rien comme les autres, avancent une solution astucieuse afin d'éviter les
-inconvénients des autres méthodes, c'est à dire des anneaux trop longs puisque devant
-atteindre le pontet du baudrier quand ils sont bloqués, ou franchement trop courts et
-empêchant d'ôter une veste sans défaire tout l'encordement quand ils vont sous
-l'aisselle, sans compter l'impossibilité d'utiliser la réserve de corde sans défaire
-l'encordement dans le premier cas. Voici comment ils procèdent. Ils dissocient le
-blocage des anneaux et l'encordement. On commence par réaliser la manière
-classique avec le nœud simple, à la différence près que la boucle entourant tous les
-anneaux ne passe ni par la première boucle formée par le nœud d'encordement, ni par
-le pontet. Les anneaux sont donc réunis, mais on n'est pas encore encordé. Puis on
-exécute plus loin un nœud de chaise (avec son double nœud d'arrêt) , donc avec deux
-brins, puisqu'il est exécuté en cours de corde. On peut remplacer ce nœud de chaise
-par un nœud en huit placé sur un mousqueton à vis directionnel (ou deux
-mousquetons inversés dont un à vis, qui sont son équivalent comme on l'a dit) placé
-sur le pontet. Le fait d'avoir dissocié le blocage des anneaux et le nœud
-d'encordement permet de fabriquer des anneaux de buste d'une longueur
-intermédiaire, ni trop serrés, ni trop pendouillant, et de pouvoir utiliser la réserve de
-corde sans défaire le nœud d'encordement. La méthode est certes plus longue que la
-technique classique mais très sûre et confortable.
-
-La méthode de l'EMHM.
-
-78 Ibid.
-
-37
-
-Le pragmatisme de l'EMHM n'étonne nullement quand on sait que
-l'entraînement de ces troupes contient la réalisation de courses très difficiles sans
-l'aide d'un topo ni connaissance du terrain, mais avec la seule indication que la voie
-se déroule sur telle arête.
-Voici pour l'encordement montagne. Voyons maintenant la progression
-En neige idéale, dite « neige à bout de pied »79, c'est à dire à la fois solide
-et malléable, le piolet est tenu en piolet-appui (photo page 40) ou en piolet-panne :
-La main tient le piolet en haut du manche très près de la tête, ou bien par la panne,
-mais c'est cette fois la lame du piolet qui est plantée en la poussant simplement
-devant soi dans la pente raide, tandis que la main libre est posée sur la neige pour
-parfaire l'équilibre. On progresse face à la pente avec la moitié du pied qui pénètre à
-chaque pas dans la neige. On obtient rapidité et économie de mouvement, mais on ne
-peut ancrer profondément que si la neige est relativement molle. Sur neige plus dure,
-l'ancrage est superficiel et risque de ne pas pouvoir enrayer une glissade.
-Dans des pentes plus raides ou des neiges plus dures, on utilise la
-technique plus sûre, mais plus lente et plus fatigante, du piolet-ancre : une main sur
-la tête, l'autre main en bas de manche. On ancre la lame en tenant le piolet d'une seule
-main comme on le pratique en cascade de glace tel un smash de tennis, puis on s'y
-tient à deux mains.
-
-Saisie en piolet-ancre.
-79 Op. cit., Gaston Rébuffat, p.17.
-
-38
-
-Cette saisie permettait jadis à l'école française de gravir des pentes très
-raides, qu'elles soient en neige ou en glace, pieds à plat, avec le corps vrillé, le bas
-tourné vers l'aval, le haut vers l'amont ou de travers. Au moment critique du
-désancrage, l'équilibre était résolu par un pas intermédiaire dit du pied-assis80 : avant
-que le pied devenu aval ne passe de nouveau devant le tibia du pied amont, on le
-posait à plat contre la pente, orteils dirigés vers le bas, assez haut sous la fesse arrière,
-genou plié bien sûr, comme si on allait s'asseoir dans un étrier. Ceci donnait la
-stabilité nécessaire pour désancrer puis ancrer de nouveau plus haut. La posture
-spectaculaire du pied-assis a fait le succès des célèbres photographies du professeurguide Armand Charlet, développeur du style et virtuose en la matière. On résout
-actuellement ce cas de figure prosaïquement par le cramponnage frontal.
-
-Pied-assis, ici en glace. Le pied droit posé à plat sous la fesse permet
-d'obtenir une position stable pour désancrer puis ancrer de nouveau.
-
-Des pas en traversée et des descentes raides peuvent être résolus en
-utilisant le piolet-ramasse. Le piolet est tenu sensiblement horizontalement au niveau
-de la hanche amont, pique posée ou plantée dans la neige, une main en pronation en
-bas du manche (très proche de la pique) appuyant vers la pente, l'autre main en
-supination sur la tête du piolet tirant vers le haut. Le couple de forces créé est d'une
-efficacité redoutable.
-80 Glace et neige, Yvon Chouinard, éditions Arthaud, 1981. Édition originale par Sierra Club Books en 1978.
-
-39
-
-Piolet-ramasse, ici en glace.
-
-Le cramponnage dix pointes trouve ses limites dans la flexion de
-cheville. Avant d'envisager le radical cramponnage frontal, on peut utiliser un
-cramponnage mixte moins éprouvant : un pied en cramponnage frontal, en faisant
-mordre face à la pente les quatre pointes avant du crampon, l'autre pied à plat pour
-soulager le mollet. On inverse les pieds dès que la fatigue du mollet en cramponnage
-frontal le rend nécessaire. Le piolet est tenu en piolet-appui, en piolet- panne, ou en
-piolet-ancre selon les besoins.
-
-Piolet-appui et cramponnage mixte.
-40
-
-Pour une pente très raide, on progresse en cramponnage frontal et
-piolet-traction comme en glace, en s'aidant souvent d'un second piolet. On espace et
-on décale suffisamment les marches pour éviter leur effondrement si la neige est
-molle. On descend à reculons de la même façon ce qui est assez fastidieux. Dès qu'on
-est de nouveau à l'aise quand l'inclinaison diminue, on reprend la descente face au
-vide.
-En neige molle, on utilise la technique du piolet-manche qui consiste à
-planter le manche verticalement et entièrement dans la neige. On se tient au piolet
-dont seule la tête dépasse comme en piolet-canne. Si la neige est encore plus molle,
-on peut poser son piolet à plat horizontalement, tenu à deux mains devant soi en
-l'enfouissant comme un corps mort à chaque pas, mais ce cas de figure se rencontre
-plutôt en hiver dans une neige poudreuse pour par exemple accéder à une cascade de
-glace. On peut aussi utiliser les bâtons télescopiques réunis ensemble avec la même
-technique. L'inconvénient est qu'on se mouille beaucoup. Il faut avoir prévu des gants
-de rechange.
-Il n'est pas possible de stopper la glissade du compagnon de cordée si
-celui-ci est passif. L'assurage suppose donc une participation de celui qui chute.
-
-Position de réchappe.
-
-Le plus tôt possible, il tente de se retourner sur le ventre en conservant la
-tête à l'amont. Il pèse de sa poitrine sur la tête de piolet tenue d'une main tandis que la
-seconde main tient le bas du manche, c'est à dire avec la même saisie que la
-technique du piolet-ancre. Ainsi, la lame raye la neige à la manière d'un soc de
-charrue et freine progressivement. On s'arrange pour que la pique ne s'enfonce pas
-41
-
-dans la neige en relevant soigneusement le bas du manche, sinon, le piolet pourrait se
-bloquer d'un coup. En neige dure, on relève les pieds pour éviter de rebondir sur les
-pointes avant des crampons. En neige molle, on écarte les pieds et on s'en sert pour
-freiner davantage, mais avec d'infinies précautions si l'on a chaussé les crampons
-pour ne pas risquer un arrêt brutal des pieds et une bascule tête en bas, et seulement
-après avoir déjà ralenti franchement par l'action du piolet. Tout ceci est appelé
-position de réchappe.
-Se méfier des tenues en gore-tex qui peuvent être très glissantes sur la
-neige. On enrayera plus facilement une glissade si on est vêtu d'une fourrure polaire
-et d'un pantalon en soft-Shell.
-En neige collante, on tape régulièrement un ou deux coups de piolet sur
-l'extérieur du crampon au moment où le pied est levé pour faire tomber le sabot de
-neige éventuel qui s'est formé dessous. Ceci s'appelle débotter, et c'est indispensable
-sous peine de glisser de façon incontrôlable sur la semelle de neige qui double la
-chaussure. On botte beaucoup plus facilement sur un crampon à structure verticale
-comme le fameux rambo de la marque Grivel qui a révolutionné en son temps le
-matériel de cascade de glace, que sur un crampon à structure horizontale. Les
-antibotts équipent maintenant d'origine de nombreux modèles mais ils ne sont pas une
-garantie absolue en neige collante. Le geste du débottage n'est donc pas obsolète.
-A la descente d'une neige ramollie, on peut quitter les crampons dès que
-la pente ne présente plus de danger. Ceci permet de se lancer dans de belles glissades
-qui économisent beaucoup d'énergie. On peut glisser de quatre façons différentes :
-- La manière « nordique » : On profite de la glissade pour allonger la
-foulée en faisant des pas glissés. On cherche à prolonger le plus possible chaque
-glissade pour gagner en vitesse tout en s'économisant.
-- La manière classique, en ramasse : Le piolet est tenu en piolet-ramasse
-contre la cuisse amont. Il fournit en quelque sorte une troisième jambe placée
-légèrement en amont du corps qui permet de freiner plus ou moins selon la pression
-exercée. La technique est plus difficile à exécuter avec un piolet court de 45cm
-qu'avec un piolet de 60 ou 70cm.
-- La manière skieur émérite : On godille sur les chaussures, à plat,
-comme à ski. Le poids se porte sur l'avant du pied, les sensations sont cherchées dans
-les plantes des pieds. Les virages sont déclenchés depuis les pieds et non des fesses,
-de type braquage parallèle. Le haut du corps reste face à la pente. Le piolet s'il est
-long peut être tenu comme un bâton de ski, s'il est court par le manche au cas où, prêt
-à être utilisé pour se stopper en ramasse ou en réchappe.
-- La manière paresseuse : Quand on ne réussit pas à conserver son
-équilibre en godille, et que le piolet-ramasse freine trop, on s'assied sur les fesses
-avec le piolet saisi comme en piolet-ramasse prêt à ralentir une vitesse excessive. La
-méthode est d'une efficacité redoutable et épargne totalement les muscles des cuisses.
-Les précautions à prendre sont de choisir un pantalon aux fesses renforcées, d'éviter
-42
-
-les cailloux cachés dans la pente de neige et de retirer tous les mousquetons des
-porte-matériel du baudrier pour les accrocher autre part (sur les bretelles du sac à dos
-par exemple ou carrément dans le sac) sous peine de perdre ici un mousqueton, là une
-broche, comme le petit Poucet. Quand on voit qu'on est entraîné vers un obstacle
-rocheux, on s'arrête avec le piolet. On fait quelques pas en traversée pour se décaler
-vis à vis de l'obstacle, puis on reprend la glissade. L'inconvénient est qu'on se mouille
-beaucoup, ce qui n'a pas d'importance si on rallie le sentier en plein soleil qui ramène
-à la voiture mais peut être plus ennuyeux en fin de journée si on doit rejoindre son
-bivouac déjà à l'ombre.
-c/ L'arête de neige
-Sur une arête sans corniche importante qui empêcherait de parcourir le
-fil, on marche sur celui-ci en prenant garde à l'effondrement des marches formant la
-trace. L'encordement est réduit par des anneaux de buste à sept mètres. Le membre de
-la cordée le plus à l'aise sur ce genre de terrain est derrière et tient à la main deux
-mètres de corde formant des anneaux. Les alpinistes progressent donc à cinq mètres
-l'un de l'autre. Si le grimpeur placé en arrière voit devant lui son compagnon chuter
-d'un côté, il doit lâcher ses anneaux et sauter de l'autre côté de l'arête. La réserve de
-corde permet de donner le temps d'agir.
-Sur une arête fortement cornichée, la trace se trouve très en contrebas du
-fil ce qui interdit cette technique. On doit donc progresser avec un encordement très
-court si l'inclinaison n'est pas trop forte et que la consistance de la neige rend la
-progression sûre. Si vous êtes très sûr et que vous emmenez un débutant, vous
-préférerez dans ce cas de figure particulier progresser sur une trace amont de votre
-second, afin d'éviter tout pendule. Il sera ainsi mieux assuré, et ne vous déstabilisera
-pas par ses pertes d'équilibre. Si la pente est délicate, on rallonge l'encordement de
-façon suffisante pour dépasser l'obstacle que constitue la portion cornichée en posant
-un relais avant et un après.
-d/ Les relais en neige
-Le relais de progression le plus classique est le piolet enfoui en corps
-mort. On creuse avec la panne du piolet deux tranchées profondes : une horizontale
-qui va recevoir le piolet, une verticale partant du milieu de la première vers le bas,
-qui va accueillir une longue sangle allant au pontet du baudrier de l'assureur. Le
-piolet est couché dans la tranchée horizontale, la sangle passée au milieu du manche
-en tête d'alouette ou mieux en nœud de cabestan. L'assureur, vaché à la sangle tendue,
-se place en contrebas du piolet et assure à l'épaule (vêtements épais obligatoires) ou
-sur demi-cabestan pour doser un assurage dynamique. Pour renforcer la tenue du
-corps mort, on doit le recouvrir de neige tassée, mais cela ralentira le démontage,
-d'autant plus si on ne dispose pas d'un second piolet pour creuser et récupérer le
-piolet enfoui. On peut également acquérir un deadman prêt à l'emploi fait d'une sorte
-de pelle sans manche équipée d'un câble. On plante la pelle verticalement dans la
-neige au marteau, ce qui est très rapide.
-43
-
-Le relais de rappel le plus simple est un corps-mort fait d'un objet
-abandonné : pierre trouvée sur place, gourde, sac plastique solide rempli de neige
-(celui qui vous a servi à emballer vos crampons), morceau de bois en forme de bâton
-ou de planchette, etc.
-En l'absence d'objet à abandonner, le modelage d'un champignon de
-neige de grand diamètre (2 mètres parfois) peut faire l'affaire en dépannage. On y
-place directement la corde et on fait des essais de coulissement de la corde avant que
-le dernier de la cordée ne descende. Sa confection est assez laborieuse : de diamètre
-trop petit, il est fragile ; de diamètre trop grand, la corde peut refuser de coulisser. Sur
-une neige très dure de consistance proche de la glace, sa confection plus compacte est
-plus facile et on peut abandonner une sangle.
-
-4/ Le rocher
-a/ Grimper en grosses
-En montagne, on grimpe généralement en chaussons à partir du 4e degré.
-Mais dans certaines voies faites essentiellement de dalles à franchir en adhérence, on
-pourra se trouver plus confortable et plus sûr en chaussons dès le 3e degré.
-Inversement, dans certaines courses où les fissures nécessitant des coincements sont
-nombreuses, on pourra préférer grimper en grosses dans des pas bien plus durs. De
-même quand en début de saison le rocher est encore partiellement enneigé. Même
-chose enfin quand il y a alternance de sections rocheuses et de sections mixtes
-(mélange de rocher et de neige ou de glace) qui impose le recours aux crampons. Si
-les sections rocheuses sont courtes et peu difficiles, on conserve alors les crampons
-pour éviter de perdre du temps.
-Grimper en grosses ou en crampons réclame une gestuelle identique à la
-grimpe en chaussons mais nécessite un placement de pied plus précis sur les petites
-prises ainsi qu'une immobilité stricte de la cheville. C'est ce qu'on appelait le
-grattonnage. Par ailleurs, le rocher de montagne, soumis à des gradients de
-températures extrêmes, non nettoyé systématiquement comme en falaise, mais tout de
-même assaini naturellement par le passage des cordées, mérite de tester les prises
-avant de tirer dessus comme un âne, surtout en début de saison quand on essuie les
-plâtres, le rocher ayant été soumis à la cryoclastie tout l'hiver.
-Sans crampon, après chaque passage mixte, on prend l'habitude de taper
-une ou deux fois ses semelles contre le rocher pour faire tomber la neige et retrouver
-plus rapidement l'adhérence de la gomme.
-On tache de désescalader face au vide, les paumes prenant appui le plus
-bas possible, les bras un peu écartés, les jambes écartées. On plie une jambe tandis
-que l'autre jambe tendue va chercher une prise très en aval. On règle les bretelles de
-son sac à dos pour ne pas le porter trop bas car il raclerait sur le rocher et risquerait de
-se déchirer ou de faire tomber des pierres. En pratique il râpe quand même un peu et
-44
-
-on regrette les sacs des années quatre-vingts dont le fond était fait d'un tissu tramé et
-imperméable, certes lourd, mais ultra-résistant puisque la publicité de la marque
-Millet consistait à placer un sac chargé sur la pique d'un piolet. Ce n'est pas une faute
-que de poser les fesses de temps à autre, mais quand la jambe descend, on doit être en
-appui sur les paumes et le pied restant et non sur les fesses. Sinon on ne pourra pas
-charger le pied et s'assurer qu'il se bloque bien sur la prise. Quand la pente est trop
-raide ou que la difficulté est trop grande, on se retourne face au rocher. On
-désescalade alors avec des mouvements quasi identiques à l'escalade avec cette
-différence qu'on va davantage abaisser les mains jusqu'à une position très groupée
-avant de descendre les pieds à leur tour. Dans le plus raide encore, on ne voit plus les
-prises. Alors, on se met un peu de profil pour lire l'enchaînement des prises suivantes
-à l'avance, puis on exécute la séquence face au rocher, le pied cherchant à tâtons la
-prise mémorisée. Celui descendu indique ensuite les prises de pied à son compagnon,
-voire lui guide la chaussure.
-b/ L'assurage en mouvements
-Comme en neige, on distingue l'encordement long et l'encordement
-court. Dans les deux cas, on réduit l'encordement par des anneaux de buste. C'est
-l'encordement montagne classique qu'on a vu précédemment.
-En encordement long, les deux grimpeurs sont éloignés de quinze à
-vingt mètres. Le premier de cordée place des protections que le second récupère en
-passant. En présence d'obstacles rocheux sur une arête par exemple, le simple passage
-de la corde à droite puis à gauche de deux obstacles successifs peut suffire à créer
-l'assurage. De la même façon, en traversée, on passe simplement la corde derrière une
-écaille saillante sans déposer de matériel. Quand le premier de cordée ne dispose plus
-assez de matériel pour assurer convenablement la cordée, il fait venir le second à lui
-sur une protection sûre, et soit le second part en premier de cordée, soit le premier
-récupère son matériel. On essaie de conserver au moins deux protections en
-permanence entre les deux grimpeurs pour plus de sécurité, en gardant à l'esprit que
-le chiffre deux n'a rien de magique.
-En encordement court, réservé aux sections faciles, on progresse à trois
-mètres l'un de l'autre, sans pose de protection entre les deux grimpeurs. On verra plus
-loin (chapitre 5, page 129) l'intérêt pour le premier de cordée de conserver des
-anneaux à la main en réserve de corde. Il s'agit du mode d'assurage le plus rapide.
-c/ L'assurage par longueurs
-On retrouve ici le mode d'assurage de l'escalade. C'est dans ces portions
-les plus difficiles de la voie rocheuse, celles qui nécessitent la pose de relais et la
-progression par longueurs, que le grimpeur va se trouver le plus à son aise. La seule
-différence avec les voies équipées tiendra à la pose des coinceurs, des pitons, des
-sangles sur les becquets rocheux, dans les lunules de rocher ou autour de pierres
-45
-
-coincées dans des fissures.
-Le relais est en place
-Les relais sont parfois en place dans les courses classiques. Il vaut mieux les
-utiliser pour éviter d'être décalé dans les longueurs. Ainsi, on trouve plus facilement
-le relais suivant qui est logiquement à une longueur de corde, à moins d'une
-particularité de l'itinéraire. Ils sont reconnaissables à leurs deux ou trois pitons la
-plupart du temps réunis par un méli-mélo de cordelettes et de sangles de toutes les
-couleurs. Il s'agit alors d'un relais utilisé aussi pour la descente, chaque cordée
-précautionneuse ajoutant une cordelette neuve aux précédentes. Ces cordelettes ont
-l'avantage d'être visibles de loin, alors que deux pitons noircis par la rouille au fond
-de deux fissures sombres ont du mal à se voir. Il faut retaper les pitons (voir plus
-loin le paragraphe consacré).
-Pour se vacher, on mousquetonne de préférence directement les pitons plutôt
-que le tas de cordelettes. On introduit un mousqueton à vis dans le piton du bas, on le
-retourne ouverture vers le bas, et on réalise un nœud de cabestan avec sa corde
-d'assurage, à la bonne longueur pour être confortable avec le relais à peu près à la
-hauteur du front, corde en tension. On règle une longueur suffisante pour ne pas être
-collé au relais. L'idéal est de pouvoir jeter un œil en bas vers le second qui va monter
-et d'avoir une marge de liberté pour pouvoir éviter une chute de pierre.
-Puis on pose un second mousqueton simple dans le piton du haut, on le
-retourne, et on fait un nœud de cabestan avec la corde qui vient du mousqueton du
-bas. En quelque sorte, le piton du haut contre-assure le piton du bas. Il n'y a pas
-répartition des forces sur les deux ancrages, mais chacun a été jugé suffisamment
-solide. On a ici recherché la simplicité du relais et sa rapidité de réalisation. C'est le
-relais de première intention. Il reste à placer la plaquette d'assurage sur le
-mousqueton du bas.
-Si les nombreuses cordelettes empêchent de mousquetonner directement les
-pitons, soit vous faites confiance au gros paquet et vous vous vachez sur la totalité
-des cordelettes en l'entourant par une longe ou une sangle. La confiance repose sur la
-présence d'une cordelette presque neuve d'un diamètre suffisant (5mm minimum) ou
-d'une corde (8mm minimum) pas trop vieillie. Soit vous sortez le couteau pour retirer
-les vieilles sangles qui interdisent l'entrée des mousquetons dans les pitons, en
-laissant les anneaux les plus récents afin de conserver la visibilité du relais pour les
-cordées suivantes.
-Si les pitons sont douteux, parce que très rouillés, cherchez à ajouter une
-protection quelconque : coinceur, sangle ou piton. Puis répartissez les forces exercées
-sur les différents ancrages avec une longue sangle, pour réaliser ce qu'on appelle
-maintenant pompeusement la triangulation, terme chipé à la géodésie. Placez un
-mousqueton simple ouverture vers le bas sur chacun des ancrages, rassemblez vers le
-bas toutes les boucles créées (3 s'il y a 3 ancrages) et nouez-les par un nœud de huit si
-46
-
-votre sangle est assez longue, ou par un nœud simple si elle est trop courte. Puis
-vachez-vous avec votre corde sur la boucle du bas par l'intermédiaire d'un nœud de
-cabestan sur mousqueton à vis, en restant en tension. C'est sur ce mousqueton que
-vous installerez la plaquette d'assurage. Certains préfèrent placer la plaquette juste
-au-dessus du nœud de la sangle en prenant bien toutes les boucles, afin de l'éloigner
-du mousqueton servant à se vacher. C'est au choix.
-
-Le nœud de la sangle évite la production d'un choc au cas où un des ancrages cède.
-On s'est vaché avec la corde avec un nœud de cabestan sur mousqueton à vis.
-
-Pour diviser les forces transmises aux ancrages, vous devez obtenir un triangle
-le plus fermé possible. L'idéal est l'angle nul, obtenu en superposant les ancrages. La
-limite acceptable est pour certains auteurs de 90° 81. D'autres conseillent de ne pas
-dépasser 60°. Voyons ce qu'il en est réellement.
-
-81 Îlots de sécurité, Emanuel Wassermann et Michael Wicky, journal Bergundsteigen, 02/2007.
-
-47
-
-On trace les forces exercées sur chaque ancrage, FA et FB, à partir de leurs
-composantes verticales dont la somme doit être égale à P', chacune étant donc
-égale à ½P'. A partir de ces composantes verticales, on en déduit FA et FB par
-projection sur les sangles.
-Sur le dessin du haut, on voit que FA et FB sont supérieures à P. Sur le dessin
-page suivante, elles sont très inférieures à P.
-
-La construction géométrique fait apparaître deux triangles rectangles de part et
-d'autre de la verticale définie par le poids supporté par le relais. Les éléments qui
-nous intéressent sont :
-– l'angle inférieur, qui est égal à la moitié de l'angle séparant les deux portions
-de sangle (½α) ;
-– l’hypoténuse, FA ou FB, qui sont les forces exercées sur les ancrages ;
-– le côté adjacent, ½P.
-
-48
-
-La trigonométrie ne vous ayant jamais laissé indifférent, de vieux souvenirs ne
-manquent pas de faire valoir que, dans un triangle rectangle, le côté adjacent d'un des
-deux angles complémentaires à l'angle droit, divisé par l'hypoténuse, est égal au
-cosinus de l'angle.
-On a donc ½P / F = cos ½α
-On en tire F = P / 2 cos ½α
-La force exercée sur les ancrages varie donc en fonction de l'inverse du cosinus
-de l'angle inférieur. La fonction cosinus décrit bien sûr une sinusoïde, allant de la
-valeur 1 pour un angle de 0° à la valeur 0 pour un angle de 90°. Pour de faibles
-angles, la courbe s'abaisse lentement, puis elle plonge pour des valeurs plus grandes.
-Cela signifie que pour des valeurs inférieures à 15° (donc 30° pour l'angle total α
-entre les deux sangles), le cosinus restera voisin de 1, et la force d'environ 50% du
-poids exercé sur l'ancrage. Ne pinaillez donc pas pour placer vos ancrages
-rigoureusement superposés, vous ne les soulagerez pas beaucoup plus.
-Par contre, pour des valeurs d'angles plus importantes, une faible augmentation
-de cet angle entraîne des variations de forces bien plus considérables.
-On sera donc très méfiant dès que l'angle sera ouvert, en sachant que c'est dans
-cette configuration qu'il faudra gagner quelques degrés coûte que coûte. On devra
-choisir de monter la sangle en utilisant notamment le moins de longueur possible
-pour les nœuds, donc un nœud simple plutôt qu'un nœud de huit. (Voir chapitre 6
-pour différents montages quand la sangle est trop courte.) . Si vous avez épuisé toutes
-49
-
-vos sangles, cette triangulation peut être réalisée par la corde elle-même. Mais la
-complexité du montage rendra cette solution pénible si vous ne grimpez pas en
-réversible, puisqu'il faudra tout reconstruire à l'arrivée du second à partir de son nœud
-d'encordement, et non plus du vôtre.
-Dès 120° d'angle entre les sangles, les forces sont démultipliées et toute autre
-solution devient meilleure que la triangulation.
-Voici quelques valeurs :
-α
-½α
-cos½α
-F
-_____________________________________
-0°
-0°
-1
-50% de P
-10°
-5°
-0,996
-50,20% de P
-20°
-10°
-0,985
-50,76% de P
-30°
-15°
-0,966
-51,76% de P
-40°
-20°
-0,940
-53,19% de P
-50°
-25°
-0,906
-55,19% de P
-60°
-30°
-0,866
-57,73% de P
-70°
-35°
-0,819
-61,05% de P
-80°
-40°
-0,766
-65,27% de P
-90°
-45°
-0,707
-70,72% de P
-100°
-50°
-0,643
-77,76% de P
-110°
-55°
-0,574
-87,11% de P
-120°
-60°
-0,5
-100% de P
-130°
-65°
-0,423
-118% de P
-140°
-70°
-0,342
-146% de P
-150°
-75°
-0,259
-193% de P
-152°
-76°
-0,242
-206% de P
-160°
-80°
-0,174
-287% de P
-180°
-90°
-0
-infini (impossible à réaliser)
-_____________________________________
-Le relais n'est pas en place
-En présence d'une terrasse confortable dépourvue de matériel mais flanquée
-d'un solide becquet, on admettra qu'il s'agit du relais habituel de la longueur, et il
-vaudra mieux ne pas l'ignorer pour ne pas être décalé et profiter de son confort. On
-tente d'ébranler le becquet pour éprouver sa solidité. On est spécialement méfiant vis
-à vis des becquets, même gros, dont la base est enfouie dans la neige. On coiffe la
-protubérance avec une longue sangle qui descend bien bas sur le becquet, on place un
-mousqueton à vis et on se vache avec la corde avec un nœud de cabestan, en tension,
-50
-
-en se tenant en contrebas du becquet. La règle du V le plus fermé possible s'applique
-aussi ici : on évite d'utiliser une sangle trop courte. (D'une façon générale, on choisit
-un mousqueton à vis quand l'ancrage est unique donc le mousqueton unique
-également ; et on choisit des mousquetons simples quand les ancrages sont multiples
-donc les mousquetons également. Ceci pour une question de probabilité d'ouverture
-des mousquetons qui devient très faible quand on les multiplie.82)
-Les autres relais seront des compromis tentant de concilier la longueur de corde
-optimale, la sécurité des ancrages composant ce relais (doublage d'un bon piton
-préexistant par exemple) et la commodité (éviter le plus possible les relais suspendus
-qui sont très éprouvants). On cherche à faire relais bien avant d'avoir épuisé la corde.
-L'assureur prévient quand il reste 10 mètres. On garde en tête deux impératifs :
--Communication : les deux grimpeurs doivent s'entendre.
--Tirage : une longueur trop grande et alambiquée, c'est un tirage monstrueux
-garanti, qui rend dangereuse la fin de la longueur. Non seulement le leader est tiré en
-arrière, mais la force de choc peut être considérablement augmentée par le fait que
-seule la dernière portion de corde va être sollicitée, pouvant créer une situation
-proche d'un facteur de chute égal à 2.
-d/ La pose des sangles d'assurage
-Les sangles sont un moyen d'assurage très fréquent dans les courses
-classiques. En falaise, on les utilise autour des buis et des pins poussant en paroi. Si
-on veut assujettir la sangle à un endroit précis de la racine ou du tronc, on en fait une
-tête d'alouette avant de placer un mousqueton et de mousquetonner la corde, mais on
-sait que ce nœud fragilise la sangle. Aussi, quand il est inutile de serrer la sangle
-autour du bois, on se contente de mousquetonner les deux boucles de la sangle, pour
-obtenir une meilleure résistance.
-En haute-montagne, point de végétation. On utilisera les sangles pour
-coiffer les becquets et les écailles en tous genres qu'on rencontre quasiment partout
-sauf dans les parois vraiment dures. On passe tout simplement l'anneau de sangle
-cousue en collier autour du bollard de rocher et on mousquetonne la corde avec un
-mousqueton. Vous savez maintenant que la sangle doit être assez longue pour former
-un V à branches resserrées.
-Par grand vent, pour éviter qu'elle ne quitte le becquet en s'envolant, on
-peut la forcer à frotter contre le rocher en faisant un nœud qui l'étrangle, ce qui est
-évidement contradictoire avec la recommandation précédente : vous y êtes,
-l'alpinisme est souvent fait de compromis. Parfois on peut bloquer la sangle avec une
-pierre coincée en amont du becquet ou de l'écaille. De même en bas d'une brèche
-qu'on vient de franchir, la tension de la corde entraîne les sangles vers le haut. Il faut
-donc trouver une astuce pour empêcher ce phénomène, un friend posé plus bas et
-82 Ibid.
-
-51
-
-retenant la sangle vers le bas par exemple, ou soit faire relais à la brèche, soit se
-passer de cette protection. La rapidité à prendre la bonne décision fera la différence
-entre une cordée novice et une autre expérimentée.
-On utilise aussi fréquemment les sangles pour entourer une pierre
-coincée au fond d'une grosse fissure. Si l'accès est difficile pour tirer la boucle qu'on a
-passée derrière la pierre, on peut s'aider du décoinceur pour la crocheter. On
-mousquetonne les deux boucles. On est souvent obligé de rallonger par une dégaine
-pour éviter le tirage car ces sangles, qui sont posées assez profondément dans les
-cheminées ou les dièdres, sont généralement surmontées par un surplomb. Forcer la
-corde à suivre un angle à cet endroit tout en frottant contre le surplomb a de bonnes
-chances de provoquer un important tirage en fin de longueur.
-Plus rarement, on trouve des lunules naturelles de rocher et on est alors
-heureux de posséder au moins une sangle très fine en dyneema car les trous peuvent
-être très étroits.
-Attention au coincement intempestif de la couture en double épaisseur au
-moment de la dépose. On tâche de tirer la sangle dans le sens qui ne va pas entraîner
-la couture dans un endroit inaccessible.
-
-Utilisation du décoinceur pour installer une sangle autour d'une pierre coincée,
-ce qui évite de se débattre longuement avec des doigts trop courts.
-
-52
-
-Lunule naturelle en calcaire.
-
-La sangle est ici trop courte et forme un v beaucoup trop ouvert. De plus,
-la boucle située à gauche est trop proche de l'ouverture du mousqueton.
-
-53
-
-On a allongé la première sangle par une seconde pour refermer l'angle
-et on a retourné le mousqueton pour éviter la proximité de la boucle
-de gauche avec le doigt.
-
-Même endroit, mais on a ici noué un morceau d'une corde mise au
-rebut par un double nœud de pêcheur, dans le but de poser un rappel,
-et non plus un point d'assurage.
-
-54
-
-e/ La pose des pitons
-« Un piton, pas des meilleurs et planté à l'envers a résisté au choc. C'est
-toujours plus solide que ce qu'ils disent, ces trucs là. » Georges Livanos.83
-Pour une réhabilitation
-Les récents ouvrages d'escalade ou d'alpinisme consacrent peu de lignes
-aux pitons depuis que les censeurs de l'escalade libre sur coinceurs les ont voués aux
-gémonies dans les années soixante-dix. Une exception notable est l'ouvrage de
-Sylvain Conche84. Dans les années cinquante, le clean-climbing s'impose en GrandeBretagne. On bannit l'utilisation du piton dans le but de ne laisser aucune trace sur le
-rocher mais on continue dans les premiers temps de se tracter sur les coinceurs
-comme dans le bon vieux tire-clou. Dans la lancée des mouvements hippies aux
-États-Unis, les années soixante voient l'avènement du free-climbing, avec
-l'emblématique camp IV au Yosémite. Royal Robbins, chef de file du direct-aid
-climbing (artif), se met lui-même à l'escalade libre, bientôt suivi par Yvon Chouinard
-et beaucoup d'autres. Inspiré par ces évolutions, le grimpeur belge Claudio Barbier 85
-envisage alors de peindre certains pitons en jaune pour informer simplement le genre
-humain des passages qu'il a pu franchir sans les utiliser comme point d'aide. Il appelle
-cela : jaunir le piton. Puis, dans le même élan romantique de retour à la nature qui
-envoie certains intellectuels français élever des chèvres, on allègue avec Jean-Claude
-Droyer que le plantage du piton, puis sa déplantation, esquinte durablement les
-fissures, argument douteux puisque l'élargissement produit permet de créer un
-emplacement propice aux écologiques coinceurs. Cette possibilité de dépitonnage
-(même si quelques bateleurs de la grande époque de l'escalade artificielle des années
-cinquante, il est vrai, avaient pu volontairement casser quelques pitons au ras des
-fissures pour en interdire l'utilisation aux répétiteurs et rendre très exposé le
-franchissement du passage) faisait pourtant échapper à l'accusation portée aux
-embarrassants coins de bois utilisées pour les fissures plus larges, très difficiles à
-déloger et dont la cordelette vieillie ne pouvait pas toujours être remplacée ou
-contournée par une sangle. Très vite, on avait compris à raison dès les années
-soixante que les opérations de reboisement n'étaient plus d'actualité. Mais les grands
-maîtres hippies autoproclamés de la génération suivante se lancèrent dans de longues
-campagnes de dépitonnage, définissant le piton légal comme celui dont leurs
-grandeurs avaient elles-même besoin, et le piton illégal comme celui dont pouvaient
-s'affranchir leurs augustes personnes. Leur censure grandissant à mesure que leurs
-cheveux poussaient et que leur front se dégarnissait, on finit par ne commercialiser la
-chose, sinon anathématisée du moins mise à l'index, que de mauvaise grâce, par n'en
-plus parler du tout sauf en se pinçant la bouche, comme d'un objet pernicieux
-coupable de détruire la planète entière que le citoyen exemplaire est, vous le savez,
-sommé d'idolâtrer sans faillir, de sorte que le grimpeur moderne ne sait plus s'il est
-83 Op. cit., Georges Livanos, p.23.
-84 Escalade en terrain d'aventure, Sylvain Conche, éditions Amphora, 2004.
-85 Bulletin du Club Alpin Belge, janvier 1965.
-
-55
-
-licite de lui confier sa misérable existence.
-Mais le piton faisait une résistance continue au-dessus de l'alpe. Ne faisant ni
-une ni deux, le montagnard attardé persistait en fourrer deux ou trois en fond de sac,
-comme étonnamment attaché à la survie de sa propre personne. Certainement par cet
-esprit malveillant que les objets renferment parfois, le piton représente aujourd'hui
-encore quasiment le seul équipement à demeure des courses classiques, et on ne
-pourra faire moins que de lui administrer deux ou trois coups de marteaux
-auscultatoires avant de mousquetonner sa corde. Au risque de tournebouler les
-cervelles chagrines, on osera même, dans un incivique entêtement, y suspendre
-délicatement son poids ou y poser son pied. Nos anciens ne s'embarrassaient pas de
-scrupules de bigot et empoignaient sans remord chaque piton qu'ils avaient planté, et
-n'auraient sans doute pas compris qu'on s'abstienne. Les vrais hommes, grecs il est
-vrai, avaient du reste commis de solides apophtegmes traversant les générations :
-« Mieux vaut un piton en plus qu'un homme en moins. » (Livanos) renvoyant les
-fadaises au pied des falaises.
-Vous avez compris que l'alpiniste normal, c'est à dire celui qui va en terrain
-inconnu, arbore à sa ceinture un marteau du plus bel effet... et s'en sert. Le reste est
-enfantillage. « Le discours moral du bourgeois est un signe extérieur de richesse »
-nous avait prévenu le géographe Christophe Guilluy 86. Ne croyez surtout pas que la
-montagne est fragile au point de ne pouvoir supporter votre piton de 4mm d'épaisseur
-et pesant 110 grammes tandis que les hordes de promoteurs déversent allègrement
-jour et nuit des tonnes de béton pour agrandir la station de ski voisine. Le vieux
-Chaps avait fini par écrire : « Parcs, je finirai par vous haïr. »87, comprenant que
-l'avalanche d'interdictions s'abattant sur le pratiquant de montagne servait d'alibi à
-l'extension des stations découpées au bulldozer.
-Mode d'emploi
-Il existe grosso modo deux types de pitons : ceux en acier doux écroui,
-classiquement indiqués pour les roches tendres comme le calcaire ; ceux en acier au
-chrome et au molybdène traité à chaud, acier allié moins déformable, classiquement
-indiqués pour des roches dures comme le granit. Ces derniers, venant originellement
-d'outre-atlantique, étaient naguère appelés pitons américains, ce qui redonnait un petit
-côté moderne à la bête. En réalité, les deux indications sont loin d'être inflexibles et
-on peut forcer un piton dur dans une fissure de calcaire, tout comme on peut placer un
-excellent piton mou dans une fissure de granit, par exemple un universel épais dont la
-récupération va être très difficile si on veut dissuader quiconque d'ôter cette
-protection.
-Les pitons mous pénètrent dans la fissure en épousant ses méandres. La
-déformation est permanente, d'où une récupération besogneuse. Il va falloir les
-86 La France périphérique. Comment on a sacrifié les classes populaires, Christophe Guilluy, éditions Flammarion,
-2014.
-87 Op. cit., Pierre Chapoutot, p.23.
-
-56
-
-redresser au marteau avant réutilisation, d'où une fatigue du métal après plusieurs
-utilisations.
-Les pitons durs se déforment très légèrement mais rarement au-delà de leur
-limite d'élasticité. Ils tiennent en place par un effet ressort. Leur récupération est plus
-aisée, souvent ils ressortent sans déformation permanente, et peuvent être réutilisés de
-nombreuses fois sans fatigue de l'alliage. Leur rigidité fait qu'ils résistent à des forces
-de choc plus importantes que les pitons mous, qui eux peuvent fléchir sous le choc,
-puis travailler en arrachement pour des valeurs assez faibles.
-Certaines marques comme Grivel, proposent des aciers de dureté intermédiaire,
-qui sont intéressants dans des tailles courtes.
-
-Petit assortiment de pitons. En noir, les pitons en acier dur ; en blanc, les pitons en acier
-mou ; au milieu en bas, le piton Grivel en acier mi-dur. En haut à gauche, les pitons dits
-horizontaux les plus courants. Les cornières en bas à gauche. Les universels vers la
-droite. Deux pitons horizontaux mais à œil centré à l'extrême droite.
-
-Les formes étaient jadis très variées, mais les magasins sont aujourd'hui
-beaucoup moins achalandés. Acquérir davantage que cinq pitons à la fois vous fait
-maintenant regarder par le vendeur comme un délinquant fomentant quelque forfait.
-57
-
-On distingue cinq formes principales :
-– le piton dit vertical : dont l’œil de mousquetonnage est dans le même plan
-que la lame, déjà plus guère fabriqués en 195688 ;
-– le piton dit horizontal : dont l’œil est dans un plan perpendiculaire à la
-lame, soit centré, soit plus souvent décentré ;
-– le piton dit universel (qui ne l'est pas) : dont l’œil est dans un plan à 45° de
-la lame, tourné à droite ou à gauche ;
-– le piton à anneau qui comporte un anneau métallique passé dans l’œil qui
-permettait de faire passer directement la corde pour un rappel;
-– les cornières, dont la lame est repliée sur toute la longueur sur elle-même
-pour former un U épais, pour les larges fissures.
-Chaque forme principale est déclinée en différentes longueurs et épaisseurs,
-allant du minuscule piton de suspension RURP (Realized Ultimate Reality Piton)
-incapable de résister à une chute et réservé à l'escalade artificielle très difficile
-jusqu'aux cornières larges dont le sommet avait été atteint par le Bong, détrôné depuis
-longtemps par la panoplie de friends divers et variés.
-Le principe du pitonnage est d'enfoncer, jusqu'à l’œil, le piton avec force,
-c'est à dire contre une résistance réelle du rocher, de telle façon que la traction vers
-le bas au niveau de l’œil engendre un effet de couple cherchant à tordre le piton
-dans la fissure, ce qui crée le verrouillage.
-
-Placement d'un piton dit horizontal en acier mou. La position du mousqueton participe
-à la création du couple. Éviter de le mettre à cheval sur la totalité du corps du piton.
-
-De ce principe découlent les indications des différents pitons. Les pitons
-verticaux sont contre-indiqués dans les fissures verticales, les pitons horizontaux à
-88 Op. cit., Pierre Allain, p.17.
-
-58
-
-œil centré dans les fissures horizontales, les pitons universels tournés d'un côté dans
-les fissures à 45° inclinées du mauvais côté, les pitons à anneau presque partout car
-on n'obtient pas de couple de verrouillage.
-Les pitons horizontaux à œil décentré conviennent partout et sont les réels
-pitons universels. Voilà pourquoi cette forme est la grande survivante des pauvres
-rayons de nos magasins.
-On recherche donc cet effet de verrouillage, et si on ne l'obtient pas, on sait que
-son piton n'est pas totalement sûr.
-________________________________
-Pitons horizontaux pour fissures verticales et verticaux pour fissures horizontales...
-Mais où vont-ils chercher tout ça ?
-Dans le Manuel du CAF de 193489 on lit page 41 que le piton existe en deux variétés :
-« piton plat, section allongée dans le plan de l'anneau ; piton à lame transversale, dont la section
-est allongée dans le sens perpendiculaire au plan de l'anneau. » Le terme anneau ne désigne pas un
-anneau mobile mais ce que nous appelons actuellement l’œil du piton. A la page 166, la figure 46
-qui représente les deux modèles, indique pour le dessin de gauche « Lame dans le plan de l'anneau.
-(Pour fissures verticales.) » et pour le dessin de droite « Lame transversale au plan de l'anneau.
-(Pour fissures horizontales.) »
-Dans le Pourchier-Frendo de 194390, les pitons sont présentés ainsi à la page 53 :
-« L'utilisation des pitons est entrée actuellement dans la technique de l'alpinisme au même titre que
-celle des crampons et des chaussures d'escalade. » et page 54 : « Le jeu de pitons est constitué par
-un ensemble de trois modèles horizontaux (lame transversale au plan de l'anneau) destinés à des
-fentes horizontales, et de deux modèles verticaux (lame dans le plan de l'anneau) destinés à des
-fentes verticales. »
-On comprend qu'à ces débuts de l'usage des pitons dans les Alpes occidentales, le principe
-du verrouillage était ignoré. Chaque désignation correspondait donc bien à son usage réel.
-En 1956, l'ouvrage de Pierre Allain 91 fait apparaître la notion de couple : « Les pitons à
-rocher sont maintenant fabriqués d'après le principe du piton dit « horizontal », qui a l'avantage de
-convenir à tous les cas. (…) Il convient pour les dièdres et pour les fissures horizontales et
-verticales, où il remplace avantageusement le piton dit vertical, car, plus que celui-ci, il a des
-chances de se coincer par mouvement de torsion, en cas de choc, de chute, etc. »
-En 1959, Gaston Rébuffat92, enfonce le clou : « Autrefois il y avait les pitons verticaux et les
-pitons horizontaux, selon que la fissure dans laquelle ils devaient être enfoncés était soit verticale,
-soit horizontale ou en angle. Maintenant, on ne fabrique plus guère que des « horizontaux » car à
-l'usage on s'est aperçu qu'ils pouvaient servir efficacement dans tous les cas. »
-Enfin, en 1977, Technique de l'alpinisme93 systématise l'inversion d'usage : « Il est conseillé
-d'employer les pitons verticaux (lame et œil dans le même plan) dans les fissures horizontales et les
-pitons horizontaux (œil perpendiculaire à la lame) dans les fissures verticales. De cette façon, la
-89
-90
-91
-92
-93
-
-59
-
-Manuel d'alpinisme, Tome II, Club Alpin Français (coll. GHM), librairie Dardel, 1934.
-La technique de l'alpinisme, Marcel Pourchier et Édouard Frendo, éditions Arthaud, 1943.
-Op. cit., Pierre Allain, p.17.
-Op. cit. Gaston Rébuffat, p.17.
-Technique de l’alpinisme, sous la direction de Bernard Amy, éditions Arthaud, 1977.
-
-force de choc ou de traction entraîne une torsion sur la lame engagée dans la fissure et provoque
-un verrouillage du piton. »
-
-________________________________
-Pour planter un piton, on libère une main, on saisit un piton à son portematériel, on l'introduit à la main dans la fissure jusqu'à la moitié de la longueur
-environ, on le coince par un coup sec de la paume. Là, il doit tenir tout seul son
-propre poids. On sort son marteau d'une main, on tape très légèrement le premier
-coup surtout si c'est un piton dur qui a tendance à rebondir en début de frappe. S'il a
-du mal à tenir en place, on sort la petite ficelle qu'on a prévue pour assurer le piton
-dans ces cas de figure. Puis on frappe de plus en plus fort au fur et à mesure que le
-piton rentre. Il faut vraiment taper très fort, surtout si on a choisi un marteau léger. Si
-le piton rentre avec des coups de marteau dépourvus de force, c'est qu'il est trop fin
-pour la fissure. Les coups de marteau produisent un son de plus en plus aigu : on dit
-que le piton chante, gage d'une bonne tenue. Si le marteau rebondit violemment, c'est
-que la lame a rencontré un obstacle insurmontable. Soit on s'en contente (presque
-planté à fond, rien de mieux autour de cette fissure et pas d'autre piton), soit on
-recommence avec un piton de dimensions différentes ou le même piton dans une
-autre fissure.
-
-Universel insuffisamment planté et cravaté par une sangle.
-Pas d'effet de verrouillage dans ce cas !
-
-S'il est impossible de planter le piton à fond, on cherche à annuler le bras de
-levier défavorable, soit en cravatant la lame du piton avec une cordelette qu'on
-mousquetonne à la place de l’œil (nœud en tête d'alouette ou nœud coulant), soit s'il
-s'agit d'un piton mou en rabattant la partie du piton hors du rocher contre celui-ci à la
-60
-
-force de la paume ou avec le poids du corps plutôt qu'au marteau. On n'aura sans
-doute pas envie de voler au-dessus de ces bricolages qui créent rarement un effet de
-verrouillage..
-
-Piton insuffisamment planté et rabattu à la main pour réduire le porte-à-faux.
-
-Si la fissure est trop large pour l'épaisseur des pitons emportés (on aurait dû
-emporter une cornière, mais celle-ci est bien lourde), on peut coupler deux pitons dos
-contre dos pour obtenir une double lame plus épaisse. Mais deux pitons sont alors
-consommés pour un seul ancrage.
-Dans tous les cas, piton trouvé en place ou piton qu'on a planté soi-même, on
-reste critique vis à vis de sa tenue, ce qui ne signifie pas qu'on ne puisse pas utiliser
-un piton très moyen, comme point de progression par exemple. C'est la même chose
-que monter sur un piolet posé dans un trou en cascade de glace : on sait que le piolet
-n'est que posé, on l'exploite en tant que tel, avec le coude bien bas. On reste conscient
-de ce qu'il permet de faire, et de ce qu'il ne permet pas de faire.
-On se méfie aussi de la solidité du rocher. Parfois, les bords de la fissure
-s'écartent sous les coups de marteau. On change de fissure. On avertit le second si on
-a laissé un rocher prêt à tomber, mais aussi, on le signale à la cordée du dessous.
-Si le second après avoir extrait une partie du piton ne réussit pas à le récupérer,
-il ne laisse pas ce piton fragilisé en piège pour les cordées suivantes. Il le replante
-à grands coups de marteau. Le temps des faux pitons en carton peint du Saussois pour
-terroriser les cordées suivantes est révolu, on s'interdit de laisser des traquenards
-qu'on ne voudrait pas trouver soi-même en montagne.
-Pour ôter un piton, on se sert du crochet à dépitonner du marteau. On tape
-61
-
-d'abord latéralement sur la tête du piton pour l'incliner, puis on fait levier avec le
-crochet à dépitonner passé dans l’œil du piton jusqu'à l'incliner dans l'autre sens, et on
-recommence l'opération jusqu'à l'extraction totale. On peut aussi utiliser une chaîne
-ou un câble à dépitonner. On fixe une extrémité au piton par un maillon rapide et
-l'autre extrémité à l’œil du marteau, puis on donne des coups de marteau vers le vide.
-On maintient son visage hors de l'axe d'éjection car on a payé la porcelaine de son
-incisive centrale suffisamment cher. Parfois, on peut utiliser son poids pour achever
-un piton affaibli.
-
-Utilisation du crochet à dépitonner.
-
-Utilisation du câble à dépitonner
-62
-
-Au relais, on redresse au marteau les pitons tordus afin qu'ils soient
-réutilisables dans la longueur suivante.
-On porte un assortiment de ses pitons préférés sur un ou plusieurs
-mousquetons, et le reste en réserve, en lieu sûr, dans son sac à dos. Ainsi, une
-maladresse ne fera pas perdre l'ensemble de ses pitons si précieux pour la descente.
-f/ La pose des coinceurs
-Les premiers coinceurs, au début des années soixante, furent les écrous
-de chemin de fer que les grimpeurs gallois de la région de Snowdonia - parc national
-dès 1951 - coincèrent dans les fissures en lieu et place des traditionnels cailloux
-emportés dans les poches. Une cordelette était passée dans le trou de l'écrou. Les
-années suivantes, les coinceurs fabriqués évoluèrent vers la forme trapézoïdale
-actuelle. En 1967, le grimpeur américain Royal Robbins importa l'idée galloise au
-Yosémite, qui fut ensuite perfectionnée par Yvon Chouinard (fondateur de Patagonia
-et Black Diamond) et Tom Frost en créant une asymétrie forçant la rotation selon le
-principe de la came : l'hexentric était né.
-En 1978, Ray Jardine inventait le friend, commercialisé par la firme
-britannique Wild Country.
-On emporte généralement un jeu de coinceurs câblés du n°1 au n°8 pour
-les fissures étroites qui présentent des étranglements, et un jeu de friends du n°1 au
-n°3 voire 3,5 pour les fissures larges. Les bons topos précisent s'il faut prévoir aussi
-le volumineux friend n°4.
-On peut prendre également quelques hexentrics, très old school, qui sont
-pratiques dans des fissures plus larges au fond qu'à l'entrée, car dans ce cas, les
-friends rampent vers le fond de la fissure au gré des mouvements de corde et finissent
-par se décrocher. Les fissures typiques où il est interdit d'oublier ses bons vieux
-hexentrics ne sont pas en montagne mais au bord de la mer dans le sud du pays de
-Galles à Pembroke. Vous introduisez votre hexentric dans un élargissement de l'entrée
-de la fissure, vous le lâchez, il tombe derrière un rétrécissement et vous avez un
-ancrage béton en quelques secondes. Sur un rocher plus ordinaire mais à fissures
-larges, emporter seulement les deux gros numéros 8 et 9, en complément des friends
-n°3 et 3½, permet d'éviter de devoir doubler ces derniers qui sont bien lourds.
-Dans le massif du Mont-Blanc où les fissures parallèles très régulières
-sont légion, les friends sont les coinceurs les plus utilisés., même dans les fissures
-étroites mais présentant peu de rétrécissements. On utilise alors des coinceurs
-mécaniques de petite taille comme les C3 de Black Diamond ou encore les Aliens,
-très intéressants car au câble extrêmement souple.
-
-63
-
-Jeu d' hexentrics du n°9 au n°3.
-
-De gauche à droite, décoinceur, jeu de coinceurs câblés, friend à tige rigide (cordelette en dyneema
-nouée avec un nœud de pêcheur triple), deux friends flexibles, un Alien, et un C3 de Black
-Diamond. Dessous, trois copper-heads à mater.
-
-Les coinceurs câblés sont très utilisés outre-Manche sur le granit très fracturé
-de Cornwall où les grimpeurs arborent à leur porte-matériel passé en bandoulière de
-nombreux jeux (les numéros courants sont au moins triplés) ainsi qu'un grand nombre
-64
-
-de sangles de 60cm pour allonger les dégaines, ce qui certes augmente la hauteur de
-chute potentielle mais évite que les coinceurs ne soient délogés par les mouvements
-de la corde. Ils sont très utilisés en montagne et peu encombrants.
-Pour placer un coinceur câblé, on sort le jeu entier monté sur un mousqueton.
-On présente le numéro correspondant à la largeur de la fissure juste au-dessus d'un
-resserrement. Si la taille ne convient pas, on en sélectionne un autre. On l'introduit
-dans la fissure, et en tenant la grappe des autres coinceurs, on tire un ou deux coups
-secs vers le bas pour le coincer. Si la fissure est encombrée de terre ou de petits
-cailloux, on la nettoie préalablement avec le décoinceur ou à défaut la lame du
-marteau-piolet. On détache ensuite le coinceur du mousqueton portant les autres
-qu'on range à son porte-matériel et on mousquetonne la dégaine. Dans les cas
-difficiles, on peut coupler plusieurs coinceurs, l'un coincé vers le bas, l'autre coincé
-vers le haut et dont le câble passe dans la boucle du précédent afin que les deux se
-contrarient. On obtient ainsi un ancrage qui peut être multi-directionnel.
-Pour placer un friend, on sélectionne le numéro correspondant à la taille de la
-fissure en sachant que le friend doit tenir avec les cames presque entièrement
-refermées. Cames trop ouvertes, le friend ne résistera pas à un choc. Cames
-totalement fermées, on ne pourra peut-être pas le récupérer. On tache de ne pas
-l'installer à proximité d'un élargissement de la fissure car le friend se déplace comme
-un crabe quand il est sollicité par les mouvements de la corde. Il faut alors choisir un
-numéro de plus grosse taille qui convient à cet élargissement et le mettre à cet
-endroit. Ainsi, s'il se déplace, il va vers le rétrécissement et reste coincé. On place la
-queue du friend dans la direction de la chute (même si cette recommandation est
-moins cruciale que naguère pour les friends à tige rigide) car le choc risquerait de
-provoquer une rotation dont l'issue n'est pas forcément favorable. Ce phénomène est
-du reste l'argument commercial des Aliens dont le câble est extrêmement souple.
-Il est préférable de porter les friends avec un mousqueton pour chacun, ce qui
-évite l'emploi systématique d'une dégaine et permet leur mise en place plus rapide.
-Plus on utilise les coinceurs qu'on possède, plus on a le compas dans l’œil pour
-choisir d'emblée la bonne taille, ce qui évite bien des sueurs dans les pas durs. Avant
-ceux-ci, on anticipe en examinant les possibilités de placement qui vont s'offrir, et on
-place les numéros probables à l'endroit le plus accessible de son porte-matériel.
-Quand l'escalade est difficile, on est bien inspiré de ne pas occuper les
-emplacements propices aux verrous de main ou de pied par les coinceurs, et donc
-souvent de choisir des tailles plus petites qui entrent là où les doigts ne pénètrent pas.
-Il faut aussi préférer placer le coinceur en dessous des doigts introduits dans la
-fissure plutôt qu'au-dessus, ainsi on réserve la fissure pour déplacer la main, et on ne
-se pince pas le dos de la main avec la dégaine. Le coinceur placé sous la main peut
-même ensuite être utilisé en appui pour améliorer le verrou.
-
-65
-
-Nettoyage de la fissure avec le décoinceur.
-
-Coinceur câblé en place. Si cette position rendait le coinceur instable,
-on le retournerait, avec la face convexe à gauche et la face concave
-à droite. On choisit le sens le plus stable.
-
-66
-
-Friend en place. S'il est instable dans cette position, on le retourne avec
-les cames externes à gauche et les cames internes à droite. On choisit
-le sens le plus stable.
-
-On aurait préféré enfoncer davantage le friend afin que sa tige soit entièrement en appui sur la
-partie horizontale du rocher et éviter ainsi une flexion du câble, mais la fissure est insuffisamment
-profonde. C'est ce genre de situation qui a fait abandonner les premiers friends à tige rigide.
-67
-
-Hexentric n°9 en place dans une fissure irrégulière.
-
-Cette façon de positionner un coinceur câblé est autorisée. On bénéficie ainsi d'une plus grande
-largeur, ce qui est intéressant si on ne dispose pas d'un coinceur suffisamment large dans la
-position classique. Mais on ne bénéficie pas dans cette position de l'effet de came provoqué par les
-faces concave et convexe du coinceur.
-68
-
-5/ La glace
-a/ Les techniques de progression
-En glace, le cramponnage dix pointes est identique à celui décrit en
-neige. La seule différence est que la surface n'est plus du tout malléable. La technique
-est plus rigoureuse car le pied doit suivre exactement le modelé de la glace. On doit
-aussi être un peu sec dans ses gestes afin de bien faire mordre les pointes dans le
-matériau plus dur, ceci d'autant plus que la glace est froide ou compacte. De la même
-façon, le piolet tenu en piolet-canne est posé avec un coup sec pour faire mordre la
-pique qu'on aura pris soin d’affûter.
-En pente plus raide, le piolet-appui ou le piolet-panne ne sont pas
-utilisables en glace car pousser simplement la lame en tenant le piolet par la panne
-ou en haut du manche ne suffit pas pour la faire mordre. La technique du pioletancre est la technique royale quand on ne dispose que d'un piolet. En 1967, André
-Contamine la tenait encore comme la clef du cramponnage dix pointes en pente
-forte94. Le piolet-ancre peut bien sûr s'employer conjointement au cramponnage
-frontal ou mixte.
-Le piolet-ramasse convient tout à fait pour de courtes traversées
-horizontales, ascendantes ou descendantes. Ici aussi, on ne se contente pas de poser la
-pique mais on tape d'un coup sec contre la glace pour créer une encoche.
-Dès que la pente se redresse, on utilise la technique du piolet-traction,
-avec un ou deux piolets (cf. p.102). On frappe alors la glace comme un service de
-tennis et on se tient au bas du manche. Le cramponnage est frontal. On garde les
-talons bas pour faire mordre les quatre pointes avant de chaque crampon, les deux
-pointes les plus basses servant à stabiliser la position. Si la section est longue, on peut
-préférer la technique mixte, un pied en technique frontale, un pied à plat, pour
-épargner les mollets.
-En descente, le piolet-rampe est très efficace à condition de ne pas avoir
-choisi une lame banane qui ne tient pas à l'envers. On ancre très bas le piolet puis on
-se sert du manche comme d'une rampe en cherchant à l'exploiter le plus bas possible.
-
-94 Op. cit., Yvon Chouinard, p.39.
-
-69
-
-Piolet-rampe, main en bout de manche.
-
-Piolet rampe : la main a glissé le long du manche pendant le pas de désescalade.
-L'autre main posée sur le genou aide à conserver la position vers l'avant pour
-que le poids du corps soit à l'aplomb des pieds.
-
-70
-
-b/ Les points d'assurage
-Les points d'assurage en glace sont devenus relativement solides avec les
-broches tubulaires qu'on visse à la main perpendiculairement à la surface de la glace.
-La qualité de celle-ci est évidemment primordiale. La consistance de la carotte sortant
-de la broche pendant le vissage nous renseigne : des copeaux épars, trop d'air dans la
-glace ; de l'eau, glace trop chaude. Une dégaine « explose » dont les coutures se
-déchirent pour amortir le choc peut être utilisée dans le cas d'une glace douteuse. On
-peut aussi nettoyer au piolet cette mauvaise glace pour accéder à un matériau solide.
-Une vieille glace fossile mise à nue dans une pente de haute-montagne en fin d'été
-peut interdire le brochage par sa dureté extrême. On est alors heureux d'avoir
-entretenu avec soin les dents d'amorçage et l'état de surface du corps de ses broches,
-pour réussir à se protéger néanmoins un minimum.
-De nombreux modèles de broches existent sur le marché. Il est bon de
-posséder quelques broches courtes pour la glace mince plaquée sur du rocher afin
-d'éviter le porte-à-faux d'une broche incomplètement vissée. On ne cravate plus le
-corps d'une broche par une sangle dans ce cas car il a été montré que la sangle
-pouvait se déchirer au moment du choc en glissant brutalement contre la patte
-métallique. Des broches munies d'une patte spéciale protégeant une sangle pouvant
-coulisser le long du corps de la broche existent maintenant pour cet usage. Les
-fabricants proposent souvent une manivelle incorporée qui est très utile pour
-accélérer le vissage, une fois celui-ci amorcé. Enfin, Grivel propose son modèle 360
-dont l'absence de patte longue permet de brocher dans un trou.
-
-3 broches classiques (22, 19, 16 cm), un capuchon, une broche 360, 2 étuis
-à placer à la ceinture, une dégaine « explose ».
-
-71
-
-c/ Les relais de progression
-Le relais en glace est simple et sûr si la glace est suffisamment épaisse et
-solide. On visse deux broches tubulaires l'une au-dessus de l'autre, suffisamment
-éloignées pour qu'elles ne sollicitent pas le même cône de glace, et on les relie avec
-une grande sangle. On fait un nœud (simple ou en huit selon la longueur disponible)
-en bas de la sangle pour éviter qu'un choc ne se produise sur une broche si l'autre
-venait à céder. (Voir aussi chapitre 6.)
-d/ Les relais de rappel
-Pour éviter d'abandonner une coûteuse broche à glace, on confectionne
-une lunule artificielle, dite abalakov, du nom de son inventeur (Vitali Abalakov,
-alpiniste russe, 1906-1986), en vissant deux broches inclinées de façon qu'elles se
-rencontrent en profondeur. Il faut savoir viser juste. Black Diamond propose un
-instrument aidant à trouver la bonne angulation. Il est judicieux d'utiliser une broche
-longue d'au moins 20cm. Après avoir retiré les broches, on enfile une cordelette dans
-un tunnel pour la ressortir du second tunnel en la piquant avec un crochet métallique
-pointu. On conseille actuellement un diamètre de 7mm pour la cordelette, ce
-relativement gros diamètre sciant moins facilement une glace de consistance
-douteuse. En glace compacte, rien n'empêche de descendre à 6 ou 5mm. La cordelette
-est fermée en anneau par un double nœud de pêcheur.
-
-La solution de Mike Barter pour les étourdis ayant oublié leur crochet :
-la cordelette vient se pêcher elle-même.
-
-Si on a perdu son crochet à abalakov, on peut tenter d'attraper la
-cordelette avec la boucle d'un coinceur à câble, ou bien encore, suivant les
-
-72
-
-démonstrations du farceur Mike Barter95, au choix avec un simple fil de fer façonné
-en boucle (qu'il scotche en permanence au manche de son piolet près de la tête au cas
-où) ou avec la boucle de la cordelette elle-même enfilée au fond d'un tunnel pour
-pêcher l'autre extrémité (non effilochée) insérée dans le second tunnel creusé un peu
-trop long. Le diamètre de 6mm est préférable pour cet usage.
-Classiquement on recommande une angulation des broches avec la
-surface de 45°, de façon qu'elles se rencontrent à 90°. D'autres auteurs, plus fâchés
-avec l'arithmétique proposent 40° pour les premiers angles, les deux broches devant
-également se rencontrer à 90°... Enfin, on recommande que les deux broches se
-rencontrent le plus profondément possible. Il nous semble opportun de proposer un
-triangle équilatéral, afin d'obtenir autant d'épaisseur que de largeur à la lunule, donc
-des angles de 60°, les broches se rencontrant à... 60°. En pratique, vous verrez que
-vous serez déjà bien content de voir vos deux tunnels se rejoindre, surtout en glace
-dure où on ne peut pas récupérer un mauvais angle de départ, et que vous n'ergoterez
-pas sur quelques degrés pourvu que l’œuvre semble solide.
-Les fractures naturelles de la glace se produisant la plupart du temps
-horizontalement, on conseille aujourd'hui de réaliser une lunule verticale plutôt
-qu'horizontale. Quand la glace est bien sèche, on peut même économiser la cordelette
-en passant la corde directement. Le nœud doit alors se situer en dessous, pour avoir à
-tirer sur le brin sortant du tunnel inférieur. On parle de lunule sèche.
-
-Lunule sèche.
-
-95 youtube.com/user/mikebarter387/videos
-
-73
-
-Deux abalakovs verticaux superposés et liés avec la même cordelette.
-Nœud de chaise avec nœud d'arrêt pour chaque lunule, nœud simple ou
-en huit en bas de la cordelette.
-
-Abalakov en triangle. On réalise d'abord la lunule verticale, ici située à droite.
-Puis on crée le tunnel plus ou moins horizontal (situé ici à gauche) qui rejoint
-vers la droite le tunnel du bas. La cordelette est insérée comme pour une lunule
-verticale classique, puis est repêchée en double par le trou en bas à gauche.
-
-74
-
-On peut confectionner le crochet à abalakov soi-même à partir d'un
-rayon de bicyclette. On peut également se procurer un modèle du commerce, en le
-préférant rigide plutôt qu'à câble.
-
-De haut en bas, crochet à câble, multihook de CharletMoser pouvant aussi
-servir de décoinceur, et fabrication maison à partir d'un rayon de bicyclette.
-
-En l'absence de broche à glace , on peut confectionner comme en neige
-un corps-mort (un caillou trouvé sur le glacier par exemple), un champignon de glace,
-ou un coin de glace. Un gros nœud vient alors se coincer dans la fente en V creusée
-avec la lame du piolet un peu comme les nœuds que les grimpeurs de Bohème
-coincent dans leurs fissures de grès à faible dureté.
-
-Le coin de glace.
-
-75
-
-Plus classique,une pierre du glacier utilisée en corps mort.
-
-**
-
-76
-
-Chapitre 3 : Se préparer à la montagne.
-« Nous voulons pousser notre entraînement physique et moral, renforcer notre
-confiance en nous-mêmes pour acquérir cette force tranquille qui, alliée à une ferme
-volonté, nous autorisera à nous engager à fond. »96 Anderl Heckmair.
-Apprendre les techniques de base de l'alpinisme est une chose, les appliquer en
-situation en est une autre. Entre les deux se trouve la préparation à la montagne. C'est
-une étape intermédiaire qui n'est pas sans rapport avec ce que les chercheurs en
-Sciences Humaines97, très intéressés depuis les années 1980 par ce nouveau sujet
-d'étude pittoresque que représente la haute-montagne, appellent processus d'ancrage
-à l'alpinisme98. Jean Corneloup distingue trois volets principaux à ce processus qui
-tente d'expliquer les mécanismes ayant conduit les pratiquants à la montagne : 1/ Le
-contact avec la nature. Les témoignages d'alpinistes évoquent tous une forte
-immersion dans la nature pendant l'enfance. Si cette immersion n'a pas eu lieu, ce
-sera la première clef que l'adulte citadin devra se procurer pour ouvrir la porte ; nous
-allons lourdement y insister. 2/ Les histoires racontées et les livres lus. Ces récits
-permettent selon l'auteur de s'imprégner : - de la symbolique de l'activité qui permet
-la légitimation de sa propre pratique (il est légitime d'aller prendre des risques en
-haute-montagne car des héros reconnus l'ont fait avant nous) ; - de la culture
-technicienne et des compétences à maîtriser, en vivant des scènes par procuration, ce
-qui permet la transmission d'un savoir et d'un savoir-faire qui vont ensuite se greffer
-sur l'expérience pratique de l'apprenti. 3/ L'initiation et la pratique de l'alpinisme
-96 Les trois derniers problèmes des Alpes, Anderl Heckmair, éditions Arthaud,1951.
-97 Les Sciences Humaines apportent en effet un nouvel éclairage salutaire sur une activité jusqu'ici exclusivement
-auto-racontée par ses acteurs, pour l'essentiel une profession de guide de haute-montagne volontiers encline à
-l'hagiographie. On peut citer des géographes : Philippe Bourdeau, Jean Corneloup ; des sociologues : Olivier
-Hoibian, Rodolphe Christin ; des historiens : Michel Mestre, Michel Tailland ; des juristes : Pierre Mazeaud bien
-sûr, Frédéric Caille, Dominique Delafon.
-98 Processus d'ancrage à l'alpinisme, Jean Corneloup, Actes du colloque ARIS, 2002.
-
-77
-
-où l'auteur nous fait l'immense plaisir de souligner que l'initiation par un parent, un
-mentor ou une structure (club alpin) ne devient efficiente que si l'apprenant a la
-possibilité de réaliser ses propres expériences en autonomie. Les mots clefs sont
-liberté de mouvement, débrouillardise, expériences sur le tas.
-1/ La base
-La base de l'alpiniste est sa gestuelle d'escalade. Trois cas de figure :
-Si vous venez de l'escalade en salle ou en couenne (voie d'une seule longueur),
-c'est acquis. Un niveau 5a à vue en premier de cordée sur couennes variées est
-suffisant pour s'aventurer en montagne dans beaucoup de courses classiques. Si je
-puis dire, passez à l'étape numéro deux.
-Si vous venez de la randonnée, inscrivez-vous à des cours avec un moniteur
-d'escalade breveté d’État, dans une salle d'escalade. Essayez d'éviter les clubs où l'on
-recherche avant tout la convivialité du groupe pour les sorties barbecues. Vous, vous
-cherchez à acquérir les schémas moteurs qui vous ont manqué pendant l'enfance,
-quand d'autres grimpaient déjà aux arbres. On acquiert maintenant le niveau 5a en
-salle en quelques semaines. Cela ne signifie nullement que vous avez atteint le niveau
-5a à vue en tête sur couennes variées. Car attention, dès que vous connaissez les
-techniques d'assurage élémentaires, c'est à dire dès les cinq premières séances,
-achetez les topos d'escalade des sites de couennes proches de chez vous, et allez
-grimper dehors en autonomie avec votre copain, en plus des cours suivis avec le
-moniteur à la salle. Si vous ne le faites pas, vous risquez fort de demeurer
-éternellement un grimpeur de résine et de ne voir la haute-montagne qu'en
-photographie. Après quelques mois d'escalade en salle et en couennes, achetez un
-rappel 2x50m, des coinceurs, un peu de cordelette 6mm et un casque, et commencez
-à envisager votre première grande voie (voie de plusieurs longueurs). Puis multipliezles.
-Si vous êtes déjà bon grimpeur, n'attendez pas trop. Approcher le niveau 7a
-après travail à la salle sans avoir joué au montagnard une fois ou deux est à notre sens
-un sérieux handicap : va-t-on savoir accumuler de l'expérience dans des courses
-faciles plutôt que se laisser entraîner par un copain expérimenté ou pire un
-professionnel dans des voies TD qui seront flatteuses d'apparence mais inutiles voire
-nuisibles pour acquérir l'autonomie ? Il est probable que non. On est dans une
-impasse dont on peut sortir en prenant une voie paradoxale : reprendre quelques uns
-des kilogrammes de muscles perdus, fréquenter moins assidûment la salle d'escalade,
-laisser son niveau de pure lumière de la résine (les pures lumières du rocher,
-qualification réservée aux sestogradistes, étaient le groupe de bleausards entourant
-Pierre Allain dans les années d'après guerre) retomber doucement, et se mettre à
-parcourir la moyenne montagne à pied, en raquettes et à skis, en plantant la tente le
-plus souvent possible. Poser ses fesses sur l'herbe mouillée, démarrer son réchaud au
-petit matin en soufflant dans ses doigts, saisir un cliché de la marmotte voisine étirée
-sur un caillou pour son bain de soleil du soir... immersion dans la nature a prescrit le
-sociologue.
-78
-
-Quel que soit le niveau atteint, le degré maximum en couenne équipée après
-travail ne se confond pas avec l'expérience générale de rochassier. Patrice de
-Bellefon99 préconisait d'employer pendant l'apprentissage un bon tiers du temps passé
-en rocher école à la désescalade, tant il voyait en montagne des premiers de cordée de
-Vsup lançant des rappels dans du petit III et doublant l'horaire. Le grimpeur qui se
-lancera précocement dans la voie normale de la Muzelle, voie seulement PD (peu
-difficile), sera très surpris de sa difficulté et de son appréhension à redescendre la
-longue pente raide située en contrebas de l'arête sommitale et faite de multiples petits
-rochers fracturés imbriqués les uns dans les autres, à la solidité douteuse, difficile ou
-impossible à protéger, et dont la cotation n'est pourtant que du 2e degré. De même,
-la fissure Mummery au Grépon, seulement cotée IV - le guide Vallot précisant tout de
-même pénible - risque d'ébranler la belle confiance dans le degré maximum atteint.
-Inversement, le contre exemple le plus fameux est celui de Lionel Terray, jugé
-par Robert Paragot et Lucien Bérardini comme spécialement mauvais en gestuelle
-pure100 sans que cela puisse remettre en cause ses immenses qualités de rochassier
-comme de glaciériste.
-2/ La condition physique
-Le vélo ou la course à pied peuvent donner la condition physique nécessaire.
-Réussir à courir dix kilomètres pendant une heure, ce qui est à la portée de tout le
-monde, est suffisant pour une pratique normale de l'alpinisme.
-Marcher longtemps en montagne, et spécialement dans la neige, nécessite des
-pas lents, peu coûteux, selon un rythme régulier. Couramment on voit de rudes
-gaillards transpirer dans le labour opiniâtre d'une neige molle tandis que leur aérienne
-compagne suit toute en économie d'énergie. Ici comme à vos débuts en escalade où
-vous avez observé votre copine composer habilement avec la pesanteur plus
-efficacement que votre propre tendance naturelle vouloir à la vaincre, il faudra
-prendre leçon de la capacité générale des femmes à accepter le monde tel qu'il se
-présente. Marcher longtemps est davantage une discipline qu'un exploit sportif.
-Pourchier et Frendo101 affirmaient en 1943 : « En principe, avec un sac de 10 à 15
-kilos, on doit s'arrêter 5 minutes après 25 minutes de marche environ. » ce qui fera
-sourire les adeptes du trail.
-3/ La rusticité
-Le départ nocturne, le rocher froid, l'incertitude de l'itinéraire, le vent, le port
-du sac, l'épreuve de la marche d'approche, réclament un minimum de rusticité. La
-pratique de la randonnée sur plusieurs jours avec bivouacs sous tente est une
-préparation parfaite. Même après des années de pratique, en début de saison, une
-petite course au départ d'un bivouac sera la meilleure façon de retrouver ses marques
-99 L'alpinisme, Patrice de Bellefon, éditions Denoël, 1987.
-100 La voie Terray, film de Gilles Chappaz, Sevendoc, 2005.
-101 Op. cit., Marcel Pourchier et Édouard Frendo, p.59.
-
-79
-
-de montagnard. Quand en juin 1786, l'endiablé Jacques Balmat passa une nuit sur les
-hautes pentes du Mont-Blanc, « son mouchoir sur la figure »102 en guise de tente, et
-qu'il revint le visage brûlé par la réverbération du soleil sur la neige mais vivant, il
-avait anéanti la croyance selon laquelle on ne pouvait revenir d'une nuit passée en
-haute altitude. Depuis cette date, le bivouac demeure l'arme numéro un pour
-démythifier la montagne.
-Le bivouac est historiquement une pratique militaire. Il doit être la première
-technique d'aguerrissement de l'alpiniste. Il est du reste en bonne place dans les stages
-proposés par les instructeurs de close-combat qui considèrent les techniques
-d'aguerrissement comme faisant partie intégrante de l'enseignement de l'art martial.
-Et puisqu'il s'agit de référence militaire, écoutons Jules César : « L'ensemble de
-la Gaule est divisé en trois parties : l'une est habitée par les Belges, l'autre par les
-Aquitains, la troisième par le peuple qui, dans sa langue, se nomme Celte, et, dans la
-nôtre, Gaulois. (…) Les plus braves de ces trois peuples sont les Belges, parce qu'ils
-sont les plus éloignés de la Province romaine et des raffinements de sa civilisation,
-parce que les marchands y vont très rarement, et, par conséquent, n'y introduisent pas
-ce qui est propre à amollir les cœurs. »103
-Plus loin, Arioviste, roi des Suèves, donne ainsi une fin de non recevoir à
-César : « Personne ne s'était encore mesuré avec lui que pour son malheur. Il pouvait
-quand il voudrait venir l'attaquer : il apprendrait ce que des Germains qui n'avaient
-jamais été vaincus, qui étaient très entraînés à la guerre, qui, dans l'espace de
-quatorze ans, n'avaient pas couché sous un toit, étaient capables de faire. »104
-Rangé à ces références, on ne peut donc faire moins que tenir la pratique du
-bivouac en très haute estime.
-Il existe à notre sens trois types de bivouac. Deux prévus, l'un improvisé.
-Le premier type de bivouac s'apparente davantage au camping. Quitte à porter
-un sac énorme, on a pris la tente (1,5 à 2 kg, de petites dimensions pour se caser entre
-les murets des emplacements de bivouac déjà construits), le sac de couchage, le
-matelas, le réchaud. On a choisi un bel emplacement de bivouac loin de tout refuge,
-proche d'une eau potable ou d'une neige propre (réserve de gaz suffisante et sac
-plastique pour le stockage). Un léger terrassement, un petit muret de pierres du côté
-du vent dominant occupent la fin d'après-midi. On pense à la brise thermique du
-glacier : L'air froid qui va dévaler la pente pour remplacer l'air chaud montant à la
-verticale des pentes herbeuses et rocheuses situées en contrebas, exactement comme
-la brise de mer du littoral. On n'a pas oublié la ficelle pour arrimer la tente à de
-grosses pierres car les sardines pénètrent mal le terrain morainique. Bien sûr, on ne
-portera rien de tout cela dans la course. Demain matin, soit on laisse la toile montée,
-soit on roule le tout caché sous des pierres, selon la fréquentation et la réglementation
-du lieu. On récupérera les affaires au retour de la course, ce qui suppose de repasser
-102 Op. cit., Marcel Rouff, p.14.
-103 Guerre des Gaules, Jules César, 52 avant J.C. .
-104 Ibid.
-
-80
-
-par là. On aura choisi une tente dotée d'une abside suffisante pour y installer le
-réchaud sous l'averse du soir sans risquer de brûler la toile. Les feuillées sont cachées
-du chemin par ce gros bloc posé là-bas sur la moraine, le petit ruisseau (probablement
-gelé demain matin, remplir sans faute les gourdes ce soir...) coulant ici est la cuisine
-(comprimés de micropur) et la salle de bain, deux petits cairns bien visibles qu'on a
-construits indiquent clairement la trace qu'on a aménagée pour retrouver facilement
-dans la nuit la sente menant au glacier, bref on s'est approprié ce coin de montagne
-pour un jour, et on est déjà chez soi. Le chamois qui viendra ce soir gambader sur le
-raide névé le plus proche sera le compagnon dont on enviera l'intelligence du terrain
-et l'agilité inégalables .
-
-Chloration de l'eau :
-Désinfecter l'eau est moins important en haute-montagne qu'en moyenne montagne car
-il n'y a pas de troupeaux. Mais, un refuge en amont, d'autres bivouacs le même jour ou
-les jours précédents, ont pu souiller l'eau ou la neige qu'on va faire fondre. Les pastilles
-de micropur (marque Katadyn) et d'aquatabs (marque Medentech) renferment du
-dichloroisocyanurate de sodium (NaDCC) qui libère en milieu aqueux l'acide
-hypochloreux qui est un oxydant. Il s'agit du même produit présent dans les pastilles de
-Javel, mais ces dernières contiennent en plus des agents effervescents et tensio-actifs
-qui empêchent de les utiliser pour l'eau potable. Le micropur a la particularité d'ajouter
-des ions argent dont l'intérêt est la conservation de la désinfection à long terme (6 mois
-au lieu de 24 heures), pour l'eau de réservoirs par exemple. L'hydroclonazone (CLS
-Pharma), utilisant le tosylchloramide, est jugé moins efficace depuis son test par
-l'armée. Enfin, le micropur en liquide, hormis les ions argent, est de l'hypochlorite de
-sodium, c'est à dire de l'eau de Javel, et est indiqué pour des quantités importantes d'eau
-(à partir de 10 litres, 3 gouttes par litre d'eau, action pendant 1 heure). Tous ces produits
-sont moins efficaces en présence de matières organiques. Il est conseillé de les utiliser
-sur une eau d'aspect clair.
-Le paysan voisin pourrait aussi vous donner une pastille d'Aquasept qu'il met dans ses
-réservoirs pour l'eau de ses bêtes, puisqu'il s'agit du même dichloroisocyanurate de
-sodium. A ceci près que ses comprimés sont dosés à 0,7g de NaDCC, tandis que ceux
-d'aquatabs sont dosés à 3,5mg par comprimé, soit 200 fois plus...
-
-Le second type de bivouac est prévu, mais la course projetée ne fait pas
-repasser par ce chemin. Il va falloir porter l'attirail jusqu'au sommet, et c'est une autre
-paire de manches. La tente reste à la maison ce qui en fait un vrai bivouac au sens de
-Pierre Allain105, c'est à dire une nuit à la belle étoile. En été, le sac de couchage peut
-également être oublié, à moins de choisir un sac très léger (600g) et que la course ne
-nécessite pas en elle-même un matériel lourd. Le matelas ne sera plus qu'un petit
-rectangle de mousse de type Karimat de la dimension du dos. Plié en deux, il tient à
-l'intérieur du sac à dos placé contre l'armature. On en achète un complet et on le
-105 Op. cit., Pierre Allain, p.17.
-
-81
-
-découpe au cutter.
-Le réchaud sera du type Esbit pour accueillir des tablettes de combustible
-solide, soit les tablettes d'origine à base d'alcool solidifié , soit des allume-feux du
-commerce, qui donnent une flamme plus résistante au vent mais salissent
-énormément le quart (à tester chez soi avant la sortie pour la hauteur des flammes).
-On ne fera plus fondre de neige avec ce type de matériel. Trouver de l'eau est
-impératif.
-Le réchaud à méta, héros de bien des récits de montagne, est apparu en 1953. Il utilisait
-pour combustible solide le métaldéhyde qui est un pesticide employé notamment contre les
-limaces. Ce produit est toxique pour les hérissons qui deviennent les dommages
-collatéraux de la guerre des jardiniers contre les gastéropodes, mais il est également
-toxique pour l'homme, même sous forme de traces. Le métaldéhyde est donc actuellement
-abandonné comme combustible à réchaud.
-
-Le stockage se fera dans des gourdes souples Platypus dont le poids et
-l'encombrement sont négligeables une fois vides. Le repas est surtout lyophilisé :
-soupes minute, purées en poudre, cappuccinos pour le matin, etc. La popote consiste
-en un quart alu chacun, avec un couvercle formé d'un couvercle de boîte de confiture
-qu'on pose simplement sur un quart pendant la chauffe. On pèse tout avec un pèselettre ! Et on se fait le kit bivouac doté du meilleur rapport qualité/poids.
-Pour compenser l'absence de sac de couchage, on prend une grosse doudoune
-avec capuche, ainsi qu'un sursac léger (moins de 400g) ou plutôt une couverture de
-survie en forme de sac (108g), un collant chaud en fourrure polaire sous le pantalon.
-On peut enfiler les jambes dans son sac à dos et on se réjouit si on l'a choisi d'une
-grande hauteur. Cagoule en fourrure polaire, tour du cou, gants, chaussettes
-montantes très chaudes seront les bienvenues sans peser bien lourd.
-On ne dort pas beaucoup à ce genre de bivouac. On se dit qu'on récupère
-seulement un peu avant de repartir à l'aube. On est rassuré car on est au pied des
-rochers, on a déjà reconnu l'attaque de la voie, même vu le premier piton. Cette
-tranquillité, ça compte pour trouver néanmoins le sommeil, qui commence à venir
-quand le froid du petit matin devient plus intense et vous oblige à changer de
-position...
-Bien sûr, on a choisi un endroit qui ne canalise pas les chutes de pierres, peut
-être même protégé par un petit surplomb solide.
-Le troisième type de bivouac est celui qu'on n'a pas prévu. Il va falloir faire
-avec le matériel qu'on a. Autant dire que si l'on est parti en « tenue de plage » comme
-disait l'ancien gardien du refuge des Bans, la nuit va être longue.
-Un réchaud type Esbit, son combustible et deux briquets, deux soupes et un
-sachet de purée chacun, des fruits secs, deux tisanes, une petite doudoune avec
-82
-
-capuche, un rectangle de mousse Karimat et un grand sac poubelle de 150 litres en
-guise de sursac, sont un minimum en « fond de sac » dès que la course menace de
-tourner au bivouac.
-
-Réchaud fabriqué à partir d'une petite conserve de thon,
-fonctionnant au combustible solide et pesant 24g.
-Il est très important de s'habiller tout de suite avec la totalité des vêtements
-disponibles pour conserver le plus longtemps possible la chaleur du corps ; et de tout
-attacher à un relais solide avec une attention particulière pour les chaussures si on les
-quitte. On se contente la plupart du temps d'en desserrer les lacets. Les baudriers sont
-conservés et on reste vaché au relais toute la nuit.
-Avoir accumulé les expériences de bivouacs plus organisés sera alors un riche
-bagage. Et ce sont les expériences du deuxième type de bivouac qui sont bien sûr les
-plus précieuses. On est alors en situation connue. On sait qu'elle est inconfortable
-mais gérable. Gilles Barbanson dit à propos du gros temps que peut rencontrer le
-plaisancier : « C'est vrai que je ne connais personne qui va d'emblée partir naviguer
-dans du mauvais temps, il faudrait être complètement maso, par contre il ne faut pas
-tomber dans l'excès inverse, ne sortir que lorsqu'il y a moins de 15 nœuds de vent, car
-le jour où on se prend 35-40 nœuds, là, cela devient la fin du monde. »106
-Quand on sort du refuge dans la nuit pour débuter sa course vers le sommet,
-c'est un bourgeois citadin qui fait ses premiers pas dans une montagne inconnue
-pleine de pièges. Quand on plie le bivouac et qu'on a hâte de se réchauffer par sa
-marche nocturne, c'est l'homme de la montagne, déjà rude, qui pousse simplement un
-106 Op. cit., Gilles Barbanson, p.15.
-
-83
-
-peu plus loin l'aventure dans un monde qu'il s'est approprié toute la nuit. Et tout
-change.
-Vos bivouacs resteront sans doute vos meilleurs souvenirs de montagne. Avec
-Raphaëlle Billetdoux107, vous direz: mes bivouacs sont plus beaux que vos jours. Le
-mot de la fin est pour Rébuffat : « Certains alpinistes sont fiers d'avoir fait toutes
-leurs courses sans bivouac. Comme ils se privent ! »108
-
-Bivouac en sac poubelle de 150 litres au pied de la voie Jonot,
-Tête de Lauranoure.
-Randonnée, bushcraft et scoutisme
-La meilleure préparation est bien entendu la randonnée ; la vraie : celle avec
-nuits sous tente et non au refuge.
-La pratique du bushcraft, littéralement art des bois, qui est une manière récente
-de remettre à l'honneur les ingrédients du scoutisme, est une bonne idée. Un feu, un
-abri, trouver de l'eau, maîtriser son autonomie, gérer le mauvais temps. Les vidéos
-réalisées par Julien Taix sur youtube 109 sont à voir. Aspect négligé par ces substituts
-utilitaires, le scoutisme entendait également délivrer une formation morale (parfois
-religieuse) qui pourrait ne pas apparaître totalement déplacée en haute-montagne. Le
-matériel rustique, solide et lourd, utilisé pour le bushcraft sera peu adapté à la hautemontagne. La popote inox, l'énorme couteau de camp parfait pour faire son bois, les
-vêtements en coton épais résistant aux projections de braises, seront ensuite
-remplacés par un quart alu, le plus petit canif mono lame pour sectionner la
-cordelette, et les vêtements soft-Shell, fourrure polaire et gore-tex.
-Quoi qu'il en soit, toutes les activités de nature sont facilitatrices. Une enfance
-107 Mes nuits sont plus belles que vos jours, Raphaëlle Billetdoux, éditions Grasset, 1985. Prix Renaudot.
-108 Étoiles et tempêtes, Gaston Rébuffat, éditions Hoëbeke, 1999. Édition originale : 1954.
-109 Jubushcraft Alpin, youtube.
-
-84
-
-de pêches à la ligne, de constructions de cabanes au fond du jardin, de jeux dans les
-champs, les forêts et les lits des ruisseaux est un immense avantage comparée à de
-jeunes années passées devant une playstation. Parents qui voulez mettre vos enfants à
-la montagne, pensez-y : laissez au moins une partie du jardin en broussailles, les
-feuilles non ramassées pour les hérissons et les haies mal taillées pour les cachettes et
-les aventures des gamins.
-Pour les cas extrêmes de citadins dont les contacts avec la nature ne se sont
-jamais faits qu'à travers un écran de télévision, la première étape sera peut-être… le
-déjeuner sur herbe. Le pique-nique en famille, occasion de rencontrer toutes sortes de
-petites bêtes, rampantes ou volantes, montant à l'assaut du panier de victuailles, est
-promu, le plus sérieusement du monde, premier stade d'initiation au bivouac de
-haute-montagne engagée. Et c'est peut être sur la rive de ce petit lac de moyenne
-montagne où vous avez dégusté vos sandwiches et bu le café chaud de la thermos que
-vous aurez envie de revenir cet été pour cette fois planter la tente et dérouler les sacs
-de couchage.
-4/ S'entraîner aux techniques
-On a vu que les techniques utilisées en montagne sont parfois très différentes
-de celles en usage en salle d'escalade ou en couennes. L'assurage en mouvement y est
-beaucoup plus fréquent que l'escalade par longueurs. L'utilisation de la corde double,
-les rappels, la pose de pitons, de coinceurs, l'assurage sur béquets, les remontées sur
-corde fixe, les mouflages, le hissage du sac, sont des indispensables. Il faudra aussi
-apprendre à se servir d'un piolet et de crampons, sur glace et sur neige. Comment
-procéder ?
-Les grandes voies en falaise introduisent l'utilisation de la corde double 2x50m,
-qui est la corde à tout faire de l'alpiniste, et des coinceurs posés en complément des
-spits. C'est ici qu'on se rode aux rappels, au hissage du sac, aux manipulations de
-corde au relais.
-Une couenne raide va servir à essayer plusieurs techniques de remontées sur
-corde fixe, expérience vitale dès la moindre promenade sur glacier pour se sortir
-d'une crevasse, mais aussi pour aller décoincer un rappel récalcitrant. On y
-expérimente aussi les mouflages. A l'écart des voies équipées, on plante des pitons
-variés au pied du rocher.
-L'assurage en mouvement, long à roder, se fera nécessairement sur le tas lors
-des premières courses, On sera content d'avoir un compagnon de cordée fiable et de
-connaître mutuellement avec exactitude le niveau d'escalade de l'autre, ses points
-forts comme ses faiblesses.
-Les rudiments de maniement du piolet et des crampons se feront au début du
-séjour sur le lieu de vacances lui-même en s'inscrivant au bureau des guides à une
-école de glace sur le front d'un glacier. Quelques heures grandement bénéfiques,
-surtout si on a la chance de tomber sur un professionnel passionné de cascade de
-glace et aimant l'enseigner.
-Le perfectionnement futur, et pourquoi pas dès maintenant, sera acquis en
-85
-
-s'inscrivant à un stage de cascade de glace d'une semaine, ceci chaque année jusqu'à
-atteindre au moins le degré IV en cotation glace à vue en premier de cordée avec
-brochage.
-Les vacances de ski de piste permettent d'améliorer son aisance en neige en
-privilégiant les pentes raides.
-Les grandes voies
-Elles sont le meilleur entraînement technique pour la montagne, mais à la
-condition de les traiter dans cet état d'esprit, et non dans l'idée de faire une croix en
-enchaînant à tout prix la totalité des mouvements ou de pulvériser l'horaire sans
-emporter de sac. Vous savez grimper, on le sait, c'est bien...
-Maintenant, si votre ambition est une préparation à l'alpinisme, emportez
-l'intendance : vêtements chauds, chaussures dans le sac, vivres, eau, coinceurs câblés,
-décoinceurs, friends, pitons, marteaux, cordelette, canif. Vous ne serez plus la
-première cordée arrivée en haut de la falaise, d'autres cordées vous doubleront
-certainement en ronchonnant, mais vous apprendrez à gérer l'ensemble de vos
-impedimenta comme il faudra bien le faire au-dessus de 3000m d'altitude. Dépôt du
-sac du premier sur un point avant le passage difficile, hissage du sac sur un brin avec
-gestion de ce sac par le second assuré sur le deuxième brin, anticipation des
-traversées pour éviter que le sac ne se coince sous un surplomb inaccessible, etc.
-Toutes les bêtises que vous allez faire ici vous éviteront bien des déboires. En pestant
-contre ce sac à hisser, toujours trop gros, toujours trop lourd, et bien sûr toujours
-borné, vous apprenez la débrouillardise en montagne, une communication efficace (la
-bleue, stop, la rouge, stop, du mou sur la bleue, etc.). La cordée se rôde.
-Une chose à savoir : le sac légèrement en arrière du second est plus commode
-que le sac le précédant, car dans ce second cas, il dissimule les prises. Mais il ne
-s'agit pas pour autant que le second distance trop le sac dans les zones où celui-ci
-risque de se coincer. Avec le sac légèrement en arrière du second, celui-ci peut aussi
-aider au hissage en tirant la corde. A user sans modération quand le premier de cordée
-reste leader pour la suite. A n'en pas abuser si le second doit ensuite repartir en tête,
-car il arriverait exténué au relais.
-Pour les perfectionnistes et pour éviter les coincements, on peut fabriquer un
-chapeau en V qui coiffe le haut du sac, à l'aide d'un gros entonnoir en plastique dont
-on sectionne le tuyau et dans lequel passe la longe. Une moitié de gros bidon
-plastique est plus adaptée à l'énorme sac de hissage des exploits d'alpinistes de haut
-niveau. L'efficacité d'un tel procédé quand on est en solo est indispensable puisque le
-sac doit alors venir seul, non guidé, depuis le relais inférieur.
-La poulie autobloquante micro-traction de Petzl (85g) est l'outil idéal pour le
-hissage du sac. Elle sera aussi d'un grand secours en cas de mouflage. La
-combinaison tibloc (39g) et poulie oscillante P02 de Petzl (42g), convient aussi. Un
-sac spéléo, bon marché, léger et quasi indestructible, fait un très bon sac de hissage
-qui permet d'éviter la déchirure immédiate de son précieux sac d'alpinisme beaucoup
-plus cher.
-86
-
-Le brin du sac est sur la poulie autobloquante, le brin du second sur la plaquette.
-
-Tête de mouflage faite de la poulie autobloquante, renvoi inférieur sur mousqueton et
-tibloc, renvoi supérieur sur mousqueton. On peut ainsi tirer vers soi en étant
-positionné sous le relais.
-87
-
-Quand le sac est lourd, ce qui pourra être le cas plus tard en montagne, on peut
-s'aider en installant un petit mouflage avec un tibloc. Les forces exercées par un
-mouflage sur le relais peuvent être considérables si les frottements sont importants. Il
-vaut mieux donc éviter d'installer un mouflage quand on a oublié sa poulie et que la
-tête de mouflage est la plaquette d'assurage, à moins d'un relais infaillible.
-On préfère aussi les grandes voies présentant des fissures qui seront autant
-d'occasions de placer les câblés et les friends, voire un ou deux pitons, même dans
-une voie équipée. Votre second vous renseignera sur la tenue de vos coinceurs et
-n'hésitera pas à critiquer leur placement. Votre belle testera aussi la réelle capacité de
-son poignet à récupérer ce massif universel que vous avez victorieusement planté
-avec l'énergie d'un forgeron. Faudra-t-il l'équiper d'une petite chaîne (ou un câble) à
-dépitonner ? A tester bien entendu en grande voie avant la montagne, en n'oubliant
-pas de contracter fortement l'orbiculaire des lèvres avant l'éjection du piton sous
-peine d'avoir à signer un redoutable devis chez votre chirurgien-dentiste préféré..
-Si votre choute s'avère incapable de récupérer vos pitons, deux choses à faire :
-Lire ou relire, 342 heures dans les Grandes Jorasses de René Desmaison110, où la
-difficulté que rencontre Serge Gousseault à récupérer les pitons met son premier de
-cordée dans une position de plus en plus délicate. De quoi vous imprégner des enjeux
-de la montagne. La seconde est de prévoir d'emporter davantage de pitons, et, bonne
-nouvelle pour votre compagne, elle pourra faire l'économie de l'emport d'un marteau.
-Un jour de grande forme et dans une voie dotée d'une descente commode,
-choisir de pique-niquer au relais de la dernière vire tranquillement malgré les signes
-avant-coureurs du mauvais temps, puis finir la grande voie sous l'averse, est une
-bonne idée qui vous fera lire autrement les futurs bulletins météo montagne : « Beau
-temps. Risque d'orages dans l'après-midi. » Le granit à gros grains détrempé reste
-étonnamment adhérent pour un grimpeur de calcaire, pour peu qu'il soit exempt de
-lichen, auquel cas il devient une patinoire dangereuse.
-Enfin, tachez de trouver une grande voie où une cheminée se grimpe en
-ramonage (la voie des cheminées à Rochefort-Samson dans la Drôme par exemple),
-et placez votre sac à votre pontet pendu entre vos jambes pour libérer votre dos. Les
-cheminées sont plus fréquentes en montagne que sur les sites d'escalade.
-
-Les rappels
-Descendre en rappel ne pose plus de difficulté avec les outils modernes.
-L'introduction sur le marché de cordes à double très fines et dont l'état de surface est
-glissant du fait du traitement hydrophobe (spécialement quand la corde est neuve)
-réclame cependant de la méfiance concernant la capacité de freinage des différentes
-110 342 heures dans les Grandes Jorasses, René Desmaison, éditions Flammarion, 1973.
-
-88
-
-plaquettes ou descendeurs lors d'un rappel en fil d'araignée et/ou lourdement chargé.
-On peut avoir avantage à entourer plusieurs fois la jambe (pantalon de rigueur) avec
-la corde libre pour augmenter le freinage, ou bien utiliser un renvoi sur mousqueton,
-ou encore utiliser le micro jul de la marque Elderid spécialement conçu pour les
-cordes de 6,9 à 8mm.
-Le nœud de jonction des deux brins est le nœud de huit. Le nœud de vache est
-maintenant abandonné. L'avantage du nœud de huit est sa dissymétrie qui diminue le
-risque de coincement. Mais il est moins durable qu'un double nœud de pêcheur qui
-demeure le nœud d'aboutement de référence dans l'industrie, quand deux cordes
-reliées doivent servir toute une journée de travail. Ceci veut dire que l'utilisation du
-nœud de jonction en huit pour de nombreux rappels successifs suppose qu'on vérifie
-de nouveau le nœud à chaque rappel et qu'on le réajuste s'il a glissé. On recommande
-de laisser 30cm minimum de brins libres après le nœud. Les brins doivent rester
-parallèles dans le nœud pour pouvoir le serrer intimement jusqu'à former une boule et
-non un huit à plat (voir page 28).
-En montagne, on aura souvent besoin d'aligner de nombreux rappels et la
-cordée doit être bien rodée pour gagner du temps. Quand l'orage s'approche et qu'il
-reste cinq ou six rappels, l'heure est à l'efficacité. Les brins doivent être
-soigneusement pliés en écheveaux avant d'être lancés, le premier descendu installe le
-relais suivant en changeant la cordelette, se vache, crie « libre ». Pendant la descente
-du second, le premier installe déjà le brin à tirer dans l'anneau en pensant que le nœud
-d'aboutement doit se trouver contre le rocher, ceci pour éviter l'effet de la plaquette
-réverso (repris de la plaquette New Alp, elle-même reprenant la vieille technique du
-frein-mousqueton décrite dans le livre de Patrice de Bellefon 111) : le brin du dessus
-plaqué contre le brin du dessous bloque celui-ci.
-Redescendre une grande voie en rappel (choisir une voie non fréquentée pour
-éviter les chutes de pierres sur des cordées montantes) permet d'appréhender les
-différents problèmes qui peuvent se poser: vent perturbant le lancer de corde, absence
-de coulissement de la corde en raison d'un rappel trop long ou sous un surplomb,
-coincement du brin tombé sur une racine, chute de pierres lors du rappel de la corde
-ou de la descente du second (le premier peut avoir avantage à utiliser son sac à dos en
-bouclier), gestion des traversées ou des grands surplombs en mousquetonnant
-quelques points à la descente, gestion des pendules, etc.
-Parfois, on moulinera le premier, notamment par grand vent, sur les deux brins.
-Expérimenter cette technique permet également d'anticiper un éventuel blessé qu'il
-faudra un jour mouliner, s'il est encore suffisamment valide pour pouvoir penduler
-pour trouver le relais suivant et se vacher dessus.
-Quand la corde est mouillée elle coulisse beaucoup moins bien, surtout si elle
-est installée sur une cordelette ou une sangle. Vous avez alors toutes les chances de ne
-pas réussir à rappeler la corde si vous venez de descendre un long rappel de presque
-cinquante mètres sans avoir abandonné un mousqueton ou un maillon rapide au relais
-pour faciliter le coulissement. Quand vous aurez coincé votre corde et aurez été
-111 Op. Cit., Patrice de Bellefon, p.79.
-
-89
-
-obligé de remonter remédier au problème, vous vous résignerez, comme tout le
-monde, à la dépense. Si la corde ne vient pas, tentez de changer l'angle de traction.
-Parfois, si la longueur de corde est excédentaire, avant sa descente le second peut
-avoir avantage à faire coulisser le nœud d'aboutement des deux brins en dessous
-d'une fissure en « v » qui ne demanderait qu' à le coincer. Se souvenir aussi que le
-Fortissimo (Giusto Gervasutti) s'est tué en 1946 en tirant un rappel d'abord
-récalcitrant puis venu brusquement, tandis qu'il n'était vaché à aucun relais.
-En descendant un long rappel, on surveille les deux extrémités des cordes avec
-d'autant plus d'attention que celle-ci risque d'être détournée par la recherche inquiète
-du relais inférieur. Une fois celui-ci repéré, on refrène son enthousiasme en pensant
-que certains équipeurs facétieux placent leurs relais à 50 mètres pile, quand ce n'est
-pas 51 mètres : les yeux sont alors rivés sur les bouts de corde.
-
-Cette année-là nous avions remonté les premières longueurs de la cascade des Moulins
-pour aller voir à quoi ressemblait le grand cigare en 6. Très impressionnés par les
-immenses stalactites pendant de celui-ci, nous nous étions un peu attardés dans sa
-contemplation, imaginant une ligne d'ascension mais sans aucune intention réelle de le
-gravir. Nous enchaînions maintenant les rappels de la descente avec notre corde de
-l'époque, mesurant 90 mètres. Dans la confusion des relais, je ne me souvenais plus très
-bien où était le suivant et je descendais lentement le dernier tiers de la corde, concentré
-sur l'extrémité qui s'approchait à une dizaine de mètres sous mes pieds. Où pouvait donc
-se trouver ce satané relais ? Un pendule à droite m'avait convaincu qu'il se situait à
-gauche, et tout à coup, je le vis à quelques petits mètres de moi, très proche alors que
-mon regard avait cherché plus loin. Ne faisant ni une ni deux, et tout heureux, j'expédiai
-la fin du rappel sans plus me soucier de l'extrémité, et tendis la main vers la vieille sangle
-qui décorait le relais... juste à l'instant où mon descendeur, arrivé en bout de corde, se
-libéra. Heureusement penché en avant, je tombai à genoux sur la glace plutôt qu'en
-arrière et pus empoigner la sangle, tous poils hérissés, au lieu de voler dans les airs...
-Dessous, il restait un ressaut d'une soixantaine de mètres...
-
-Quand la longueur du rappel est inconnue et qu'on a aucune visibilité sur
-l'extrémité basse de la corde, on peut être tenté de réaliser d'emblée un nœud en bout
-de corde qui relie les deux brins. Cette façon de procéder crée souvent des torons
-importants pendant la descente, lesquels sont pénibles à démêler pendant les derniers
-mètres. On peut préférer réaliser un nœud sur chaque brin, ce qui limite la formation
-des torons. Cependant, on agit rarement de cette façon car, si par malheur
-(notamment par grand vent) un brin vient se coincer autour d'une branche ou d'une
-écaille de rocher hors de portée pendant la descente, la présence d'un nœud peut
-rendre impossible sa récupération. Quand on s'est battu une ou deux fois pour se
-sortir d'une telle situation, on s'en souvient assez pour adopter une autre tactique. On
-recommande actuellement de lancer les deux brins dépourvus de nœud en bout de
-corde, de réaliser l'essentiel de la descente, puis, arrivé à une dizaine de mètres de
-90
-
-l'extrémité, de se laisser bloquer par son autobloquant, de ramener la corde restante à
-soi pour faire à ce moment seulement le nœud de sécurité rassemblant les deux brins
-en bout de corde.
-Aussitôt après l'acquisition d'une corde neuve, n'oubliez pas de retirer les
-bagues de plastique qui rigidifient les extrémités, et de les remplacer par un marquage
-au feutre indélébile pour les retrouver facilement. Ces bagues augmentent en effet les
-risques d'accrochage.
-
-La corde et ses nœuds intempestifs
-En montagne, vous allez plier et déplier la corde de nombreuses fois, pour
-changer l'encordement, sortir un brin pour grimper une longueur avec la corde à
-double, en ranger un quand vous continuez à corde tendue, préparer un rappel, etc.
-Deux brins de 50 mètres se plient en un clin d’œil et non durant un quart d'heure, ce
-qui nécessite de s'entraîner.
-
-En écheveau à gauche, en couronne à droite.
-
-Un brin de 8mm de 50 mètres tient facilement dans une main, même petite,
-aussi il n'est pas besoin d'envoyer les ganses derrière la nuque. Les brassées se
-prennent dans la paume en écartant les deux bras pour augmenter l'amplitude. Puis
-on finit en formant une poupée, et non en saucissonnant le milieu de l'écheveau, afin
-d'avoir un objet compact facile à fourrer dans le sac à dos.
-91
-
-Jadis, on pliait le rappel en écheveau en double à partir des extrémités plutôt
-qu'à partir du milieu. On laissait avant le pliage 3 à 4 mètres de corde libre qui
-servaient à se confectionner des bretelles pour porter la corde sur le dos. Aujourd'hui,
-les brins d'un rappel sont deux cordes distinctes, on plie donc chaque brin
-séparément.
-Le pliage en écheveau toronne moins la corde que le pliage en couronne, il est
-donc préférable avant de lancer un rappel.
-Par contre le pliage en couronne est plus rapide et permet de porter le brin en
-bandoulière. Sa meilleure indication est au pied du dernier rappel qu'il faut fuir le
-plus vite possible sous peine de recevoir les pierres des cordées suivantes. Tandis que
-l'un tire la corde puis préparera le brin qui permet de se ré-encorder avec les anneaux
-de buste, l'autre plie déjà, au fur et à mesure de sa récupération, le premier brin qui
-vient, puis le passe en écharpe sans besoin d'ouvrir le sac . En quelques instants, la
-cordée dégage de la zone à risque.
-On doit s'exercer à plier les brins du rappel en écheveau et en couronne jusqu'à
-savoir le faire très vite. Cela fera peut-être la différence à la prochaine chute de
-pierres.
-Ne pas faire de nœuds intempestifs avec une corde d'alpinisme relève de la
-tautologie (même si les cordes récentes fines et très souples favorisent
-malheureusement le paquet de nœuds rédhibitoire) : une corde d'escalade possède
-deux bouts, pas un de plus, pas un de moins. Et, le croiriez-vous, ces deux bouts sont
-reliés irrémédiablement entre eux. Voilà, et pas autre chose, la raison de tous vos
-malheurs. Par surcroît, et comme par un fait exprès, un bout se trouve souvent en
-dessous, l'autre au-dessus, preuve que Satan existe. Si vous cherchez à extirper le
-bout du dessous en le tirant à travers le tas, vous créez l'insurrection.
-Aussi, après avoir dénoué sa poupée, on ne jette pas le tout de façon
-désordonnée sur le sol, mais on sort avec application le premier bout, on le pose en
-évidence sur le rocher, puis on dévide sa poupée en « tas bien pensé » sans masquer
-le bout sorti, jusqu'à arriver au second bout. Le premier de cordée s'encorde sur ce
-dernier (qui est au-dessus du tas) tandis que le second peut dès maintenant s'encorder
-avec le premier bout qui est sorti du tas et qui est en dessous. La possibilité pour le
-second de s'encorder dès maintenant en étant sûr de ne commettre aucun nœud sera
-plus tard une véritable aubaine quand, dans un terrain d'aventure inconnu, le premier
-de cordée n'ayant trouvé aucun relais et ayant épuisé la totalité de la corde vous
-demandera de commencer l'escalade avec précaution pour lui permettre d'atteindre le
-bon becquet visible à cinq mètres, et faire enfin relais.
-Au relais, si le premier de cordée repart dans la longueur suivante en tête, son
-bout est en dessous. Si la corde est neuve, sa gaine bien lisse va se laisser coulisser
-pendant que le second donne le mou. Mais sur une corde plus ancienne, il est
-préférable de dévider toute la corde (les deux brins) depuis le bout du second jusqu'au
-92
-
-bout du premier pour remettre ce dernier au-dessus du tas. Surtout si la longueur
-suivante est corsée et qu'il ne s'agit pas d'annoncer au premier de cordée en difficulté
-dans un passage qu'un gros paquet empêche de lui donner du mou.
-Une corde d'escalade possède donc deux bouts... et un sens.
-La remontée sur corde fixe
-Les spéléologues sont passés maîtres dans ce genre de techniques puisqu'il
-s'agit souvent de la seule façon de remonter les puits. Leur pratique intensive sur des
-hauteurs impressionnantes les a conduit à inventer de nombreuses techniques utilisant
-du matériel sophistiqué, bloqueurs mécaniques de différents modèles - poignéesbloqueurs, bloqueurs de poitrine, bloqueurs de pied - dans le but de réduire la fatigue
-de la remontée, d'augmenter la vitesse, et de réduire les risques (fractionnement des
-puits pour minimiser les frottements de la corde contre le rocher).
-Si ces techniques sont souvent reprises telles quelles en big-wall où les
-remontées sont encore plus considérables, elles doivent être adaptées à la pauvreté du
-matériel emporté dans une course d'alpinisme où le poids est compté et la remontée
-sur corde fixe, accident de parcours, improvisée dans l'urgence. Il s'agit alors de sortir
-de la crevasse ou de remonter le rappel coincé avec le matériel dont on dispose à cet
-instant.
-Le rappel ne se remonte évidemment qu'à la condition qu'on ait encore à sa
-disposition les deux extrémités. Si on ne les a pas, on grimpe en s'assurant en premier
-de cordée avec la portion de corde qu'on a pu rappeler, jusqu'à la seconde extrémité
-qui pend en l'air, puis on démarre la remontée sur corde à cet endroit. On remonte en
-emprisonnant les deux brins à la fois dans les autobloquants.
-La remontée n'étant pas prévue, le fractionnement préparé à la descente des
-spéléologues à l'aide de nœuds papillons ne peut bien entendu pas être réalisé. Lors
-de la remontée d'un long rappel coincé, cet apparent point de détail, conjugué à
-l'utilisation d'une corde dynamique (effet yo-yo) et non statique, et de faible diamètre,
-augmente le risque d'usure prématurée de la corde à l'endroit où elle frotte contre une
-saillie du rocher. Cet endroit se trouve hors de vue pendant l'essentiel de la remontée,
-et il est donc impossible de surveiller l'intégrité de la gaine pendant la remontée. Le
-second à descendre pensera donc pour tout rappel de grande hauteur (proche de la
-totalité de la corde disponible) à jeter un coup d’œil sur l'appui de la corde contre le
-rocher dans les premiers mètres de la descente, et à corriger cet appui en décalant
-latéralement la corde s'il s'agit d'une arête saillante, ou pourquoi pas dans les cas
-rédhibitoires émousser soigneusement cette saillie de quelques coups de marteau en
-avertissant le compagnon déjà descendu qui va en recevoir les éclats. Pendant la
-remontée, on adoptera également la délicatesse et la légèreté d'une ballerine, en
-empathie totale avec la souffrance de cette portion de la corde encore si loin et qu'on
-voudrait bien atteindre avant qu'elle ne se sectionne tout à fait sous nos yeux à trois
-93
-
-ou quatre mètres du relais...
-Il est exclu de faire l'impasse sur la remontée sur corde fixe. Les
-complications, souvent minimisées dans le discours, que représente la mise en œuvre
-d'un mouflage rendent la remontée sur corde fixe incontournable sur glacier enneigé.
-Lors d'une chute en crevasse, si aucune autre cordée ne peut être appelée
-immédiatement pour tirer à plusieurs sur un mouflage simple tout en empêchant la
-corde de fendre la lèvre de la crevasse, oublier le mouflage et envisager la remontée
-sur corde fixe est faire preuve de réalisme. Ce qui ne signifie pas que vous n'ayez pas
-à apprendre la confection du mouflage mariner... (Le mouflage mariner n'est pas
-diabolique et n'est rien d'autre qu'un mouflage de mouflage. Voir appendice 3 en fin
-d'ouvrage.)
-Votre préparation technique prioritaire avant votre première course d'alpinisme,
-avant la moindre balade sur glacier enneigé, est donc la remontée sur corde fixe avec
-un matériel minimum, c'est à dire avec deux cordelettes de 6mm, fermées en anneaux
-par un double-nœud de pêcheur, l'un de 60cm pour le baudrier, l'autre de 120cm pour
-la pédale de pied.
-Des nœuds autobloquants, nœud de Prusik (du nom de son inventeur Karl
-Prusik, Autrichien d'origine tchèque né en 1896, président du club alpin autrichien
-avant guerre puis membre du club alpin nazi après l’Anschluss) ou un nœud de
-Machard (du nom de Serge Machard, grimpeur marseillais né en 1945), permettent
-de fixer ces anneaux à la corde fixe, et de les coulisser vers le haut l'un après l'autre
-pendant la progression.
-On place l'anneau de 120cm en dessous de l'anneau de 60cm. En se levant sur
-la pédale, la corde se tend et facilite le déplacement de l'autobloquant du baudrier
-vers le haut. Une fois celui-ci glissé au maximum vers le haut, on s'assied dans le
-baudrier, puis on plie la jambe pour monter l'autobloquant du bas, et ainsi de suite.
+## Progression
+
+* Escalade en salle
+* Escalade extérieure en couenne
+    * Progression difficulté + expérience différentes roches et configuration
+    * Sur couenne raide:
+        * Techniques de remontées sur corde fixe, (sortie de glacier et décoincer rappel récalcitrant)
+            * Rappel bloqué
+            * Chute dans crevasse: accrochez votre piolet à un porte-matériel du baudrier, mettez une sangle à votre pontet en tête d'alouette, accrochez-y votre sac à dos, retirez vos lunettes de glacier et mettez-les dans la poche du rabat, sortez une fourrure polaire et enfilez-la, chercher sa frontale,
+            * Remontée sur un brin ou deux brins
+        * Mouflages.
+    * A l'écart des voies équipées, on plante des pitons variés au pied du rocher.
+* Grande voie / multipitch
+    * Utilisation de la corde double 2x50m, corde à tout faire de l'alpiniste
+    * Utilisation des coinceurs posés en complément des spits.
+    * Entrainements au rappel, hissage de sac, manipulation de corde au relais
+    * Entrainement à la logistique: sac rempli avec intendance, dépôt du sac du premier sur un point avant le passage difficile, hissage du sac sur un brin avec gestion de ce sac par le second assuré sur le deuxième brin, anticipation des traversées pour éviter que le sac ne se coince sous un surplomb inaccessible, etc.
+* Bivouac en montagne
+* Course montagne rocher sans difficultés majeures
+    * Assurage en mouvement long à roder
+* Ecole de glace:
+    * s'inscrire au bureau des guides pour quelques heures de cours pour rappel + cascade glace
+    * Perfectionnement lors de stage de cascade de glace d'une semaine, ceci chaque année jusqu'à atteindre au moins le degré IV en cotation glace à vue en premier de cordée avec brochage.
+
+## Matériel
+
+* Général
+    * trousse de premiers secours:
+        * pansements de taille diverse
+        * Strap
+    * un ou deux pitons
+    * cordelette
+    * grand sac poubelle en cas de bivouac improvisé
+    * boussole
+    * altimètre
+    * carte au 1/25000e
+    * Nourriture
+    * Corde (traitement hydrophobe)
+
+## Noeuds
+
+* Noeud de huit
+    * Nœud de huit est le nœud d'encordement le plus courant car très résistant et facile à contrôler, une erreur se détectant au premier coup d’œil.
+    * Pour être tranquille toute une journée de montagne, il est préférable de réaliser son nœud de huit sans croiser. Il a donc l'aspect d'une boule, en
+    trois dimensions, et non d'un huit à plat.
+
+    ![Image](img/noeuxhuit.png?raw=true)
+    Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée à droite.
+
+* Noeud de chaise
+    * Avantage principal d'être moins volumineux, ce qui se justifie surtout quand on s'encorde en cours de corde pour l'encordement en N puisqu'on traite deux brins à la fois.
+    * Un nœud de chaise sous tension constante est très résistant même sans nœud d'arrêt quand on tire sur le dormant, c'est à dire la corde allant à l'autre grimpeur.En alpinisme, on est obligé de bloquer ce nœud de chaise par un double nœud d'arrêt serré contre lui pour deux raisons :
+        1. Le nœud de chaise seul glisse pour des valeurs très faibles quand on tire sur la boucle d'encordement elle-même (la ganse) comme si on voulait l'agrandir. Ce cas de traction se produit quand, pour l'encordement montagne classique, on a choisi de repasser la boucle venant des anneaux de buste dans la boucle d'encordement.
+        2. Un nœud d'encordement n'est pas en tension constante et peut donc facilement se desserrer. Or, un nœud de chaise qui se desserre peut également se retourner et se transformer en nœud coulant, S'il se retourne, il lâche.
+
+        ![Image](img/noeudchaise.png?raw=true)
+        ATTENTION : nœud de chaise mal fait en haut à gauche.
+
+
+* Noeuds autobloquants
 
 Nœud de Prusik. Aux USA, on le réalise souvent avec six spires.
-94
 
 Nœud de Machard.
 
 Autobloquant français, dit parfois Machard français.
 Ne bloque que dans un sens.
 
-La seconde technique à connaître utilise l'anneau de 60cm pour le
-baudrier, et un nœud de cœur en remplacement de l'anneau de 120cm.
-95
-
 Le nœud de cœur, très facile à réaliser.
-
-La corde forme un nœud de cœur autour des deux mousquetons côte à côte. Une sangle est fixée
-dans le bas des deux mousquetons. Cette sangle forme une tête d'alouette autour du pied pour
-réaliser une pédale bien serrée.
-
-L'avantage de cette technique est une grande rapidité pour une fatigue réduite,
-mais elle nécessite de ne pas démarrer pendu en bout de corde. Vous ne pourrez donc
-96
-
-utiliser cette technique qu'après avoir amorcé la remontée par la première technique
-pour avoir un peu de corde libre, ou bien sur glacier, en utilisant la réserve de corde
-d'un encordement en N. C'est la technique qui nécessite le moins de matériel puisqu'il
-suffit d'un anneau de cordelette, de deux mousquetons pour le nœud de cœur (de
-préférence de même modèle pour un blocage plus sûr), et d'une petite sangle pour la
-pédale.
-Vous devez être parfaitement à l'aise dans ces remontées, et ce doit être une
-formalité de les réaliser sur votre couenne habituelle. Entraînez-vous également avec
-votre sac à dos, chargé suffisamment pour vous mettre en situation. Si la couenne est
-raide, retirez le sac de votre dos et laisser le pendre entre vos jambes vaché au pontet
-de votre baudrier. Si la couenne est une dalle peu pentue, le second pied prend appui
-sur la paroi, et on conserve le sac sur le dos pour éviter qu'il ne frotte la paroi et ne
-provoque des chutes de pierres.
-Sur un glacier, une fois dans la crevasse, retirer votre sac sera souvent la
-première chose à faire. D'abord, pour vous décoincer dans une crevasse étroite et
-gagner un peu de liberté de mouvement. Ensuite, pour prendre un matériel manquant
-ou un vêtement supplémentaire. Les ponts de neige s'écroulent en effet rarement à
-l'aube, mais en milieu d'après-midi quand vous revenez de votre escalade en plein
-soleil et vêtu seulement d'un tee-shirt. Une fois dans la crevasse, on est plongé
-brutalement à la cave ou plutôt au congélateur, le refroidissement est rapide. Votre
-frontale peut également vous manquer. Pendu à la corde lors de votre entraînement
-sur votre couenne favorite, occupez-vous donc de votre fourbi comme si vous y
-étiez : accrochez votre piolet à un porte-matériel du baudrier, mettez une sangle à
-votre pontet en tête d'alouette, accrochez-y votre sac à dos, retirez vos lunettes de
-glacier et mettez-les dans la poche du rabat, sortez une fourrure polaire et enfilez-la,
-installez votre matériel de remontée, etc. Quand vous y serez pour de vrai, tout sera
-plus facile...
-N'oubliez pas que dans une crevasse, les difficultés s'accumuleront. Le stress
-de la situation, l'incertitude que votre compagnon de cordée est capable de tenir la
-corde - A-t-il réussi à fabriquer un ancrage correct dans cette neige molle ? - Votre
-remontée doit être efficace et sans à coup. Merci pour lui. Il ne s'agirait pas d'arracher
-le méchant piolet qui fait office de relais de fortune et de l'entraîner avec vous.
-Répétez ces techniques et peaufinez-les. Remontez sur deux brins de corde
-comme sur un brin. Procurez-vous également un bloqueur mécanique léger, comme
-le tibloc de Petzl ou le ropeman de Wild Country, qui permettra aussi la mise en place
-rapide d'un mouflage simple pour aider ponctuellement votre second ou hisser un sac.
-Et expérimentez ce bloqueur à la place de l'anneau de 60cm. Le machard sur
-mousqueton est également très agréable à utiliser car il coulisse plus facilement qu'un
-nœud de Prusik. Le machard croisé sur sangle est à essayer, au cas où.
-La remontée sur corde fixe est sans aucun doute, parmi les manœuvres de
-corde, la première arme contre les embrouilles de la montagne.
-97
 
 Machard sur mousqueton, très agréable à faire coulisser. Attention,
 en s'agrippant au mousqueton on desserre l'autobloquant.
@@ -2200,154 +123,490 @@ en s'agrippant au mousqueton on desserre l'autobloquant.
 Vous avez égaré votre anneau de cordelette ? Ne perdez pas
 espoir, et utilisez le machard tressé sur sangle. Éviter la sangle
 en dyneema pour cette utilisation (fusion facile).
-98
 
-__________________________________________
-Été 2001: Pour notre septième saison d'alpinisme, nous avons de grandes ambitions. Nous
-venons de réussir la voie des Savoyards à la Dibona et nous ne sommes pas peu fiers. Avant les
-vacances, nous avions poussé une reconnaissance au fauteuil, ce socle facile situé au bas de la face
-sud de la Meije, en vue de gravir plus tard la voie Pierre Allain. Nous y sommes. Nous remontons
-dans la nuit les premières longueurs que nous avons parcourues de jour deux semaines auparavant.
-Nous reconnaissons jusqu'à nos emplacements de coinceurs et filons assez vite vers le début des
-difficultés. Après les premières dalles se présente un grand dièdre assez raide vers lequel nous nous
-dirigeons, attirés par quelques sangles qui pendent ça et là. Nous allons nous entêter à forcer ce
-dièdre directement, puis par la droite, puis très à gauche, montant, redescendant les impasses en
-rappel, plusieurs fois, pour de nombreuses heures, cherchant à comprendre au moins l'itinéraire
-maintenant que l'horaire est gâché donc la course fichue pour cette fois. Nous prenons également de
-nombreuses photographies pour les confronter au topo. Puis, le cœur gros, nous nous résignons à la
-descente, que nous connaissons puisqu' empruntée quinze jours auparavant. Désescalade des pentes
-faciles, pose d'un long rappel dans la cascade de droite. Nous voilà au pied de ce rappel, dans cette
-gorge lugubre et nous tirons sur la corde qui coulisse d'abord... puis refuse de venir. Après moult
-essais en tous genres, il faut nous avouer vaincus. Le rappel est long (presque nos 50 mètres), la
-corde frotte en haut contre le rocher, et surtout, elle est gorgée d'eau car le débit de la cascade est
-plus important que la dernière fois pour cause de fonte du névé supérieur. Mais notre corde est déjà
-ancienne donc non précieuse et nous savons que quelques mètres de désescalade nous amènent à un
-second rappel, très court celui-là, qui nous dépose sur le petit glacier du pied de la face sud. Aussi
-nous décidons d'aller couper le morceau à notre disposition le plus haut possible, pour aller installer
-celui-ci en corde fixe abandonnée au petit rappel en contrebas. Aussitôt dit aussitôt fait. Avec une
-vingtaine de mètres de corde, nous dégringolons joyeusement jusqu'au second rappel... pour nous
-apercevoir que la rimaye, depuis quinze jours, était passée d'une fente presque invisible à un canyon
-gigantesque et béant, absolument impossible à franchir avec le pauvre morceau de corde que nous
-venions de récupérer. Nous avions fait la grosse bêtise...
-Comme nous avions tiré de toutes nos forces avant de couper la corde pour en récupérer le
-maximum, par élasticité, le bout coupé étaient remonté très haut. Après quelques minutes de
-réflexions concernant nos différentes options, nous décidons de rabouter notre morceau de corde à
-la corde coupée, puis de remonter la cascade sur les deux brins du rappel coincé. Ma copine est
-volontaire. Elle grimpe les premiers rochers glissants sous l'eau de la cascade, assurée par nos vingt
-mètres et un coinceur. Une fois la jonction rétablie avec beaucoup d'efforts, déjà trempée jusqu'aux
-os, la remonteuse d'élite entame sa longue ascension en faisant coulisser ses deux nœuds de Prusik,
-et atteint enfin le relais en grelottant. Nous faisons des essais de coulissement, communiquant avec
-difficulté, chacun à une extrémité de cette haute cheminée de 50 mètres. Malgré l'abandon d'un
-mousqueton, la corde ne veut rien savoir. Aussi dois-je à mon tour remonter la corde fixe sous la
-cascade, avec le premier sac sur le dos, et le second sac pendu au pontet de mon baudrier... Nous
-arriverons tard ce soir-là récupérer nos affaires au Promontoire où Marielle, la gardienne, nous dira
-en souriant que c'est sans doute ainsi qu'on apprend sans faute la montagne.
+## Encordement & Progression
 
-______________________
-La cascade de glace
-Une journée de cascade de glace ressemble à une course d'alpinisme en
-miniature : marche d'approche dans la neige, équipement au pied de la cascade,
-99
+### GLACIER ENNEIGE
 
-quelques longueurs techniques, une descente en rappel, un retour dans la neige.
-Passer une journée à grimper dans le froid, parfois sous les chutes de neige, engoncé
-dans des vêtements chauds qui dissimulent en partie les porte-matériels, avec des
-gants qui gênent dans la manipulation des mousquetons, est très formateur. Un très
-bon rochassier ignorant des techniques de glace demeurera un montagnard incomplet
-qui pourra échouer dans une course AD comme la traversée de la Meije en raison des
-quelques longueurs de glace en face nord. La cascade de glace sera incontournable,
-pas forcément dès la première année, mais plus tard pour la progression.
-Il est difficile de commencer seul en cascade de glace, l'escalade étant souvent
-exposée sauf à truffer la longueur de broches, ce qui reste tout à fait possible si on a
-la chance de trouver une cascade peu fréquentée. Mais il faut reconnaître qu'un stage
-de glace par an jusqu'à atteindre l'autonomie, avec un guide aimant vraiment la glace,
-est la meilleure façon de procéder.
-La gestuelle en piolet-traction est la même que l'escalade à la salle à l'exception
-notable de la frappe. Il va s'agir de pouvoir ancrer et désancrer plusieurs fois de suite
-le même piolet, car il faut parfois redoubler la frappe pour obtenir un bon ancrage,
-sans être déséquilibré, sans fatigue excessive pour maintenir la position, et avec
-suffisamment de puissance dans le bras.
-Quand l'inclinaison est faible, la glace se trouve loin du corps, à la fois pour les
-pieds et pour les mains. Il n'est donc pas difficile d'ancrer les pointes frontales des
-crampons plus haut, ou de frapper la glace comme un service de tennis. Si la pente
-n'est pas assez forte, la glace peut même se trouver trop éloignée du haut du corps, de
-sorte qu'on est obligé d'être quasiment couché pour progresser en piolet-traction. On
-atteint les limites de la technique. Il vaut peut-être mieux alors sortir la lime... affûter
-correctement les pointes inférieures de ses crampons, et évoluer en cramponnage 10
-pointes.
-Quand la pente se redresse, la glace se rapproche , jusqu'à devenir bien trop
-proche. Le débutant ne voit alors plus ses pieds, et tape l'avant de la chaussure au lieu
-d'ancrer les pointes frontales des crampons. Quand la pente sera encore plus raide, et
-pour peu qu''il ne soit pas d'une grande souplesse, il ne pourra plus taper que des
-genoux contre la glace quand il voudra monter les pieds. De la même façon, la frappe
-de son piolet part du coude et se trouve dépourvu de puissance, parce qu'il n'a plus la
-distance nécessaire pour réaliser un mouvement d'ampleur partant de l'épaule, de type
-service de tennis. Quel est donc le secret ?
-La réponse réside dans le bassin qui va être décollé de la glace pendant la
-montée des pieds, et au contraire collé à la glace avec le dos cambré une fois les pieds
-montés, pour sortir le plus possible l'épaule qui va frapper. Réussir à décoller le
-bassin pendant la montée des pieds suppose de ne pas avoir ancré les piolets trop
-haut, en extension complète, car il faut pouvoir casser le corps vers l'arrière, fesses
-sorties, jambes tendues, bras tendus. (Ancrer trop haut rend également très difficile le
-désancrage, au cas où la première frappe n'aurait pas donné satisfaction.) Ainsi, on
-voit facilement entre ses jambes toutes les prises qui s'offrent aux pieds, et ceux-ci
-ont le recul nécessaire pour frapper la glace. Il n'y a plus besoin d'avoir une souplesse
-100
+* Matériel minimum glacier (pour pouvoir se sortir d'une crevasse ou réaliser un relais + mouflage)
+    * une ou deux broches à glace
+    * deux anneaux de cordelettes (fermés par un double nœud de pêcheur) en 6mm, l'un de 60cm de long, l'autre de 120cm,
+    * deux mousquetons à vis,
+    * petit bloqueur mécanique de type ropeman (de la marque Wild Country) ou tibloc (de la marque Petzl)
+    * quatre mousquetons simples.
+    * Sangle de 60cm et une sangle de 120cm.
+    * On peut y ajouter une petite poulie.
 
-extraordinaire de la cheville pour ancrer les pointes frontales plutôt que la chaussure.
-Car on est loin de la glace. N'hésitez pas à être caricatural dans cette cassure du corps
-et cette projection du bassin vers l'arrière. Ceci va vous permettre de monter très haut
-les pieds. Dès que les pieds sont montés, de part et d'autre du piolet que vous allez
-conserver, plaquez le bassin contre la glace et cambrez le dos le plus possible en
-sortant les épaules. Souplesse bienvenue dans ce sens pour pouvoir mettre le plus de
-distance possible entre l'épaule qui va frapper et la glace. Vous obtenez ainsi un
+* Encordement dit en N (long), c'est à dire en divisant la corde en trois parties.
+    * Chaque alpiniste réalise son nœud d'encordement au tiers de la corde.
+    * Pour trouver le bon endroit sur la corde, soit on a marqué les tiers au feutre, soit chaque grimpeur place provisoirement un mousqueton à son pontet, dans lequel il place une boucle de la corde. Tout en tenant chacun une extrémité de la corde, les deux grimpeurs s'éloignent l'un de l'autre, la corde coulissant dans les deux mousquetons, jusqu'à tendre la corde. On obtient ainsi les tiers.
+    * Le nœud d'encordement:
+        * nœud de chaise avec double nœud d'arrêt.
+        * Nœud en huit au lieu du nœud de chaise, mais il présente l'inconvénient d'être très volumineux quand, comme ici, on le réalise avec deux épaisseurs de corde, puisqu'on s'encorde dans le cours de la corde et non à son extrémité.
+    * On love le tiers libre en un petit écheveau qu'on place sous le rabat de son sac à dos. C'est la réserve de corde. Elle va servir à faciliter les manœuvres de sauvetage en crevasse le cas échéant.
+
+* Progression se fait corde tendue.
+    * L'idéal est que la corde ne touche pas le sol.
+    * La tension est cependant fatigante pour le grimpeur de tête car elle le freine. On peut donc détendre légèrement dans les zones peu suspectes de crevasses et tendre à la perfection dès qu'un doute se présente.
+    * Si un grimpeur perce un pont de neige fragile recouvrant une crevasse, la corde déjà tendue empêche la chute.
+    * Chacun doit donc progresser en gardant à l'esprit qu'il peut être tiré brusquement vers l'autre à tout instant, et qu'il lui appartiendra de ne pas se laisser entraîner.
+
+* Longueur et type de corde
+    * on peut utiliser un seul brin d'une corde à double car il s'agit d'enrayer une glissade plus que de stopper une véritable chute.
+    * L'idéal est d'avoir un brin de 50 mètres de façon à disposer d'une quinzaine de mètres entre les grimpeurs. Si la corde est plus courte, on privilégie la longueur de l'encordement par rapport à la réserve de corde, qui sera alors plus courte. L'encordement n'est donc plus rigoureusement au tiers.
+
+* Cramponnage vs marches
+    * Sur glacier ou glace dure: cramponnage dix pointes (technique française).
+        * Il s'agit de faire mordre les dix pointes inférieures de chaque crampon dans la neige, un crampon classique en comptant deux de plus dirigées vers l'avant qui ne sont d'aucune utilité sur pente faible. En conséquence, on tord la cheville au gré de l'inclinaison de la pente. Contrairement au ski, on ne prend pas de « carre ».
+        * A la montée, pour éviter d'allonger dangereusement le tendon d'Achille, on progresse de côté, voire presque à reculons, dans une sorte de traversée ascendante. C'est à dire qu'on présente une hanche vers l'amont, une autre vers l'aval.
+            * Le pied amont se positionne de travers à la pente, voire pointe légèrement dirigée vers l'aval sur une pente plus importante.
+            * Le pied aval, lors du pas, va passer devant le tibia amont, se placer en avant et en amont du pied amont, pointe nettement dirigée vers l'aval d'autant plus que la pente est grande.
+            * On a donc à cet instant les jambes croisées, l'équilibre étant maintenu grâce au piolet tenu comme une canne par la main amont posée sur la panne, lame orientée vers l'avant : c'est la technique du piolet-canne.
+            * On reporte le poids du corps sur le nouveau pied amont, puis l'ancien pied amont, devenu aval, passe derrière le mollet du nouveau pied amont (c'est à dire entre la pente de neige et la jambe, espace de plus en plus réduit à mesure que la pente s'accentue), et se pose de nouveau de travers à la pente, mais plus haut sur la pente.
+            * Plus la pente est forte, plus l'ensemble du corps se tourne vers l'aval, donnant alors l'impression de progresser à reculons.
+            * La progression forme donc des lacets. En bout de lacet, le changement de direction se fait pour le premier de cordée en se tournant vers l'aval, ce qui lui évite de devoir enjamber la corde qui relie les deux membres de la cordée, car la corde doit rester du côté de la hanche aval du leader pour l'empêcher d'être soumis à une rotation qui le déséquilibrerait lors d'une glissade du second.
+
+            ![Image](img/technique10pointes.png?raw=true)
+            Technique dix pointes, au moment du croisement de jambes.
+
+        * A la descente, les deux pieds sont en canard. Pour éviter la prise de carres, on porte le poids sur l'avant du pied. On peut s'aider à conserver la bonne position du corps vers l'avant en pente soutenue en plaçant la main libre, celle qui ne tient pas le piolet, sur le genou.
+
+    * Sur neige molle et épaisse: imprimer des marches
+        * A la montée, on marche alors normalement, comme on monte un escalier.
+        * A la descente, on attaque franchement du talon. Mais dès que la couche de neige devient insuffisamment malléable, on revient au poids du corps porté sur l'avant du pied car une glissade sur le talon est une glissade sans filet.
+            * Derrière le talon, il n'y a en effet plus rien pour retenir la chute, tandis que derrière l'avant-pied qui glisse, il y a encore toute la longueur du crampon pour se rattraper.
+
+### PENTE RAIDE NEIGE
+
+* Encordement court
+    * Le risque de glissade remplace le risque de chute en crevasse.
+    * L'encordement en N devient trop long car très trompeur en neige du fait de l'élasticité de la corde. C'est quand l'assureur croit avoir enrayé la glissade de son compagnon que la corde transmet avec une relative douceur sa force de choc maximale et le décroche de la pente à la façon d'une catapulte.
+    * Il faut donc s'encorder très court, environ trois mètres, afin d'enrayer la glissade dès son début, avant toute prise de vitesse dans la pente.
+    * Le leader peut conserver quelques anneaux de corde à la main, le dernier serré en tour mort autour de la paume.
+    * La corde est bien tendue de façon à sentir le second par la corde, un coup de poignet énergique le remettant en selle en cas de déséquilibre.
+    * Si le leader a besoin de ses deux mains, on progresse sans anneaux à la main, à corde tendue, en conservant cette même distance très courte.
+    * Dans les deux cas, la corde ne touche pas le sol.
+    * On réduit la longueur de l'encordement en prenant des anneaux de buste. Il s'agit de l'encordement montagne classique. Si on vient du glacier crevassé avec un encordement en N, que la portion raide et non crevassée sera suivie d'une nouvelle portion de glacier crevassée, on peut prendre ces anneaux de buste à partir de l'encordement en N pour ne pas tout défaire. Puis on relâchera ces anneaux de buste quand le risque de crevasse reprendra.
+    * Mais si le risque de chute en crevasse a définitivement disparu et qu'on aborde un terrain plus complexe, neigeux puis rocheux, où on devra peut-être changer encore la distance d'encordement, on peut préférer, pour plus de simplicité, défaire l'encordement en N puis réaliser l'encordement montagne classique à partir des extrémités de la corde.
+
+* Encordement montagne classique:
+    * Chaque membre de la cordée est encordé à une extrémité de la corde par un nœud en huit ou un nœud de chaise assorti de son double nœud d'arrêt, selon sa préférence.
+    * La corde est en tas, posée au sol. Chacun va raccourcir la corde en prenant des anneaux de buste.
+    * On place sa main droite, paume ouverte vers bas, devant et légèrement au-dessus du pontet de son baudrier. La main gauche, en glissant le long de la corde depuis le nœud d'encordement, va amener la corde derrière la nuque, de gauche à droite. On fait plusieurs tours, jusqu'à obtenir la bonne longueur entre les grimpeurs, en tenant compte de la longueur nécessaire pour les nœuds d'arrêt.
+    * Une fois le dernier anneau formé, on enfile le bras droit puis l'épaule droite dans la totalité des anneaux. On a donc ces anneaux en bandoulière sous l'aisselle droite, et derrière l'épaule droite.
+    * Le dernier anneau passe sous tous les anneaux puis dans la boucle d'encordement que forme le premier nœud d'encordement.
+
+    ![Image](img/encordementmontagne1.png?raw=true)
+
+    * Il reste à nouer le tout. On fait une boucle avec le dernier anneau qu'on enfile sous tous les anneaux (c'est à dire entre le paquet d'anneaux et la poitrine) de haut en bas. Cette boucle est ensuite repassée dans la boucle du nœud d'encordement initial (ou dans le pontet), puis est nouée sur elle-même par un nœud simple qui emprisonne la corde allant à l'autre grimpeur. En tendant alors cette corde, la tension est transmise à la boucle d'encordement.
+
+    ![Image](img/encordementmontagne2.png?raw=true)
+    
+    * On place enfin un mousqueton entre la boucle et le pontet pour prévenir le lâchage progressif du nœud simple.
+    * On sécurise généralement la boucle en la mousquetonnant au pontet.
+
+* Progression en montée:
+    * Neige idéale (à la fois solide et malléable) - piolet-appui ou piolet panne:
+        * PIOLET: Piolet appui ou panne:
+            * La main tient le piolet en haut du manche très près de la tête, ou bien par la panne, mais c'est cette fois la lame du piolet qui est plantée en la poussant simplement devant soi dans la pente raide, tandis que la main libre est posée sur la neige pour parfaire l'équilibre.
+
+            ![Image](img/pioletpanne.png?raw=true)
+
+        * PIED:
+            * On progresse face à la pente avec la moitié du pied qui pénètre à chaque pas dans la neige.
+            * Cramponnage mixte (moins éprouvant) : un pied en cramponnage frontal, en faisant mordre face à la pente les quatre pointes avant du crampon, l'autre pied à plat pour soulager le mollet.
+        * Rapidité et économie de mouvement, mais on ne peut ancrer profondément que si la neige est relativement molle. Sur neige plus dure, l'ancrage est superficiel et risque de ne pas pouvoir enrayer une glissade.
+    * Pentes plus raides ou  neiges plus dures:
+        * PIOLET: piolet-ancre
+            * une main sur la tête, l'autre main en bas de manche.
+            * On ancre la lame en tenant le piolet d'une seule main comme on le pratique en cascade de glace tel un smash de tennis, puis on s'y tient à deux mains.
+
+            ![Image](img/pioletancre.png?raw=true)
+
+        * PIED
+            * Cramponnage frontal.
+            * Cramponnage mixte
+            * Pied assis (anciennement utilisé):
+                * Pieds à plat, avec le corps vrillé, le bas tourné vers l'aval, le haut vers l'amont ou de travers.
+                * Au moment critique du désancrage, l'équilibre était résolu par un pas intermédiaire dit du pied-assis: avant que le pied devenu aval ne passe de nouveau devant le tibia du pied amont, on le posait à plat contre la pente, orteils dirigés vers le bas, assez haut sous la fesse arrière, genou plié bien sûr, comme si on allait s'asseoir dans un étrier.
+                * Ceci donne la stabilité nécessaire pour désancrer puis ancrer de nouveau plus haut.
+                ![Image](img/piedassis.png?raw=true)
+        * Plus lent et fatiguant
+
+    * Pentes très raides:
+        * PIOLET: piolet traction comme en glace, avec souvent second piolet
+        * PIED: cramponnage frontal
+
+    * Neige molle:
+        * PIOLET: piolet-manche:
+            * planter le manche verticalement et entièrement dans la neige.
+            * On se tient au piolet dont seule la tête dépasse comme en piolet-canne.
+            * Si la neige est encore plus molle, on peut poser son piolet à plat horizontalement, tenu à deux mains devant soi en l'enfouissant comme un corps mort à chaque pas, mais ce cas de figure se rencontre plutôt en poudreuse 
+            * On peut aussi utiliser les bâtons télescopiques réunis ensemble avec la même technique. 
+
+* Progression en descente ou traversée
+    * Traversée et descentes raides: piolet-ramasse.
+        * Piolet est tenu sensiblement horizontalement au niveau de la hanche amont, pique posée ou plantée dans la neige, une main en pronation en bas du manche (très proche de la pique) appuyant vers la pente, l'autre main en supination sur la tête du piolet tirant vers le haut. 
+
+        ![Image](img/pioletramasse.png?raw=true)
+    
+    * Pentes très raides:
+        * PIOLET: piolet traction comme en glace, avec souvent second piolet
+        * PIED: cramponnage frontal et descente à reculon
+
+* Débotter en neige collante: on tape régulièrement un ou deux coups de piolet sur l'extérieur du crampon au moment où le pied est levé pour faire tomber le sabot de neige éventuel qui s'est formé dessous. 
+
+* Stopper glissade en pente raide - Position de réchappe
+    * Il n'est pas possible de stopper la glissade du compagnon de cordée si celui-ci est passif.
+
+    ![Image](img/rechape.png?raw=true)
+    Position de réchappe.
+
+    * Le plus tôt possible, il tente de se retourner sur le ventre en conservant la tête à l'amont.
+    * PIOLET:
+        * Il pèse de sa poitrine sur la tête de piolet tenue d'une main tandis que la seconde main tient le bas du manche, c'est à dire avec la même saisie que la technique du piolet-ancre.
+        * Ainsi, la lame raye la neige à la manière d'un soc de charrue et freine progressivement.
+        * On s'arrange pour que la pique ne s'enfonce pas dans la neige en relevant soigneusement le bas du manche, sinon, le piolet pourrait se bloquer d'un coup.
+    * PIEDS
+        * En neige dure, on relève les pieds pour éviter de rebondir sur les pointes avant des crampons.
+        * En neige molle, on écarte les pieds et on s'en sert pour freiner davantage, mais avec d'infinies précautions si l'on a chaussé les crampons pour ne pas risquer un arrêt brutal des pieds et une bascule tête en bas, et seulement après avoir déjà ralenti franchement par l'action du piolet. 
+    
+
+### ARETE DE NEIGE
+
+* Arête sans corniche importante qui empêcherait de parcourir le fil:
+    * on marche sur celui-ci en prenant garde à l'effondrement des marches formant la trace.
+    * L'encordement est réduit par des anneaux de buste à sept mètres.
+    * Le membre de la cordée le plus à l'aise sur ce genre de terrain est derrière et tient à la main deux mètres de corde formant des anneaux. Les alpinistes progressent donc à cinq mètres l'un de l'autre.
+    * Si le grimpeur placé en arrière voit devant lui son compagnon chuter d'un côté, il doit lâcher ses anneaux et sauter de l'autre côté de l'arête. La réserve de corde permet de donner le temps d'agir.
+
+* Arête fortement cornichée, la trace se trouve très en contrebas du fil ce qui interdit cette technique.
+    * Encordement très court si l'inclinaison n'est pas trop forte et que la consistance de la neige rend la progression sûre.
+    * Si vous êtes très sûr et que vous emmenez un débutant, vous préférerez dans ce cas de figure particulier progresser sur une trace amont de votre second, afin d'éviter tout pendule. Il sera ainsi mieux assuré, et ne vous déstabilisera pas par ses pertes d'équilibre.
+    * Si la pente est délicate, on rallonge l'encordement de façon suffisante pour dépasser l'obstacle que constitue la portion cornichée en posant un relais avant et un après.
+    
+## RELAIS EN NEIGE
+
+* Le plus classique: piolet enfoui en corps mort.
+    * On creuse avec la panne du piolet deux tranchées profondes : une horizontale qui va recevoir le piolet, une verticale partant du milieu de la première vers le bas, qui va accueillir une longue sangle allant au pontet du baudrier de l'assureur.
+    * Le piolet est couché dans la tranchée horizontale, la sangle passée au milieu du manche en tête d'alouette ou mieux en nœud de cabestan.
+    * L'assureur, vaché à la sangle tendue, se place en contrebas du piolet et assure à l'épaule (vêtements épais obligatoires) ou sur demi-cabestan pour doser un assurage dynamique.
+    * Pour renforcer la tenue du corps mort, on doit le recouvrir de neige tassée.
+
+* Relais de rappel
+    * le plus simple est un corps-mort fait d'un objet abandonné : pierre trouvée sur place, gourde, sac plastique solide rempli de neige ...
+    * En l'absence d'objet à abandonner, le modelage d'un champignon de neige de grand diamètre (2 mètres parfois) peut faire l'affaire en dépannage.
+        * On y place directement la corde et on fait des essais de coulissement de la corde avant que le dernier de la cordée ne descende.
+        * Sa confection est assez laborieuse : de diamètre trop petit, il est fragile ; de diamètre trop grand, la corde peut refuser de coulisser.
+        * Sur une neige très dure de consistance proche de la glace, sa confection plus compacte est plus facile et on peut abandonner une sangle.
+        
+### ROCHER
+
+* Grimper en grosses
+    * En montagne, on grimpe généralement en chaussons à partir du 4e degré.
+    * On pourra préférer grimper en grosses, si les fissures nécessite des coincements nombreux, si le rocher est partiellement enneigé, s'il y a alternance de roches et de mixte qui impose les crampons. Si les sections rocheuses sont courtes et peu difficiles, on conserve alors les crampons pour éviter de perdre du temps.
+
+* Désescalade
+    * Face au vide, les paumes prenant appui le plus bas possible, les bras un peu écartés, les jambes écartées. On plie une jambe tandis que l'autre jambe tendue va chercher une prise très en aval.
+    * Quand la pente est trop raide ou que la difficulté est trop grande, on se retourne face au rocher.
+
+* Assurage en mouvements
+    * Encordement montagne classique pour encordement long ou court comme en neige
+    * Encordement long
+        * les deux grimpeurs sont éloignés de quinze à vingt mètres.
+        * Le premier de cordée place des protections que le second récupère en passant.
+        * En présence d'obstacles rocheux sur une arête par exemple, le simple passage de la corde à droite puis à gauche de deux obstacles successifs peut suffire à créer l'assurage.
+        * De la même façon, en traversée, on passe simplement la corde derrière une écaille saillante sans déposer de matériel.
+        * Quand le premier de cordée ne dispose plus assez de matériel pour assurer convenablement la cordée, il fait venir le second à lui sur une protection sûre, et soit le second part en premier de cordée, soit le premier récupère son matériel.
+        * On essaie de conserver au moins deux protections en permanence entre les deux grimpeurs pour plus de sécurité
+    * Encordement court, réservé aux sections faciles
+        * on progresse à trois mètres l'un de l'autre, sans pose de protection entre les deux grimpeurs.
+        * Il s'agit du mode d'assurage le plus rapide.
+        
+* Assurage par longueurs
+    * La seule différence avec les voies équipées tiendra à la pose des coinceurs, des pitons, des sangles sur les becquets rocheux, dans les lunules de rocher ou autour de pierres coincées dans des fissures.
+    * Relais en place:
+        * Si relais en piton, il faut retaper les pitons
+        * Se vacher (directement avec la corde):
+            * on mousquetonne de préférence directement les pitons plutôt que le tas de cordelettes (si c'est un relais utilisé pour la descente).
+            * On introduit un mousqueton à vis dans le piton du bas, on le retourne ouverture vers le bas, et on réalise un nœud de cabestan avec sa corde d'assurage, à la bonne longueur pour être confortable avec le relais à peu près à la hauteur du front, corde en tension.
+            * On règle une longueur suffisante pour ne pas être collé au relais.
+            * On pose un second mousqueton simple dans le piton du haut, on le retourne, et on fait un nœud de cabestan avec la corde qui vient du mousqueton du bas. En quelque sorte, le piton du haut contre-assure le piton du bas.
+            * Il n'y a pas répartition des forces sur les deux ancrages, mais chacun a été jugé suffisamment solide.
+            * On a ici recherché la simplicité du relais et sa rapidité de réalisation.
+            * Il reste à placer la plaquette d'assurage sur le mousqueton du bas. 
+            * Si les pitons sont douteux, parce que très rouillés, cherchez à ajouter une protection quelconque : coinceur, sangle ou piton. Puis répartissez les forces exercées sur les différents ancrages avec une longue sangle (relais triangulé)
+    * Relais n'est pas en place
+        * En présence d'une terrasse confortable dépourvue de matériel mais flanquée d'un solide becquet, on admettra qu'il s'agit du relais habituel de la longueur
+            * On tente d'ébranler le becquet pour éprouver sa solidité. 
+            * On coiffe la protubérance avec une longue sangle qui descend bien bas sur le becquet
+            * on place un mousqueton à vis et on se vache avec la corde avec un nœud de cabestan, en tension, en se tenant en contrebas du becquet.
+            * La règle du V le plus fermé possible s'applique aussi ici : on évite d'utiliser une sangle trop courte.
+            * D'une façon générale, on choisit un mousqueton à vis quand l'ancrage est unique donc le mousqueton unique également ; et on choisit des mousquetons simples quand les ancrages sont multiples donc les mousquetons également. 
+        * Les autres relais seront des compromis tentant de concilier la longueur de corde optimale, la sécurité des ancrages composant ce relais (doublage d'un bon piton préexistant par exemple) et la commodité (éviter le plus possible les relais suspendus qui sont très éprouvants).
+        
+* Pose des sangles d'assurage
+    * Les sangles sont un moyen d'assurage très fréquent dans les courses classiques.
+    * En falaise:
+        * on les utilise autour des buis et des pins poussant en paroi. Si on veut assujettir la sangle à un endroit précis de la racine ou du tronc, on en fait une tête d'alouette avant de placer un mousqueton et de mousquetonner la corde, mais on sait que ce nœud fragilise la sangle.
+        * Aussi, quand il est inutile de serrer la sangle autour du bois, on se contente de mousquetonner les deux boucles de la sangle, pour obtenir une meilleure résistance.
+    * En haute-montagne, point de végétation.
+        * On utilisera les sangles pour coiffer les becquets et les écailles en tous genres qu'on rencontre quasiment partout sauf dans les parois vraiment dures.
+        * On passe tout simplement l'anneau de sangle cousue en collier autour du bollard de rocher et on mousquetonne la corde avec un mousqueton. 
+        * Par grand vent, pour éviter qu'elle ne quitte le becquet en s'envolant, on peut la forcer à frotter contre le rocher en faisant un nœud qui l'étrangle
+        * Parfois on peut bloquer la sangle avec une pierre coincée en amont du becquet ou de l'écaille.
+        * De même en bas d'une brèche qu'on vient de franchir, la tension de la corde entraîne les sangles vers le haut. Il faut donc trouver une astuce pour empêcher ce phénomène, un friend posé plus bas et retenant la sangle vers le bas par exemple, ou soit faire relais à la brèche, soit se passer de cette protection.
+        * On utilise aussi fréquemment les sangles pour entourer une pierre coincée au fond d'une grosse fissure.
+            * On mousquetonne les deux boucles.
+            * On est souvent obligé de rallonger par une dégaine pour éviter le tirage car ces sangles, qui sont posées assez profondément dans les cheminées ou les dièdres, sont généralement surmontées par un surplomb.
+            * Forcer la corde à suivre un angle à cet endroit tout en frottant contre le surplomb a de bonnes chances de provoquer un important tirage en fin de longueur.
+        * Plus rarement, on trouve des lunules naturelles de rocher et on est alors heureux de posséder au moins une sangle très fine en dyneema car les trous peuvent être très étroits. Attention au coincement intempestif de la couture en double épaisseur au moment de la dépose. On tâche de tirer la sangle dans le sens qui ne va pas entraîner la couture dans un endroit inaccessible. 
+
+        ![Image](img/lunule.png?raw=true)
+        
+        ![Image](img/protecVimportant.png?raw=true)
+        La sangle est ici trop courte et forme un v beaucoup trop ouvert. De plus, la boucle située à gauche est trop proche de l'ouverture du mousqueton.
+
+        ![Image](img/protec2.png?raw=true)
+        On a allongé la première sangle par une seconde pour refermer l'angle et on a retourné le mousqueton pour éviter la proximité de la boucle de gauche avec le doigt.
+
+        ![Image](img/protec3.png?raw=true)
+        Même endroit, mais on a ici noué un morceau d'une corde mise au rebut par un double nœud de pêcheur, dans le but de poser un rappel, et non plus un point d'assurage.
+
+* La pose des pitons
+    * Il existe grosso deux types de pitons: 
+        * acier doux écroui pour roches tendres comme le calcaire
+        * acier au chrome et au molybdène traité à chaud, acier allié moins déformable, pour des roches dures comme le granit.  
+
+    * cinq formes principales :
+        * Vertical: œil de mousquetonnage est dans le même plan que la lame (plus trop fabriqué), contre indiqué pour les fissures verticales
+        * Horizontal : œil est dans un plan perpendiculaire à la lame, soit centré, soit plus souvent décentré. Contre indiqué pour les fissures horizontales sauf si oeil décentré et dans le cas, véritable piton universel.
+        * Universel (qui ne l'est pas) : œil est dans un plan à 45° de la lame, tourné à droite ou à gauche
+        * A anneau: anneau métallique passé dans l’œil qui permettait de faire passer directement la corde pour un rappel. Pas top car pas de couple de verrouillage.
+        * Cornières: lame est repliée sur toute la longueur sur elle-même pour former un U épais, pour les larges fissures.
+    
+    ![Image](img/pitons.png?raw=true)
+    Petit assortiment de pitons. En noir, les pitons en acier dur ; en blanc, les pitons en acier mou ; au milieu en bas, le piton Grivel en acier mi-dur. En haut à gauche, les pitons dits horizontaux les plus courants. Les cornières en bas à gauche. Les universels vers la droite. Deux pitons horizontaux mais à œil centré à l'extrême droite.
+    
+    * Le principe du pitonnage est d'enfoncer, jusqu'à l’œil, le piton avec force, c'est à dire contre une résistance réelle du rocher, de telle façon que la traction vers le bas au niveau de l’œil engendre un effet de couple cherchant à tordre le piton dans la fissure, ce qui crée le verrouillage.
+    * Pour planter un piton:
+        * on libère une main
+        * on saisit un piton à son portematériel, on l'introduit à la main dans la fissure jusqu'à la moitié de la longueur environ,
+        * on le coince par un coup sec de la paume. Là, il doit tenir tout seul son propre poids.
+        * On sort son marteau d'une main, on tape très légèrement le premier coup surtout si c'est un piton dur qui a tendance à rebondir en début de frappe. S'il a du mal à tenir en place, on sort la petite ficelle qu'on a prévue pour assurer le piton dans ces cas de figure.
+        * Puis on frappe de plus en plus fort au fur et à mesure que le piton rentre. Il faut vraiment taper très fort, surtout si on a choisi un marteau léger.
+        * Si le piton rentre avec des coups de marteau dépourvus de force, c'est qu'il est trop fin pour la fissure.
+        * Les coups de marteau produisent un son de plus en plus aigu : on dit que le piton chante, gage d'une bonne tenue.
+        * Si le marteau rebondit violemment, c'est que la lame a rencontré un obstacle insurmontable. Soit on s'en contente (presque planté à fond, rien de mieux autour de cette fissure et pas d'autre piton), soit on recommence avec un piton de dimensions différentes ou le même piton dans une autre fissure.
+    * S'il est impossible de planter le piton à fond, on cherche à annuler le bras de levier défavorable, soit en cravatant la lame du piton avec une cordelette qu'on mousquetonne à la place de l’œil (nœud en tête d'alouette ou nœud coulant), soit s'il s'agit d'un piton mou en rabattant la partie du piton hors du rocher contre celui-ci  la force de la paume ou avec le poids du corps plutôt qu'au marteau.
+
+    ![Image](img/piton2.png?raw=true)
+    Placement d'un piton dit horizontal en acier mou. La position du mousqueton participe à la création du couple. Éviter de le mettre à cheval sur la totalité du corps du piton.
+   
+    ![Image](img/piton3.png?raw=true)
+    Universel insuffisamment planté et cravaté par une sangle. Pas d'effet de verrouillage dans ce cas !
+
+    ![Image](img/piton4.png?raw=true)
+    Piton insuffisamment planté et rabattu à la main pour réduire le porte-à-faux.
+
+    * Dans tous les cas, piton trouvé en place ou piton qu'on a planté soi-même, on reste critique vis à vis de sa tenue, ce qui ne signifie pas qu'on ne puisse pas utiliser un piton très moyen, comme point de progression par exemple. 
+    * Pour ôter un piton, on se sert du crochet à dépitonner du marteau. On tape d'abord latéralement sur la tête du piton pour l'incliner, puis on fait levier avec le crochet à dépitonner passé dans l’œil du piton jusqu'à l'incliner dans l'autre sens, et on recommence l'opération jusqu'à l'extraction totale. On peut aussi utiliser une chaîne ou un câble à dépitonner. On fixe une extrémité au piton par un maillon rapide et l'autre extrémité à l’œil du marteau, puis on donne des coups de marteau vers le vide. On maintient son visage hors de l'axe d'éjection car on a payé la porcelaine de son incisive centrale suffisamment cher. Parfois, on peut utiliser son poids pour achever un piton affaibli.
+
+    ![Image](img/piton5.png?raw=true)
+    Utilisation du crochet à dépitonner.
+    
+    ![Image](img/piton6.png?raw=true)
+    Utilisation du câble à dépitonner
+
+* Pose des coinceurs
+    * Matériel habituel
+        * jeu de coinceurs câblés du n°1 au n°8 pour les fissures étroites qui présentent des étranglements (très utilisé outre manche sur granit très fracturé avec numéros courants au moins triplés)
+        * jeu de friends du n°1 au n°3 voire 3,5 pour les fissures larges. Les bons topos précisent s'il faut prévoir aussi le volumineux friend n°4.
+
+    ![Image](img/coinceur1.png?raw=true)
+    De gauche à droite, décoinceur, jeu de coinceurs câblés, friend à tige rigide (cordelette en dyneema nouée avec un nœud de pêcheur triple), deux friends flexibles, un Alien, et un C3 de Black Diamond. Dessous, trois copper-heads à mater.
+
+    * Pour placer un coinceur câblé
+        * on sort le jeu entier monté sur un mousqueton.
+        * On présente le numéro correspondant à la largeur de la fissure juste au-dessus d'un resserrement.
+        * Si la taille ne convient pas, on en sélectionne un autre.
+        * On l'introduit dans la fissure, et en tenant la grappe des autres coinceurs, on tire un ou deux coups secs vers le bas pour le coincer.
+        * On détache ensuite le coinceur du mousqueton portant les autres qu'on range à son porte-matériel et on mousquetonne la dégaine.
+        * Dans les cas difficiles, on peut coupler plusieurs coinceurs, l'un coincé vers le bas, l'autre coincé vers le haut et dont le câble passe dans la boucle du précédent afin que les deux se contrarient. On obtient ainsi un ancrage qui peut être multi-directionnel.
+    * Pour placer un friend,
+        * on sélectionne le numéro correspondant à la taille de la fissure en sachant que le friend doit tenir avec les cames presque entièrement refermées. Cames trop ouvertes, le friend ne résistera pas à un choc. Cames totalement fermées, on ne pourra peut-être pas le récupérer.
+        * On tache de ne pas l'installer à proximité d'un élargissement de la fissure car le friend se déplace comme un crabe quand il est sollicité par les mouvements de la corde. Il faut alors choisir un numéro de plus grosse taille qui convient à cet élargissement et le mettre à cet endroit. Ainsi, s'il se déplace, il va vers le rétrécissement et reste coincé.
+        * On place la queue du friend dans la direction de la chute (même si cette recommandation est moins cruciale que naguère pour les friends à tige rigide) car le choc risquerait de provoquer une rotation dont l'issue n'est pas forcément favorable. 
+        * Il est préférable de porter les friends avec un mousqueton pour chacun, ce qui évite l'emploi systématique d'une dégaine et permet leur mise en place plus rapide. 
+        
+        ![Image](img/coinceur.png?raw=true)
+        Coinceur câblé en place. Si cette position rendait le coinceur instable, on le retournerait, avec la face convexe à gauche et la face concave à droite. On choisit le sens le plus stable.
+        
+        ![Image](img/friend.png?raw=true)
+        Friend en place. S'il est instable dans cette position, on le retourne avec les cames externes à gauche et les cames internes à droite. On choisit le sens le plus stable.
+        
+        ![Image](img/friend2.png?raw=true)
+        On aurait préféré enfoncer davantage le friend afin que sa tige soit entièrement en appui sur la partie horizontale du rocher et éviter ainsi une flexion du câble, mais la fissure est insuffisamment profonde. C'est ce genre de situation qui a fait abandonner les premiers friends à tige rigide. 
+        
+        ![Image](img/coinceur2.png?raw=true)
+        Cette façon de positionner un coinceur câblé est autorisée. On bénéficie ainsi d'une plus grande largeur, ce qui est intéressant si on ne dispose pas d'un coinceur suffisamment large dans la position classique. Mais on ne bénéficie pas dans cette position de l'effet de came provoqué par les faces concave et convexe du coinceur.
+
+### GLACE
+
+* Matériel:
+    * 2 Broches à glace chacun (broche longue et courte, cette dernière pour la glace mince)
+    * Dégaine explose
+    * Crochet à Abalakov: on peut confectionner le crochet à abalakov soi-même à partir d'un rayon de bicyclette. 
+
+    ![Image](img/broches.png?raw=true)
+    3 broches classiques (22, 19, 16 cm), un capuchon, une broche 360, 2 étuis à placer à la ceinture, une dégaine « explose ».
+    
+    ![Image](img/crochetabalakov.png?raw=true)
+    De haut en bas, crochet à câble, multihook de CharletMoser pouvant aussi servir de décoinceur, et fabrication maison à partir d'un rayon de bicyclette.
+
+* Progression
+    * Cramponnage dix pointes est identique à celui décrit en neige.
+    * La seule différence est que la surface n'est plus du tout malléable.
+    * En pente plus raide, le piolet-appui ou le piolet-panne ne sont pas utilisables en glace car pousser simplement la lame en tenant le piolet par la panne ou en haut du manche ne suffit pas pour la faire mordre.
+    * La technique du piolet-ancre est la technique royale quand on ne dispose que d'un piolet.
+    * Le piolet-ramasse convient tout à fait pour de courtes traversées horizontales, ascendantes ou descendantes.
+    * Dès que la pente se redresse, on utilise la technique du piolet-traction, avec un ou deux piolets (cf. p.102).
+    * Sur cramponnage frontal, on garde les talons bas pour faire mordre les quatre pointes avant de chaque crampon, les deux pointes les plus basses servant à stabiliser la position. Si la section est longue, on peut préférer la technique mixte, un pied en technique frontale, un pied à plat, pour épargner les mollets.
+    * En descente, le piolet-rampe est très efficace à condition de ne pas avoir choisi une lame banane qui ne tient pas à l'envers. On ancre très bas le piolet puis on se sert du manche comme d'une rampe en cherchant à l'exploiter le plus bas possible.
+
+    ![Image](img/pioletrampe.png?raw=true)
+    Piolet-rampe, main en bout de manche.
+
+    ![Image](img/pioletrampe2.png?raw=true)
+    Piolet rampe : la main a glissé le long du manche pendant le pas de désescalade. L'autre main posée sur le genou aide à conserver la position vers l'avant pour
+    que le poids du corps soit à l'aplomb des pieds.
+
+* Points d'assurage
+    * Broches tubulaires qu'on visse à la main perpendiculairement à la surface de la glace.
+    * La qualité de celle-ci est évidemment primordiale. La consistance de la carotte sortant de la broche pendant le vissage nous renseigne :
+        * des copeaux épars, trop d'air dans la glace
+        * de l'eau, glace trop chaude.
+    * Une dégaine « explose » dont les coutures se déchirent pour amortir le choc peut être utilisée dans le cas d'une glace douteuse.
+    * On peut aussi nettoyer au piolet cette mauvaise glace pour accéder à un matériau solide.
+    * Une vieille glace fossile mise à nue dans une pente de haute-montagne en fin d'été peut interdire le brochage par sa dureté extrême. On est alors heureux d'avoir entretenu avec soin les dents d'amorçage et l'état de surface du corps de ses broches, pour réussir à se protéger néanmoins un minimum.
+    * Quelques broches courtes pour la glace mince plaquée sur du rocher afin d'éviter le porte-à-faux d'une broche incomplètement vissée. 
+
+* Relais de progression
+ * Simple et sûr si la glace est suffisamment épaisse et solide.
+ * On visse deux broches tubulaires l'une au-dessus de l'autre, suffisamment éloignées pour qu'elles ne sollicitent pas le même cône de glace, et on les relie avec une grande sangle.
+ * On fait un nœud (simple ou en huit selon la longueur disponible) en bas de la sangle pour éviter qu'un choc ne se produise sur une broche si l'autre venait à céder.
+ 
+* Relais de rappel - Abalakov
+    * Pour éviter d'abandonner une coûteuse broche à glace, on confectionne une lunule artificielle, dite abalakov, en vissant deux broches inclinées de façon qu'elles se rencontrent en profondeur. Il faut savoir viser juste. 
+    * Après avoir retiré les broches, on enfile une cordelette dans un tunnel pour la ressortir du second tunnel en la piquant avec un crochet métallique pointu.
+    * On conseille actuellement un diamètre de 7mm pour la cordelette, ce relativement gros diamètre sciant moins facilement une glace de consistance douteuse. En glace compacte, rien n'empêche de descendre à 6 ou 5mm.
+    * La cordelette est fermée en anneau par un double nœud de pêcheur.
+    * On recommande une angulation des broches avec la surface de 45°, de façon qu'elles se rencontrent à 90°.
+    * On recommande que les deux broches se rencontrent le plus profondément possible. Il nous semble opportun de proposer un triangle équilatéral, afin d'obtenir autant d'épaisseur que de largeur à la lunule, donc des angles de 60°, les broches se rencontrant à... 60°.
+    * En pratique, vous verrez que vous serez déjà bien content de voir vos deux tunnels se rejoindre, surtout en glace dure où on ne peut pas récupérer un mauvais angle de départ, et que vous n'ergoterez pas sur quelques degrés pourvu que l’œuvre semble solide.
+    * Les fractures naturelles de la glace se produisant la plupart du temps horizontalement, on conseille aujourd'hui de réaliser une lunule verticale plutôt qu'horizontale.
+    * Quand la glace est bien sèche, on peut même économiser la cordelette en passant la corde directement. Le nœud doit alors se situer en dessous, pour avoir à tirer sur le brin sortant du tunnel inférieur. On parle de lunule sèche.
+
+    ![Image](img/lunuleseche.png?raw=true)
+    Lunule sèche.
+
+    ![Image](img/abalakov2.png?raw=true)
+    Deux abalakovs verticaux superposés et liés avec la même cordelette. Nœud de chaise avec nœud d'arrêt pour chaque lunule, nœud simple ou en huit en bas de la cordelette. 
+    
+    ![Image](img/abalakov3.png?raw=true)
+    Abalakov en triangle. On réalise d'abord la lunule verticale, ici située à droite. Puis on crée le tunnel plus ou moins horizontal (situé ici à gauche) qui rejoint vers la droite le tunnel du bas. La cordelette est insérée comme pour une lunule verticale classique, puis est repêchée en double par le trou en bas à gauche.
+
+    ![Image](img/abalakov.png?raw=true)
+    La solution de Mike Barter pour les étourdis ayant oublié leur crochet: la cordelette vient se pêcher elle-même.
+
+* En l'absence de broche à glace , on peut confectionner comme en neige un corps-mort (un caillou trouvé sur le glacier par exemple), un champignon de glace, ou un coin de glace. Un gros nœud vient alors se coincer dans la fente en V creusée avec la lame du piolet.
+
+![Image](img/coindeglace.png?raw=true)
+Le coin de glace.
+
+![Image](img/coindeglace2.png?raw=true)
+Plus classique,une pierre du glacier utilisée en corps mort.
+
+## Hissage de sac
+
+* La poulie autobloquante micro-traction de Petzl (85g) est l'outil idéal pour le hissage du sac. Elle sera aussi d'un grand secours en cas de mouflage. La combinaison tibloc (39g) et poulie oscillante P02 de Petzl (42g), convient aussi.
+
+Le brin du sac est sur la poulie autobloquante, le brin du second sur la plaquette.
+
+Tête de mouflage faite de la poulie autobloquante, renvoi inférieur sur mousqueton et tibloc, renvoi supérieur sur mousqueton. On peut ainsi tirer vers soi en étant positionné sous le relais.
+
+## Rappel
+
+* En cas de descente lourdement chargé ou corde très lisse, on peut avoir avantage à entourer plusieurs fois la jambe (pantalon de rigueur) avec la corde libre pour augmenter le freinage, ou bien utiliser un renvoi sur mousqueton
+* A VERIFIER !!! Le nœud de jonction des deux brins est le nœud de huit. Le nœud de vache est maintenant abandonné.
+    * Moins durable qu'un double nœud de pêcheur qui demeure le nœud d'aboutement de référence dans l'industrie, quand deux cordes reliées doivent servir toute une journée de travail. Ceci veut dire que l'utilisation du nœud de jonction en huit pour de nombreux rappels successifs suppose qu'on vérifie de nouveau le nœud à chaque rappel et qu'on le réajuste s'il a glissé.
+* On recommande de laisser 30cm minimum de brins libres après le nœud. Les brins doivent rester parallèles dans le nœud pour pouvoir le serrer intimement jusqu'à former une boule et non un huit à plat.
+* Les brins doivent être soigneusement pliés en écheveaux avant d'être lancés, le premier descendu installe le relais suivant en changeant la cordelette, se vache, crie « libre ».
+* Pendant la descente du second, le premier installe déjà le brin à tirer dans l'anneau en pensant que le nœud d'aboutement doit se trouver contre le rocher, ceci pour éviter l'effet de la plaquette réverso: le brin du dessus plaqué contre le brin du dessous bloque celui-ci.
+* Quand la longueur du rappel est inconnue et qu'on a aucune visibilité sur l'extrémité basse de la corde, on peut être tenté de réaliser d'emblée un nœud en bout de corde qui relie les deux brins mais problématique en cas de coincement.
+* On recommande actuellement de lancer les deux brins dépourvus de nœud en bout de corde, de réaliser l'essentiel de la descente, puis, arrivé à une dizaine de mètres de  l'extrémité, de se laisser bloquer par son autobloquant, de ramener la corde restante à soi pour faire à ce moment seulement le nœud de sécurité rassemblant les deux brins en bout de corde.
+
+## Pliage de corde
+
+* En montagne, vous allez plier et déplier la corde de nombreuses fois, pour changer l'encordement, sortir un brin pour grimper une longueur avec la corde à double, en ranger un quand vous continuez à corde tendue, préparer un rappel, etc.
+
+En écheveau à gauche, en couronne à droite.
+
+* Il n'est pas besoin d'envoyer les ganses derrière la nuque. Les brassées se prennent dans la paume en écartant les deux bras pour augmenter l'amplitude. Puis on finit en formant une poupée, et non en saucissonnant le milieu de l'écheveau, afin d'avoir un objet compact facile à fourrer dans le sac à dos. 91
+* Le pliage en écheveau toronne moins la corde que le pliage en couronne, il est donc préférable avant de lancer un rappel.
+* Par contre le pliage en couronne est plus rapide et permet de porter le brin en bandoulière. Sa meilleure indication est au pied du dernier rappel qu'il faut fuir le plus vite possible sous peine de recevoir les pierres des cordées suivantes.
+    * Tandis que l'un tire la corde puis préparera le brin qui permet de se ré-encorder avec les anneaux de buste, l'autre plie déjà, au fur et à mesure de sa récupération, le premier brin qui vient, puis le passe en écharpe sans besoin d'ouvrir le sac. 
+
+## La remontée sur corde fixe
+
+* Matériel sophistiqué pour confort dans les longueurs (spéléo, big wall) - poignéesbloqueurs, bloqueurs de poitrine, bloqueurs de pied
+* Matériel dispo (sangle et cordelette) pour s'échapper de situation compliquée en haute montagne
+    * 2 cordelettes de 6mm, fermées en anneaux par un double-nœud de pêcheur, l'un de 60cm pour le baudrier, l'autre de 120cm pour la pédale de pied.
+
+* Technique de remontage
+    * Des noeuds autobloquants (Prussik ou Machard) permettent de fixer ces anneaux à la corde fixe, et de les coulisser vers le haut l'un après l'autre pendant la progression.
+    * Première technique
+        * On place l'anneau de 120cm en dessous de l'anneau de 60cm.
+        * En se levant sur la pédale, la corde se tend et facilite le déplacement de l'autobloquant du baudrier vers le haut. Une fois celui-ci glissé au maximum vers le haut, on s'assied dans le baudrier, puis on plie la jambe pour monter l'autobloquant du bas, et ainsi de suite.  
+    * Deuxième technique
+        * La seconde technique à connaître utilise l'anneau de 60cm pour le baudrier, et un nœud de cœur en remplacement de l'anneau de 120cm.
+        * La corde forme un nœud de cœur autour des deux mousquetons côte à côte. Une sangle est fixée dans le bas des deux mousquetons. Cette sangle forme une tête d'alouette autour du pied pour réaliser une pédale bien serrée.
+        * L'avantage de cette technique est une grande rapidité pour une fatigue réduite, mais elle nécessite de ne pas démarrer pendu en bout de corde. Vous ne pourrez donc  utiliser cette technique qu'après avoir amorcé la remontée par la première technique pour avoir un peu de corde libre, ou bien sur glacier, en utilisant la réserve de corde d'un encordement en N.
+        * C'est la technique qui nécessite le moins de matériel puisqu'il suffit d'un anneau de cordelette, de deux mousquetons pour le nœud de cœur (de préférence de même modèle pour un blocage plus sûr), et d'une petite sangle pour la pédale.
+    * Alternatives
+        * Le machard sur mousqueton est également très agréable à utiliser car il coulisse plus facilement qu'un nœud de Prusik.
+        Le machard croisé sur sangle est à essayer, au cas où.
+
+* Remontée sur rappel
+    * Le rappel ne se remonte évidemment qu'à la condition qu'on ait encore à sa disposition les deux extrémités.
+    * Si on ne les a pas, on grimpe en s'assurant en premier de cordée avec la portion de corde qu'on a pu rappeler, jusqu'à la seconde extrémité qui pend en l'air, puis on démarre la remontée sur corde à cet endroit.
+    * On remonte en emprisonnant les deux brins à la fois dans les autobloquants.
+
+* Remontée en crevasse
+    * Sur un glacier, une fois dans la crevasse, retirer votre sac sera souvent la première chose à faire.
+    * Accrochez votre piolet à un porte-matériel du baudrier
+    * Mettez une sangle à votre pontet en tête d'alouette, accrochez-y votre sac à dos pour gagner un peu de liberté et avoir accès à votre matériel
+    * retirez vos lunettes de glacier et mettez-les dans la poche du rabat, sortez une fourrure polaire et enfilez-la
+    * Récupérer frontale
+    * Installer votre matériel de remontée
+    * Votre remontée doit être efficace et sans à coup,il ne s'agit pas d'arracher le méchant piolet qui fait office de relais de fortune et de l'entraîner avec vous. Répétez ces techniques et peaufinez-les. 
+
+## Mouflage
+
+* Mouflage simple
+* Mouflage Mariner (mouflage de mouflage)
+
+## Cascade de glace
+
+* Bonne position: le bassin qui va être décollé de la glace pendant la montée des pieds, et au contraire collé à la glace avec le dos cambré une fois les pieds montés, pour sortir le plus possible l'épaule qui va frapper.
+* Réussir à décoller le bassin pendant la montée des pieds suppose de ne pas avoir ancré les piolets trop haut, en extension complète, car il faut pouvoir casser le corps vers l'arrière, fesses sorties, jambes tendues, bras tendus. (Ancrer trop haut rend également très difficile le désancrage, au cas où la première frappe n'aurait pas donné satisfaction.)
+* Ainsi, on voit facilement entre ses jambes toutes les prises qui s'offrent aux pieds, et ceux-ci ont le recul nécessaire pour frapper la glace. Il n'y a plus besoin d'avoir une souplesse extraordinaire de la cheville pour ancrer les pointes frontales plutôt que la chaussure.
+* Car on est loin de la glace. N'hésitez pas à être caricatural dans cette cassure du corps et cette projection du bassin vers l'arrière. Ceci va vous permettre de monter très haut les pieds.
+* Dès que les pieds sont montés, de part et d'autre du piolet que vous allez conserver, plaquez le bassin contre la glace et cambrez le dos le plus possible en sortant les épaules. Souplesse bienvenue dans ce sens pour pouvoir mettre le plus de distance possible entre l'épaule qui va frapper et la glace. Vous obtenez ainsi un
 dégagement immense pour une frappe puissante.
-Le second point important consiste à se diriger vers le piolet qu'on va garder.
-Si vous conservez le piolet de la main droite, commencez par vous diriger à droite
-pour vous retrouver centré par rapport à ce piolet, sans nécessairement monter, mais
-par un petit pas chassé de côté. Cela évite au moment du désancrage de l'autre piolet
-puis lors de la frappe, de tourner comme une porte sur ses gonds. Pour grimper de
-façon la plus rectiligne possible, donc gagner en rapidité, la conséquence est de tenter
-d'ancrer le piolet le plus possible au-dessus de l'autre piolet, sur une même verticale,
-ce qui suppose de bien monter les pieds à chaque ancrage pour conserver un écart de
-sécurité suffisant entre les deux piolets, et de garder le coude tirant bien vers le bas
-pour éviter que le piolet ne sorte quand on l'exploite complètement.
-Pour les cascades encore plus raides, grimper de face ne suffit plus, sauf
-souplesse exceptionnelle. La seule façon de plaquer le bassin et de sortir les épaules
-est d'utiliser les lolottes. On joue alors les essuies-glaces avec les talons. On essaie
-les talons tournés à gauche, si on n'est pas à l'aise, on les tourne à droite. Il y a
-forcément un sens où ça va mieux. Un fort glaciériste fera ici la différence par sa
-capacité à continuer de monter très haut ses pieds. Ainsi, un immense champ de glace
-s'offre devant lui pour l'ancrage suivant. Au même endroit, le plus faible grimpeur,
-faute d'avoir monté suffisamment ses pieds, sera contraint d'ancrer le piolet presque à
-la hauteur du second piolet déjà ancré, ce qui lui fait faire du sur-place et peut même
-le mettre en danger s'il casse la glace trop près de l'ancrage qui le retient.
-Pour brocher, on a les pieds écartés, le dos cambré, le bassin contre la glace.
-On se tient au piolet de sa main la moins adroite, et on broche au niveau de la hanche,
-c'est à dire là où on a le plus de force, avec sa main la moins gauche. Pour
-mousquetonner avec les gants, si ceux-ci sont un peu gros, on peut raidir la corde audessus de la broche en la tenant entre les dents, et saisir à pleine main la dégaine en
-appuyant le doigt du mousqueton contre la corde tendue.
-Si vous êtes à la rue, évitez la course en avant sans brochage sous prétexte que
-vous ne trouvez pas de position de repos. Tachez de replacer vos pieds de part et
-d'autre de votre piolet le moins mauvais, peu importe s'il y a des prises à cet endroit.
-C'est ici que vous devez être. Tapez alors avec les crampons plusieurs fois pour vous
-ménager des petites prises de pieds. Une fois à peu près équilibré, désancrez votre
-piolet minable et replantez-le pas trop loin mais à distance du premier piolet pour ne
-pas dépendre de la même zone de glace. Ancrez autant de fois que nécessaire au
-même endroit pour avoir un ancrage béton. Puis lâchez l'autre piolet, décrochez la
-101
-
-dragonne et vachez-vous avec la vache courte que vous avez en permanence à votre
-pontet à votre piolet sûr. Mettez-vous en tension. Ouf ! Vous êtes sauvé. Brochez
-tranquillement. Le style a été très laid, soit. Mais vos chevilles, qui ont évité la
-réception d'un vol crampons aux pieds, restent en bon état. Ceci compense cela...
-
-Exercice en moulinette dans une cascade de degré 4+
-au Vallon de la Selle (Oisans)
-Dans le raide, un grand nombre de stalactites gêne la progression et le
-brochage. N'hésitez pas à nettoyer en cassant tous ces petits cheveux inutiles. Vous
-êtes autorisé à vous frayer un chemin. Derrière ces rideaux, vous trouverez
-102
+* Le second point important consiste à se diriger vers le piolet qu'on va garder. Si vous conservez le piolet de la main droite, commencez par vous diriger à droite
+pour vous retrouver centré par rapport à ce piolet, sans nécessairement monter, mais par un petit pas chassé de côté. Cela évite au moment du désancrage de l'autre piolet puis lors de la frappe, de tourner comme une porte sur ses gonds. Pour grimper de façon la plus rectiligne possible, donc gagner en rapidité, la conséquence est de tenter d'ancrer le piolet le plus possible au-dessus de l'autre piolet, sur une même verticale, ce qui suppose de bien monter les pieds à chaque ancrage pour conserver un écart de sécurité suffisant entre les deux piolets, et de garder le coude tirant bien vers le bas pour éviter que le piolet ne sorte quand on l'exploite complètement.
+Pour les cascades encore plus raides, grimper de face ne suffit plus, sauf souplesse exceptionnelle. La seule façon de plaquer le bassin et de sortir les épaules est d'utiliser les lolottes. On joue alors les essuies-glaces avec les talons. On essaie les talons tournés à gauche, si on n'est pas à l'aise, on les tourne à droite. Il y a forcément un sens où ça va mieux. Un fort glaciériste fera ici la différence par sa capacité à continuer de monter très haut ses pieds. Ainsi, un immense champ de glace s'offre devant lui pour l'ancrage suivant. Au même endroit, le plus faible grimpeur, faute d'avoir monté suffisamment ses pieds, sera contraint d'ancrer le piolet presque à la hauteur du second piolet déjà ancré, ce qui lui fait faire du sur-place et peut même le mettre en danger s'il casse la glace trop près de l'ancrage qui le retient. Pour brocher, on a les pieds écartés, le dos cambré, le bassin contre la glace. On se tient au piolet de sa main la moins adroite, et on broche au niveau de la hanche, c'est à dire là où on a le plus de force, avec sa main la moins gauche. Pour mousquetonner avec les gants, si ceux-ci sont un peu gros, on peut raidir la corde audessus de la broche en la tenant entre les dents, et saisir à pleine main la dégaine en appuyant le doigt du mousqueton contre la corde tendue. Si vous êtes à la rue, évitez la course en avant sans brochage sous prétexte que vous ne trouvez pas de position de repos. Tachez de replacer vos pieds de part et d'autre de votre piolet le moins mauvais, peu importe s'il y a des prises à cet endroit. C'est ici que vous devez être. Tapez alors avec les crampons plusieurs fois pour vous ménager des petites prises de pieds. Une fois à peu près équilibré, désancrez votre piolet minable et replantez-le pas trop loin mais à distance du premier piolet pour ne pas dépendre de la même zone de glace. Ancrez autant de fois que nécessaire au même endroit pour avoir un ancrage béton. Puis lâchez l'autre piolet, décrochez la dragonne et vachez-vous avec la vache courte que vous avez en permanence à votrepontet à votre piolet sûr. Mettez-vous en tension. Ouf ! Vous êtes sauvé. Brocheztranquillement. Le style a été très laid, soit. Mais vos chevilles, qui ont évité laréception d'un vol crampons aux pieds, restent en bon état. Ceci compense cela...
 
 certainement des zones plus solides et plus compactes qui vous permettront de
 brocher. (Vous serez heureux d'avoir au moins une broche dépourvu de patte, comme
@@ -2387,186 +646,19 @@ Pour des ancrages de piolet faciles et un brochage sûr, sachez enfin que la gla
 possède la température idéale, proche de zéro degré, les jours de neige, quand ceux-ci
 correspondent bien à un redoux modéré. Aussi, n'annulez pas trop vite votre sortie
 pour cause de sybaritisme...
-__________________________________________________
 
-103
+## La première course
 
-L'anomalie dilatométrique de l'eau
-Les choses les plus simples recèlent parfois des complications insoupçonnées.
-L'eau, à priori la simplicité même, présente une caractéristique déroutante. Alors que
-la plupart des matières se contractent en se refroidissant, l'eau fait un peu n'importe
-quoi.
-Tout le monde sait, bien entendu, qu'une conduite d'eau gelée risque d'éclater
-en raison de l'accroissement du volume de la glace par rapport à l'eau liquide. On a vu
-aussi son glaçon flotter dans son verre d'eau, en raison de la plus faible densité de la
-glace du fait de ce volume accru. Alors pourquoi donc ces glaciéristes nous disent que
-par temps froid, la contraction de la glace de surface augmenterait le risque de la
-fendre à coups de piolet puisque la glace serait sensée se dilater ?
-En réalité, l'eau en se refroidissant depuis sa température d’ébullition, se
-contracte d'abord comme tous les corps, et ce jusqu'à atteindre la température de
-3,98°C environ. Elle atteint alors son maximum de densité. Puis en continuant de se
-refroidir, elle se met à se dilater. La cause de cette dilatation réside dans les liaisons
-hydrogène (liaison à 90% électrostatique unissant un atome d'oxygène à un atome
-d'hydrogène de la molécule voisine) qui lient les molécules d'eau entre elles. Ces
-liaisons hydrogènes peuvent se tordre aisément dans l'eau liquide, mais deviennent
-pratiquement rectilignes dans l'eau solide, obligeant les molécules à s'assembler en
-tétraèdres, le tout occupant alors davantage de place. Vers 0°, juste avant son point de
-congélation, sa densité est comparable à celle qu'elle avait vers 6 ou 7°. Puis la
-densité chute brutalement, donc le volume augmente brutalement, quand la glace se
-forme, car toutes les liaisons hydrogène deviennent rectilignes. Cette augmentation
-de volume se poursuit un peu en-deçà de 0° « jusqu'à ce que la glace soit environ 1/9
-plus rare que l'eau » s'exprimait Ernst Gottfried Fischer112 (1756-1831), puis comme
-tous les solides, elle se met à se contracter si la température baisse encore.
-La dilatation produite par la congélation est d'environ 9,09%, et peut entraîner
-des forces de l'ordre de 10 à 20 Mpa (100 à 200 kgf/cm²) 113. La congélation de l'eau
-infiltrée dans les fissures de rocher favorise donc leur fracture (dite cryoclastie) ainsi
-que la création d'un jeu autour des pitons plantés. Il est par conséquent d'autant plus
-nécessaire de retaper ces derniers et de se méfier des prises entourées de fissures si
-on est la première cordée à fréquenter le lieu après de longues périodes de froid.
-Mais, plus que l'intensité du froid, c'est la fréquence des cycles de gel et dégel qui est
-en cause.
-Au contraire, la contraction d'une glace déjà formée lors d'un refroidissement
-brutal supplémentaire (d'environ 6 à 8°C par heure pour la température de l'air, ce qui
-peut arriver en hiver) peut raccourcir une cascade de glace 114 qui se trouve écartelée
-entre ses ancrages. Le conflit entraîne des contraintes, souvent maximales au niveau
-de l'ancrage supérieur de la cascade, et le grimpeur par ses coups de piolet et de
-112 Physique Mécanique, Ernst Gottfried Fischer, 3ème édition Paris, 1819.
-113 Géologie de la surface, Michel Campy, Jean-Jacques Malcaire, Cécile Grosbois, éditions Dunod, 2013.
-114 Étude sur le comportement mécanique des cascades de glace, Jérôme Weiss, CNRS Grenoble/Fondation Petzl,
-2006.
-
-104
-
-crampons peut être simplement le petit facteur déclenchant de l'effondrement (pour
-les cascades raides) d'un édifice en pleine crise.
-Sur une cascade couchée, l'effondrement n'est pas à craindre, mais la glace de
-surface se refroidissant à la température de l'air se contracte alors que la glace plus
-profonde est sous isolant et continue d'occuper le même volume. La surface va donc
-éclater au moindre coup de piolet et l'on va décrocher des assiettes au moment des
-désancrages qui vont soulever les protestations des cordées suivantes.
-Dans un couloir de montagne, la contraction de la glace en fin de nuit très
-froide peut libérer des cailloux emprisonnés dans la pente.
-Enfin, un réchauffement, en dilatant la glace, créera des efforts de compression
-qui s'opposeront à la propagation des fractures. On y grimpera plus en sécurité.
-On ne confondra plus la dilatation produite par la congélation de l'eau et la
-contraction d'une glace en glace plus froide.
-Une autre singularité de l'eau peut intéresser le glaciériste frileux. D'une façon
-générale, les corps présentent des points de congélation et de fusion identiques. Mais
-dans certaines conditions, notamment en cas de refroidissement rapide, et à la
-pression atmosphérique « normale », l'eau liquide peut exister à des températures
-inférieures au point de fusion. On dit qu'elle est en surfusion, état métastable dont la
-limite estimée est à -39°C. Cette eau en surfusion ne demande qu'un germe ou un
-choc pour se congeler.
-Ce peut être un morceau de glace ou de la poussière. L'exemple le plus
-célèbre115 est celui de décembre 1942 en Russie où un millier de chevaux se sont jetés
-dans le lac Ladoga pour fuir un incendie de forêt produit par des bombardements
-aériens. On entendit un grand bruit et le lac se figea, emprisonnant les animaux (avec
-une eau à -10°C, 14% se transforme en glace).
-Autre illustration, une eau en surfusion à -21°C versée dans une tasse y crée
-instantanément de la glace.
-Le glaciériste ne s'étonne plus alors quand il reçoit de l'eau très froide d'une
-cascade qui coule, alors que le soleil est absent et que la température est proche de
-0°C, que celle-ci se transforme immédiatement en glace au contact de son matériel et
-de ses vêtements. Il s'agit d'une eau en surfusion qui va le refroidir beaucoup plus
-rapidement que ne l'aurait fait un froid sec plus intense. Une veste gore-tex
-transformée en carapace, des gants trempés et gelés... L'onglée est à prévoir au pied
-de la cascade.
-Enfin, la capacité frigorifique de la glace116 mérite d'être connue. L'élévation de
-1°C d'1 kg d'eau absorbe 1 kcal, tandis que l'élévation de 1°C d'1 kg de glace
-n'absorbe que 0,5 kcal. La glace, tant qu'elle reste de la glace, refroidit donc deux fois
-moins que l'eau.
-Au contraire, la fonte d'1kg de glace absorbe 80 kcal, ce qui signifie que la
-115 La glace, Jean-Pierre Michel, Bulletin de l'Union des Physiciens, vol.95, juin 2001, 1023-1035.
-116 Ziegra.com, information sur la glace.
-
-105
-
-capacité frigorifique de la glace est maximale à son point de fusion. Le danger de
-refroidissement de l'alpiniste est plus grand en présence d'une glace qui va fondre à
-son contact qu'en présence d'une glace froide qui va rester en glace. On remarque que
-les enfants jouant dans le froid au retour de l'école époussettent naturellement leurs
-pantalons entre deux boules de neige. Ils évitent ainsi de laisser la neige fondre à leur
-contact, empêchant un refroidissement radical qui arrêterait la partie. De la même
-façon, les randonneurs nordiques au long cours devant affronter au campement des
-températures nocturnes inférieures à -25°C savent que la balayette est un outil de
-survie au même titre que la pelle. Il n'est pas question de laisser la neige des
-vêtements entrer dans la tente pour se transformer en eau en volant les précieuses
-calories à ses habitants.
-__________________________________________________
-**
-
-106
-
-Chapitre 4 : La première course
-« Car il ne se peut pas que les Français soient lâches, - Mais ils ont oublié
-qu'ils étaient courageux. » Charles Péguy117
-« Si je me tuais dans les Calanques ou dans du facile, je n'oserais plus sortir. »
-Robert Gabriel118
-En somme, vous avez commencé à grimper à la salle voici bientôt un an, vous
-connaissez quelques sites d'escalade à côté de chez vous, et vous avez fait vos armes
-dans des voies de rocher de plusieurs longueurs. Vous avez même été une fois dans
-une voie ancienne, équipée d'un mélange de spits et de pitons et dans laquelle il est
-préférable de compléter l'assurage par des coinceurs et des sangles. Dans ce terrain
-d'aventure, qu'on appelait il n'y a pas si longtemps encore varappe, du nom de deux
-couloirs rocheux qui descendent du Salève, cette montagne proche de Genève, vous
-avez pu taper sur quelques vieux clous dont certains étaient ad hoc tandis qu'à
-d'autres, votre grand-mère, en ménagère consciencieuse, aurait refusé de pendre son
-linge. De quoi aiguiser le sens critique. Si un jour, vous en avez l'occasion, des
-escalades de ce genre sont à faire en Chartreuse. Par dérision, les grimpeurs du cru
-appellent le mélange de rocher douteux, de terre et d'herbe, le mixte chartrousien.
-Arrivés sur votre lieu de vacances, vous et votre copain – ou copine - vous êtes
-inscrits à une école de glace. Un guide de haute montagne habile vous a enseigné en
-une paire d'heures les rudiments du maniement du piolet et des crampons :
-cramponnage dix pointes, mixte et frontal, techniques du piolet-canne, piolet-appui,
-117 Jeanne d'Arc, Charles Péguy, 1897.
-118 Op. cit., Georges Livanos, p.23.
-
-107
-
-piolet-ancre, piolet-ramasse, piolet-rampe et piolet-traction. Vous avez vu la
-différence entre la technique académique et l'aisance de quelqu'un qui a les crampons
-aux pieds à longueur d'année. Certains sont capables de danser avec leurs crabes.
-Vous allez choisir pour votre première course d'alpinisme une course de neige
-facile. La haute-montagne, c'est autant la neige que le rocher, voici pour la neige ;
-autant l'humilité que la performance, voilà pour le facile. Il ne s'agirait pas de donner
-dans l'ascensionniste bancroche : rochassier passable, glaciériste ajourné. La neige, ça
-glisse ; judicieux pour l'équilibre. La neige, ça dépend des conditions : épaisse, fine,
-avec rocher ou glace affleurants, stable ou instable ; parfait pour entretenir l'attention.
-La neige, ça change radicalement avec l'heure ; occasion à saisir pour ne plus être le
-saint-lambin houspillé de votre grand-mère. La belle montée de l'aurore en neige dure
-que vos semelles ont marquée avec confiance et sécurité s'est transformée à midi en
-une descente hasardeuse d'une soupe malsaine que vos crampons peinent à saisir.
-Quelques heures d'ensoleillement ont tout changé.
-Votre première course sera d'altitude modérée, réalisée en début de saison, une
-fois les pentes purgées de leur neige de printemps. Les crevasses sont alors bien
-bouchées, souvent réduites à une simple fente qu'on enjambe (attention aux
-exceptions). La neige abondante facilitera la descente des pentes raides car les
-crampons imprimeront des marches profondes sécurisantes quand plus tard la glace
-demanderait une aisance supplémentaire pour faire mordre l'extrémité des dix pointes
-bien à plat face à la descente. Retenir le compagnon de cordée sera également plus
-facile, le manche du piolet pouvant s'enfoncer jusqu'à la garde lors d'un passage plus
-difficile.
-On n'est pas acclimaté à l'altitude, aussi, on choisit un sommet bien en dessous
-de 4000 m. Voie normale (VN) de Roche Faurio, VN des Rouies, VN du Giobernay,
-VN de la Pointe de la Pilatte, les idées ne manquent pas.
-Le mot course a deux significations. L'une, datant de la fin du XIVe s., est l'action de courir ;
-sont comprises dans cette acception les différentes courses de compétition, chevaux, hommes,
-autos. L'autre, plus récente, début du XVIIe s., est l'action de parcourir un espace. On parle de
-la course d'un piston, de la course d'un projectile, des courses qui sont les commissions, ou
-d'une course de montagne qui est une excursion. Nul renvoi à la vitesse dans ce second sens,
-encore moins à la compétition. Une course de montagne ne signifie donc pas que vous devez
-doubler nécessairement toutes les cordées présentes, transformant un sens moderne en
-comportement médiéval...
-
-Première étape : la météo. Celle du jour de la course, celle de la veille (la
+* Votre première course sera d'altitude modérée (bien en dessous de 4000m), réalisée en début de saison, une fois les pentes purgées de leur neige de printemps, de niveau pas trop difficile sur neige/glace. Les crevasses sont alors bien bouchées, souvent réduites à une simple fente qu'on enjambe (attention aux exceptions).
+* Exemple de course: Voie normale (VN) de Roche Faurio, VN des Rouies, VN du Giobernay,
+VN de la Pointe de la Pilatte
+* Première étape : la météo. Celle du jour de la course, celle de la veille (la
 montée en refuge), celle des jours précédents (la quantité de neige récente ayant pu
 rendre de nouveau la pente instable). Appeler le 08 99 71 02 .. (numéro du
 département) pour obtenir le bulletin météo montagne et neige. On s'intéresse à
 l'absence de précipitation, à la force du vent (un vent chaud ramollit la neige
 rapidement, un vent fort déséquilibre sur une course d'arête et a pu créer des
 corniches et des plaques à vent les jours précédents), et à l'isotherme 0° qui donne
-108
-
 une indication sur le bon regel nocturne, gage de sécurité du cramponnage et de pente
 stable et sûre. En été, isotherme 0° à 4400m, c'est chaud. Isotherme 0° à 3900m, on
 s'en contente souvent.
@@ -3274,7 +1366,8 @@ sac pour ne pas le semer ici ou là.
 
 125
 
-Chapitre 5. L'assurage en mouvement
+## Assurage en mouvement
+
 « Ne craignez rien Madame Lane, je vous tiens.
 - Oui, vous me tenez. Mais qui vous tient, vous ? »133
 L'assurage en mouvement est la plus ancienne technique d'assurage moderne
@@ -3601,48 +1694,6 @@ garder à vue si la trace est faite. En cas de chute sur un versant, le leader d
 les anneaux et sauter de l'autre côté en tâchant de ne pas se blesser. Les anneaux
 lâchés donnent le temps nécessaire pour réagir.
 
-__________________________________________________
-Août 1996, arête Sud du pic du glacier Blanc.
-Troisième saison d'alpinisme pour notre cordée. Échaudés par les débuts difficiles de l'arête
-avec des passages d'un bon 4c, nous continuons à progresser lentement par longueurs sur un rocher
-maintenant couché et beaucoup plus facile. Des nuages se sont amoncelés depuis nos premières
-longueurs, nous faisant hésiter davantage. Puis une cordée surgit derrière nous, deux Anglais,
-avançant tranquillement à trois, quatre mètres de distance, éminemment mobiles quand l'un de nous
-reste rivé à son relais béton les deux brins de la corde à double de 45 mètres entièrement déroulés à
-ses pieds, et que l'autre cherche longuement une fissure pour accueillir un nouveau « rock ». Très
-patients, les Britanniques devisent paisiblement et attendent la fin de nos improductives opérations.
-Puis ils finissent par demander avec une politesse infinie la permission de doubler notre cordée
-quasi immobile sur ce rocher battu par le vent qui nous impressionne. Ils disparaissent bien vite
-dans le brouillard maintenant levé, puis la neige tombe, comme en hiver, plâtrant la dalle où nous
-avons fini par avancer en traversée encore d'une grande longueur qu'on oserait plus désescalader.
-Des voix devant nous, et nous rejoignons les Anglais à une petite brèche, en grande discussion,
-carte en main. Ils prennent la décision de s'échapper vers le glacier par un rappel improvisé en
-pleine face, et installent déjà la corde sur un énorme becquet qui nous semble un peu branlant. Ne
-sachant quoi faire, nous attendons derrière, n'osant ni pousser plus loin sur l'arête, ni rebrousser
-chemin sur la dalle désormais bien enneigée. Puis du premier Anglais descendu et donc invisible
-proviennent des avertissements que nous comprenons mal. Son compagnon à nos côtés demande
-des explications et nous comprenons seulement : « There's a little problem. » De longues minutes
-s'écoulent, puis il emprunte le rappel sans un mot et disparaît à son tour. Nous sommes seuls sur
-l'arête, il continue de neiger. La corde des Anglais coulisse et tombe dans le vide. Nous ne savons
-pas où mène ce rappel. Nous savons que ces alpinistes sont bien plus expérimentés que nousmêmes. Que faut-il faire ? Je grelotte dans mon pantalon de toile de coton maintenant gorgé d'eau et
-je ne raisonne plus normalement. Comment tout a-t-il pu dégénérer si vite ? Nous décidons alors de
-copier bêtement la cordée britannique sans connaître le terrain, d'installer notre rappel au même
-endroit, ayant cherché en vain un ancrage qui nous paraîtrait plus sûr. Nous plaçons notre deux fois
-45 mètres et nous descendons pour découvrir le little problem. Nos compagnons du jour ne
-possédaient qu'une corde à simple d'une quarantaine de mètres, et leur rappel trop court pour
-atteindre une brèche commode ne les amenait qu'à une méchante écaille posée en pleine paroi où le
-premier de cordée n'avait pu placer qu'un « rock » n°6 pour tout relais. Les deux Anglais avaient dû
-rappeler la corde depuis ce relais suspendu et précaire et relancer un second rappel. Heureusement,
-nous pûmes atteindre la brèche sans ces dangereuses acrobaties, même pas fichus de ramener le
-« rock » n°6 à notre cordée d'élite tant je grelottais dans mon pantalon trempé. Nous venions
-d'apprendre que les montagnards d'outre Manche avait les guts aussi bien accrochés en montagne
-que leur ancêtre conquérant du Cervin, et alliaient ce moral à toute épreuve à une politesse
-indéfectible, tandis que nous, fixés à nos trop nombreux relais et incapables de mobilité, avions
-encore énormément de choses à apprendre...
-
-___________________________
-134
-
 6/ Les encordements spéciaux
 La réserve en vrac dans le sac
 L'encordement en N préconisé pour un glacier enneigé (crevasses masquées)
@@ -3736,9 +1787,7 @@ une ficelle inutile, le risque diminue encore. Il est aussi possible dans ces ca
 rebrousser chemin sur abalakovs et de remettre la course à l'année prochaine...
 **
 
-137
-
-Chapitre 6 : L'assurage par longueurs
+## Assurage par longueurs
 « Il ne faut pas oublier que le premier objectif d'une sortie en montagne
 est de ramener la cordée en bon état. » Pierre Allain.137
 La prescription de Pierre Allain est à ce jour la seule et unique éthique valable
@@ -8627,92 +6676,3 @@ permet de tirer seul, si on a bien géré les frottements : poulies, objet dur
 sur la lèvre de la crevasse, etc.
 
 269
-
-APPENDICE 4
-
-CODE DE L'ALPINISTE AMATEUR
-En contre-pied bien sûr de ces codes portés à l'admonition sécuritaire
-et à la remontrance écologique.
-
-1/ Décider que l'autonomie précède la pratique.
-2/ Choisir un compagnon de cordée fiable.
-3/ S'introduire en montagne comme un bédouin par des
-randonnées sous tente.
-4/ S'initier à l'escalade efficacement avec un moniteur
-breveté d’État.
-5/ Lire tout.
-6/ S'initier au cramponnage en une paire d'heures par
-une école de glace avec un guide de haute-montagne.
-7/ Réaliser sa première course d'alpinisme, courte,
-facile, en bonnes conditions, et en autonomie,
-sans suivre quiconque.
-8/ L'échec ? Une aubaine pour progresser.
-9/ S'inscrire par la suite à des stages de cascade de
-glace, incontournable pour la suite de la progression.
-10/ Préférer les bivouacs aux nuits en refuge.
-11/ Préférer les vieilles courses classiques aux
-voies modernes.
-12/ Le risque, un produit à usage personnel
-qu'on ne prescrit pas aux autres.
-
-270
-
-APPENDICE 5
-
-LES QUALITES DE L'ALPINISTE
-
-« Je ne crois que médiocrement à la nécessité d'avoir
-des aptitudes innées bien spéciales pour la montagne,
-ces qualités s'acquièrent et vous les citeriez vousmêmes. Pour le physique : endurance, agilité,
-souplesse, indifférence aux intempéries, au vide, à la
-raréfaction de l'oxygène et de l'acide carbonique,...
-au moelleux du matelas, à l'heure et la qualité des
-repas ; pour le moral : sang-froid, rapidité de
-décision en face des imprévus, confiance en soimême, toutes qualités qui s'exaltent automatiquement
-en présence des dangers constants et réels. Enfin, ce
-qui est la source du dédommagement de toutes les
-peines que l'on se donne, le culte de tout ce qui, dans
-la nature, est grand, beau et sain. »
-Mes étapes d'alpinisme, Charles Lefebure245,
-Bruxelles, Société Protectrice des Enfants Martyrs, 1901.
-
-245 Charles Lefebure avait débuté avec le père d'un camarade, l'industriel Ernest Solway, qui a donné son nom à la
-cabane de secours située à 4003m sur l'arête du Hörnli au Cervin. Il a été plus tard un compagnon de cordée habituel
-du roi Albert 1er.
-
-271
-
-BIBLIOGRAPHIE
-Ouvrages techniques
-(ordre chronologique)
-
-C.A.F., Manuel d'alpinisme, éditions Lucien Laveur, 1904.
-Georges Casella, L'alpinisme, éditions Pierre Laffite, 1913 (réimpression Slatkine en
-1980).
-C.A.F., avec la coll. Du G.H.M., Manuel d'alpinisme, librairie Dardel Chambéry,
-1934.
-Sous la direction du Général Degoutte et coll., Manuel de montagne et d'alpinisme
-militaire, Paris, Imprimerie Nationale, 1940.
-Marcel Pourchier, Edouard Frendo, La technique de l'alpinisme, Arthaud, 1943.
-Pierre Allain, L'art de l'alpinisme, Amiot Dumont, 1956.
-Gaston Rébuffat, Neige et roc, Hachette, 1959.
-Bernard Kempf, Guide pratique de la montagne, Flammarion, 1962.
-Sylvain Jouty, L'alpinisme, où et comment ?, éditions de Vecchi, 1977.
-Bernard Amy et coll., Technique de l'alpinisme, Arthaud, 1977.
-Yvon Chouinard, Glace et neige, Arthaud, 1981. (Éditions Sierra Club Books, 1978.)
-Patrice de Bellefon, L'alpinisme, Denoël, 1987.
-David Belden, L'escalade, Denoël, 1987.
-Bernard Amy, Pierre Beghin, Pierre Faivre, et coll., Alpinismes, Arthaud, 1988.
-Bruno Gardent, Pascal Tournaire, Glace, couloirs et cascades, Glénat, 1990.
-John Rander, Assure sec, Edisud, 3ème édition en 1990.
-John Barry, Nigel Sheperd, L'escalade, Edimages, 1990.
-Erik Decamp, Guide des techniques, Didier Richard, 1992.
-Paolo Paci, Cours d'alpinisme, éditions de Vecchi, 1993.
-Gérard Decorps, J.F. Hagenmuller, Christophe Moulin, Alpinisme, Glénat, 1997.
-Sylvain Conche, Escalade en terrain d'aventure, Amphora, 2004.
-Coudray, Cadot, Gardien, Jourjon, Verdier, Les guides du C.A.F. Alpinisme et
-Escalade, Seuil, 1998.
-Claude Gardien, Premières courses, Glénat, 2000.
-Jérôme Blanc-Gras, Manu Ibarra, Glaces, Blue ice, 2011.
-Jean-François Hagenmuller, François Marsigny, François Pallandre, L'alpinisme,
-Glénat, 2016.
