@@ -1,5 +1,10 @@
 NOTES ALPINISME
 
+Exemples de voie facile
+oie normale de Roche Faurio, voie normale des Agneaux et traversée
+du Pelvoux
+
+
 ## Code de l'alpinisme amateur
 
 1. Décider que l'autonomie précède la pratique.
@@ -604,640 +609,148 @@ En écheveau à gauche, en couronne à droite.
 * Car on est loin de la glace. N'hésitez pas à être caricatural dans cette cassure du corps et cette projection du bassin vers l'arrière. Ceci va vous permettre de monter très haut les pieds.
 * Dès que les pieds sont montés, de part et d'autre du piolet que vous allez conserver, plaquez le bassin contre la glace et cambrez le dos le plus possible en sortant les épaules. Souplesse bienvenue dans ce sens pour pouvoir mettre le plus de distance possible entre l'épaule qui va frapper et la glace. Vous obtenez ainsi un
 dégagement immense pour une frappe puissante.
-* Le second point important consiste à se diriger vers le piolet qu'on va garder. Si vous conservez le piolet de la main droite, commencez par vous diriger à droite
-pour vous retrouver centré par rapport à ce piolet, sans nécessairement monter, mais par un petit pas chassé de côté. Cela évite au moment du désancrage de l'autre piolet puis lors de la frappe, de tourner comme une porte sur ses gonds. Pour grimper de façon la plus rectiligne possible, donc gagner en rapidité, la conséquence est de tenter d'ancrer le piolet le plus possible au-dessus de l'autre piolet, sur une même verticale, ce qui suppose de bien monter les pieds à chaque ancrage pour conserver un écart de sécurité suffisant entre les deux piolets, et de garder le coude tirant bien vers le bas pour éviter que le piolet ne sorte quand on l'exploite complètement.
-Pour les cascades encore plus raides, grimper de face ne suffit plus, sauf souplesse exceptionnelle. La seule façon de plaquer le bassin et de sortir les épaules est d'utiliser les lolottes. On joue alors les essuies-glaces avec les talons. On essaie les talons tournés à gauche, si on n'est pas à l'aise, on les tourne à droite. Il y a forcément un sens où ça va mieux. Un fort glaciériste fera ici la différence par sa capacité à continuer de monter très haut ses pieds. Ainsi, un immense champ de glace s'offre devant lui pour l'ancrage suivant. Au même endroit, le plus faible grimpeur, faute d'avoir monté suffisamment ses pieds, sera contraint d'ancrer le piolet presque à la hauteur du second piolet déjà ancré, ce qui lui fait faire du sur-place et peut même le mettre en danger s'il casse la glace trop près de l'ancrage qui le retient. Pour brocher, on a les pieds écartés, le dos cambré, le bassin contre la glace. On se tient au piolet de sa main la moins adroite, et on broche au niveau de la hanche, c'est à dire là où on a le plus de force, avec sa main la moins gauche. Pour mousquetonner avec les gants, si ceux-ci sont un peu gros, on peut raidir la corde audessus de la broche en la tenant entre les dents, et saisir à pleine main la dégaine en appuyant le doigt du mousqueton contre la corde tendue. Si vous êtes à la rue, évitez la course en avant sans brochage sous prétexte que vous ne trouvez pas de position de repos. Tachez de replacer vos pieds de part et d'autre de votre piolet le moins mauvais, peu importe s'il y a des prises à cet endroit. C'est ici que vous devez être. Tapez alors avec les crampons plusieurs fois pour vous ménager des petites prises de pieds. Une fois à peu près équilibré, désancrez votre piolet minable et replantez-le pas trop loin mais à distance du premier piolet pour ne pas dépendre de la même zone de glace. Ancrez autant de fois que nécessaire au même endroit pour avoir un ancrage béton. Puis lâchez l'autre piolet, décrochez la dragonne et vachez-vous avec la vache courte que vous avez en permanence à votrepontet à votre piolet sûr. Mettez-vous en tension. Ouf ! Vous êtes sauvé. Brocheztranquillement. Le style a été très laid, soit. Mais vos chevilles, qui ont évité laréception d'un vol crampons aux pieds, restent en bon état. Ceci compense cela...
-
-certainement des zones plus solides et plus compactes qui vous permettront de
-brocher. (Vous serez heureux d'avoir au moins une broche dépourvu de patte, comme
-le modèle 360 de Grivel, pour pouvoir brocher dans des trous.) Par contre, ne vous
-attaquez pas à cette colossale stalactite qui ne vous a rien fait et que vous pouvez
-facilement éviter, alors que des cordées en dessous risquent de la prendre sur la
-figure. Si elle vous fait vraiment peur, cassez en juste une petite pointe après avoir
-prévenu la population de se mettre aux abris.
-Dès que la gestuelle de base est acquise, un bon enseignant propose à ses
-élèves de tenter une cascade facile en premier de cordée. La manière efficace du très
-pédagogue Claude Vigier, au GUC de Grenoble, consistait à placer d'avance une
-broche sur deux, dégaine mise, aux pas stratégiques de la longueur, afin de diminuer
-l'exposition et de renforcer la confiance de l'apprenti. En cas de difficulté, on savait
-qu'on pouvait se ruer sur la dégaine en enfilant instantanément la lame du piolet dans
-le mousqueton pour échapper au vol.
-Une fois un minimum autonome, une bonne séance peut consister à grimper
-une longueur en tête en plaçant les broches puis de répéter la longueur en moulinette
-en variant au maximum la gestuelle, en minimisant les ancrages pour savoir quand ça
-décroche et quand ça tient, puis en changeant les passages en plaçant au besoin une
-broche en renvoi vers le haut de la longueur pour décaler la corde vers une zone plus
-raide ou de glace très mince. Il n'y a aucune raison pour que l'ensemble de votre
-répertoire gestuel de grimpe ne devienne pas reproductible en glace, et c'est en
-moulinette que vous pourrez vous essayer, vous aussi, à une escalade en glace
-débridée. Lolottes, drapeaux, griffages des colonnettes avec les pointes inférieures du
-crampon, exploitation des trous pour enfiler les lames de piolet, tout est possible. Si
-votre ouverture de bassin est honorable, essayez la position de la grenouille, très
-reposante dans le très raide, qui peut parfois avantageusement remplacer une lolotte.
-La fabrication d'abalakovs variés termine la séance, indispensables pour
-redescendre ou pas, en guise d'exercice. Au pied de la cascade mais hors des chutes
-possibles de glace, on cherchera à les réaliser le plus rapidement possible,
-l'inclinaison des broches étant la principale difficulté. Les deux tunnels doivent se
-rejoindre le plus profondément possible pour augmenter l'épaisseur de glace et donc
-la solidité. On recommande maintenant des tunnels verticaux plutôt qu'horizontaux,
-pour éviter une coïncidence avec une fracture horizontale de la cascade. Des
-abalakovs complexes comportant trois tunnels peuvent être expérimentés.
-Pour des ancrages de piolet faciles et un brochage sûr, sachez enfin que la glace
-possède la température idéale, proche de zéro degré, les jours de neige, quand ceux-ci
-correspondent bien à un redoux modéré. Aussi, n'annulez pas trop vite votre sortie
-pour cause de sybaritisme...
+* Le second point important consiste à se diriger vers le piolet qu'on va garder.
+    * Si vous conservez le piolet de la main droite, commencez par vous diriger à droite pour vous retrouver centré par rapport à ce piolet, sans nécessairement monter, mais par un petit pas chassé de côté.
+    * Cela évite au moment du désancrage de l'autre piolet puis lors de la frappe, de tourner comme une porte sur ses gonds.
+    * Pour grimper de façon la plus rectiligne possible, donc gagner en rapidité, la conséquence est de tenter d'ancrer le piolet le plus possible au-dessus de l'autre piolet, sur une même verticale, ce qui suppose de bien monter les pieds à chaque ancrage pour conserver un écart de sécurité suffisant entre les deux piolets, et de garder le coude tirant bien vers le bas pour éviter que le piolet ne sorte quand on l'exploite complètement.
+* Pour les cascades encore plus raides, grimper de face ne suffit plus, sauf souplesse exceptionnelle.
+    * La seule façon de plaquer le bassin et de sortir les épaules est d'utiliser les lolottes. On joue alors les essuies-glaces avec les talons.
+    * On essaie les talons tournés à gauche, si on n'est pas à l'aise, on les tourne à droite. Il y a forcément un sens où ça va mieux.
+* Pour brocher, on a les pieds écartés, le dos cambré, le bassin contre la glace. On se tient au piolet de sa main la moins adroite, et on broche au niveau de la hanche, c'est à dire là où on a le plus de force, avec sa main la moins gauche.
+* Pour mousquetonner avec les gants, si ceux-ci sont un peu gros, on peut raidir la corde audessus de la broche en la tenant entre les dents, et saisir à pleine main la dégaine en appuyant le doigt du mousqueton contre la corde tendue.
+* Si vous êtes à la rue, évitez la course en avant sans brochage sous prétexte que vous ne trouvez pas de position de repos. Tachez de replacer vos pieds de part et d'autre de votre piolet le moins mauvais, peu importe s'il y a des prises à cet endroit. C'est ici que vous devez être. Tapez alors avec les crampons plusieurs fois pour vous ménager des petites prises de pieds. Une fois à peu près équilibré, désancrez votre piolet minable et replantez-le pas trop loin mais à distance du premier piolet pour ne pas dépendre de la même zone de glace.
+* Ancrez autant de fois que nécessaire au même endroit pour avoir un ancrage béton. Puis lâchez l'autre piolet, décrochez la dragonne et vachez-vous avec la vache courte que vous avez en permanence à votrepontet à votre piolet sûr. Mettez-vous en tension. Brochez tranquillement. Le style a été très laid, soit. Mais vos chevilles, qui ont évité laréception d'un vol crampons aux pieds, restent en bon état. Ceci compense cela...
+* Pour des ancrages de piolet faciles et un brochage sûr, sachez enfin que la glacepossède la température idéale, proche de zéro degré, les jours de neige, quand ceux-ci
+correspondent bien à un redoux modéré.
 
 ## La première course
 
 * Votre première course sera d'altitude modérée (bien en dessous de 4000m), réalisée en début de saison, une fois les pentes purgées de leur neige de printemps, de niveau pas trop difficile sur neige/glace. Les crevasses sont alors bien bouchées, souvent réduites à une simple fente qu'on enjambe (attention aux exceptions).
 * Exemple de course: Voie normale (VN) de Roche Faurio, VN des Rouies, VN du Giobernay,
 VN de la Pointe de la Pilatte
-* Première étape : la météo. Celle du jour de la course, celle de la veille (la
-montée en refuge), celle des jours précédents (la quantité de neige récente ayant pu
-rendre de nouveau la pente instable). Appeler le 08 99 71 02 .. (numéro du
-département) pour obtenir le bulletin météo montagne et neige. On s'intéresse à
-l'absence de précipitation, à la force du vent (un vent chaud ramollit la neige
-rapidement, un vent fort déséquilibre sur une course d'arête et a pu créer des
-corniches et des plaques à vent les jours précédents), et à l'isotherme 0° qui donne
-une indication sur le bon regel nocturne, gage de sécurité du cramponnage et de pente
-stable et sûre. En été, isotherme 0° à 4400m, c'est chaud. Isotherme 0° à 3900m, on
-s'en contente souvent.
-Deuxième étape : réserver le refuge. Le bivouac sera pour une autre fois. Pour
-la première course, on met toutes les chances de son côté et on s'offre toutes les
-commodités pour réussir : demi-pension au refuge si votre budget le permet pour
-monter moins lourd et rester frais pour le lendemain.
-Troisième étape : préparer les sacs. Petits (30 litres), légers. Si on a un 45
-litres, la poche caméra amovible pourra rester au refuge, tout comme la ceinture
-ventrale. Dans une course de neige facile, pas de relais, pas de longueurs : on sera en
-mouvement, on ne se refroidira pas, ou pas longtemps (un gore-tex pour la crête
-sommitale en plein vent...). Votre atout : la légèreté, la mobilité, l'absence de fatigue.
-Une différence de 200 grammes pour un article comme par exemple un baudrier doit
-être appréciée comme étant considérable.
-Pour chacun : Un pantalon de montagne (de type soft-Shell épais et solide)
-resserré en bas des jambes (pour éviter de tricoter avec les crampons), une fourrure
-polaire, un sous-vêtement respirant, un gilet matelassé, une veste gore-tex légère
-(moins de 600g), un mouchoir, les papiers (protégés de l'humidité par un sac
-congélation avec lien) et les clefs bien accrochées en sécurité dans une poche du sac à
-dos qu'on n'ouvrira pas, une paire de stop-tout ou de guêtres très ajustées et très
-simples, dépourvues de câbles (trop de risque d'enfiler la pointe avant entre le câble
-et la chaussure de l'autre pied), une paire de chaussures d'alpinisme légères avec
-débord arrière (de type Trango de LaSportiva), une paire de chaussettes chaudes en
-Une bonne chaussure d'alpinisme est rigide en semelle pour plusieurs raisons : pouvoir imprimer
-des encoches dans la neige « bout de pied » et non pas rouler dessus en se déformant, éviter le
-déchaussage intempestif des crampons, tenir sur les petites prises de pieds en rocher. Elle est
-souple en tige pour pouvoir pratiquer le cramponnage dix pointes (pieds à plat) et rester utilisable
-en adhérence sur le rocher. Le décrochement du talon est un élément essentiel : c'est cette
-« marche inversée » qui bloque les pierres roulant sous la chaussure. Un talon peu marqué (et un
-crantage de toute la semelle moins profond) est le prix à payer des chaussures d'alpinisme légères
-de type Trango qui ont nettement moins d'accroche que des modèles plus traditionnels (Jorasses
-de Scarpa par exemple). L'absence de talon explique pourquoi on se casse facilement la figure en
-descente raide sur une terre dure caillouteuse avec des chaussures d'approche, jusqu'à ce qu'on
-admette que la glissade est impossible à empêcher avec ce genre de chaussures, et que donc il faut
-davantage porter son poids sur l'avant du pied pour accompagner le surf en conservant son
-équilibre . « Le tibia sur la languette ! » vous a crié votre moniteur de ski tout l'hiver...
+* Première étape : la météo.
+    * Celle du jour de la course, celle de la veille (la montée en refuge), celle des jours précédents (la quantité de neige récente ayant pu rendre de nouveau la pente instable).
+    * Appeler le 08 99 71 02 .. (numéro dudépartement) pour obtenir le bulletin météo montagne et neige.
+    * On s'intéresse à:
+        * l'absence de précipitation
+        * la force du vent (un vent chaud ramollit la neige rapidement, un vent fort déséquilibre sur une course d'arête et a pu créer des corniches et des plaques à vent les jours précédents)
+        * l'isotherme 0° qui donne une indication sur le bon regel nocturne, gage de sécurité du cramponnage et de pente stable et sûre.
+            * En été, isotherme 0° à 4400m, c'est chaud.
+            * Isotherme 0° à 3900m, on s'en contente souvent.
+* Deuxième étape : réserver le refuge. Le bivouac sera pour une autre fois.
+* Troisième étape : préparer les sacs.
+    * Petits (30 litres), légers. Si on a un 45 litres, la poche caméra amovible pourra rester au refuge, tout comme la ceinture ventrale. Dans une course de neige facile, pas de relais, pas de longueurs : on sera en mouvement, on ne se refroidira pas, ou pas longtemps (un gore-tex pour la crête sommitale en plein vent...).
+    * Votre atout : la légèreté, la mobilité, l'absence de fatigue.
+    * Pour chacun :
+        * Un pantalon de montagne (de type soft-Shell épais et solide) resserré en bas des jambes (pour éviter de tricoter avec les crampons),
+        * une fourrure polaire,
+        * un sous-vêtement respirant,
+        * un gilet matelassé,
+        * une veste gore-tex légère
+        * un mouchoir
+        * les papiers (protégés de l'humidité par un sac congélation avec lien) et les clefs bien accrochées en sécurité dans une poche du sac à dos qu'on n'ouvrira pas
+        * une paire de stop-tout ou de guêtres très ajustées et très simples, dépourvues de câbles (trop de risque d'enfiler la pointe avant entre le câble et la chaussure de l'autre pied)
+        * une paire de chaussures d'alpinisme légères avec débord arrière (de type Trango de LaSportiva)
+        * une paire de chaussettes chaudes en fourrure polaire (qui sèchent vite)
+        * un baudrier d'escalade léger (300g maxi)
+        * unepaire de crampons 12 pointes semi-automatiques (talonnière automatique et sangles àl'avant),
+        * un piolet classique
+        * une paire de lunettes de glacier
+        * une paire de gants de ski bon marché car on les égare facilement,
+        * 4 mousquetons simples
+        * deux mousquetons à vis HMS
+        * une broche à glace (plus tard en saison, avec des crevasses plus ouvertes et une glace recouverte de moins de neige, deux broches par personne peuvent être utiles),
+        * un crochet à abalakov
+        * un anneau pour Prusik de 60cm, un anneau pour Prusik de 120cm
+        * une petite poulie et un petit bloqueur (tibloc ou ropeman) ou une poulie autobloquante (micro-traction de Petzl),
+        * un sac plastique robuste pour confectionner un corps mort qui peut servir à emballer les crampons
+        * un petit canif bien affûté capable de couper la cordelette,
+        * une grande sangle,
+        * une petite sangle
+        * une gourde
+        * des vivres de course (barres de céréales et chocolatées, fruits secs, fromage...)
+        * un sifflet
+        * un bâton télescopique
+        * une lampe frontale avec piles neuves
+        * du papier toilette
+        * une brosse à dent
+        * une casquette chaude ou un bonnet ou un casque si la voie est fréquentée ou emprunte un couloir qui peut canaliser les pierres ou chemine sous une arête de rocher qui peut en envoyer. On peut se passer du casque dans certaines courses de neige faciles, quand on a le ciel au-dessus de la tête pendant la totalité de la course.
+    * Pour la cordée :
+        * 1 brin de 50 mètres de corde à double (il s'agit d'enrayer ici des glissades et non des chutes),
+        * 5 mètres de cordelette de 6 ou 7 mm de diamètre pour poser un rappel au cas où
+        * une trousse de secours (pansements, Strappal, Elastoplaste suffisant pour un strapping du genou, éosine, aspirine pour le MAM, Codoliprane, strips adhésifs de suture (Stéristrips) , compresses, Valium, épingles à nourrice)
+        * une petite paire de gants de secours (en laine ou en fourrure polaire),
+        * une montre-altimètre,
+        * une petite boussole,
+        * un morceau de la carte au 1/25000ème
+        * la photocopie du topo,
+        * une couverture de survie
+        * un tube de dentifrice très entamé et un morceau de savon (qui resteront au refuge)
+        * un appareil photo
+        * un téléphone portable
+    * On peut faire son sac en quatre étapes :
+        1. On étale au sol l'ensemble des objets sélectionnés en s'interdisant d'en placer un seul dans le sac. Celui-ci est rigoureusement vide.
+        2. On engouffre le tout dans le sac et on met celui-ci sur son dos. Immanquablement, on le trouve trop lourd.
+        3. On étale de nouveau la totalité du contenu au sol, et on désigne le maximum d'objets, non pas inutiles, mais dont on va devoir se passer.
+        4. On refait le sac plus soigneusement en plaçant au fond les objets les plus tardivement utilisés.
+* Quatrième étape : monter au refuge. La marche en montagne  se fait en regardant le sol où se pose le pied. On choisit ses appuis comme en escalade on choisit ses prises. Le pas n'est donc pas régulier, mais dépend des accidents du terrain. C'est le rythme qui est régulier. Peu chargé, un bâton, de ski ou télescopique, est utile. Lourdement chargé, deux bâtons sont préférables. La vitesse habituelle est de 300 mètres de dénivelé positif par heure.
+* Cinquième étape : partir dans la nuit.
+    * Si le début de l'itinéraire comporte une approche hors glacier ne nécessitant pas d'encordement, on ne met pas son baudrier, au contraire de toutes les cordées autour de nous. La marche sera moins fatigante et plus silencieuse qu'accompagnée par les cliquetis des portematériels chargés de mousquetons et de broches.
+    * On ne suit personne bêtement.
+    * Parvenu au glacier, on trouve un endroit commode pour enfiler les baudriers, chausser les crampons, s'encorder. Surtout, on n'attend pas que la pente s'accentue franchement pour mettre ses crampons sous peine de gymnastique scabreuse sur une pente raide et glissante.
 
-fourrure polaire (qui sèchent vite), un baudrier d'escalade léger (300g maxi), une
-paire de crampons 12 pointes semi-automatiques (talonnière automatique et sangles à
-l'avant), un piolet classique, une paire de lunettes de glacier, une paire de gants de ski
-109
+    Recherche des tiers (in vitro).
 
-bon marché car on les égare facilement, 4 mousquetons simples, deux mousquetons à
-vis HMS (HMS signifie Half Middle Snap, c'est à dire un mousqueton – snap -, ayant
-une forme symétrique dont l'axe de symétrie est le grand diamètre du mousqueton. La
-forme de poire – piriforme- est très accueillante pour la corde et facilite la bascule du
-nœud de demi-cabestan quand on donne du mou après avoir avalé ou inversement.),
-une broche à glace (plus tard en saison, avec des crevasses plus ouvertes et une glace
-recouverte de moins de neige, deux broches par personne peuvent être utiles), un
-crochet à abalakov, un anneau pour Prusik de 60cm, un anneau pour Prusik de
-120cm, une petite poulie et un petit bloqueur (tibloc ou ropeman) ou une poulie
-autobloquante (micro-traction de Petzl), un sac plastique robuste pour confectionner
-un corps mort qui peut servir à emballer les crampons, un petit canif bien affûté
-capable de couper la cordelette, une grande sangle, une petite sangle, une gourde, des
-vivres de course (barres de céréales et chocolatées, fruits secs, fromage...), un sifflet,
-un bâton télescopique, une lampe frontale avec piles neuves, du papier toilette, une
-brosse à dent, une casquette chaude ou un bonnet ou un casque si la voie est
-fréquentée ou emprunte un couloir qui peut canaliser les pierres ou chemine sous une
-arête de rocher qui peut en envoyer.
-On peut se passer du casque dans certaines courses de neige faciles, quand on a
-le ciel au-dessus de la tête pendant la totalité de la course. Le choix est à faire avec
-son compagnon de cordée en connaissance de cause : topo en main, renseignements
-sur les conditions (plus de chutes de pierres en cas de sécheresse), fréquentation de la
-course choisie. La tendance actuelle est au port du casque systématique, influencé par
-la conduite des guides de haute-montagne qui ont une obligation de sécurité vis à vis
-de leurs clients. Pour autant, ne vous laissez pas influencer par des photos des années
-soixante-dix montrant des grimpeurs de cascade de glace sans casque. Plus personne
-ne fait ça.
-Pour la cordée : 1 brin de 50 mètres de corde à double (il s'agit d'enrayer ici
-des glissades et non des chutes), 5 mètres de cordelette de 6 ou 7 mm de diamètre
-pour poser un rappel au cas où, une trousse de secours (pansements, Strappal,
-Elastoplaste suffisant pour un strapping du genou, éosine, aspirine pour le MAM,
-Codoliprane, strips adhésifs de suture (Stéristrips) , compresses, Valium, épingles à
-nourrice), une petite paire de gants de secours (en laine ou en fourrure polaire), une
-montre-altimètre, une petite boussole, un morceau de la carte au 1/25000ème, la
-photocopie du topo, une couverture de survie, un tube de dentifrice très entamé et un
-morceau de savon (qui resteront au refuge), un appareil photo, un téléphone portable
-en gardant à l'esprit que le réseau ne passera peut-être pas et que les réponses à vos
-problèmes ne seront pas logées dans ce machin électronique mais dans votre boîte
-crânienne.
-(Le Valium, anxiolytique sous prescription médicale, peut être intéressant en
-cas de traumatisme générant une panique de l'accidenté difficile à gérer. Par son effet
-secondaire général favorisant l'hypotonie musculaire, il peut aussi atténuer les
-110
+    * Encordez-vous un peu à l'écart de la trace car vous avez besoin de place pour trouver les tiers. Vous dépliez votre corde, chacun tient une extrémité, passe une boucle dans un mousqueton placé à son pontet de baudrier, puis vous vous écartez l'un de l'autre jusqu'à tendre la corde. Vous avez vos tiers.
+    * Pendant que vous réalisez votre encordement en N, d'autres cordées vont sans doute s'approcher, quittant la trace, mais attirées par la lumière...
+    * Quand le risque de chute dans d'immenses crevasses, bien larges et bien profondes, existe, on recommande de créer plusieurs nœuds de freinage (au moins trois : à 4-5 mètres du nœud d'encordement puis à 2-3 mètres de distance) sur l'encordement afin qu'ils se bloquent dans la lèvre de la crevasse, ce qui facilite le travail de celui resté à l'air libre puisqu'il n'est plus tiré (ou moins) par le poids de son compagnon. Ces nœuds de freinage ne fonctionnent réellement qu'avec une lèvre decrevasse faite de neige épaisse et molle, ce qui est justement le genre de terrain où le risque de percer un large pont de neige est élevé.
 
-contractures très douloureuses d'un muscle ayant subi une forte contusion. Son T max
--temps nécessaire pour atteindre la concentration maximale- est court : compris entre
-0,5 et 1,5 heure. Nous ne le conseillons pas, ni aucun autre médicament, pour mieux
-dormir la nuit précédent la course.)
-On peut faire son sac en quatre étapes :
-1/ On étale au sol l'ensemble des objets sélectionnés en s'interdisant d'en
-placer un seul dans le sac. Celui-ci est rigoureusement vide.
-2/ On engouffre le tout dans le sac et on met celui-ci sur son dos.
-Immanquablement, on le trouve trop lourd, en s'imaginant brasser une interminable
-pente raide de neige molle puis escalader des rochers aériens.
-3/ On étale de nouveau la totalité du contenu au sol, et on désigne le maximum
-d'objets, non pas inutiles, mais dont on va devoir se passer. Chaque misérable article
-passe l'impitoyable épreuve : est-il indispensable ?
-4/ On refait le sac plus soigneusement en plaçant au fond les objets les plus
-tardivement utilisés.
-Cette façon de procéder, dès maintenant, sera une bonne habitude prise pour
-les futures courses plus ambitieuses où il faudra discuter chaque mousqueton emporté
-avec la pointillerie d'un mercanti afin de limiter le poids.
-Quatrième étape : monter au refuge. La marche en montagne, à la différence
-du badaud attiré par les vitrines, se fait en regardant le sol où se pose le pied. On
-choisit ses appuis comme en escalade on choisit ses prises. On évite les obstacles
-comme le Parisien évite avec virtuosité les crottes de son trottoir. Le pas n'est donc
-pas régulier, mais dépend des accidents du terrain. C'est le rythme qui est régulier. La
-variété du pas explique, du reste, qu'on puisse marcher très longtemps sans qu'une
-douleur apparaisse en un endroit précis du corps – tendinite ou ampoule contrairement aux longues marches militaires en terrain plat. Peu chargé, un bâton, de
-ski ou télescopique, est utile. Lourdement chargé, deux bâtons sont préférables. La
-vitesse habituelle est de 300 mètres de dénivelé positif par heure. La bonne vitesse
-est celle qui vous permet de marcher plusieurs heures sans éprouver le besoin de faire
-une pause. Se dévêtir suffisamment tôt permet d'éviter la déshydratation précoce par
-une transpiration abondante. Pour les plus de quarante ans, couvrir chaudement le
-mollet au démarrage à froid permet d'éviter un claquage malheureux à cinquante
-mètres de la voiture.
-On évitera d'imiter les forts en jambes qui montent après les heures chaudes de
-la journée d'été à grandes foulées pour arriver vers 20 heures, pour quatre raisons :
-1/ La première est que, si on est en demi-pension, le repas est souvent servi à
-19h voire à 18h30.
-2/ La deuxième est qu'on va prendre son temps, toute vanité bue, pour arriver
-le plus frais possible au refuge car les choses sérieuses ne sont pas pour aujourd'hui
-mais pour demain.
-3/ La troisième raison est qu'il est peu probable qu'on réussisse à trouver un
-111
+    Nœud de freinage : un nœud de huit pour commencer, puis piéger un brin avec la boucle qui repart dans le nœud.
 
-véritable sommeil récupérateur la nuit prochaine (cet inévitable frileux qui refermera
-de façon intempestive la fenêtre du dortoir rapidement transformé en fournaise par la
-chaleur des bêtes entassées...) et qu'il vaut mieux monter très tôt, vite demander sa
-place de châlit au gardien et dormir réellement au moins deux heures dans le dortoir
-aéré, sain (avant que la coterie du soir ne se prenne à agiter en tous sens les
-couvertures empoussiérées...), vide et silencieux de l'après-midi.
-4/ Il faudra enfin aller jouer l'éclaireur sur le début de l'itinéraire qui sera
-parcouru de nuit. Marielle, l'ancienne gardienne du Promontoire, exhortait les
-candidats à la traversée de la Meije arrivés tôt dans l'après-midi au refuge, à aller en
-reconnaissance au moins jusqu'au campement des Demoiselles, voire d'aller jeter un
-œil sur l'entrée du couloir Duhamel. Ceci permettait de savoir négocier le passage du
-Crapaud quelques mètres au-dessus du refuge, la prise salvatrice étant très difficile à
-trouver dans le noir dans ce petit pas de III qui a provoqué plus de sueur que de
-raison dans son histoire... ou d'éviter de commencer l'escalade de la plaque
-commémorative située à gauche du refuge dans un remarquable et délicat pas
-d'escalade, alors que la course débute à droite du refuge par des gradins débonnaires.
-« Il faudra dire à votre copain de ne pas faire ça toute la course » avait dit
-malicieusement Marielle au second mal réveillé qui assurait devant sa cuisine.
-Durant votre reconnaissance, n'hésitez pas à redresser les cairns déjouant les pièges
-de l'itinéraire et à en fabriquer d'autres, stables et bien situés pour qu'ils ne constituent
-pas des risques de chutes de pierres, en vous imaginant dans la nuit noire tergiversant
-entre deux cailloux sombres, d'autant plus si la lune éclaire peu (le calendrier à
-vérifier...). Vous avez deux impératifs à concilier : aller suffisamment loin pour
-réellement comprendre le début de l'itinéraire, mais le faire sans fatigue excessive qui
-se payerait cher le lendemain. Les sacs sont bien sûr restés au refuge.
-Une fois le travail d'éclaireur effectué, on va dormir jusqu'à l'heure du repas.
-Les alpinistes et les marins qui savent dormir à n'importe quelle heure sont chanceux.
-Il a été montré qu'un marin solitaire habitué à des tranches de sommeil courtes de
-quelques dizaines de minutes réussit à passer en accéléré les différentes phases et à
-obtenir précocement son sommeil paradoxal récupérateur. Certains poissons dorment
-en permanence par phases de quelques secondes seulement afin de pouvoir échapper
-aux prédateurs. Une facilité de ce genre sera un immense atout quand on se lancera
-plus tard dans des courses plus ambitieuses.
-Le repas terminé, on se renseigne sur la pratique du refuge concernant le
-paiement. On paie souvent au retour de la course quand celle-ci repasse par le refuge
-afin que le gardien puisse comptabiliser les survivants... (Le GGM, Groupe des
-Grimpeurs Marseillais, organisait chaque année dans les années soixante le Banquet
-des Survivants dans une calanque livrée à un joyeux chahut au grand dam des
-riverains.)
-On peut alors brosser ses dents si on envisage de les conserver durablement
-après plusieurs années de pratique. La consommation régulière de sucres rapides
-112
+    * Une fois l'encordement en N exécuté, on place sur les porte-matériels du cuissard la panoplie nécessaire pour remonter une crevasse. On porte donc son kit préféré pour remonter sur corde fixe, mais aussi le nécessaire pour fabriquer un relais et un mouflage.
+    * Si c'est votre compagnon qui a décidé d'explorer le sous-sol, vous devrez dans un premier temps vous arc-bouter pour ne pas être entraîné. Il est probable que vos fesses rencontrent le sol à cette occasion. Puis, tout en maintenant la tension de la corde, vous creuserez derrière vous une tranchée profonde perpendiculaire à la corde, à l'aide de la panne de votre piolet, puis une seconde dans l'axe de la corde. Dans ces tranchées, vous placerez votre piolet flanqué d'une sangle en corps-mort. Puis il faudra vous libérer de la tension de la corde pour la transférer sur le corps-mort. On appelle cette manœuvre « abandon de la chaîne d'assurage ». Cela consiste à placer une cordelette entre le mousqueton à vis du corps-mort qui représente votre relais, et la corde en tension en formant autour de celle-ci un nœud auto-bloquant. 
 
-pendant l'effort installe dans la bouche des ph locaux (entre les dents) très acides
-pendant les longues heures d'une journée de montagne. L'acidité ne disparaît qu'au
-brossage suivant, d'autant plus que le manque d'hydratation ne favorise pas une
-sécrétion salivaire optimale, réduisant l'auto-nettoyage buccal. Pendant toutes ces
-heures d'acidité, les prismes d'hydroxy-apatite de l'émail se dégradent. C'est la durée
-sur vingt-quatre heures d'acidité buccale qui provoquera ou non la carie dentaire.
-C'est également la durée d'exposition aux bactéries buccales de l'attache gingivale qui
-déterminera ou non la parodontite (première cause statistique de la perte des dents)
-chez les sujets, nombreux, présentant un dysfonctionnement de la réponse tissulaire
-locale. Prendre l'habitude d'oublier le brossage sous prétexte qu'on est en montagne
-est une mauvaise idée. On emportait bien sa vieille brosse pour faire reluire les prises
-de sa couenne préférée, alors, même au bivouac spartiate sur cette étroite vire, on
-sortira triomphalement sa brosse, propre celle-là, du fond de son sac à dos, comme
-preuve irréfutable que la civilisation s'est hissée jusqu'ici. Une dernière chose. Il a été
-mis en évidence la présence de bactéries fécales – à la virulence certaine - parmi la
-flore buccale. Ces bactéries n'ont visiblement rien à y faire. Se brosser les dents avant
-de passer aux cabinets, et se laver soigneusement les mains au savon avant le
-brossage si on a manipulé des portes ou des robinets à l'hygiène douteuse, sont des
-solutions de bon sens, indispensables quand on loge en collectivité dans un confort
-sommaire.
-On remplit ses gourdes, on prend ses dernières photographies sous la lumière
-rasante qui est très belle, et on va s'allonger sinon dormir, avec à portée de main
-lampe frontale, mouchoir, boules Quies et patience... Le sac est resté dans le couloir
-du bas, hissé à un crochet, ce qui évite la tentation de l'ouvrir inutilement mille fois
-au dortoir dans les froissements pénibles de sacs plastique à la recherche d'on ne sait
-quoi.
-Quelle veine, le gardien viendra interrompre le supplice de votre insomnie à
-trois heures et demi en entrouvrant la porte du dortoir et en disant simplement :
-« Trois heures et demi. » Vous n'avez pas dormi, tout est normal. Cela n'a aucune
-espèce d'importance. La cordée, en face, a bien dormi mais somnole encore sous
-l'effet des hypnotiques qu'ils ont pris hier soir. Ils ne seront pas clairs sur le glacier.
-Des études médicales menées actuellement montrent qu'ils présentent, malgré une
-apparence trompeuse de lucidité, des troubles du comportement, une baisse de la
-vigilance, une confusion, et des troubles de l'équilibre. Ne les imitez pas. Vous, ne
-paierez véritablement votre nuit blanche que le lendemain de la course, jour de repos
-ou de bureau. Eux, après avoir assuré qu'ils étaient prêts, sont capables de partir sur le
-glacier avec un nœud d'encordement à moitié fait.
-On plie ses couvertures, on n'éblouit pas trop les dormeurs, on retrouve ses
-chaussons de refuge ou on chipe ceux du voisin, puis on descend dans l’arène... euh,
-je veux dire, le réfectoire.
-On y est. Tout va commencer : la lutte pour le petit-déjeuner dans la
-bousculade, la fébrilité généralisée, la salle à chaussons transformée en capharnaüm.
-113
+    ENSA Chamonix, youtube, nœuds de freinages.
 
-Laissez-les mettre leur baudrier d'une main, leur guêtre de l'autre, tandis qu'ils
-engloutissent à la hâte la dernière tartine et se font écraser le pied par un énergumène.
-Et ne vous laissez surtout pas gagner par cette agitation. Ne vous inquiétez pas de ces
-cordées déjà prêtes : probablement des personnes accompagnées, levées quelques
-dizaines de minutes plus tôt à la demande du guide. Mangez tranquillement, prenez
-un bon café pour vous réveiller, sauf si la caféine vous rend nerveux. On vous a levé
-tôt pour que vous n'ayez pas à courir. Nous avons vu une année un guide dynamique
-et son jeune client affûté arriver au refuge Carrel depuis Breuil à 11 heures pour se
-lancer tranquillement, après un sandwich sur la terrasse, dans l'arête du Lion à 11h20
-alors que le gros des prétendants s'était disputé âprement les premières places dès 4
-heures et que certains s'étaient même levés à 2 heures. La cordée tardive revint
-pourtant du sommet du Cervin avant beaucoup d'autres, il faut bien le dire, assez
-contente de son coup. Était-il bien indispensable de s'empoigner dans la nuit les uns
-les autres pour se disputer l'ordre de préséance sur la première chaîne fixe ? Sans aller
-jusqu'à imiter la façon de faire de cette cordée éclair qui suppose une parfaite
-connaissance de la voie, restez cool. Pour vous donner un repère, si vous partez trente
-minutes après votre lever, c'est que vous avez été rapide ; une heure après le lever,
-c'est une durée de préparation normale. Laissez les caravanes accompagnées prendre
-de la distance, pourvu seulement qu'elles épargnent vos cairns... On a reconnu hier
-l'itinéraire, on est donc serein. Si ça ne suffisait pas, on se souvient qu'on est ici pour
-se perdre, et acquérir la compétence de se retrouver.
-Garry Hemming.
-Ce jour d'août 1966, Lothar Mauch et Garry Hemming sont dans un bar d'Entrèves et lisent
-l'article du Dauphiné Libéré sur la cordée d'Allemands en difficulté dans la face ouest des Drus.
-Garry se propose d'aller récupérer la cordée par sa voie de 1962 et s'indigne de l'inaction des
-guides. Tu n'aimes pas les guides ? dit Lothar. « Non. Ils sont du genre à casser les cairns pour
-que les amateurs se perdent . » répond le beatnik des cimes.
-La montagne en direct, Antoine Chandellier, éditions Guérin, 2010.
+    * Vous poussez ce nœud auto-bloquant à fond vers la crevasse pour commencer à tendre la cordelette et serrer le nœud, puis vous vous déplacez doucement en rampant vers la crevasse pour donner du mou à la corde. Le poids se reporte alors sur la cordelette etle relais. Vous vérifiez que votre corps-mort reste bien à sa place, que tout semble solide, puis vous vous décordez. Par sécurité, vous réalisez une boucle sur la corde avec un nœud en huit que vous mousquetonnez au relais.
+    * Une fois debout, vous pouvez tasser soigneusement de la neige sur le piolet pour renforcer le corps-mort. Rassuré quant à sa solidité, vous pouvez maintenant vous déplacer le long de la corde tendue (y nouer un nœud de Prusik pour vous vacher en main courante si la situation est précaire) vers la crevasse pour prendre des nouvelles du spéléologue.
+    * Il est O.K., à lui de jouer en remontant sur corde fixe, il connaît ça par cœur. Si la corde a pénétré profondément dans la lèvre de la crevasse, vous allez lui renvoyer votre réserve de corde pour qu'il fasse sa remontée sur ce brin. Mais avant, vous irez mettre un objet sous cette corde, entre elle et la lèvre, pour éviter que ce brin ne pénètre à son tour dans la neige.
+    * Comme vous avez un peu la frousse que votre piolet ne soit éjecté par les cabrioles de votre copain, vous retournez à votre relais pour le renforcer en vous vachant au mousqueton à vis et en vous mettant en tension en direction inverse de la crevasse, assis et les pieds bien calés dans la neige.
+    * Dans le cas où la glace n'est pas loin, cas peu probable en début de saison, on la met à nu en raclant la neige avec la panne du piolet et on visse une, ou mieux, deux broches l'une derrière l'autre qu'on relie par une sangle.
+    * Si votre copain n'est pas O.K. pour remonter sur corde fixe, il va falloir faire un mouflage. Si des cordées traînent par là, appelez-les pour tirer à plusieurs. Sinon, occupez-vous d'abord de la santé de votre copain (le refroidissement...) car votre manœuvre va être longue. Relais solide et soigneux. Mouflage mariner (voir appendice en fin d'ouvrage) en soignant les frottements. Vous allez y arriver.
 
-Cinquième étape : partir dans la nuit. Pour Livanos, la nuit, souvent passée
-assis dans les étriers sur une paroi des Dolomites, n'était qu'un relais qui durait plus
-longtemps. Aussi, la soixantaine de minutes où on va marcher dans l'obscurité n'a
-aucune raison de nous faire peur. On recherchait une ambiance, on l'a. Si le début de
-l'itinéraire comporte une approche hors glacier ne nécessitant pas d'encordement, on
-ne met pas son baudrier, au contraire de toutes les cordées autour de nous. La marche
-sera moins fatigante et plus silencieuse qu'accompagnée par les cliquetis des portematériels chargés de mousquetons et de broches.
-On ne suit personne bêtement. Celui qui vous précède ne jette-t-il pas quelques
-coups d’œil en arrière pour vérifier qu'il est toujours suivi et se voir confirmer son
-itinéraire ? A suivre quelqu'un qui suit celui qu'il précède, l'histoire ressemble fort au
-114
+* Sixième étape : le jour se lève, et les autres...
+    * On maintiendra heureusement une distance sanitaire avec les cordées accompagnées, la mauvaise humeur des chaperons vis à vis des sans guides étant susceptible de représenter le premier danger de la course du jour... Débutant ou pas, accumulantmille bévues ou pas, vous êtes ici chez vous comme n'importe qui d'autre. Votre embarras, vos hésitations, vos incertitudes, sont autant de poinçons certifiant votrelégitimité car c'est l'essence même de l'alpinisme de surmonter tout cela, tandis que la suffisance de celui qui pourrait décrire la moindre marche de la course depuis son lit n'est que la marque de son indigence.
+    * Votre ligne de conduite sera de vous concentrer sur votre cordée, de faire les choses correctement, comme vous les avez apprises, afin d'assurer votre sécurité et de ne pas mettre en péril celle des autres (les chutes de pierres) et non d'accepter la sujétion à une quelconque autorité autoproclamée, aussi alpiniste chevronné, guide ou gardien de refuge soit-il.
+* Septième étape : la marche sur glacier.
+    * Elle se fait donc à corde tendue à une quinzaine de mètres l'un de l'autre, sans anneaux à la main. Les pieds sont un peu écartés pour éviter d'accrocher une jambe de pantalon avec un crampon, d'un écartement similaire à la position de base du ski moderne : la largeur du bassin.
+    * Dès que la pente se redresse, la marche en canard avec les pieds en V est proscrite afin de conserver ses tendons d'Achille en bon état, au profit du cramponnage 10 pointes. On dirigera d'autant plus la pointe des pieds vers l'aval que la pente sera forte. Et il sera bon de s'être habitué, dès les raidillons du sentier vers le refuge, à cette démarche, très reposante quand on est chaussé de chaussures d'alpinisme à semelles rigides.
+    * Quand la pente se redresse se posent trois questions :
+        * La longueur d'encordement est-elle encore adaptée à enrayer une glissade ?
+        * Dois-je ranger mon bâton télescopique pour mieux manier mon piolet ?
+        * Le cramponnage dix pointes est-il encore possible ?
+    * La longueur d'encordement :
+        * Face au risque de chute en crevasse, l'encordement est à quinze ou vingt mètres.
+        * Devant le risque de glissade, on réduit à trois mètres en prenant des anneaux de buste pour l'enrayer avant toute prise de vitesse.
+        * Pour la première course, il vaut mieux que le premier de cordée ne s'encombre pas d'anneaux à la main. Ainsi, il aura les deux mains libres et pourra changer son piolet de main facilement.
+        * La marche des deux membres de la cordée devra donc être rigoureusement à la même vitesse, ce qui donnera peut être un caractère un peu heurté à la progression. Ceci n'est pas très grave.
+        * Une question se pose. Que faire si la pente devient forte et que le risque de chute en crevasse est encore présent ?
+            * D'abord, êtes-vous bien sûr d'être sur le bon itinéraire ? N'êtes-vous pas plutôten train de vous diriger innocemment vers une zone tourmentée du glacier qu'on appelle... séracs ?
+            * Sinon, à vous de décider quel risque est le plus dangereux : crever à deux le même pont de neige (mauvais plan) ou ne pas être capable d'enrayer la glissade du compagnon dans la forte pente.
+            * Tout est question d'appréciation sur le terrain. La longueur de corde pourra aussi être un compromis. Si on choisit de conserver l'encordement long pour ne pas tomber à deux dans un pot, on sait qu'on est peu garanti contre les glissades et on en tient compte : on fait gaffe ! Ce qui est du reste la façon la plus universelle d'assurer sa sécurité en montagne.
+    * Ranger le baton
+        * Si vous n'êtes plus très à l'aise dans la pente, rangez le bâton même si devant vous la cordée continue tranquillement bâton en main et piolet nonchalamment posé sur l'épaule.
+        * Pensez qu'en cas de perte d'équilibre, il faudra ne pas lâcher le piolet, seul capable d'enrayer votre glissade. Avoir un bâton dans l'autre main peut vous tromper dans les priorités
+        * Vous aurez choisi votre piolet classique dépourvu de longe ou de dragonne car un piolet est un outil qu'on doit pouvoir changer de main instantanément, et saisir d'une multitude de façon selon la position où l'on se trouve, parfois bien involontairement.
+        * Vous avez bien fait de choisir un piolet à lame classique et d'une longueur environ 60cm pour votre stature moyenne. Tenu en piolet-canne sur le plat, bras pendant le long du corps, il ne touche pas le sol : il vous arrive à moitié du mollet.
+        * Vous pouvez faire un corps-mort avec un piolet que le manche soit estampillé B ou T, les deux répondant à la norme EN-13089 qui garantit une résistance suffisante en cas de choc au milieu du manche.
+    * Cramponnage dix pointes sur pente forte :
+        * Il s'agit surtout de ne pas perdre l'équilibre, de ne pas faire perdre l'équilibre à votre compagnon de cordée (qui vous entraînera à votre tour dans sa chute), et d'être capable à tout moment de remettre celui-ci sur pied s'il perdait l'équilibre.
+        * Le cramponnage à plat nécessite en particulier pour le premier de cordée, puisqu'il ne s'accomplit pas directement dans l'axe de la pente mais décrit des lacets, soit d'enjamber la corde, soit de tourner face à l'aval, à chaque changement de direction, afin que la corde passe par la hanche aval.
+        * Alors, sur pente relativement forte, le cramponnage mixte est souvent une bonne solution : un pied à plat, un pied en pointes frontales. La technique est très sûre et permet aussi d'alterner les pieds lorsqu'un des deux mollets n'en peut plus.
+        * Si la pente est encore plus forte, le cramponnage frontal s'impose, de préférence à réserver pour de courtes sections, à moins d'un entraînement sérieux. On
 
-baron de Münchhausen119 s'extirpant de la mare en se tirant lui-même par les
-cheveux... On s'amuse au contraire à déjouer les pièges, à déceler les traces de
-passage, empreintes de semelle dans la terre, rocher criblé par les pointes des
-crampons, passage astucieux entre deux dalles de rocher lisses, etc.
-Juillet 1993 : Nous sommes de retour au refuge des Écrins pour notre deuxième tentative de la
-voie normale de la Barre des Écrins. C'est notre première saison d'alpinisme et notre liste de
-course est immense... : voie normale de Roche Faurio, voie normale des Agneaux et traversée
-du Pelvoux, point final. Quelques jours plus tôt, la Barre des Écrins a refusé de s'offrir à nous
-pour cause d'orage nocturne : toutes les cordées sont restées au dortoir ce jour-là. Cette fois,
-nous avons décidé de ne plus nous tromper dans l'entrée du couloir d'accès au glacier Blanc
-situé en contrebas du refuge. La fois précédente en effet, pour Roche Faurio dont la première
-partie est commune avec la Barre, nous nous sommes laissés embarqués dans des pas de
-désescalade scabreux d'un rocher moyen, mal guidés par le halo incertain de nos lampes
-frontales. De jour, nous avons maintenant repéré un passage commode, nous l'avons essayé, et
-nous sommes bien décidés à le retrouver la nuit de la course. Un souci en moins.
-Nous voilà donc à sortir cette nuit-là gaillardement, ignorant les autres cordées qui cherchent
-l'entrée du couloir dans l'obscurité. Nous allons droit à notre passage, et retrouvons bientôt les
-premières prises maintenant presque familières. Mais fichtre, quel est ce remue-ménage
-soudain ? Nous voyant faire, l'ensemble des caravanes est en train de se ruer pour nous
-emboîter le pas sans réfléchir. Nous devons nous hâter de retirer nos mains des prises sur
-lesquelles arrivent les crampons tant l'hystérie semble avoir gagné les autres cordées, et nous
-prenons garde d'être bousculés. Nous finissons par atteindre le glacier sains et saufs, la meute
-sur nos talons. Mais, sait-elle, la meute, qu'elle a suivi une cordée totalement inexpérimentée
-qui a à son compteur trois misérables voies normales de tout petits sommets de l'Oisans ?
-
-Parvenu au glacier, on trouve un endroit commode pour enfiler les baudriers,
-chausser les crampons, s'encorder. Surtout, on n'attend pas que la pente s'accentue
-franchement pour mettre ses crampons sous peine de gymnastique scabreuse sur une
-pente raide et glissante.
-
-Recherche des tiers (in vitro).
-
-Encordez-vous un peu à l'écart de la trace car vous avez besoin de place pour
-trouver les tiers. Vous dépliez votre corde, chacun tient une extrémité, passe une
-119 Les aventures du baron de Munchhausen, Rudolph Erich Raspe, 1785.
-
-115
-
-boucle dans un mousqueton placé à son pontet de baudrier, puis vous vous écartez
-l'un de l'autre jusqu'à tendre la corde. Vous avez vos tiers. Pendant que vous réalisez
-votre encordement en N, d'autres cordées vont sans doute s'approcher, quittant la
-trace, mais attirées par la lumière...
-Quand le risque de chute dans d'immenses crevasses, bien larges et bien
-profondes, existe, on recommande de créer plusieurs nœuds de freinage (au moins
-trois : à 4-5 mètres du nœud d'encordement puis à 2-3 mètres de distance) sur
-l'encordement afin qu'ils se bloquent dans la lèvre de la crevasse, ce qui facilite le
-travail de celui resté à l'air libre puisqu'il n'est plus tiré (ou moins) par le poids de son
-compagnon.
-
-Nœud de freinage : un nœud de huit pour commencer, puis piéger un brin avec la
-boucle qui repart dans le nœud.
-
-Ces nœuds de freinage ne fonctionnent réellement qu'avec une lèvre de
-crevasse faite de neige épaisse et molle, ce qui est justement le genre de terrain où le
-risque de percer un large pont de neige est élevé.120
-Une fois l'encordement en N exécuté, on place sur les porte-matériels du
-cuissard la panoplie nécessaire pour jouer l'un ou l'autre des personnages de l'épisode
-« chute dans un pot », car le metteur en scène facétieux ne distribue ses rôles qu'au
-dernier moment. On porte donc son kit préféré pour remonter sur corde fixe, mais
-aussi le nécessaire pour fabriquer un relais et un mouflage.
-Si c'est votre compagnon qui a décidé d'explorer le sous-sol, vous devrez dans
-un premier temps vous arc-bouter pour ne pas être entraîné. Il est probable que vos
-fesses rencontrent le sol à cette occasion. Puis, tout en maintenant la tension de la
-corde, vous creuserez derrière vous une tranchée profonde perpendiculaire à la corde,
-à l'aide de la panne de votre piolet, puis une seconde dans l'axe de la corde. Dans ces
-tranchées, vous placerez votre piolet flanqué d'une sangle en corps-mort. Puis il
-faudra vous libérer de la tension de la corde pour la transférer sur le corps-mort. On
-120 ENSA Chamonix, youtube, nœuds de freinages.
-
-116
-
-appelle cette manœuvre « abandon de la chaîne d'assurage ». Cela consiste à placer
-une cordelette entre le mousqueton à vis du corps-mort qui représente votre relais, et
-la corde en tension en formant autour de celle-ci un nœud auto-bloquant. Vous
-poussez ce nœud auto-bloquant à fond vers la crevasse pour commencer à tendre la
-cordelette et serrer le nœud, puis vous vous déplacez doucement en rampant vers la
-crevasse pour donner du mou à la corde. Le poids se reporte alors sur la cordelette et
-le relais. Vous vérifiez que votre corps-mort reste bien à sa place, que tout semble
-solide, puis vous vous décordez. Par sécurité, vous réalisez une boucle sur la corde
-avec un nœud en huit que vous mousquetonnez au relais. Une fois debout, vous
-pouvez tasser soigneusement de la neige sur le piolet pour renforcer le corps-mort.
-Rassuré quant à sa solidité, vous pouvez maintenant vous déplacer le long de la corde
-tendue (y nouer un nœud de Prusik pour vous vacher en main courante si la situation
-est précaire) vers la crevasse pour prendre des nouvelles du spéléologue. Il est O.K., à
-lui de jouer en remontant sur corde fixe, il connaît ça par cœur. Si la corde a pénétré
-profondément dans la lèvre de la crevasse, vous allez lui renvoyer votre réserve de
-corde pour qu'il fasse sa remontée sur ce brin. Mais avant, vous irez mettre un objet
-sous cette corde, entre elle et la lèvre, pour éviter que ce brin ne pénètre à son tour
-dans la neige. Comme vous avez un peu la frousse que votre piolet ne soit éjecté par
-les cabrioles de votre copain, vous retournez à votre relais pour le renforcer en vous
-vachant au mousqueton à vis et en vous mettant en tension en direction inverse de la
-crevasse, assis et les pieds bien calés dans la neige.
-Dans le cas où la glace n'est pas loin, cas peu probable en début de saison, on la
-met à nu en raclant la neige avec la panne du piolet et on visse une, ou mieux, deux
-broches l'une derrière l'autre qu'on relie par une sangle.
-Si votre copain n'est pas O.K. pour remonter sur corde fixe, il va falloir faire un
-mouflage. Si des cordées traînent par là, appelez-les pour tirer à plusieurs. Sinon,
-occupez-vous d'abord de la santé de votre copain (le refroidissement...) car votre
-manœuvre va être longue. Relais solide et soigneux. Mouflage mariner (voir
-appendice en fin d'ouvrage) en soignant les frottements. Vous allez y arriver.
-Sixième étape : le jour se lève, et les autres...
-Tentez d'éteindre votre frontale dès que l'aube commence à poindre. On obtient
-un meilleur équilibre dans le jour naissant que dans le halo perturbateur de la frontale,
-ou pire de la frontale de son compagnon. Mais gardez-la sur la tête pour le moment,
-s'il faut examiner une souricière inattendue, retoucher une lanière de crampon ou lire
-le topo.
-Devant vous, loin sur le glacier ou dans la pente sommitale, vous ne voyez
-personne. Seul dans la course que vous avez choisie, vous êtes chanceux et en
-sécurité. Pour peu que le passage des cordées des jours précédents ait laissé une trace
-profonde, vos bénéficierez de l'existence de vos congénères sans avoir les
-inconvénients de leur présence.
-Si au contraire une autre cordée se trouve dans la voie, ne vous réjouissez pas.
-117
-
-On se souvient de la grande recommandation du trappeur de Cooper : « Mes enfants,
-nous ne sommes pas seuls dans ces plaines désolées ; d'autres que nous les
-parcourent, et il en résulte qu'à la honte de notre espèce, il y a péril pour nous. »121
-On maintiendra heureusement une distance sanitaire avec les cordées accompagnées,
-la mauvaise humeur des chaperons vis à vis des sans guides étant susceptible de
-représenter le premier danger de la course du jour... On a souvenance cependant que
-dans notre république qui cultive sans faillir depuis une certaine nuit du 4 août
-l'égalitarisme jacobin, notre place sur cette montagne n'est pas moins bien fondée que
-celle de n'importe qui d'autre, membre de corporation ou pas, et que le matamore qui
-se permet de contester ceci mérite d'être promptement remis à sa place.
-L'état d'esprit qui régnait sur la frontière, cette zone mal définie dans les USA
-du 18e siècle qui séparait les États conquis des territoires sauvages, illustre
-savoureusement les rapports humains en vigueur dans le milieu naturel : « Il n'était
-pas rare que des étrangers se rencontrassent dans les vastes déserts de l'Ouest. A des
-signes moins appréciables à des yeux moins expérimentés, ces rôdeurs savaient
-reconnaître la présence d'un des leurs, et ils l'évitaient ou s'en approchaient suivant
-la nature de leurs sentiments ou de leurs intérêts. En général, ces entrevues étaient
-pacifiques ; car les blancs avaient un ennemi commun à redouter dans les anciens et
-peut-être plus légitimes occupants du sol, mais il arrivait quelquefois que la jalousie
-ou la cupidité amenaient à la suite de ces rencontres des scènes de violence et de
-trahison. Deux chasseurs du désert américain ne s'abordaient donc qu'avec la
-lenteur et la circonspection que mettent deux navires à s'approcher l'un de l'autre
-dans des parages connus pour être infestés de pirates. »122
-Que Cooper nous apporte son concours pour énoncer crûment une réalité que
-la civilisation nous a fait oublier n'étonne nullement si l'on se rappelle que l'élection
-en mars 1828 (La prairie fut publiée en 1827) du président Jackson, engagé à l'âge de
-13 ans dans la guerre d'indépendance puis contre les indiens Séminoles, consacra aux
-États-Unis le triomphe politique de l'Ouest. Depuis 1790, la population du pays avait
-triplé (4 millions en 1790, presque 13 millions en 1830) au profit de ces nouveaux
-États, tous à l'ouest à l'exception du Vermont, et marqués par l'esprit des pionniers :
-individualisme, autonomie, égalitarisme, ignorance des bonnes manières et de la
-culture intellectuelle, religiosité mais éloignée de l’Église, vie sociale de plus en plus
-séparée de l'influence de l'Angleterre. L'Ouest marqua alors définitivement les mœurs
-politiques des États-Unis.123 Cet égalitarisme des pionniers où personne ne pouvait se
-dire plus légitime qu'un autre sur une nouvelle terre en friche s'illustre encore par ce
-passage : « Il y a dans la possession de l'autorité, malgré l'abus qu'on peut en faire,
-quelque chose qui élève l'âme. On est jaloux de prouver qu'on est à la hauteur d'une
-situation élevée ; la plupart du temps, on manque le but et l'on n'arrive qu'à rendre
-ridicule ce qui auparavant n'était qu'odieux. »124
-Partant, on se gardera de confondre respect dû à des règles communes et
-121 La Prairie, James Fenimore Cooper, 1827.
-122 Ibid.
-123 Op. cit., Jacques Néré, p.7.
-124 Op. cit., James Fenimore Cooper, supra..
-
-118
-
-soumission à l'humeur belliqueuse du capitan du jour. Débutant ou pas, accumulant
-mille bévues ou pas, vous êtes ici chez vous comme n'importe qui d'autre. Votre
-embarras, vos hésitations, vos incertitudes, sont autant de poinçons certifiant votre
-légitimité car c'est l'essence même de l'alpinisme de surmonter tout cela, tandis que la
-suffisance de celui qui pourrait décrire la moindre marche de la course depuis son lit,
-selon la saillie de Mummery, n'est que la marque de son indigence. Le concept
-d'altérité dont on vous a rebattu les oreilles pour vous faire avaler mille couleuvres
-économiques, fiscales, réglementaires et sociétales, s'est inversé : pour une fois, cet
-autre qui mérite tant d'égards, c'est vous.
-Ici, vous ne devrez rien à personne, mais tout à vous-même. Vous incorporerez
-les usages de la haute-montagne pour mieux vous y incorporer. Une discipline bien
-opposée du credo contemporain des ayants-droits des villes : exigeant avec les autres,
-laxiste avec soi-même. Votre ligne de conduite sera de vous concentrer sur votre
-cordée, de faire les choses correctement, comme vous les avez apprises, afin d'assurer
-votre sécurité et de ne pas mettre en péril celle des autres (les chutes de pierres) et
-non d'accepter la sujétion à une quelconque autorité autoproclamée, aussi alpiniste
-chevronné, guide ou gardien de refuge soit-il.
-Hormis le PGHM, le maire de la commune ou le préfet du département par
-l'intermédiaire de leurs arrêtés, et les gardes des parcs naturels nationaux dans la
-limite de leurs prérogatives, personne n'a le droit de vous donner des ordres en hautemontagne, et vous devez simplement éviter la mise en danger d'autrui pour ne pas
-engager votre responsabilité pénale. Il faut savoir cependant qu'ignorer délibérément
-un conseil de prudence sans justification peut engager cette responsabilité pénale en
-cas de sinistre (cf chapitre 11). Il ne s'agit donc pas non plus, bien entendu, de faire la
-sourde oreille aux avis de personnes bienveillantes, lesquelles sont facilement
-reconnaissables à leur absence de moquerie ou d'agressivité.
-Septième étape : la marche sur glacier. Elle se fait donc à corde tendue à une
-quinzaine de mètres l'un de l'autre, sans anneaux à la main. Les pieds sont un peu
-écartés pour éviter d'accrocher une jambe de pantalon avec un crampon, d'un
-écartement similaire à la position de base du ski moderne : la largeur du bassin. Les
-boucles des lacets sont escamotées. Dès que la pente se redresse, la marche en canard
-avec les pieds en V est proscrite afin de conserver ses tendons d'Achille en bon état,
-au profit du cramponnage 10 pointes. On dirigera d'autant plus la pointe des pieds
-vers l'aval que la pente sera forte. Et il sera bon de s'être habitué, dès les raidillons du
-sentier vers le refuge, à cette démarche, très reposante quand on est chaussé de
-chaussures d'alpinisme à semelles rigides. On saisit très vite l'intérêt d'avoir une
-chaussure à tige souple mais dont le maintien procure un bon gainage de la cheville,
-afin d'exploiter toute l'amplitude de sa propre flexion latérale de cheville sans pour
-autant mettre en danger l'articulation. Un pantalon étroit sous le genou facilitera
-grandement le passage de la jambe de la hanche amont, ce qui laisse penser que les
-obsolètes bandes molletières des poilus de 14 n'étaient peut-être pas si bêtement
-
-119
-
-conçues125. On oublie donc ces guêtres larges mal ajustées ou ces sur-pantalons aux
-longueurs de jambe infinies compliqués de soufflets en tous genres tombant en mille
-plis sur l'empeigne de la chaussure. D'où le succès récent et mérité chez les
-connaisseurs de ces pantalons moulants et robustes de la marque Montura (modèle
-vertigo), quasiment devenus l'uniforme des alpinistes italiens.
-Le piolet est tenu en piolet-canne, à la française lame en avant, ou à l'anglaise
-lame en arrière126, ou bien posé négligemment sur l'épaule (mais prêt à l'emploi) dans
-le pur style que René Desmaison arborait en illustration d'un cours collectif au Japon
-dans son livre Professionnel du vide127.
-Quand la pente se redresse se posent trois questions :
-– La longueur d'encordement est-elle encore adaptée à enrayer une glissade ?
-– Dois-je ranger mon bâton télescopique pour mieux manier mon piolet ?
-– Le cramponnage dix pointes est-il encore possible ?
-La longueur d'encordement :
-Face au risque de chute en crevasse, l'encordement est à quinze ou vingt
-mètres. Devant le risque de glissade, on réduit à trois mètres en prenant des anneaux
-de buste pour l'enrayer avant toute prise de vitesse. Pour la première course, il vaut
-mieux que le premier de cordée ne s'encombre pas d'anneaux à la main. Ainsi, il aura
-les deux mains libres et pourra changer son piolet de main facilement. La marche des
-deux membres de la cordée devra donc être rigoureusement à la même vitesse, ce qui
-donnera peut être un caractère un peu heurté à la progression. Ceci n'est pas très
-grave.
-Une question se pose. Que faire si la pente devient forte et que le risque de
-chute en crevasse est encore présent ?
-D'abord, êtes-vous bien sûr d'être sur le bon itinéraire ? N'êtes-vous pas plutôt
-en train de vous diriger innocemment vers une zone tourmentée du glacier qu'on
-appelle... séracs ?
-Sinon, à vous de décider quel risque est le plus dangereux : crever à deux le
-même pont de neige (mauvais plan) ou ne pas être capable d'enrayer la glissade du
-compagnon dans la forte pente. Tout est question d'appréciation sur le terrain. La
-longueur de corde pourra aussi être un compromis. Si on choisit de conserver
-l'encordement long pour ne pas tomber à deux dans un pot, on sait qu'on est peu
-garanti contre les glissades et on en tient compte : on fait gaffe ! Ce qui est du reste
-la façon la plus universelle d'assurer sa sécurité en montagne.
-
-125 Pour la petite histoire, Pourchier et Frendo préconisaient encore en 1943 la courte molletière de drap (1 mètre) à
-condition de la prendre large (10 centimètres) et déconseillaient tout ce qui pouvait comprimer le mollet comme les
-molletières longues ou les guêtres hautes. Op. cit., p. 53.
-126 « En Inde, si l'on apprend au club de Bombay, c'est à la française, si l'on apprend à l'école de Darjeeling, c'est à
-l'anglaise. Mais il n'y a pas de quoi en faire une guerre civile ! » Alpinisme et Escalade, Erik Decamp, éditions
-Didier Richard, 1992.
-127 Professionnel du vide, Rene Desmaison, Ed. Arthaud, 1979.
-
-120
-
-Ranger le bâton :
-Ici comme ailleurs, il ne s'agit pas d'imiter les cordées voisines qui n'ont peutêtre pas une expérience identique à la vôtre. Si vous n'êtes plus très à l'aise dans la
-pente, rangez le bâton (ou plantez-le dans la neige à un endroit caractéristique pour le
-retrouver à la descente, au moins dans le massif des Écrins où les alpinistes ont moins
-tendance à s'approprier ce qu'ils décident être abandonné que dans le massif du MontBlanc...), même si devant vous la cordée continue tranquillement bâton en main et
-piolet nonchalamment posé sur l'épaule.
-Pensez qu'en cas de perte d'équilibre, il faudra ne pas lâcher le piolet, seul
-capable d'enrayer votre glissade. Avoir un bâton dans l'autre main peut vous tromper
-dans les priorités : lâcher le piolet, vous agripper à un bâton inutile lors de la chute.
-Le bâton est un formidable outil pour limiter la fatigue de la progression mais n'est
-pas un outil de sécurité. Il faut aussi préciser que vous aurez choisi votre piolet
-classique dépourvu de longe ou de dragonne, quelque soit leur type, et dieu sait que
-les fabricants sont inventifs en la matière, car un piolet est un outil qu'on doit pouvoir
-changer de main instantanément, et saisir d'une multitude de façon selon la position
-où l'on se trouve, parfois bien involontairement. Une dragonne ou une longe sur un
-piolet classique est une gêne. Vous pensez à juste titre que lâcher votre corde
-d'assurage d'une falaise qu'il faut redescendre en rappel est une grosse bêtise ? Alors
-vous ne lâcherez pas ce piolet qui vous a coûté une fortune, et vous prendrez ce pli
-dès votre première course de montagne pour qu'il devienne un acquis définitif.
-Vous avez bien fait de choisir un piolet à lame classique et d'une longueur
-environ 60cm pour votre stature moyenne. Tenu en piolet-canne sur le plat, bras
-pendant le long du corps, il ne touche pas le sol : il vous arrive à moitié du mollet. Il
-n'est pas lourd comme un outil de jardin, mais vous n'avez pas choisi non plus le plus
-léger du magasin sous peine de ne pas pouvoir l'ancrer dans la glace. Vous pouvez
-faire un corps-mort avec un piolet que le manche soit estampillé B ou T, les deux
-répondant à la norme EN-13089 qui garantit une résistance suffisante en cas de choc
-au milieu du manche.
-Cramponnage dix pointes sur pente forte :
-Vous avez déjà lu partout que l’intransigeant Armand Charlet a retardé
-l'introduction à Chamonix des pointes frontales inventées à Courmayeur en 1932 par
-Laurent Grivel en raison notamment de son extraordinaire laxité de chevilles et bien
-entendu de sa maîtrise toute aussi exceptionnelle de la technique pointes à plat sur
-pentes très fortes. Tout va donc dépendre de votre propre maîtrise... et de celle de
-votre compagnon de cordée. Il s'agit surtout de ne pas perdre l'équilibre, de ne pas
-faire perdre l'équilibre à votre compagnon de cordée (qui vous entraînera à votre tour
-dans sa chute), et d'être capable à tout moment de remettre celui-ci sur pied s'il
-perdait l'équilibre. Le cramponnage à plat nécessite en particulier pour le premier de
-cordée, puisqu'il ne s'accomplit pas directement dans l'axe de la pente mais décrit des
-lacets, soit d'enjamber la corde, soit de tourner face à l'aval, à chaque changement de
-direction, afin que la corde passe par la hanche aval. Les deux solutions peuvent finir
-121
-
-par devenir scabreuses, d'autant plus si on a absolument tenu à conserver des anneaux
-à la main qu'il va falloir changer de main, plutôt que s'encorder très court sans tenir
-d'anneaux. Il faudra aussi creuser légèrement le genou de la hanche aval pour
-pouvoir passer l'autre pied entre la paroi et ce genou sans accrocher ni l'un ni l'autre,
-car l'espace s'est rétréci depuis que la pente a forci.
-Alors, sur pente relativement forte, le cramponnage mixte est souvent une
-bonne solution : un pied à plat, un pied en pointes frontales. La technique est très sûre
-et permet aussi d'alterner les pieds lorsqu'un des deux mollets n'en peut plus.
-Si la pente est encore plus forte, le cramponnage frontal s'impose, de
-préférence à réserver pour de courtes sections, à moins d'un entraînement sérieux. On
-pensera alors, comme du reste en cascade de glace, à exploiter la moindre bossette de
-neige dure ou de glace. Ici aussi, il existe des prises, et tout va bizarrement beaucoup
-mieux quand on s'en sert. De même, les piolets seront plutôt ancrés dans les creux de
-neige que sur les bosses de glace, les cordées du dessous ne réussissant décidément
-pas à s'habituer à recevoir vos assiettes sur leurs tibias.
-Pensez que, la pente s'accentuant, ce n'est pas une course éperdue contre la
-tétanisation de vos mollets et cette angoisse qui monte, qui vont vous sauver sur cette
-longue pente où il faut gérer les difficultés dans la durée. Prenez votre temps.
-Ménagez des pauses, en ancrant profondément votre piolet et en vous vachant dessus,
-en vous ménageant deux petites marches pour les pieds, le temps par exemple de
-raccourcir encore un peu plus votre encordement si vous le sentez nécessaire. Écoutez
-aussi les bruits : un froufrou est souvent le seul bruit que fait la chute d'une pierre sur
-une pente de neige. Le soleil a-t-il déjà touché le haut de la pente ? Où le
-refroidissement de la fin de la nuit provoque-t-il des variations volumétriques de la
-glace qui lâche ses cailloux emprisonnés ? Peut-on s'écarter de la trajectoire à gauche,
-ou à droite ? Un bruit sourd qui résonne dans la pente de neige sous votre poids doit
-vous faire dresser les cheveux sur la tête : la pente est-elle stable ? N'y a-t-il pas trop
-de neige fraîche ? Si c'est le cas, n'ai-je pas intérêt à tracer directement dans l'axe du
-versant en technique frontale pour éviter de découper la pente et donc de faciliter le
-départ d'une coulée? Ou décider de rentrer à la maison... ? Auquel cas : sommet raté
-mais journée riche en enseignement. Or, c'est ça qu'on est venu chercher : une
-compétence plus qu'un sommet.
-Huitième étape : le topo vous a résumé ça d'une phrase expéditive : « Gravir
+* Huitième étape : le topo vous a résumé ça d'une phrase expéditive : « Gravir
 les rochers faciles jusqu'au sommet. » Mais devant vous se dresse maintenant, en
 plein vent, un tas de rocs instables bien plus haut que la couenne de votre site
 d'escalade préféré. Et aucun spit ne brille sous le soleil levant. Tout ça n'inspire pas
@@ -1247,8 +760,6 @@ rocher le plus haut. Saussure aurait été fier de vous. Voilà où aller.
 Puis, faites le montagnard : glissez votre piolet derrière la bretelle de votre sac
 à dos (entre dos et sac, la panne à l'extérieur, la lame derrière la nuque), prêt à être
 repris d'une main si on rencontre une nouvelle portion de neige. Pierre Allain
-122
-
 recommandait de le passer dans la patte de hissage du sac 128, ce qui réclame plus de
 dextérité mais évite que le piolet ne tombe quand on quitte le sac et qu'on a oublié sa
 présence. Et gardez vos crampons aux pieds. Vous avez déjà grimpé une couenne
@@ -1290,9 +801,6 @@ mini-longueur. Au fur et à mesure des courses, votre cordée gagnera en fluidit
 donc en vitesse sans pour autant vous mettre à courir.
 Vous pouvez également vous vacher à la sangle posée sur le becquet par un
 nœud de cabestan et assurer à l'épaule ou à la taille. Rappelez-vous que la corde allant
-128 Op. cit., Pierre Allain, p.17.
-
-123
 
 au second passe du même côté (par la même hanche) que la portion qui vous vache,
 pour ne pas être soumis à une rotation non maîtrisable qui vous met les bras en croix
@@ -1331,11 +839,6 @@ de charrue. Faire un planté de piolet brutal et sauvage vous ferait au contrair
 l'outil sous le choc. Soulevez bien le bas du manche pour que la pique ne se plante
 pas brutalement dans la neige.
 Tenir le piolet lame en arrière à la descente permet donc de n'avoir pas à
-129 Op. cit., Mike Barter, p.73.
-130 Op. cit., p.14. Marcel Rouff brodant bien entendu sur le personnage prenant deux r d'Eugène Labiche et Édouard
-Martin, dans Le voyage de Monsieur Perrichon, Bourdilliat et Cie éditeurs, 1860.
-
-124
 
 changer de prise pendant la chute. Ceci n'était pas la préférence d'Yvon Chouinard 131
 qui conseillait de tenir le piolet lame vers l'avant dans toutes les situations parce que
@@ -1359,12 +862,10 @@ victorieuse ! La vie d'en bas vaincue et dominée en même temps que la cime ! �
 Les derniers névés sont dévalés à toute allure en godille ou en ramasse, en
 choisissant les zones lisses qui glissent bien, et en ayant rangé tout le matériel dans le
 sac pour ne pas le semer ici ou là.
-**
 
-131 Op. cit., Yvon Chouinard, p.39.
-132 Op. cit., Marcel Rouff, p.14.
+## Chaussure d'alpinisme
 
-125
+* Une bonne chaussure d'alpinisme est rigide en semelle pour plusieurs raisons : pouvoir imprimer des encoches dans la neige « bout de pied » et non pas rouler dessus en se déformant, éviter le déchaussage intempestif des crampons, tenir sur les petites prises de pieds en rocher. Elle est souple en tige pour pouvoir pratiquer le cramponnage dix pointes (pieds à plat) et rester utilisable en adhérence sur le rocher. Le décrochement du talon est un élément essentiel : c'est cette « marche inversée » qui bloque les pierres roulant sous la chaussure. Un talon peu marqué (et un crantage de toute la semelle moins profond) est le prix à payer des chaussures d'alpinisme légères de type Trango qui ont nettement moins d'accroche que des modèles plus traditionnels (Jorasses de Scarpa par exemple). L'absence de talon explique pourquoi on se casse facilement la figure en descente raide sur une terre dure caillouteuse avec des chaussures d'approche, jusqu'à ce qu'on admette que la glissade est impossible à empêcher avec ce genre de chaussures, et que donc il faut davantage porter son poids sur l'avant du pied pour accompagner le surf en conservant son équilibre.
 
 ## Assurage en mouvement
 
