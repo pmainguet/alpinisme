@@ -1,10 +1,5 @@
 NOTES ALPINISME
 
-Exemples de voie facile
-oie normale de Roche Faurio, voie normale des Agneaux et traversée
-du Pelvoux
-
-
 ## Code de l'alpinisme amateur
 
 1. Décider que l'autonomie précède la pratique.
@@ -72,6 +67,7 @@ restez en tension permanente sur une vache de ce type quand vous l'utilisez, et 
 * Bivouac en montagne
 * Course montagne rocher sans difficultés majeures
     * Assurage en mouvement long à roder
+    * Essayer de grimper avec crampons
 * Ecole de glace:
     * s'inscrire au bureau des guides pour quelques heures de cours pour rappel + cascade glace
     * Perfectionnement lors de stage de cascade de glace d'une semaine, ceci chaque année jusqu'à atteindre au moins le degré IV en cotation glace à vue en premier de cordée avec brochage.
@@ -623,7 +619,7 @@ dégagement immense pour une frappe puissante.
 * Pour des ancrages de piolet faciles et un brochage sûr, sachez enfin que la glacepossède la température idéale, proche de zéro degré, les jours de neige, quand ceux-ci
 correspondent bien à un redoux modéré.
 
-## La première course
+## La première course (de neige)
 
 * Votre première course sera d'altitude modérée (bien en dessous de 4000m), réalisée en début de saison, une fois les pentes purgées de leur neige de printemps, de niveau pas trop difficile sur neige/glace. Les crevasses sont alors bien bouchées, souvent réduites à une simple fente qu'on enjambe (attention aux exceptions).
 * Exemple de course: Voie normale (VN) de Roche Faurio, VN des Rouies, VN du Giobernay,
@@ -750,243 +746,60 @@ VN de la Pointe de la Pilatte
         * Alors, sur pente relativement forte, le cramponnage mixte est souvent une bonne solution : un pied à plat, un pied en pointes frontales. La technique est très sûre et permet aussi d'alterner les pieds lorsqu'un des deux mollets n'en peut plus.
         * Si la pente est encore plus forte, le cramponnage frontal s'impose, de préférence à réserver pour de courtes sections, à moins d'un entraînement sérieux. On
 
-* Huitième étape : le topo vous a résumé ça d'une phrase expéditive : « Gravir
-les rochers faciles jusqu'au sommet. » Mais devant vous se dresse maintenant, en
-plein vent, un tas de rocs instables bien plus haut que la couenne de votre site
-d'escalade préféré. Et aucun spit ne brille sous le soleil levant. Tout ça n'inspire pas
-bien confiance.
-D'abord, faites le géographe : vous identifiez le sommet comme étant... le
-rocher le plus haut. Saussure aurait été fier de vous. Voilà où aller.
-Puis, faites le montagnard : glissez votre piolet derrière la bretelle de votre sac
-à dos (entre dos et sac, la panne à l'extérieur, la lame derrière la nuque), prêt à être
-repris d'une main si on rencontre une nouvelle portion de neige. Pierre Allain
-recommandait de le passer dans la patte de hissage du sac 128, ce qui réclame plus de
-dextérité mais évite que le piolet ne tombe quand on quitte le sac et qu'on a oublié sa
-présence. Et gardez vos crampons aux pieds. Vous avez déjà grimpé une couenne
-facile avec vos crampons dans votre préparation, ça ne vous fait pas peur. Attention
-au second : la main pas trop proche des crampons du premier de cordée, quand on
-saisit trop vite une prise à peine quittée par le pied de son compagnon (mais la trousse
-de secours est dans le sac et permet un gros pansement sur le dos de la main).
-Ensuite, faites l'indien : là où la trace dans la neige s’interrompt... commence
-le passage rocheux. On devrait y voir des traces de crampons, des marques dans la
-terre, un rocher un peu blanchi et plus nettoyé qu'ailleurs de ses petits cailloux en tous
-genres ; peut-être une vieille sangle qui traîne sur un becquet.
-Puis, faites le Marseillais en discutaillant la cotation : Peuchère, c'est un peu
-sec pour du III. Des rochers faciles, même impressionnants, ne font pas un pas de V.
-Allez voir à gauche, ou à droite, de l'autre côté de l'arête peut-être... Vous allez
-trouver des semblants de petites vires interrompues. C'est sans doute là.
-Aiguille du Plan, 3673m, août 2007. Il y a affluence sur la traversée Midi-Plan. Les rochers
-terminaux sont spécialement encombrés de cordées montantes et descendantes. On sent une
-certaine impatience chez les alpinistes qui savent le retour à l'aiguille du Midi par l'arête fort long
-et la descente sur le refuge du Requin par le glacier d'Envers du Plan très crevassée. Un immense
-balourd descend du sommet en rappel, crampons aux pieds sans se soucier des autres alpinistes.
-Ma voisine de rocher, d'une autre cordée, saisit une grosse prise de sa main nue, celle-là même
-que choisit notre énergumène du jour pour se relancer du pied dans son rappel. Ce fut le cri que
-poussa la jeune femme qui nous fit tourner la tête et voir sa main ensanglantée tandis que le
-grand costaud disparaissait déjà dans son rappel.
-
-Enfin, ne faites pas l’œuf : assurez-vous. Une petite chute ici, avec à la clef une
-cheville en mauvais état, et dans quelles conditions allez-vous négocier cette fichue
-pente de neige raide que vous venez de gravir et qu'il faudra bien redescendre ? Alors,
-on rallonge un peu l'encordement, on passe la corde derrière tous les becquets qui se
-présentent, on coiffe au passage un autre becquet d'une sangle à laquelle on
-mousquetonne la corde ; pourquoi pas on pose l'un des deux friends qu'on a emportés.
-C'est fou comme on ose plus s'aventurer dès qu'on a placé quelques protections. Un
-pas un peu plus difficile : vous le franchissez en tête avec votre second qui vous pare
-juste en dessous, puis vous coiffez le premier becquet rocheux qui se présente avec
-une sangle, un mousqueton à vis HMS dessus dans lequel vous faites passer la corde,
-vous prenez le mou, réalisez un demi-cabestan et vous assurez efficacement le second
-avant de repartir corde tendue. C'est ce que j'appelle un mini-relais. Mini-relais pour
-mini-longueur. Au fur et à mesure des courses, votre cordée gagnera en fluidité et
-donc en vitesse sans pour autant vous mettre à courir.
-Vous pouvez également vous vacher à la sangle posée sur le becquet par un
-nœud de cabestan et assurer à l'épaule ou à la taille. Rappelez-vous que la corde allant
-
-au second passe du même côté (par la même hanche) que la portion qui vous vache,
-pour ne pas être soumis à une rotation non maîtrisable qui vous met les bras en croix
-et annule tout frottement sur votre corps quand le second tend brusquement la corde.
-Voir à ce sujet les très bonnes vidéos de Mike Barter129.
-Plus rapide et pour enrayer une simple glissade : passer simplement la corde
-directement derrière un becquet assez gros pour obtenir une grande surface de
-freinage entre le rocher et la corde et prendre le mou sans perdre ce contact corderocher.
-Neuvième étape, le sommet : « J'ai vu - la photo - une barre de céréales - une
-gorgée d'eau - je voudrais redescendre. » Voilà souvent comment se passe le premier
-sommet pour une cordée autonome. L'inquiétude de la descente vient en même temps
-que le sommet. Ce n'est pas un moment de plénitude ce qui empêche l'amateur de se
-faire croquer par Rouff : « La photographie s'étant perfectionnée (…) il obtint de
-l'objectif une image où le Mont-Blanc était tout petit et lui, Périchon, énorme. »130 Il
-est normal d'être soucieux. Le soleil est en train de ramollir la neige, qui si elle n'était
-pas parfaitement dure tout à l'heure, pourrait bien devenir franchement pourrie. Alors,
-on préfère ne pas tarder pour au moins en descendre au plus tôt la portion raide. Les
-rochers faciles se désescaladent face au vide, pieds légèrement écartés, les bras
-écartés également avec les paumes prenant appui sur les prises devant soi. On
-privilégie les passages au fond des petits dièdres, moins exposés que les dalles ou les
-gradins. Ponctuellement, on se retourne face au rocher pour un passage plus difficile,
-celui déjà descendu pouvant indiquer les prises qu'on ne voit plus. Le premier à
-désescalader place des protections pour le suivant sans le surestimer... Juste après
-chaque pas jugé plus dur : une protection, même si le leader, faisant son mariolle,
-prétend qu'il n'en a pas besoin. Arrivé à la neige, on plante la totalité du manche du
-piolet dans la neige le temps que le premier de cordée rallie et on ramène la corde à
-soi pour qu'il ne se prenne pas les jambes dedans.
-Le reste est une formalité qui tient en un mot : une attention de tous les instants
-pour éviter la chute. Ah oui, profitez-en pour saisir votre piolet en piolet-canne à
-l'anglaise : lame vers l'arrière.
-Ainsi, le petit doigt est dirigé vers la lame, le pouce vers la panne, ce qui est la
-même prise que la position de réchappe qui enraye une glissade : couché à plat
-ventre sur le piolet, crampons décollés de la neige si elle est dure, poitrine pesant sur
-la tête du piolet pour faire pénétrer progressivement la lame dans la neige tel un soc
-de charrue. Faire un planté de piolet brutal et sauvage vous ferait au contraire lâcher
-l'outil sous le choc. Soulevez bien le bas du manche pour que la pique ne se plante
-pas brutalement dans la neige.
-Tenir le piolet lame en arrière à la descente permet donc de n'avoir pas à
-
-changer de prise pendant la chute. Ceci n'était pas la préférence d'Yvon Chouinard 131
-qui conseillait de tenir le piolet lame vers l'avant dans toutes les situations parce que
-plus à distance du corps, pour minimiser les risques de blessure. Vous pourrez donc
-essayer les deux options et choisir celle qui vous plaît.
-La lame vers l'arrière est plus discutable à la montée, car une perte d'équilibre
-vers l'avant se traduit par le contact automatique de la lame contre la neige (en même
-temps que le genou) si la lame est dirigée vers l'avant, ce qui a toute chance d'enrayer
-la petite glissade, et l'utilisation en piolet-appui ou piolet-panne est possible à tout
-moment.
-Régulièrement, on vérifie l'absence de sabot de neige sous les crampons. Il
-peut se former malgré les antibotts. On donne un coup de manche de piolet sur le
-côté extérieur du crampon pour faire tomber la neige accumulée. Quand on rejoint le
-glacier ramolli donc au risque accru, on tend un peu plus la corde et on regarde loin à
-droite et loin à gauche de la trace, pour détecter les crevasses qui se prolongeraient
-cachées sous nos pas.
-Au bas du glacier, vous vous décorderez et ôterez vos baudriers et vos
-crampons avec l'impression de vous soulager d'un fardeau. L'apaisement se trouve ici,
-non au sommet. « La plénitude ! L'épanouissement de l'effort calmé, de la volonté
-victorieuse ! La vie d'en bas vaincue et dominée en même temps que la cime ! »132
-Les derniers névés sont dévalés à toute allure en godille ou en ramasse, en
-choisissant les zones lisses qui glissent bien, et en ayant rangé tout le matériel dans le
-sac pour ne pas le semer ici ou là.
+* Huitième étape : le topo vous a résumé ça d'une phrase expéditive : « Gravir les rochers faciles jusqu'au sommet. » Mais devant vous se dresse maintenant, en plein vent, un tas de rocs instables bien plus haut que la couenne de votre site d'escalade préféré. Et aucun spit ne brille sous le soleil levant. Tout ça n'inspire pas bien confiance. 
+    * Repérer sommet
+    * Ranger piolet
+    * Garder crampons aux pieds
+    * Assurez vous:
+        * on rallonge un peu l'encordement, on passe la corde derrière tous les becquets qui se présentent, on coiffe au passage un autre becquet d'une sangle à laquelle on mousquetonne la corde ; pourquoi pas on pose l'un des deux friends qu'on a emportés. 
+        * Un pas un peu plus difficile : vous le franchissez en tête avec votre second qui vous pare juste en dessous, puis vous coiffez le premier becquet rocheux qui se présente avec une sangle, un mousqueton à vis HMS dessus dans lequel vous faites passer la corde, vous prenez le mou, réalisez un demi-cabestan et vous assurez efficacement le second avant de repartir corde tendue. C'est ce que j'appelle un mini-relais.
+        * Vous pouvez également vous vacher à la sangle posée sur le becquet par un nœud de cabestan et assurer à l'épaule ou à la taille. Rappelez-vous que la corde allant  au second passe du même côté (par la même hanche) que la portion qui vous vache, pour ne pas être soumis à une rotation non maîtrisable qui vous met les bras en croix et annule tout frottement sur votre corps quand le second tend brusquement la corde.
+        * Plus rapide et pour enrayer une simple glissade : passer simplement la corde directement derrière un becquet assez gros pour obtenir une grande surface de freinage entre le rocher et la corde et prendre le mou sans perdre ce contact corde-rocher.
+        
+* Neuvième étape: la descente
+    * Les rochers faciles se désescaladent face au vide, pieds légèrement écartés, les bras écartés également avec les paumes prenant appui sur les prises devant soi.
+    * On privilégie les passages au fond des petits dièdres, moins exposés que les dalles ou les gradins.
+    * Ponctuellement, on se retourne face au rocher pour un passage plus difficile, celui déjà descendu pouvant indiquer les prises qu'on ne voit plus.
+    * Le premier à désescalader place des protections pour le suivant sans le surestimer... Juste après chaque pas jugé plus dur : une protection, même si le leader, faisant son mariolle, prétend qu'il n'en a pas besoin.
+    * Arrivé à la neige, on plante la totalité du manche du piolet dans la neige le temps que le premier de cordée rallie et on ramène la corde à soi pour qu'il ne se prenne pas les jambes dedans.
+    * saisir votre piolet en piolet-canne à l'anglaise : lame vers l'arrière. Ainsi, le petit doigt est dirigé vers la lame, le pouce vers la panne, ce qui est la même prise que la position de réchappe qui enraye une glissade
+    * Régulièrement, on vérifie l'absence de sabot de neige sous les crampons. 
+    * Quand on rejoint le glacier ramolli donc au risque accru, on tend un peu plus la corde et on regarde loin à droite et loin à gauche de la trace, pour détecter les crevasses qui se prolongeraient cachées sous nos pas.
 
 ## Chaussure d'alpinisme
 
-* Une bonne chaussure d'alpinisme est rigide en semelle pour plusieurs raisons : pouvoir imprimer des encoches dans la neige « bout de pied » et non pas rouler dessus en se déformant, éviter le déchaussage intempestif des crampons, tenir sur les petites prises de pieds en rocher. Elle est souple en tige pour pouvoir pratiquer le cramponnage dix pointes (pieds à plat) et rester utilisable en adhérence sur le rocher. Le décrochement du talon est un élément essentiel : c'est cette « marche inversée » qui bloque les pierres roulant sous la chaussure. Un talon peu marqué (et un crantage de toute la semelle moins profond) est le prix à payer des chaussures d'alpinisme légères de type Trango qui ont nettement moins d'accroche que des modèles plus traditionnels (Jorasses de Scarpa par exemple). L'absence de talon explique pourquoi on se casse facilement la figure en descente raide sur une terre dure caillouteuse avec des chaussures d'approche, jusqu'à ce qu'on admette que la glissade est impossible à empêcher avec ce genre de chaussures, et que donc il faut davantage porter son poids sur l'avant du pied pour accompagner le surf en conservant son équilibre.
+* Une bonne chaussure d'alpinisme est rigide en semelle pour plusieurs raisons:
+    * pouvoir imprimer des encoches dans la neige « bout de pied » et non pas rouler dessus en se déformant,
+    * éviter le déchaussage intempestif des crampons,
+    * tenir sur les petites prises de pieds en rocher.
+* Elle est souple en tige pour pouvoir pratiquer le cramponnage dix pointes (pieds à plat) et rester utilisable en adhérence sur le rocher.
+* Le décrochement du talon est un élément essentiel : c'est cette « marche inversée » qui bloque les pierres roulant sous la chaussure.
+* Un talon peu marqué (et un crantage de toute la semelle moins profond) est le prix à payer des chaussures d'alpinisme légères de type Trango qui ont nettement moins d'accroche que des modèles plus traditionnels (Jorasses de Scarpa par exemple).
+* L'absence de talon explique pourquoi on se casse facilement la figure en descente raide sur une terre dure caillouteuse avec des chaussures d'approche, jusqu'à ce qu'on admette que la glissade est impossible à empêcher avec ce genre de chaussures, et que donc il faut davantage porter son poids sur l'avant du pied pour accompagner le surf en conservant son équilibre.
 
-## Assurage en mouvement
+## Assurage à l'épaule
 
-« Ne craignez rien Madame Lane, je vous tiens.
-- Oui, vous me tenez. Mais qui vous tient, vous ? »133
-L'assurage en mouvement est la plus ancienne technique d'assurage moderne
-avec corde. Il mit du temps à s'imposer. A l'époque de Saussure, on emportait en plus
-du bâton ferré une longue perche à laquelle plusieurs personnes se tenaient pour
-franchir les crevasses et les passages difficiles. Puis on jugea l'usage de la corde plus
-pratique que la perche, mais on ne s'encorda pas pour autant. Les récits de l'accident
-de 1820 de la caravane Hamel134, comptant sept guides et trois voyageurs, ne
-mentionnent pas l'utilisation de la corde, alors que l'avalanche a précipité les victimes
-dans une crevasse. La corde fut longtemps tenue à la main, ce qui n'allait pas sans
-quelques déboires. Whymper raconte ainsi l'accident du 15 août 1860 survenu à la
-descente du versant italien du col du Géant135. Une glissade se produisit dans la pente
-de neige et le guide de tête comme le guide de queue lâchèrent la corde, provoquant
-le mort de trois Anglais et du guide Tairraz. A la fin du 19ème siècle, l'encordement
-en nouant la corde à la taille, sur glacier enneigé, sur névé raide, ou sur rochers
-escarpés, devient la règle. La caravane se transforme en cordée.
-Le principe général est simple. Les membres de la cordée progressent ensemble
-en cherchant à maintenir la corde à peu près tendue. Si l'un glisse, il est retenu par
-l'autre. En cas d'obstacle court, le premier de cordée le franchit, paré voire poussé par
-le second, se cale derrière un recoin du rocher, et assure son compagnon à l'épaule ou
-133 Superman, film de Richard Donner, 1978.
-134 Notice sur la découverte de cadavres après 41 ans de séjour dans la glace, Edmond de Catelin (vrai nom de
-Stephen d'Arve), éditions Venance Payot, 1861.
-135 Guide à Chamonix et dans la chaîne du Mont-Blanc, Edward Whymper, Librairie A.Jullien éditeur, 1910.
+* L'assurage à l'épaule consiste à se caler solidement derrière une saillie, la jambe avant devant être capable de supporter le poids du second sans déraper.
+* La corde partant de l'assuré passe par la main avant en supination, passe sous l'aisselle du même côté, derrière le dos, puis sur l'épaule opposée, pour finir devant la poitrine dans l'autre main en pronation.
+* On ne peut avec cette méthode qu'enrayer une glissade que l'assuré va devoir finir de stopper lui-même. 
+* Vêtements épais pour l'assureur, des manches longues, le port de gants en cuir brut.
+* L'assureur peut aussi s'auto-assurer à un becquet pour consolider sa position, mais dans ce cas, pourquoi ne pas assurer directement sur ce becquet avec un demi-cabestan ? 
+* Dans ce cas, la vache passe du même côté du corps que la corde qui va à l'assuré.
 
-126
+## Assurage en mouvement - technique plus simple
 
-directement sur un becquet rocheux. Le second le rejoint, puis les deux repartent
-corde tendue.
-L'assurage à l'épaule consiste à se caler solidement derrière une saillie, la jambe avant
-devant être capable de supporter le poids du second sans déraper. La corde partant de
-l'assuré passe par la main avant en supination, passe sous l'aisselle du même côté,
-derrière le dos, puis sur l'épaule opposée, pour finir devant la poitrine dans l'autre main
-en pronation. On ne peut avec cette méthode qu'enrayer une glissade que l'assuré va
-devoir finir de stopper lui-même. Les facteurs favorables sont : un excellent calage de
-l'assureur, un assureur costaud, un assuré léger, un diamètre de corde important, une
-gaine de corde rugueuse donc ayant déjà un peu vieilli, des vêtements épais pour
-l'assureur, des manches longues, le port de gants en cuir brut. L'assureur peut aussi
-s'auto-assurer à un becquet pour consolider sa position, mais dans ce cas, pourquoi ne
-pas assurer directement sur ce becquet avec un demi-cabestan ? Si vous choisissez
-néanmoins cette possibilité, souvenez-vous de la leçon de Mike Barter : la vache passe
-du même côté du corps que la corde qui va à l'assuré. (voir p.124)
+* Le principe général est simple. Les membres de la cordée progressent ensemble en cherchant à maintenir la corde à peu près tendue. Si l'un glisse, il est retenu par
+l'autre.
+* En cas d'obstacle court, le premier de cordée le franchit, paré voire poussé par le second, se cale derrière un recoin du rocher, et assure son compagnon à l'épaule ou directement sur un becquet rocheux. Le second le rejoint, puis les deux repartent corde tendue.
+* L'assurage en mouvement est rudimentaire et apporte nettement moins de sécurité aux grimpeurs que l'assurage par longueurs. Mais la sécurité en montagne ne se réduit pas à la sécurité d'une longueur. Il s'agit aussi de descendre au plus tôt la pente de neige raide avant que le soleil ne la rende dangereuse, de quitter le sommet avant l'orage, de rentrer avant la nuit, et tout simplement de réduire la durée totale de la course afin d'épargner la fatigue de la cordée
 
-Actuellement, on aborde l'alpinisme par l'escalade en salle puis en couenne. On
-apprend donc en premier la technique la plus récente et la plus sophistiquée :
-l'assurage par longueur avec relais. Et on ignore la technique la plus ancienne et la
-plus simple, mais qui réclame un minimum de pratique pour être efficace. L'assurage
-en mouvement est rudimentaire et apporte nettement moins de sécurité aux grimpeurs
-que l'assurage par longueurs. Mais la sécurité en montagne ne se réduit pas à la
-sécurité d'une longueur. Il s'agit aussi de descendre au plus tôt la pente de neige raide
-avant que le soleil ne la rende dangereuse, de quitter le sommet avant l'orage, de
-rentrer avant la nuit, et tout simplement de réduire la durée totale de la course afin
-d'épargner la fatigue de la cordée. Une course qui dure 8 heures ne met pas dans le
-même état de fatigue que la même course qui dure 4 heures, même si le temps a été
-perdu à attendre à des relais superflus. La cordée qui a le plus de probabilité de
-commettre un faux-pas à la descente sera forcément celle qui a déjà passé trop de
-temps sur la montagne alors qu'elle devrait être à savourer la bière méritée sur la
-terrasse du refuge.
-Après une paire de courses de neige F ou PD, vous avez certainement hâte de
-toucher le rocher. Vous avez feuilleté les topos en y cherchant les belles longueurs de
-6a ou 6b que vous pourriez grimper sous le lumineux soleil de la haute altitude. Du 6
-en montagne se trouve dans les courses TD, et griller les étapes de cette façon au
-prétexte d'un excellent niveau d'escalade va malheureusement créer de lourdes
-impasses et laisser d'immenses lacunes. Admettons que vous choisissiez une course
-TD. Qu'est-ce que vous allez faire ? Choisir une face courte. Avec une approche
-rapide par téléphérique. Comme vous voudrez ne pas gérer un sac ni vous embêter à
-redescendre une pente de neige raide et molle, vous choisirez une face qui se descend
-en rappel. Et avec des relais équipés. Bon, en définitive, vous allez faire la Contamine
-à la pointe Lachenal en laissant les affaires au pied de la voie. Comme vous grimpez
-127
+* Faire des courses de neige F ou PD pour se familiariser avec la neige et les glaciers
+* Faire des voies AD pour valider les acquis et fluidifier l'assurage en mouvement: déchaussage des crampons au bord de la rimaye, grimpe avec sac à dos, progression anneaux à la main ou corde tendue, pose de mini-relais, assurage sur sangles, rappels dans les brèches, recherche de l'itinéraire, tenu d'un horaire, équilibre sur une arête, escalade en grosses ou en crampons dans les zones enneigées, rocher moyen voire délité en cas d'erreur d'itinéraire, chutes de pierres, longues désescalades, descente sur un versant inconnu, tous ingrédients éminemment formateurs. Sur ce terrain, une cordée peu rodée pose des relais et tire des longueurs. Une cordée plus expérimentée réalise la course presque entièrement corde tendue. L'horaire entre les deux peut être du simple au triple.
+* Dans les courses de rocher classiques – 500m, niveau D -, on progresse essentiellement en tirant des longueurs. Mais il est essentiel d'être passé par l'étape précédente. Sinon, on sera incapable de reconnaître à temps les portions pouvant être gérées avec assurage en mouvement et on ne saura pas passer d'une option à l'autre sans d'interminables conciliabules. Faire la totalité de ce genre de course en tirant des longueurs même dans les portions faciles qui s'interposent entre deux ressauts difficiles, serait très exagéré et l'horaire s'en ressentirait.
 
-bien et vite, vous aurez la dernière benne. Mais vous n'aurez pas appris grand chose.
-Alors, allez donc dans une course de rocher de difficulté AD. Parce que c'est ici
-qu'on devient montagnard. Ces rochers sauvages, comme l'arête des Cinéastes, la
-traversée de la Nonne, l'arête sud de la pointe Louise, l'arête sud des dents de Coste
-Counier, plus tard le pilier nord-est des Bans (après en avoir fait la voie normale),
-vont permettre de repasser vos acquis : déchaussage des crampons au bord de la
-rimaye, grimpe avec sac à dos, progression anneaux à la main ou corde tendue, pose
-de mini-relais, assurage sur sangles, rappels dans les brèches, recherche de
-l'itinéraire, tenu d'un horaire, équilibre sur une arête, escalade en grosses ou en
-crampons dans les zones enneigées, rocher moyen voire délité en cas d'erreur
-d'itinéraire, chutes de pierres, longues désescalades, descente sur un versant inconnu,
-tous ingrédients éminemment formateurs.
-Sur ce terrain, une cordée peu rodée pose des relais et tire des longueurs. Une
-cordée plus expérimentée réalise la course presque entièrement corde tendue.
-L'horaire entre les deux peut être du simple au triple. C'est à la mobilité: assurage en
-mouvement, rapidité pour explorer une option d'itinéraire à gauche ou à droite, qu'on
-reconnaît les acquis de la cordée. Cette mobilité viendra progressivement en avalant
-un grand nombre de courses de ce type. Il est normal au début d'éprouver souvent le
-besoin d'installer des relais un peu partout et de grimper par longueurs. Et il serait
-dangereux d'imiter systématiquement les caravanes voisines qui progressent
-ensemble. Mais dès que les deux membres de la cordées sont très à l'aise, on prend
-des anneaux de buste, on réduit l'encordement et on marche ensemble.
-Dans les courses de rocher classiques – 500m, niveau D -, on progresse
-essentiellement en tirant des longueurs. Le grimpeur retrouve ses marques des
-grandes voies calcaires, la confection des relais et des points d'assurage en plus. Mais
-il est essentiel d'être passé par l'étape précédente. Sinon, on sera incapable de
-reconnaître à temps les portions pouvant être gérées avec assurage en mouvement et
-on ne saura pas passer d'une option à l'autre sans d'interminables conciliabules. Faire
-la totalité de ce genre de course en tirant des longueurs même dans les portions
-faciles qui s'interposent entre deux ressauts difficiles, serait très exagéré et l'horaire
-s'en ressentirait. Comme le faisait remarquer Yvon Chouinard 136, avaler rapidement
-les portions faciles permet de disposer de plus de temps dans les portions qui
-nécessitent une escalade précise et un assurage soigneux.
-Dans ces parties en corde tendue, on sera heureux de ne pas avoir choisi une
-corde ni trop longue ni trop grosse quand les anneaux des deux brins viendront
-encombrer le buste. Le sac devra se porter assez bas (la poche caméra remplie à
-bloc...) sous peine d'avoir le casque rabattu sur les yeux par la corde passant en gros
-paquet derrière la nuque dès qu'on lève la tête. On pourra aussi plier les cordes en
-écheveau et placer celui-ci dans le sac comme on va le voir plus loin, afin de ne plus
-être encombré par les anneaux de buste. A la descente, on ajustera les bretelles du sac
-à dos pour le porter au contraire assez haut, afin qu'il frotte moins contre le rocher.
-136 Op..cit., Yvon Chouinard, p.39.
+1. Encordement court sans anneaux à la main
 
-128
-
-1/ L'encordement court sans anneaux à la main
-La distance entre les grimpeurs est de trois à quatre mètres.
+* La distance entre les grimpeurs est de trois à quatre mètres.
 Le premier de cordée, devant à la montée, derrière à la descente, est toujours
 plus haut que le second.
 Personne ne tient d'anneaux à la main.
@@ -1289,6 +1102,7 @@ rebrousser chemin sur abalakovs et de remettre la course à l'année prochaine..
 **
 
 ## Assurage par longueurs
+
 « Il ne faut pas oublier que le premier objectif d'une sortie en montagne
 est de ramener la cordée en bon état. » Pierre Allain.137
 La prescription de Pierre Allain est à ce jour la seule et unique éthique valable
