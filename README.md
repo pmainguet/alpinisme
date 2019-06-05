@@ -1,5 +1,32 @@
 NOTES ALPINISME
 
+Table des matières
+
+- [Code de l'alpinisme amateur](#code-de-lalpinisme-amateur)
+- [Checklist - Techniques de base](#checklist---techniques-de-base)
+- [Progression](#progression)
+- [Matériel](#mat%C3%A9riel)
+- [Noeuds](#noeuds)
+- [Encordement & Progression](#encordement--progression)
+  - [GLACIER ENNEIGE](#glacier-enneige)
+  - [PENTE RAIDE NEIGE](#pente-raide-neige)
+  - [ARETE DE NEIGE](#arete-de-neige)
+- [RELAIS EN NEIGE](#relais-en-neige)
+  - [ROCHER](#rocher)
+  - [GLACE](#glace)
+- [Hissage de sac](#hissage-de-sac)
+- [Rappel](#rappel)
+- [Pliage de corde](#pliage-de-corde)
+- [La remontée sur corde fixe](#la-remont%C3%A9e-sur-corde-fixe)
+- [Mouflage](#mouflage)
+- [Cascade de glace](#cascade-de-glace)
+- [La première course (de neige)](#la-premi%C3%A8re-course-de-neige)
+- [Chaussure d'alpinisme](#chaussure-dalpinisme)
+- [Assurage à l'épaule](#assurage-%C3%A0-l%C3%A9paule)
+- [Assurage en mouvement - technique plus simple](#assurage-en-mouvement---technique-plus-simple)
+- [Assurage par longueurs](#assurage-par-longueurs)
+- [L'exposition](#lexposition)
+
 ## Code de l'alpinisme amateur
 
 1. Décider que l'autonomie précède la pratique.
@@ -8,7 +35,7 @@ NOTES ALPINISME
 4. S'initier à l'escalade efficacement avec un moniteur breveté d’État. 5. Lire tout.
 6. S'initier au cramponnage en une paire d'heures par une école de glace avec un guide de haute-montagne.
 7. Réaliser sa première course d'alpinisme, courte, facile, en bonnes conditions, et en autonomie, sans suivre quiconque.
-8. L'échec ? Une aubaine pour progresser.
+8. L'échec ? Une aaine pour progresser.
 9. S'inscrire par la suite à des stages de cascade de glace, incontournable pour la suite de la progression.
 10. Préférer les bivouacs aux nuits en refuge.
 11. Préférer les vieilles courses classiques aux voies modernes.
@@ -800,411 +827,91 @@ l'autre.
 1. Encordement court sans anneaux à la main
 
 * La distance entre les grimpeurs est de trois à quatre mètres.
-Le premier de cordée, devant à la montée, derrière à la descente, est toujours
-plus haut que le second.
-Personne ne tient d'anneaux à la main.
-Le risque de faire tomber des pierres est minimum. Les pierres qu'enverrait le
-leader n'auraient pas le temps de prendre de la vitesse avant d'atteindre le second.
-C'est la technique d'assurage qui permet la progression la plus rapide sur un
-terrain uniforme. Elle peut même dépasser en rapidité l'absence d'encordement en
-réduisant les hésitations du fait de la sécurité accrue.
-La mobilité de la cordée est maximale. Il est très facile d'aller explorer une
-option d'itinéraire puis de revenir.
-La communication de la cordée est maximale, même en plein vent, sans besoin
-de hurler.
-Le second de cordée est bien assuré, sauf dans les traversées. Le leader peut
-avoir intérêt pour gérer celles-ci à traverser en amont de son second pour éviter un
-pendule.
-Le premier de cordée n'est assuré que par la proximité du second qui peut le
-parer ou caler ses pieds sur des adhérences précaires. Le leader doit donc être très sûr.
-Le premier de cordée a les deux mains libres. En neige, il peut donc manier
-deux piolets et être capable en permanence de retenir une glissade du second. En
-rocher, les deux mains libres lui donnent une grande sûreté.
-Dans une course très fréquentée, la capacité à grimper en encordement court
-permet de doubler des cordées lentes sans les gêner, et évite également, quand vous
-piétiniez derrière un convoi de caravanes, qu'un artiste d'une cordée inférieure ne se
-prenne à s'interposer entre vous et votre compagnon, le mélange des deux cordes
-faisant assumer à chaque cordée le risque supplémentaire de l'autre. Râlez si
-nécessaire. Cette situation ne peut pas être durable.
-Les indications sont :
-– tous les terrains faciles pour la cordée - neige, glace, mixte ou rocher - à
-l'exception des glaciers enneigés en raison du risque de chute en crevasse ;
-– les pentes de neige raides, en montée et en descente ;
-– les gradins rocheux sans possibilité d'assurage, en montée et en descente ;
-– les arêtes de neige délicates non cornichées, en progressant de part et d'autre
-du fil, ce qui assez pénible mais sûr.
-Une première limite d'utilisation est la nécessité fréquente de franchir des
-obstacles, si ceux-ci excèdent en hauteur la longueur d'encordement. Un passage de
-cinq mètres supposerait que les deux grimpeurs se trouvent simultanément dans le
-même pas d'escalade délicat. Même chose pour le franchissement d'une rimaye. Pour
-de tels obstacles, la marche aux anneaux est plus indiquée.
-La limite extrême d'utilisation est la situation où la corde est devenue un
-129
+* Le premier de cordée, devant à la montée, derrière à la descente, est toujours plus haut que le second.
+* Personne ne tient d'anneaux à la main.
+* Le risque de faire tomber des pierres est minimum. Les pierres qu'enverrait le leader n'auraient pas le temps de prendre de la vitesse avant d'atteindre le second.
+* C'est la technique d'assurage qui permet la progression la plus rapide sur un terrain uniforme. 
+* Le second de cordée est bien assuré, sauf dans les traversées. Le leader peut avoir intérêt pour gérer celles-ci à traverser en amont de son second pour éviter un pendule.
+* Le premier de cordée n'est assuré que par la proximité du second qui peut le parer ou caler ses pieds sur des adhérences précaires. Le leader doit donc être très sûr.
+* Le premier de cordée a les deux mains libres. En neige, il peut donc manier deux piolets et être capable en permanence de retenir une glissade du second. En rocher, les deux mains libres lui donnent une grande sûreté.
+* Les indications sont :
+    * tous les terrains faciles pour la cordée - neige, glace, mixte ou rocher - à l'exception des glaciers enneigés en raison du risque de chute en crevasse ;
+    * les pentes de neige raides, en montée et en descente ;
+    * les gradins rocheux sans possibilité d'assurage, en montée et en descente ;
+    * les arêtes de neige délicates non cornichées, en progressant de part et d'autre du fil, ce qui assez pénible mais sûr.
+* Une première limite d'utilisation est la nécessité fréquente de franchir des obstacles, si ceux-ci excèdent en hauteur la longueur d'encordement. Pour de tels obstacles, la marche aux anneaux est plus indiquée.
+* La limite extrême d'utilisation est la situation où la corde est devenue un instrument pour tomber à plusieurs, c'est à dire quand le leader n'a plus la capacité de retenir une glissade du second.
 
-instrument pour tomber à plusieurs, c'est à dire quand le leader n'a plus la capacité de
-retenir une glissade du second. Si cette limite n'est dépassée que pendant quelques
-mètres, la cordée peut passer outre pour gagner du temps. Mais elle doit être
-consciente que les risques de chacun des grimpeurs sont doublés par rapport à une
-progression en solo.
-Seule une « vieille » cordée a les capacités de pousser la limite d'utilisation car
-les deux membres de la cordée connaissent parfaitement leurs niveaux respectifs. Une
-vieille cordée n'est pas une cordée d'âge mûr, mais une cordée qui s'entraîne ensemble
-habituellement à la salle d'escalade, en couennes, en grandes voies. Ainsi, le premier
-de cordée sait, quand il franchit ce pas aléatoire sur une dalle friction, que son second
-ne glissera pas car celui-ci est meilleur que lui en dalle...
-Quand la limite d'utilisation est durablement dépassée, on garde la tête sur les
-épaules sans se laisser emporter par la griserie de la vitesse. Il faut trouver d'urgence
-une autre solution avant l'accident. A la prochaine vire ou au prochain becquet :
-relais.
-2/ L'encordement court avec anneaux à la main, dit « marche aux
-anneaux »
-La distance entre les grimpeurs est de deux à trois mètres.
-Le premier de cordée, devant à la montée, derrière à la descente, est toujours
-plus haut que le second.
-Le premier de cordée tient dans sa paume aval trois ou quatre mètres de corde,
-lovés en anneaux dont le dernier est serré en tour mort autour de la main. Ce dernier
-anneau doit toujours être le premier qu'on peut lâcher. Ceci implique de devoir
-retourner le paquet quand on change de main. Les anneaux sont assez courts ; ils ne
-descendent pas plus bas que le genou.
-La corde est tendue comme une laisse entre la main aval et le pontet du second.
-Ceci permet au leader de sentir un début de glissade du second, et de le remettre en
-selle d'un coup de poignet énergique.
-Si le leader monte plus vite que le second, il lâche des anneaux
-progressivement. S'il est rattrapé, il reprend des anneaux. A la descente, s'il rattrape
-son second, il reprend des anneaux. S'il se fait distancer, il lâche des anneaux. Il
-pense à bien refaire le dernier tour serré à chaque fois. Cette manœuvre, très fatigante
-nerveusement si on le fait bien, permet de conserver la fluidité de la progression.
-Le leader a donc en permanence une main occupée, voire deux quand il
-reprend ses anneaux. Mais cela ne l'empêche pas de pouvoir tout de même se servir
-de cette main. On peut saisir une grosse prise en conservant les anneaux dans la main.
-En cas d'obstacle plus sérieux, on le franchit l'un après l'autre en lâchant tous
-les anneaux. Cela permet de franchir un passage d'escalade de sept mètres, ou une
-rimaye.
-Le leader est non seulement mal assuré, mais doit maintenir en permanence la
-tension de la corde. Sa main occupée est un handicap non seulement pour grimper
-130
+2. L'encordement court avec anneaux à la main, dit « marche aux anneaux »
 
-mais aussi pour rattraper une glissade du second. Sa compétence doit être plus grande
-que pour l'encordement court sans anneaux à la main, mais la méthode est plus
-polyvalente.
-Les indications sont :
-– tous les terrains faciles pour la cordée, à la condition que le leader se sente
-capable de gérer les anneaux. à l'exception des glaciers enneigés ;
-– particulièrement un terrain facile semé de courts passages plus difficiles.
-Sur une pente de neige raide uniforme, sans franchissement d'obstacle, rien ne
-justifie de s'encombrer avec des anneaux, d'autant plus si on possède deux piolets. La
-méthode précédente est alors préférable.
-Sur des gradins rocheux uniformes sans possibilités d'assurage, le leader
-préférera sans doute aussi avoir ses deux mains libres.
-Les limites d'utilisation sont les mêmes que la technique précédente, en gardant
-à l'esprit que la compétence du premier de cordée est le premier facteur limitant. C'est
-la raison pour laquelle il est indispensable dans les courses faciles de se roder à cette
-technique le plus souvent possible, et ce pour les deux membres de la cordée.
-Amateurs de livres anciens, méfiance : on recommandait naguère à
-chaque membre de la cordée de tenir des anneaux à la main pour une
-marche sur glacier. Cette façon de faire, illustrée notamment par les belles
-photographies de cordées menées par Gaston Rébuffat, est totalement
-abandonnée. Sur glacier, encordement en N comme on a vu, sans aucun
-anneau à la main, pour aucun des membres de la cordée. Pour les autres
-terrains, on ne rencontre aucune circonstance où les deux grimpeurs à la
-fois portent des anneaux à la main, sauf à vouloir simplement porter la
-corde sans bénéficier d'une assurance.
-3/ L'encordement long dit souvent « progression à corde tendue »
-La distance entre les deux grimpeurs est de douze à quinze mètres environ.
-Le premier de cordée est devant à la montée.
-A la descente, celui qui va devant est celui qui place le plus efficacement les
-protections. Celui qui va derrière est celui qui désescalade le mieux. Ceci pour les
-courses où il s'agit d'être efficace. Pour les courses d'entraînement, on fait l'inverse
-pour que chacun ait l'occasion de soigner ses défauts.
-Personne ne tient d'anneaux à la main.
-La tension de la corde est toute relative. Elle chemine à droite et à gauche des
-différents reliefs que présente le parcours. On en joue, afin que le passage de la corde
-suffise parfois à protéger la cordée : à droite du premier petit gendarme, à gauche du
-second, derrière l'écaille suivante, etc.
+* La distance entre les grimpeurs est de deux à trois mètres.
+* Le premier de cordée, devant à la montée, derrière à la descente, est toujours plus haut que le second.
+* Le premier de cordée tient dans sa paume aval trois ou quatre mètres de corde, lovés en anneaux dont le dernier est serré en tour mort autour de la main. Ce dernier anneau doit toujours être le premier qu'on peut lâcher. Ceci implique de devoir retourner le paquet quand on change de main. Les anneaux sont assez courts
+* La corde est tendue comme une laisse entre la main aval et le pontet du second. Ceci permet au leader de sentir un début de glissade du second, et de le remettre en selle d'un coup de poignet énergique.
+* Si le leader monte plus vite que le second, il lâche des anneaux progressivement. S'il est rattrapé, il reprend des anneaux. 
+* A la descente, s'il rattrape son second, il reprend des anneaux. S'il se fait distancer, il lâche des anneaux.
+* Il pense à bien refaire le dernier tour serré à chaque fois. C
+* Le leader est non seulement mal assuré, mais doit maintenir en permanence la tension de la corde. Sa main occupée est un handicap non seulement pour grimper mais aussi pour rattraper une glissade du second. 
+* Les indications sont :
+  * tous les terrains faciles pour la cordée, à la condition que le leader se sente capable de gérer les anneaux. à l'exception des glaciers enneigés ;
+  * particulièrement un terrain facile semé de courts passages plus difficiles.
+* Sur une pente de neige raide uniforme, sans franchissement d'obstacle, rien ne justifie de s'encombrer avec des anneaux, d'autant plus si on possède deux piolets. La méthode précédente est alors préférable.
+* Sur des gradins rocheux uniformes sans possibilités d'assurage, le leader préférera sans doute aussi avoir ses deux mains libres.
+* Les limites d'utilisation sont les mêmes que la technique précédente, en gardant à l'esprit que la compétence du premier de cordée est le premier facteur limitant. 
 
-131
+3. L'encordement long dit souvent « progression à corde tendue »
+* La distance entre les deux grimpeurs est de douze à quinze mètres environ.
+* Le premier de cordée est devant à la montée.
+* A la descente, celui qui va devant est celui qui place le plus efficacement les protections. Celui qui va derrière est celui qui désescalade le mieux.
+* Personne ne tient d'anneaux à la main.
+* La tension de la corde est toute relative. Elle chemine à droite et à gauche des différents reliefs que présente le parcours. On en joue, afin que le passage de la corde suffise parfois à protéger la cordée
+* Celui qui va devant place des protections régulièrement avec trois objectifs :
+  * Conserver au moins deux bonnes protections entre les deux grimpeurs. Si le terrain est un tantinet avare en possibilités, quand le compagnon de cordée arrive à une protection, il le signale avant de la démonter. Ceci permet au premier de cordée de vérifier si la cordée sera toujours protégée où s'il doit poser sans tarder une nouvelle protection.
+  * A la montée, placer la protection juste avant le pas difficile, pour se protéger soi, comme on le fait classiquement quand on grimpe en tête.
+  * A la descente, placer la protection juste après le pas difficile, pour protéger son compagnon de cordée qui va descendre ensuite. 
+* Quand le premier de cordée a épuisé son matériel, le second le rejoint pour soit lui rendre le matériel soit passer en premier de cordée.
+* La méthode est rapide, mais moins que les deux méthodes précédentes.
+* Les deux grimpeurs sont efficacement protégés à la condition que le second soit suffisamment discipliné pour ne pas laisser un mou se créer entre les deux grimpeurs. Il ne doit pas non plus bloquer dans un pas d'escalade sans prévenir le premier de cordée qui pourrait se trouver stoppé au plus mauvais moment.
+* La méthode est indiquée :
+  * pour une voie rocheuse assez difficile mais facilement protégeable ;
+  * pour une arête rocheuse (encordement à douze mètres maximum pour s'entendre, éviter un tirage excessif et réduire le risque de chute de pierres).
+  * pour une pente de glace (encordement à vingt mètres minimum pour éviter de brocher et débrocher sans arrêt).
+* pour un terrain mixte assez difficile ;
+* pour les arêtes de neige faciles.
+* La limite d'utilisation est le risque grandissant de chute du second. S'il chute, il risque d'entraîner le leader dans un vol en premier de cordée.
+* Quand le second se trouve trop limite dans la plupart des passages : relais.
 
-Celui qui va devant place des protections régulièrement avec trois objectifs :
-1/ Conserver au moins deux bonnes protections entre les deux grimpeurs. Si le
-terrain est un tantinet avare en possibilités, quand le compagnon de cordée arrive à
-une protection, il le signale avant de la démonter : « J'arrive au friend rouge. » Ceci
-permet au premier de cordée de vérifier si la cordée sera toujours protégée où s'il doit
-poser sans tarder une nouvelle protection. Cette communication permanente est
-indispensable.
-2/ A la montée, placer la protection juste avant le pas difficile, pour se protéger
-soi, comme on le fait classiquement quand on grimpe en tête.
-3/ A la descente, placer la protection juste après le pas difficile, pour protéger
-son compagnon de cordée qui va descendre ensuite. Tenir compte du niveau
-d'escalade de celui-ci et non du sien. Interdiction de descendre en ne se souciant de
-rien : derrière, la désescalade serait particulièrement exposée. Alors, après chaque pas
-dur, on se retourne vers le rocher pour trouver une bonne fissure, et on pose une
-protection ad hoc. Si on arrive sur une vire et qu'il y a risque de chute à terre, on y
-reste le temps de parer la fin de la désescalade du copain, tout en reprenant le mou au
-fur et à mesure de sa descente sur demi-cabestan à son pontet tant qu'il reste des
-protections.
-Quand le premier de cordée a épuisé son matériel, le second le rejoint pour soit
-lui rendre le matériel soit passer en premier de cordée.
-La méthode est rapide, mais moins que les deux méthodes précédentes.
-Les deux grimpeurs sont efficacement protégés à la condition que le second
-soit suffisamment discipliné pour ne pas laisser un mou se créer entre les deux
-grimpeurs. Il ne doit pas non plus bloquer dans un pas d'escalade sans prévenir le
-premier de cordée qui pourrait se trouver stoppé au plus mauvais moment.
-Le leader choisit lui-même le degré d'exposition de son escalade à la montée.
-Mais à la descente, c'est le premier descendu qui règle l'exposition pour lui.
-La méthode est indiquée :
-– pour une voie rocheuse assez difficile mais facilement protégeable ;
-– pour une arête rocheuse (encordement à douze mètres maximum pour
-s'entendre, éviter un tirage excessif et réduire le risque de chute de pierres).
-– pour une pente de glace (encordement à vingt mètres minimum pour éviter
-de brocher et débrocher sans arrêt).
-– pour un terrain mixte assez difficile ;
-– pour les arêtes de neige faciles.
-La limite d'utilisation est le risque grandissant de chute du second. S'il chute, il
-risque d'entraîner le leader dans un vol en premier de cordée. Voilà une bonne raison
-de se construire une cordée homogène. Quand le second se trouve trop limite dans la
-plupart des passages : relais.
-Un autre facteur limitant est la quantité de matériel. Avec deux friends, une
-132
+4. Panachage, mini-relais, fluidité
 
-sangle et trois coinceurs, on ne va pas loin.
+* En pratique, il ne faut pas hésiter à changer de méthode en fonction des circonstances.
+* Les mini-relais (pour mini-longueurs) consistent à interrompre la progression simultanée le temps de franchir un passage plus difficile. Chacun son tour, mais on conserve l'encordement réduit. On place une sangle sur un becquet, le second se vache assez long pour pouvoir parer et passe la corde dans un demi-cabestan à son pontet.
+* Vous placez un friend ou deux dans le passage que vous surmontez en un éclair puis vous faites relais juste au-dessus. Ça ne prend pas des heures : une sangle sur un becquet, un demi-cabestan : C'est bon, tu peux venir.
+* L'assurage en mouvement est assez long à acquérir. Il faut engranger beaucoup de courses de rocher PD et AD pour devenir vraiment efficace.
+* En pratique, on passe d'un mode d'assurage à un autre sans interruption. On cherche à être débrouillard, non académique.
+* Connaître parfaitement le niveau d'escalade de son compagnon, ses points forts et ses points faibles (fissures en verrous, dalles friction, ou surplombs...) permet d'aller aux limites de l'assurage en mouvement sans se mettre en danger outre mesure. 
+* Ce qui compte n'est pas la rapidité réelle des mouvements mais la fluidité de la progression. Passer sans temps mort d'un encordement court à un encordement long, à une mini-longueur, à une parade ou une petite courte-échelle, est la clef.
+ 
+5. Les cas particuliers
 
-4/ Panachage, mini-relais, fluidité
-En pratique, il ne faut pas hésiter à changer de méthode en fonction des
-circonstances. Si tout va bien, que la vitesse est soutenue, que les deux membres de la
-cordée y trouvent leur compte sans se faire peur, on continue sur le même mode. Dès
-qu'on se rend compte que l'encordement n'est plus adaptée, on change de méthode.
-Les mini-relais (pour mini-longueurs) consistent à interrompre la progression
-simultanée le temps de franchir un passage plus difficile. Chacun son tour, mais on
-conserve l'encordement réduit. On place une sangle sur un becquet, le second se
-vache assez long pour pouvoir parer et passe la corde dans un demi-cabestan à son
-pontet. Vous placez un friend ou deux dans le passage que vous surmontez en un
-éclair puis vous faites relais juste au-dessus. Ça ne prend pas des heures : une sangle
-sur un becquet, un demi-cabestan : C'est bon, tu peux venir. Vous voyez le second
-juste sous vous, vous pouvez même lui indiquer les prises. La question n'était pas
-tellement de s'assurer dans le passage - on le fait quand même - mais plutôt de
-grimper chacun son tour car le premier de cordée n'aurait pas pu retenir le second tout
-en grimpant lui-même.
-L'assurage en mouvement est assez long à acquérir. Il faut engranger beaucoup
-de courses de rocher PD et AD pour devenir vraiment efficace. En pratique, on passe
-d'un mode d'assurage à un autre sans interruption. On cherche à être débrouillard, non
-académique. Connaître parfaitement le niveau d'escalade de son compagnon, ses
-points forts et ses points faibles (fissures en verrous, dalles friction, ou surplombs...)
-permet d'aller aux limites de l'assurage en mouvement sans se mettre en danger outre
-mesure. Tout en grimpant lentement et avec sûreté, la cordée va gagner une vitesse
-considérable par rapport à ses premières années. Ce qui compte n'est pas la rapidité
-réelle des mouvements mais la fluidité de la progression. Passer sans temps mort d'un
-encordement court à un encordement long, à une mini-longueur, à une parade ou une
-petite courte-échelle, est la clef.
-5/ Les cas particuliers
-a/ La marche sur glacier
-L'encordement sur glacier en N qu'on a vu dans les techniques de base
-est une variante de l'encordement long, mais sans pose de points intermédiaires.
-b/ La progression sur une arête de neige effilée horizontale
-La distance entre les deux grimpeurs est de 5 à 6 mètres, le leader tenant
-133
+* La marche sur glacier: L'encordement sur glacier en N qu'on a vu dans les techniques de base est une variante de l'encordement long, mais sans pose de points intermédiaires.
+* La progression sur une arête de neige effilée horizontale: La distance entre les deux grimpeurs est de 5 à 6 mètres, le leader tenant deux ou trois mètres d'anneaux à la main. Il se place derrière son second pour le garder à vue si la trace est faite. En cas de chute sur un versant, le leader doit lâcher les anneaux et sauter de l'autre côté en tâchant de ne pas se blesser. Les anneaux lâchés donnent le temps nécessaire pour réagir.
 
-deux ou trois mètres d'anneaux à la main. Il se place derrière son second pour le
-garder à vue si la trace est faite. En cas de chute sur un versant, le leader doit lâcher
-les anneaux et sauter de l'autre côté en tâchant de ne pas se blesser. Les anneaux
-lâchés donnent le temps nécessaire pour réagir.
+6. Les encordements spéciaux
 
-6/ Les encordements spéciaux
-La réserve en vrac dans le sac
-L'encordement en N préconisé pour un glacier enneigé (crevasses masquées)
-prévoit originellement de placer un tiers de la corde plié en écheveau sous le rabat de
-son sac à dos. Récemment, on préconise plutôt de placer cet excédent de corde en
-vrac à l'intérieur du sac. Ceci permet de tirer la longueur de corde utile à une
-remontée sur corde ou à un mouflage sans devoir nécessairement ôter son sac à dos,
-et ce de façon plus rapide. La corde doit être soigneusement introduite dans le sac en
-commençant par son extrémité, pour qu'elle puisse sortir sans nœud. Certains
-appellent cela enkiter la corde.
-Un autobloquant (réservé aux experts)
-Les guides italiens qui gravissent l'arête du Lion au Cervin ont pris l'habitude
-de s'encorder de la façon suivante : Leur corde à simple est fourrée dans le haut du
-sac en tas bien pensé, comme on dit dans la marine à voile, jusqu'à ne laisser que
-l'extrémité dépassant du sac, qui passe ainsi la nuit dans la salle surpeuplée du refuge
-Carrel.. Cela lui évite d'être piétinée toute la soirée par la bousculade généralisée
-mais en même temps lui permet d'être prête à l'emploi pour le lendemain. Au petit
-matin, l'extrémité libre est donnée au client mal réveillé qui fait son nœud
-d'encordement. Le guide tire une douzaine de mètres du sac sans l'ouvrir, enfile son
-sac à dos et se contente de piéger la corde à son pontet par un nœud de Machard très
-serré sur un mousqueton à vis directionnel, ou par un bloqueur mécanique comme un
-ropeman. Il part ainsi à corde tendue en mousquetonnant la corde sur les ancrages des
-cordes fixes qui équipent la voie. Si le client est à la hauteur, il continue ainsi, puis
-prend des anneaux à la main dans les portions plus faciles pour progresser à deux
-mètres l'un de l'autre. Si le client bloque dans le premier surplomb de la première
-chaîne de la voie mais qu'il n'a pas atteint un ancrage où le relais peut se faire de
-façon confortable, il peut rallonger à volonté son encordement en faisant coulisser
-dans l'autobloquant du pontet la corde qui sort sans difficulté du sac. Il concilie ainsi
-rapidité et souplesse, en fonction des capacités de son client du jour qu'il découvre.
-Cette manière de faire n'est décrite dans aucun manuel, il va sans dire qu'il est
-préférable de ne pas chuter sur cet autobloquant. Il s'agit d'un encordement non
-conventionnel, justifié pour ses raisons professionnelles, utilisé en connaissance de
-cause (le premier de cordée ne chute pas), et ce n'est pas une faute de l'employer en
-en connaissant les limites.
-Fractionnement dissymétrique
-De la même façon, de nombreux guides préfèrent aux anneaux de buste, lover
-la totalité de la corde inemployée en écheveau, fourrer celui-ci dans le sac, et tendre
-l'extrémité libre de la corde à leur client qui ne détient aucune réserve de corde dont
-ils jugent qu'il ne saurait que faire. Ils préfèrent disposer eux-même de la totalité de la
-réserve pour intervenir si besoin plus facilement puisque le client est supposé
-135
-
-incapable. La grande réserve de corde est alors moins encombrante à l'intérieur du sac
-que portée en de nombreux anneaux. La différence avec les guides du Cervin, outre
-que la corde est ici nouée en écheveau dans le sac et non en vrac, est qu'ils
-s'encordent avec un nœud de chaise et son double nœud d'arrêt, comme pour
-l'encordement en N.
-Cette façon de faire peut être imitée par une cordée sans guide quand on veut
-soulager sa compagne du poids de la moindre portion de corde, ou bien quand on sait
-qu'il faudra utiliser bientôt la totalité de la corde pour une longueur difficile ou un
-rappel. La corde se démêle en effet beaucoup mieux à partir d'un écheveau qu'à partir
-de nombreux anneaux de buste. On peut également l'utiliser quand le compagnon de
-cordée porte le second brin du rappel. Ainsi, chacun porte grosso modo un brin de
-corde, et peut renvoyer un brin au compagnon tombé dans un pot.
-La quatrième indication pour une cordée sans guide est le parcours d'arête fait
-de montées et de descentes, courtes descentes pour lesquelles on peut être amené à
-mouliner le second sur un maillon rapide posé sur un relais, pour descendre ensuite
-soi-même en rappel sur l'autre brin. Il faut alors que le second se décorde pour passer
-son extrémité de corde dans le maillon (qui quand il est à demeure ne s'ouvre
-généralement plus depuis longtemps du fait de la corrosion) et qu'il se ré-encorde
-après. Cette façon de faire fait gagner beaucoup de temps pour descendre dans de
-petites brèches abruptes. Elle évite aussi d'envisager d'utiliser le nœud Dufour qui
-n'est à recommander que pour une cordée très familière à son usage et que nous ne
-décrirons pas. Si le second avait pris des anneaux de buste, il aurait fallu qu'il défasse
-ces anneaux avant de se décorder pour accéder à l'extrémité de la corde, ce qui aurait
-été beaucoup plus lent.
-Quand la brèche est plus profonde, le premier peut avoir avantage à avoir laissé
-la corde en vrac dans son sac comme les guides du Cervin. Avant de descendre à son
-tour sur son seul brin, l'extrémité de la corde étant maintenue en bas sur le pontet du
-second qu'on vient de mouliner à la brèche, il défait son nœud d'encordement. Ainsi,
-il est sûr d'avoir la longueur suffisante pour atteindre la brèche puisque l'excédent de
-corde sort du sac à la demande.
-Ces encordements non conventionnels vont donner l'aisance et la rapidité de la
-cordée sur des itinéraires nécessitant de nombreuses manipulations de corde, et
-difficiles à anticiper comme les parcours d'arête, faute de visibilité sur la suite de
-l'itinéraire. Expérimentez-les plusieurs fois sur une couenne avant de les appliquer en
-montagne.
-Ranger la corde
-Enfin, on ne peut en terminer avec les encordements spéciaux sans mentionner
-la possibilité de ranger la totalité de la corde dans le sac. Deux alpinistes progressant
-dans un couloir raide, qui se sentent incapables dans les conditions du jour d'enrayer
-la chute de l'autre, et sans possibilité ou temps disponible pour tirer des longueurs,
-doivent se décorder pour que la corde ne serve pas seulement à tomber à plusieurs.
-Chacun assume alors son propre risque de chute, sans devoir assumer en plus le
-136
-
-risque de la chute de l'autre qui l’entraînerait irrémédiablement. Le risque est alors
-divisé par deux. Si l'on ajoute le fait que l'absence de corde augmente la
-concentration, évite le sentiment d'une fausse sécurité, et évite de s'empierger dans
-une ficelle inutile, le risque diminue encore. Il est aussi possible dans ces cas de
-rebrousser chemin sur abalakovs et de remettre la course à l'année prochaine...
-**
+* La réserve en vrac dans le sac
+  * L'encordement en N préconisé pour un glacier enneigé (crevasses masquées) prévoit originellement de placer un tiers de la corde plié en écheveau sous le rabat de son sac à dos.
+  * Récemment, on préconise plutôt de placer cet excédent de corde en vrac à l'intérieur du sac. Ceci permet de tirer la longueur de corde utile à une remontée sur corde ou à un mouflage sans devoir nécessairement ôter son sac à dos, et ce de façon plus rapide.
+  * La corde doit être soigneusement introduite dans le sac en commençant par son extrémité, pour qu'elle puisse sortir sans nœud. Certains appellent cela enkiter la corde.
 
 ## Assurage par longueurs
 
-« Il ne faut pas oublier que le premier objectif d'une sortie en montagne
-est de ramener la cordée en bon état. » Pierre Allain.137
-La prescription de Pierre Allain est à ce jour la seule et unique éthique valable
-de la haute-montagne ayant pu traverser les époques et dépasser les modes. Entre
-abîmer le rocher, soulever l'indignation générale... ou esquinter la cordée, le choix est
-limpide.
-1/ Gestion des longueurs
-Avec une corde à double, on ne mousquetonne qu'un brin à la fois pour
-diminuer la force de choc exercée sur les ancrages et réduire le tirage. On peut très
-bien mousquetonner plusieurs fois de suite le même brin, sans obligation d'alterner
-scrupuleusement, l'essentiel étant que les brins ne se croisent pas. En gros, un brin à
-gauche et un à droite. Aux changements de direction, on passe systématiquement le
-brin qu'on mousquetonne sous l'autre brin pour ne pas croiser.
-Des longueurs courtes
-Dans les vieilles courses classiques, les longueurs sont courtes, à portée de voix
-en tout cas, en tenant compte du vent qui entrave la communication de la cordée. Une
-longueur trop importante, c'est un tirage garanti après avoir contourné ces trois
-obstacles, ce qui interdit d'aller explorer derrière cette petite arête pour rechercher
-l'itinéraire car la corde refuse catégoriquement de coulisser dans cette direction. La
-137 Op. cit. , Pierre Allain, p.17.
+1. Gestion des longueurs
+   * Avec une corde à double, on ne mousquetonne qu'un brin à la fois pour diminuer la force de choc exercée sur les ancrages et réduire le tirage. On peut très bien mousquetonner plusieurs fois de suite le même brin, sans obligation d'alterner scrupuleusement, l'essentiel étant que les brins ne se croisent pas. En gros, un brin à gauche et un à droite. Aux changements de direction, on passe systématiquement le brin qu'on mousquetonne sous l'autre brin pour ne pas croiser.
+   * Des longueurs courtes
+   * Retaper les pitons: A chaque piton rencontré dans la voie : le marteau, deux coups sur le piton pour le tester, davantage s'il faut le renfoncer. 
 
-138
+## L'exposition
 
-cordée perd en mobilité. Il faut se souvenir que ces voies ont été ouvertes avec des
-cordes beaucoup plus courtes que les nôtres. En 1956, Pierre Allain indiquait : « Les
-longueurs habituellement utilisées sont : de 20 à 40 mètres pour les cordes d'attache ;
-de 40 à 60 mètres pour les cordes de rappel. » En 1959, Rébuffat recommandait un
-encordement de 30 mètres pour les très grandes courses et 40 mètres dans quelques
-passages particulièrement longs. On emportait une autre corde longue et plus fine
-pour le rappel seulement si la course l'exigeait. Avec l'arrivée du nylon, on s'est mis à
-utiliser la corde de rappel comme corde d'ascension en la mettant en double. Ainsi,
-Rébuffat disait qu'il avait choisi pour la face nord des Grandes Jorasses ou de l'Eiger
-« une corde de rappel de 60 mètres mise en double (ce qui donne 30 mètres
-d'encordement) ». Patrice de Bellefon en 1987, donnait sa préférence pour un rappel
-de 70 mètres, c'est à dire 2 x 35m. Ces références ne sont bien sûr plus d'actualité en
-ce qui concerne la longueur de la corde à emporter, la corde actuellement classique
-étant un 2 x 50m (voire un 2 x 60m dans certaines courses), mais doivent rester en
-mémoire quand on se demande où faire relais à la montée d'une ancienne voie
-rocheuse. Vous avez gravi 30 mètres et vous avez les deux pieds bien posés par terre
-sur cette petite vire, ne cherchez pas plus loin : relais.
-Des protections parfois rares mais sûres
-Dans ces mêmes courses, les protections sont souvent espacées. La hauteur de
-chute potentielle est importante mais il s'agit que les coinceurs tiennent, et ne
-finissent pas par se balader le long de la corde qui les arracherait de leurs fissures.
-Les grimpeurs britanniques ont pris l'habitude de mousquetonner presque
-systématiquement à leurs coinceurs câblés des sangles de 60 cm qui limitent les
-mouvements imprimés par la corde. La hauteur de chute augmente encore un peu,
-mais le coinceur tient, ce qui est l'essentiel.
-Le vol ne fait généralement pas partie du répertoire des figures autorisées. Mais
-quand on pense qu'on va peut-être faire son malin, on prépare son coup avec
-application. Là, plus question de grande hauteur de chute potentielle. On bétonne, en
-plaçant plusieurs coinceurs au même endroit : deux coinceurs très rapprochés dans la
-fissure de gauche pour le brin rose, un friend dans la grosse fissure de droite pour le
-brin bleu. On sort aussi un beau et long piton, et on le plante à grands coups sonores
-avant de réaliser son exploit. Le marteau peut servir à mater un coinceur câblé dans
-une fissure revêche (avec le bec du marteau), afin d'être sûr de sa tenue, mais souvent
-au prix de sa perte définitive.
-Conclusion, on ne pose pas régulièrement et scolairement des coinceurs tous
-les trois mètres sans tenir compte du terrain. On peut grimper dix mètres sans
-protection car on est sûr de ne pas tomber, puis poser trois protections sur une
-distance d'un mètre cinquante dans le pas difficile.
-Retaper les pitons
-A chaque piton rencontré dans la voie : le marteau, deux coups sur le piton
-pour le tester, davantage s'il faut le renfoncer. Ceci suppose d'abord d'avoir le marteau
-139
-
-à portée de main, au baudrier ou en bandoulière. S'il peut sortir d'une main de son
-porte-marteau, c'est l'idéal. Après avoir beaucoup pesté, j'ai fini par ôter le matériau
-caoutchouté recouvrant le manche de mon propre marteau pour qu'il sorte plus
-facilement de son étui. Dans un pas dur, cela peut faire la différence, car on ne peut
-pas toujours lâcher les deux mains. Oubliez le marteau-piolet de cascade de glace
-sanglé sur le sac : on ne pourra pas l'utiliser à chaque piton rencontré. Par contre, un
-petit marteau-piolet de type troisième main se porte très facilement au baudrier et
-peut même être plus léger qu'un marteau. Il permet aussi de crocheter plus facilement
-les cordelettes qui pendent parfois trop loin, dans les mauvais pas de certaines voies
-classiques. En début de saison dans une course peu fréquentée, ne pas retaper les
-pitons qui ont joué dans les fissures tout l'hiver, revient à ne pas devoir compter sur
-eux, surtout les cornières qui ont la réputation de jouer plus que les autres pitons.
-______________________
-Été 2004. Nous sommes de retour dans la voie Allain à la face sud de la Meije. C'est notre
-quatrième passage au fauteuil, car après notre reconnaissance puis notre échec de 2001, nous avons
-parcouru en 2003 la première partie jusqu'aux vires du glacier Carré, remontant celui-ci sous l'orage
-dans une fin de course épique. La veille, depuis la fenêtre du dortoir, nous surprenons une
-discussion qui a lieu sur la terrasse du refuge. Une cordée originaire de Toulon envisage comme
-nous la voie Allain et deux guides, qui font demain la voie normale, sont en train de la décourager
-en invoquant la présence de cascades au pied de la face, signe qu'elle ne serait pas en condition.
-Devant une telle malhonnêteté, puisqu'il s'agit des fameuses cascades permanentes du fauteuil dont
-nous avons remonté en 2001 celle de droite, nous décidons d'aider cette cordée, coûte que coûte,
-dans la recherche de l'itinéraire de la première partie que nous connaissons bien maintenant. C'est
-une bonne cordée. Elle nous précède maintenant avec un fort grimpeur de tête qui s'engage un peu
-vite... pour redescendre plusieurs fois selon nos indications. Je finis par rejoindre les deux seconds
-vachés en tension à un relais comportant deux pitons préexistants. Ne voyant pas de marteau à leur
-baudrier mais un marteau-piolet de cascade de glace sanglé derrière un sac à dos, je leur demande si
-les pitons ont été retapés. Ils me considèrent avec crédulité. Sans un mot, je dégaine mon marteau,
-leur demande de s'écarter un peu, et tape sur les deux pitons... qui s'enfoncent chacun de plusieurs
-centimètres... Frayeur rétrospective. A chaque relais où je les rejoindrai durant toute l'ascension, ils
-s'écarteront obligeamment pour me laisser retaper les pitons, parfois inutilement, parfois utilement,
-tandis que le grimpeur de tête s'emploie déjà dans les pas retors concoctés par le brillant bleausard
-de 1935.
-
-_______________________
-L'exposition
 La différence existant entre l'exposition d'un passage et l'engagement d'une
 course est parfois mal comprise. On entend des grimpeurs qualifier des couennes de
 voie engagée, au prétexte d'un espacement important des points d'assurage, ou du
@@ -1858,36 +1565,6 @@ les différentes options d'itinéraires. Ainsi vous vous surprendrez de pouvoir 
 sur un excellent sens de l'itinéraire dans cette course de rocher AD, alors que vous
 perdez étrangement complètement ce sens de l'itinéraire dont vous étiez si fier dans
 cette autre course TD.
-__________________________________
-Été 2004 : L'année de la grande forme.
-Nous venons de réussir la voie Alain à la Meije et nous voici sur la méchante
-terrasse de gravier inclinée qui va nous servir de bivouac à la bifurcation du Pilier sud
-des Écrins et de l'itinéraire de l'arête Rouge, à une encablure du bastion. Toute la
-soirée, nous entendons des collègues explorer assidûment la paroi plus raide audessus de nous. Des voix fusent de toutes parts, on voit monter, descendre. On
-traverse à gauche, puis à droite. Le remue-ménage cesse quand la nuit reprend ses
-droits. Au matin, nous plions le bivouac tranquillement, ne souhaitant pas affronter
-trop tôt les difficultés sur un rocher froid. Nous remontons la fin du socle et
-rencontrons deux cordées de grands gaillards, des Lituaniens, qui se préparent à
-redescendre, n'ayant pas trouvé la veille l'accès au bastion, ces « vires obliques du
-flanc droit » décrites par le topo. Nous enfilons nos chaussons à quelques mètres de
-leur bivouac, la confiance bien entamée par le renoncement de ces montagnards
-athlétiques. Puis nous cherchons à notre tour ces rochers commodes introuvables.
-Droit au-dessus de nous finit par se présenter un grand dièdre très raide, faisant deux
-longueurs, dans lequel pendouillent plusieurs sangles, que nous évaluons à Vsup.
-Vers la fin de ce dièdre, nous apercevons la tour grise décrite par le topo qui donne
-accès au bastion. Un dièdre très raide et bien fissuré pour placer les coinceurs et faire
-au besoin quelques pas en artif, c'est mon rayon, au contraire des dalles friction. Je
-me lance, un peu tendu, persuadé que les sangles sont des signes de réchappes. En
-deux longueurs impressionnantes mais rapidement enlevées, nous arrivons au
-sommet caractéristique de la tour grise et le bastion miraculeusement s'offre à nous.
-Nous arriverons au miroir à 16h et au sommet à 19h où nous nous octroierons un
-second bivouac assis chacun sur un rocher, dans le froid, devant les pentes craquant
-bruyamment du pic Coolidge éclairées par la lune, insomniaques et heureux. Le sens
-de l'itinéraire avait été seulement la capacité de franchir un passage difficile et
-d'oublier le topo incompréhensible.
-160
-
-__________________________
 
 3/ Les topos
 Les fondateurs de l'Alpine Club avaient parfaitement compris qu'être adulte en
@@ -1897,7 +1574,7 @@ premier guide alpin sérieux, celui de John Ball (1818-1889), premier président
 l'Alpine Club, intitulé Ball's Alpine Guide : The Western Alps161, tout en faisant
 réviser la carte du massif du Mont-Blanc et dresser celles d'autres massifs. L'ouvrage
 de Ball sera régulièrement réédité en 1866, 1870, 1877, puis revu par Coolidge en
-1898. Depuis ce jour, les topos sont l'indispensable compagnon de l'alpiniste
+1.    Depuis ce jour, les topos sont l'indispensable compagnon de l'alpiniste
 autonome, et tout individu ayant rédigé ou diffusant un descriptif loyal d'une course
 de montagne doit être considéré comme un grand ami de l'alpinisme sans guide.
 On reproche souvent à l'amateur de grimper le nez dans le topo, ce qui
@@ -3233,7 +2910,7 @@ Les infra-rouges sont stoppés par les nuages, et ont la bonne idée de provoque
 de la chaleur, ce qui les empêchent d'avoir un effet délétère sur l’œil de l'alpiniste,
 hors masochisme invétéré.
 Les rayonnements qui nous concernent sont donc les UV A et B et la lumière
-visible. La quantité d'UV dépend de deux paramètres :
+visible. La quantité d'UV d��pend de deux paramètres :
 - L'épaisseur de l'atmosphère traversée : Ainsi, les UV sont plus nombreux aux
 faibles latitudes qu'aux latitudes élevées. C'est la raison pour laquelle on attire
 l'attention des vacanciers sous les tropiques, qui peuvent se surexposer sans le savoir
@@ -4545,1362 +4222,6 @@ supplémentaire pour vous passer l'envie de recommencer... Au contraire, vous qu
 êtes un dur, n'écoutez pas la phrase précédente et n'attendez pas d'être à moitié mort
 pour appeler les secours.
 **
-
-226
-
-Chapitre 12 : La responsabilité judiciaire
-« L'homme sage ne se trouve jamais sur le lieu d'un combat. » Proverbe
-chinois.
-Si l'on excepte la commission d'enquête du juge d'instruction Joseph Antoine
-Clemenz des quelques jours du mois de juillet 1865 suite au drame célèbre du Cervin
-(ayant abouti à un non-lieu), le droit s'est invité en haute-montagne depuis environ un
-demi siècle. Le premier livre qui lui a été consacré en France est celui de Wladimir
-Rabinovitch, alors juge d'instance à Briançon, en 1959 : Les sports de montagne et le
-droit206. Des mises à jour de cet ouvrage ont été publiées en 1966 puis 1980. En 1982,
-Jean-louis Grand et Pierre Sarraz-Bournet (un temps juge à Chambéry) livrent
-Montagne, droit et sauvetage207 (réédité en 1988 aux PUG). Sarraz-Bournet avait
-auparavant rédigé le chapitre 7 : Droit et alpinisme de Technique de l'alpinisme208
-paru en 1977. Puis, en 2006, l'ancien directeur de l'ENSA, ancien normalien et ancien
-directeur de cabinet du préfet de Grenoble, Marcel Pérès, publie Droit et
-responsabilité en montagne209, illustré de cas de jurisprudence. Il faut aussi citer les
-travaux juridiques du CAF et de Bénédicte Cazanave, ancienne juge de Bonneville, et
-un livre récent sous la direction de Philippe Yolka, Escalade et droit210.
-En 2000, la loi Fauchon (loi n°2000-647 du 10 juillet 2000) a apporté un
-certain nombre de modifications à la responsabilité judiciaire.
-En premier lieu, elle a mis fin (par l'article 4-1 du Code de procédure pénale) à
-l'ancien principe jurisprudentiel (on dit prétorien) de l'unité des fautes pénale et civile
-206 Les sports de montagne et le droit, Wladimir Rabinovitch, librairies techniques Bordeaux, impr.Delmas, 1959.
-207 Montagne, droit et sauvetage, Jean-Louis Grand et Pierre Sarraz-Bournet, éditions Symbiose, 1982.
-208 Op. cit., Bernard Amy (dir.), p.59.
-209 Droit et responsabilité en montagne, Marcel Pérès, PUG, 2006.
-210 Escalade et droit, sous la direction de Philippe Yolka, PUG, 2015.
-
-227
-
-en raison des effets pervers qu'il provoquait. Quand la faute pénale n'était pas retenue,
-la faute civile n'existait pas, et les victimes ne pouvaient recevoir aucun
-dédommagement de la part des assurances responsabilité civile. Les juges, émus par
-cette situation, étaient incités à la sévérité en retenant une faute pénale dans le seul
-but de provoquer une indemnisation des victimes. Désormais, la relaxe au pénal ne
-fait pas obstacle à une action en réparation au civil.
-En second lieu, la loi Fauchon a eu pour but (par l'alinéa 4 de l'art.121-3 du
-Code pénal) d'alléger la responsabilité pénale des élus locaux et des « décideurs
-publics », sans pour autant affaiblir la répression là où on ne le souhaitait pas. Le
-législateur a voulu dans le même temps renoncer à utiliser des dispositions
-spécifiques qui auraient porté atteinte au principe d'égalité devant la loi. Une telle
-gageure ne pouvait manquer de produire un résultat jugé subtil par le juriste mais
-abscons par le profane.
-Le pratiquant n'est guère réjoui de voir le judiciaire interférer avec l'espace de
-liberté que représente la haute-montagne. Il a notamment du mal à comprendre que
-ces histoires de responsabilité lui soient opposées alors que les risques de la hautemontagne concernent des adultes consentants. La notion d'acceptation des risques qui
-a un temps eu la faveur des tribunaux dans le domaine limité de « la responsabilité
-sans faute, par le fait des choses, lors de compétitions automobiles » et qui est même
-remise en question dans ce champ d'action particulier par la jurisprudence récente, n'a
-jamais eu cours en ce qui concerne la montagne et fait donc partie des légendes
-urbaines. La pratique de l'alpinisme ne connaît aucun droit spécifique, ce qui signifie
-que le droit commun s'y applique comme ailleurs. Mais bien entendu, ce droit
-commun reconnaît l'existence d'une prise de risque volontaire comme dans la
-pratique d'autres sports dangereux comme par exemple les sports de combat. Il s'agit
-de savoir si ces risques sont « normaux », compte tenu de la pratique habituelle du
-sport, notamment le respect des règles du jeu quand celles-ci existent, ou s'ils
-excèdent ceux d'une bonne pratique. Le corollaire de l'absence de droit spécifique à la
-montagne en matière de responsabilité est qu'apprendre les quelques notions de
-responsabilité peut aussi servir dans d'autres sphères de la vie, comme la pratique de
-la médecine, les relations de voisinage, etc.
-L'opposition du monde judiciaire et du milieu montagnard s'articule souvent de
-la façon suivante : Le juriste ne comprend pas que le montagnard entende se
-soustraire au droit commun, et estime, notamment en ce qui concerne la profession de
-guide, qu'il s'agit d'un comportement corporatiste qu'il est nécessaire de combattre.
-Inversement, le monde montagnard et les professionnels en particulier, pensent être
-les victimes d'un acharnement judiciaire. La vérité est moins caricaturale. La
-tendance actuelle du judiciaire est de s'orienter vers une responsabilité individuelle
-dans un souci de préservation de la liberté d'agir, plutôt que vers un encadrement
-réglementaire des pratiques. Bénédicte Cazanave avait résumé les choses ainsi :
-« Accepter l'intervention judiciaire à posteriori est peut-être le prix à payer pour
-éviter l'intervention étatique à priori qui entraînerait, presque à coup sûr, la disparition
-228
-
-de ce qui fait que la montagne nous attire encore, et réduirait celle-ci à n'être qu'un
-terrain de sport ou de loisir aseptisé. » En clair, la situation n'est pas brillante mais ce
-pourrait être pire...
-1/ La responsabilité civile
-La responsabilité civile est définie par les articles 1240 et 1241 du Code Civil :
-Art.1240 : « Tout fait quelconque de l'homme, qui cause à autrui un dommage,
-oblige celui par la faute duquel il est arrivé, à le réparer. »
-Art.1241 : « Chacun est responsable du dommage qu'il a causé non seulement
-par son fait, mais encore par sa négligence ou par son imprudence. »
-L'objectif de la responsabilité civile est d'indemniser un dommage et non de
-réprimer une faute. Il y a donc nécessité de l'existence d'un dommage. L'action
-civile ne peut être engagée que par la partie qui s'estime victime d'un dommage et
-non par le ministère public (le parquet). C'est à la victime de prouver qu'il y a eu
-faute, et que cette faute a provoqué le dommage (lien de causalité).
-Qu'est-ce qu'une faute civile ? Il s'agit d'un comportement situé hors des règles
-normales de conduite humaine, dites souvent comportement de bon père de famille.
-Ce comportement, tout théorique, fait référence à la loyauté, la bienveillance,
-l'absence d'excès. Il n'existe donc pas de définition précise.
-L'élément intentionnel n'est pas exigé pour qualifier une faute civile.
-De même, comme nous venons de le voir dans l'introduction sur la loi
-Fauchon, l'absence de faute pénale non intentionnelle au sens de l'article 121-3 du
-Code Pénal, ne fait pas obstacle à la qualification d'une faute civile.
-L'abstention (manquement à une obligation d'agir) peut être qualifiée de faute
-civile aussi bien qu'un acte positif.
-L'article 1240 est le domaine de la faute délictuelle. Cela suppose une action
-volontaire, mais pas forcément une intention malveillante. Il s'agit de l'équivalent de
-la faute contractuelle -on ne respecte pas les clauses d'un contrat -, quand il n'existe
-pas de contrat qui lie les parties.
-L'article 1241 est le domaine de la faute quasi-délictuelle. Cela suppose une
-action involontaire, tenant de l'erreur de comportement, du mauvais choix, de la
-négligence, de l'imprudence, de la maladresse, de l'inattention. La faute n'a pas alors
-de caractère répréhensible et elle n'est pas punissable. Elle fait simplement naître une
-obligation de réparation.
-Attention, le découpage entre faute délictuelle et faute quasi-délictuelle ne se
-superpose pas avec le découpage au pénal entre faute simple et faute intentionnelle. Il
-existe des fautes délictuelles au civil qui sont des fautes simples au pénal. Ceci est
-très important en pratique, car les fautes intentionnelles, au sens pénal, ne sont pas
-assurables. C'est à dire qu'à l'issue d'une procédure mixte, à la fois civile et pénale,
-229
-
-l'assurance responsabilité civile ne prendra pas en charge les dommages-intérêts dus à
-la victime si la faute est intentionnelle.
-L'assurance responsabilité civile peut aussi prévoir contractuellement des
-cas dégageant la responsabilité de l'assureur. Ainsi, l'assurance du CAF stipule :
-« Ce que nous ne garantissons pas au titre de la garantie « Responsabilité
-Civile Générale », en plus des exclusions générales :
-(…)
-« Les dommages résultant de la violation délibérée de votre part ou de la
-part des membres de la fédération ou de la direction des Clubs (Président, viceprésident, trésorier, secrétaire) des règles particulières de sécurité et de prudence
-imposées par une loi ou un règlement, d'application générale ou particulière à votre
-activité, des prescriptions du fabriquant ou des dispositions contractuelles, quand
-cette violation :
-« -constitue une faute d'une gravité exceptionnelle dérivant d'un acte ou
-d'une omission volontaire, de la conscience du danger que vous deviez en avoir, de
-l'absence de toute cause justificative ,
-« -et était connue ou ne pouvait être ignorée de vous,
-(...) »
-Hormis la faute, la responsabilité civile peut également se déduire de
-l'application de l'article 1242 alinéa 1 du Code civil :
-« On est responsable non seulement du dommage que l'on cause par son propre
-fait, mais encore de celui qui est causé par le fait des personnes dont on doit
-répondre, ou des choses que l'on a sous sa garde. »
-On appelle le second volet de cette responsabilité, pour aller plus vite,
-responsabilité du fait des choses. Il s'agit d'une responsabilité sans faute : Dans ce
-cas, la victime n'a pas à prouver l'existence d'une faute. Par contre, la chose doit bien
-être sous la garde de la personne sur laquelle en entend faire porter la responsabilité
-civile.
-Il a ainsi été jugé que les pierres qu'un grimpeur peut détacher en marchant ne
-sont pas sous sa garde. Le moyen est donc inopérant dans ce cas de figure.
-Par contre, la corde est bien sous la garde de l'alpiniste. Chercher à se défendre
-contre l'accusation de chute de pierre en invoquant l'action de la corde qui aurait fait
-tomber la pierre serait pour le moins maladroit et reviendrait à donner le fouet pour se
-faire battre.
-Il faut savoir, qu'historiquement, la responsabilité du fait des choses, créée en
-1896 par la Cour de cassation, ainsi que la mutualisation du risque par les assurances,
-ont été introduites afin de pourvoir à l'indemnisation des ouvriers victimes en masse
-de machines dangereuses dans l'industrie florissante du 19ème siècle finissant. Il était
-en effet pratiquement impossible au personnel d'apporter la preuve d'une faute de leur
-230
-
-patron lors d'un accident. La responsabilité du fait des choses leur permettait d'obtenir
-une indemnisation par l'assurance de l'entreprise sans devoir apporter cette preuve, la
-machine ayant handicapé le salarié étant bien sous la garde de l'employeur. Ceci
-illustre parfaitement que l'objet de la responsabilité civile est l'indemnisation et non le
-châtiment du responsable qui, lui, est du ressort du pénal. On a de fait remplacé la
-vieille vengeance tribale par un processus en deux temps : 1/ La victime démontre
-que la responsabilité civile de l'auteur est engagée et obtient réparation pécuniaire de
-la part de l'assurance de celui-ci s'il est assuré. 2/ La société, par l'intermédiaire du
-ministère public, se charge elle-même de punir le fautif s'il le mérite, se substituant à
-la vendetta.
-La tendance des tribunaux civils sera donc de toujours rechercher la possibilité
-d'indemniser la victime. Ne pas être assuré revient à ne pas comprendre cette finalité
-de la responsabilité civile. Bref, il est indispensable de souscrire une assurance
-responsabilité civile couvrant explicitement l'activité d'alpinisme, par le biais d'un
-club d'escalade (FFME ou CAF) ou d'une enseigne commerciale (carte Vieux
-Campeur par exemple) en vérifiant que les plafonds des sommes allouées sont élevés.
-Si vous êtes vous-même victime, vous n'êtes en aucune façon obligé de
-demander réparation. L'exercice de ce droit est facultatif. Cependant, il est probable
-que si votre assurance est contrainte à des dépenses, elle fera valoir vos droits auprès
-de l'assurance de la partie adverse pour rentrer dans ses frais.
-Quand un volet pénal existe, on se constitue partie civile dans la procédure
-pénale. En l'absence, cette procédure ne concernera que la répression éventuelle du
-comportement du fautif mais ne s'intéressera pas à l'indemnisation de la victime.
-Enfin, il faut signaler que la faute de la victime peut limiter, et même parfois
-exonérer, la responsabilité du fautif. C'est le cas quand la victime a contribué ellemême au dommage.
-2/ La responsabilité pénale
-Il ne s'agit pas ici de réparer un dommage, mais de punir une infraction à la loi
-ou à un règlement. L'absence de dommage n'est donc pas une garantie d'échapper à sa
-responsabilité pénale.
-C'est le ministère public qui décide ou non de poursuivre, indépendamment de
-la volonté de la victime. Cependant, la victime peut forcer le déclenchement de la
-procédure pénale en déposant plainte avec constitution de partie civile. Ce peut être
-dangereux, car si la procédure n'entraîne aucune condamnation de l'adversaire, celuici peut ensuite réclamer des dommages-intérêts pour procédure abusive. Il est donc le
-plus souvent préférable de laisser l'initiative du déclenchement de la procédure pénale
-au parquet, et de se constituer partie civile après.
-a/ La responsabilité pénale en matière d'infractions intentionnelles
-Elle est définie par les articles 111-3, 111-4, et 121-3, 1er alinéa du Code
-231
-
-Pénal :
-Art.111-3 : « Nul ne peut être puni pour un crime ou pour un délit dont les
-éléments ne sont pas définis par la loi, ou pour une contravention dont les éléments
-ne sont pas définis par le règlement.
-« Nul ne peut être puni d'une peine qui n'est pas prévue par la loi, si l'infraction
-est un crime ou un délit, ou par le règlement, si l'infraction est une contravention. »
-Art.111-4 : « La loi pénale est d'interprétation stricte. » Ce qui signifie
-notamment que les juges ne peuvent pas procéder par analogie.
-Art.121-3, alinéa 1 : « Il n'y a point de crime ou de délit sans intention de le
-commettre. »
-Il s'agit ici d'enfreindre intentionnellement une loi ou un règlement précis dans
-un but malveillant. On déduit de ce comportement une hostilité de l'agent à la
-norme pénale et aux valeurs sociales.
-Point n'est besoin pour un honnête homme de se promener avec un Code Pénal
-sous le bras ou de l'apprendre par cœur. Nous savons tous qu'on ne doit pas
-volontairement voler ou dégrader les biens d'autrui, porter atteinte à l'intégrité
-physique des personnes, menacer sous condition, etc.
-En gros, vous vous abstenez de jeter volontairement cette pierre sur la cordée
-en contrebas qui ne fait que vous enquiquiner, et l'affaire est réglée.
-Quant à la réglementation, elle n'est opposable au pratiquant qu'à la condition
-d'être dûment signalée sur le terrain : par exemple un panneau interdisant le camping
-sauvage. Braver l'interdiction expose naturellement à une contravention. Tout cela est
-limpide.
-Au contraire de la responsabilité civile, aucune assurance ne peut couvrir la
-responsabilité pénale puisque les condamnations ont une finalité afflictive, c'est à dire
-morale.
-b/ La mise en danger délibérée de la personne d'autrui (imprudence
-consciente)
-Elle est définie par le deuxième alinéa de l'article 121-3 du Code Pénal :
-Art. 121-3, alinéa 2 : « Toutefois, lorsque la loi le prévoit, il y a délit en cas de
-mise en danger délibérée de la personne d'autrui. »
-La mise en danger délibérée de la personne d'autrui se situe entre la faute
-intentionnelle et la faute non-intentionnelle. Elle est illustrée par un conducteur
-roulant à grande vitesse en ville. Le chauffard roule bien intentionnellement à cette
-vitesse, enfreint délibérément le code de la route, mais n'a pas l'intention de
-provoquer des dommages. Il y a donc également hostilité de l'agent à la norme
-pénale et aux valeurs sociales mais la faute n'est pas stricto sensu intentionnelle.
-Il n'y a pas de nécessité d'un dommage pour caractériser cette faute pénale,
-mais s'il existe, il s'agit d'une circonstance aggravante.
-L'introduction de la notion de mise en danger délibérée de la personne d'autrui
-232
-
-a eu pour but de pouvoir punir plus sévèrement l'auteur de dommages quand ceux-ci
-sont consécutifs à un comportement volontairement dangereux que quand ils sont la
-conséquence d'une maladresse ou une inattention. Elle permet également de pouvoir
-poursuivre ce comportement dangereux délibéré en l'absence de dommage.
-On déduit d'autres articles du code pénal qu'il y a nécessité que ce
-comportement dangereux soit aussi la violation d'une obligation particulière de
-sécurité imposée par la loi ou le règlement. Pour illustration, jeter un sac de détritus
-sur la chaussée ne constitue pas l'infraction, quand bien même cela constituerait un
-danger, car le code de la route ne l'interdit pas. Il faut par surcroît que cette obligation
-violée soit suffisamment précise.
-Ce volet pénal ne peut donc pas s'appliquer pour une cordée s'engageant dans
-la descente d'un couloir de pierrailles avec un risque de faire tomber des pierres sur
-des cordées en aval, car il n'existe aucun règlement formel en la matière. Mais il peut
-s'appliquer pour des skieurs bravant l'interdiction d'une piste avalancheuse fermée
-mettant en danger des personnes situées en contrebas. La présence de l'élément légal,
--existence d'une obligation de sécurité dans la loi ou le règlement – et de l'élément
-intellectuel – volonté délibérée de violer cette obligation - est donc indispensable.
-c/ La responsabilité pénale en matière d'infractions non-intentionnelles
-(imprudence inconsciente)
-Elle est définie par les troisième et quatrième alinéas de l'article 121-3 du Code
-Pénal, issus de la fameuse loi Fauchon du 10 juillet 2000 :
-Art.121-3, alinéas 3 et 4 :
-« Il y a également délit, lorsque la loi le prévoit, en cas de faute d'imprudence,
-de négligence ou de manquement à une obligation de prudence ou de sécurité prévue
-par la loi ou le règlement, s'il est établi que l'auteur des faits n'a pas accompli les
-diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de
-ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il
-disposait.
-« Dans le cas prévu par l'alinéa qui précède, les personnes physiques qui n'ont
-pas causé directement le dommage, mais qui ont créé la situation qui a permis la
-réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont
-responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement
-délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le
-règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une
-particulière gravité qu'elles ne pouvaient ignorer. »
-Ces deux alinéas ne visent plus une hostilité de l'agent, mais une indifférence
-de l'agent à la norme pénale et aux valeurs sociales.
-Afin d'éclairer les différences entre ces deux alinéas, Frédéric Desportes,
-conseiller référendaire à la Cour de cassation, explique le nouveau principe dans des
-termes simples. L'infraction est constituée en fonction du lien de causalité plus ou
-233
-
-moins direct entre la faute et le dommage : « Lorsque le lien est direct, une faute
-simple suffit, comme par le passé. Lorsqu'il est indirect, une faute d'une certaine
-gravité, dite souvent « qualifiée » (…) doit être établie. »211
-Il y a donc nécessité de traiter séparément les deux aliénas qui sont très
-différents dans leurs exigences et ne visent pas les mêmes fautifs. L'alinéa 3 vise
-l'auteur direct du dommage. L'alinéa 4 visent l'auteur indirect du dommage. Par
-exemple, l'auteur direct est le skieur ayant déclenché une avalanche sur un groupe
-pratiquant la raquette en aval. Et les auteurs indirects sont le chef de groupe l'ayant
-emmené sous la pente avalancheuse et l'organisateur de la sortie qui est resté dans son
-bureau.
-c1/ Le lien de causalité direct
-Le lien de causalité direct est bien sûr celui qui intéresse le plus l'alpiniste
-autonome. En effet, son compagnon de cordée possède une expérience de la hautemontagne équivalente à la sienne, aussi n'emmène-t-il personne.
-Il suffit ici d'établir que le fautif n'a pas accompli les diligences normales
-compte tenu de ses compétences et des moyens dont il disposait pour engager sa
-responsabilité pénale. Les diligences normales seront peut être explicitées par un
-expert chargé de définir la bonne pratique correspondant au cas d'espèce.
-On exigera davantage d'un sachant – professionnel, moniteur fédéral, alpiniste
-expérimenté - que d'un débutant, puisqu'il s'agit de tenir compte des compétences du
-fautif.
-Il n'y a pas nécessité de l'existence d'un dommage, pour engager cette
-responsabilité pénale.
-Il n'y a pas, non plus, nécessité d'enfreindre une obligation particulière de
-sécurité prévue par la loi ou le règlement, pour engager cette responsabilité pénale.
-Le 3ème alinéa de l'article 121-3 du Code pénal représente de ce fait l'exigence
-la plus redoutable pour un alpiniste autonome. S'il commet une imprudence ou une
-négligence, même si celle-ci n'a pas entraîné de dommage, il doit avoir été
-irréprochable dans l'accomplissement de ses diligences. Par exemple, il fait tomber
-une pierre sur une cordée en aval. Cette pierre n'entraîne aucun dommage. Si la
-cordée fautive attend que la cordée aval soit à l'abri pour descendre à son tour, ou
-autre option, accélère pour coller la cordée aval de façon à ce que les pierres ne
-prennent pas de vitesse, et avertit à chaque pierre en criant « caillou ! », les diligences
-sont accomplies. Si par contre la cordée amont continue sa progression en faisant
-tomber des pierres sans prendre aucune précaution, sa responsabilité est engagée.
-c2/ Le lien de causalité indirect
-Ce volet, adouci par la loi Fauchon, demeure la grande difficulté pour un
-211 La responsabilité pénale en matière d'infractions non-intentionnelles, Frédéric Desportes, Rapport annuel de la
-Cour de cassation, 2002.
-
-234
-
-professionnel, un moniteur fédéral, un organisateur de sortie. Il est anecdotique pour
-l'alpiniste autonome. Si lui et son copain, de même expérience, se promènent au pied
-d'une pente dangereuse et reçoivent l'avalanche, auteurs indirects et victimes se
-confondent puisque personne n'a emmené l'autre. Il en sera différemment si notre
-alpiniste autonome emmène des amis non expérimentés - ou nettement moins que luimême - en montagne. Il se retrouve alors presque dans la situation juridique du
-professionnel concernant sa responsabilité, un contrat non écrit étant de fait conclu
-entre lui et la ou les personnes qu'il emmène.
-L'alinéa 4 de l'article 121-3 du Code pénal comporte davantage de conditions
-pour engager la responsabilité pénale du fautif indirect :
-- Il y a nécessité de l'existence d'un dommage.
-- Il y a nécessité de l'existence d'une faute qualifiée, et non d'une faute simple.
-Qu'est-ce qu'une faute qualifiée ? On en distingue deux types :
-- La faute dite délibérée : Il s'agit d'enfreindre délibérément une obligation
-particulière de prudence ou de sécurité prévue par la loi ou le règlement. Avec
-toujours la présence obligatoire de l'élément légal (l'existence de cette règle) et de
-l'élément intellectuel (la volonté de la violer). On retrouve l'hostilité à la norme.
-- La faute dite caractérisée : Il s'agit d'une faute comportant un certain degré de
-gravité ou d'une particulière évidence. L'alinéa 4 exige par surplus que cette faute
-caractérisée ait exposé autrui à un risque d'une particulière gravité (c'est à dire avec
-une forte probabilité de blessures ou de mort), et que l'auteur du dommage n'ait pu
-l'ignorer. Il s'agit davantage une indifférence à la norme qu'une véritable hostilité.
-Emmener des personnes inexpérimentées (cf. infra) créent à leur égard une
-obligation de sécurité. Il s'agit d'une obligation de moyens et non de résultat,
-puisque les aléas du milieu naturel font qu'on admet qu'il est impossible de maîtriser
-parfaitement la totalité de son environnement. Quand le lien de causalité est indirect,
-ce qui est plus fréquent que le lien de causalité directe (où il faudrait que la personne
-en cause heurte, frappe ou lâche directement la victime) et qu'on n'a pas enfreint
-délibérément une obligation de sécurité prévue par la loi ou le règlement, les juges
-devront rechercher l'existence de cette faute caractérisée ayant exposé autrui à un
-risque particulièrement grave. Emmener un groupe au pied d'une pente avalancheuse,
-un jour de fort risque d'avalanche, et sans emmener ARVA, pelles et sondes, pourrait
-représenter, en cas de dommage, cette faute caractérisée. Il ne suffira pas de trouver
-un simple manquement aux diligences requises, comme c'est le cas lors d'un lien de
-causalité direct.
-3/ L'enquête
-Pour un accident d'une certaine gravité, la gendarmerie ou la police se
-présenteront sur les lieux. Les interrogatoires menés par l'officier de police judiciaire
-(OPJ) détermineront les circonstances et les justifications de chacun.
-Avait-on vu les personnes en aval ? Savait-on que le couloir était spécialement
-235
-
-avalancheux ? A-t-on consulté le bulletin météo neige et avalanches ? Faire tomber
-une pierre sur une cordée en contrebas est une maladresse qui a la valeur d'une faute
-civile non punissable au pénal. Ne pas crier « cailloux » pour avertir les autres
-pourrait bien être un manquement aux diligences normales, sauf si l'on démontrait
-qu'au moment de la chute de la pierre, on chutait soi-même et qu'on était dans
-l'impossibilité physique de donner l'alarme. On voit combien le récit qu'on va faire
-lors de la première audition par l'OPJ, à chaud, va engager l'avenir judiciaire.
-Le danger est d'autant plus grand que l'auteur d'un accident se culpabilisera
-énormément et pourra se faire le principal témoin à charge contre lui-même : « Je n'ai
-sans doute pas crié assez fort cailloux puisqu'ils n'ont pas entendu. »
-On peut s'inspirer des principaux conseils de Laurent-Franck Lienard, avocat à
-la cour d'appel de Paris212, donnés aux policiers et gendarmes ayant fait usage de leur
-arme et devant s'en expliquer. Ils sont :
-– de refréner son désir de justification par un flot de paroles qui seront toutes,
-le moment venu, retournées par l'avocat de la partie adverse ;
-– de ne pas mentir ;
-– de ne pas juger l'action des autres ;
-– de limiter ses déclarations au strict nécessaire ;
-– de ne pas entrer dans des précisions impliquant des nombres, des distances,
-des couleurs ;
-– de réclamer un délai pour répondre, afin de recouvrer ses esprits ;
-– de faire appel à un avocat connaissant l'activité le plus vite possible.
-En transposant facilement les problèmes de responsabilité qui se posent aux
-forces de l'ordre dans ces circonstances exceptionnelles, aux accidents en montagne,
-la lecture de Force à la loi est à recommander particulièrement à tout guide de hautemontagne avant de se trouver un jour immergé dans l'inconnu d'une aventure
-judiciaire.
-4/ Les cas particuliers limitant la faute
-Nous avons vu que la faute civile peut être limitée, voire annulée, par une faute
-de la victime ayant participé à son dommage. Il existe également des mécanismes
-limitant la responsabilité pénale. Certains, comme l'exercice d'un droit (droit de
-concurrence, légitime défense, violence légitime des forces de police) ou le
-consentement de la victime (soins médicaux, recherche médicale – moyen opérant
-uniquement quand l'action est permise par la loi, donc pas, à l'heure actuelle, pour
-l’euthanasie) ne concernent pas l'alpinisme.
-a/ Le 5ème alinéa de l'article 121-3 du code pénal
-« Il n'y a point de contravention en cas de force majeure. »
-Par contre, l'excuse de la bonne foi ne fait pas disparaître une contravention.
-
-212 Force à la loi, Laurent-Franck Lienard, éditions Crépin-Leblond, 2009.
-
-236
-
-b/ L'état de nécessité
-L'article 122-7 du Code Pénal définit une exception d'état de nécessité:
-« N'est pas pénalement responsable la personne qui, face à un danger actuel ou
-imminent qui menace elle-même, autrui ou un bien, accomplit un acte nécessaire à la
-sauvegarde de la personne ou du bien, sauf s'il y a disproportion entre les moyens
-employés et la gravité de la menace. »
-L'exemple classique illustrant l'excuse de nécessité sont les infractions au Code
-de la route par un automobiliste emmenant d'urgence sa femme enceinte à l'hôpital. Il
-est donc permis d'enfreindre un règlement ou la loi, si c'est la seule façon d'éviter une
-infraction et un dommage supérieurs.
-5/ Emmener des gens peu expérimentés
-La décharge
-Pour s'exonérer de sa responsabilité, l'alpiniste expérimenté pourrait être tenté
-de faire signer une décharge en bonne et due forme à ses amis profanes qu'il emmène
-en montagne pour un jour. Ceux-ci déclareraient qu'ils savent parfaitement qu'ils vont
-s'exposer à des risques et renoncent à tout recours. Ce serait une très mauvaise idée
-pour trois raisons :
-– La responsabilité pénale n'est pas un droit de la victime auquel elle pourrait
-renoncer. Il s'agit de la répression directe d'un comportement par la société
-qui ne passe pas par la victime. La décharge serait donc inopérante sur ce
-point.
-– En matière de responsabilité civile, les articles 1340 et 1341 du code civil
-étant d'ordre public, les clauses d'exonération sont nulles.
-– La volonté de s'exonérer d'une responsabilité et donc de l'obligation de
-sécurité due à la personne qu'on emmène, serait considérée par les juges
-comme un moyen, non seulement inopérant, mais déloyal et immoral. Il est
-probable que leur sévérité grandisse à l'encontre d'un fautif qui aurait, à
-priori, admis qu'il ne pourrait pas assurer la sécurité des personnes qu'il
-emmène.
-La préparation (judiciaire) de la course
-Il faut donc procéder d'une manière complètement différente, inspirée de celle
-recommandée aux professionnels de santé avant l'exécution d'un plan de traitement
-relativement lourd. Il faudra être en mesure de montrer qu'on a accompli les
-diligences d'une bonne pratique, pendant, mais aussi avant, la réalisation du plan de
-traitement, c'est à dire ici de la course. Plusieurs rendez-vous avant le jour J ont été
-consacrés aux explications, à l'étude des solutions alternatives, aux soins
-préparatoires de mise en condition des tissus, c'est à dire en alpinisme, aux
-entraînements en couenne afin de connaître le niveau des participants, remontées sur
-corde fixe, réglage du matériel, distribution des topos, etc. Toutes ces réunions
-préalables sont destinées à préparer au mieux l'intervention - la sortie -, afin de
-237
-
-mettre toutes ses chances de son côté. En médecine, elles permettent en outre d'établir
-qu'on a obtenu l'indispensable consentement éclairé du malade de façon loyale.
-L'accomplissement de ces diligences devient alors l'inverse d'une volonté de
-s'exonérer de sa responsabilité mais la démonstration qu'on était pleinement conscient
-de cette responsabilité et qu'on entendait l'assumer en prenant le maximum de
-précautions.
-Il est intéressant de connaître les reproches habituels que font les juges aux
-professionnels de la montagne pour éviter des lacunes dans la préparation. On
-retrouve les sujets suivants :
-- Les conditions : Il s'agit des conditions météorologiques, nivologiques, plus
-ou moins grande sécheresse accentuant le risque de chutes de pierres, ouverture de la
-rimaye, et praticabilité du glacier. On doit : 1/ s'informer ; 2/ en tenir compte en
-fonction du niveau des participants.
-- Le matériel emporté : L'absence ou la non-adéquation d'un matériel à la
-course projetée peut être un manquement à l'obligation de sécurité. Penser aux
-vêtements chauds, au réchaud s'il y a risque de bivouac pour une personne peu
-aguerrie.
-- Le niveau et le nombre de personnes emmenées : Connaître le niveau de
-chacun avec précision est indispensable. On doit connaître leurs antécédents
-montagnards afin que la course ne soit pas jugée en inadéquation avec leur faible
-expérience. On doit aussi ne pas surestimer sa propre capacité de surveiller tout son
-monde, la délégation de cette surveillance à certains participants plus aguerris ne
-faisant pas disparaître la nécessité d'une surveillance directe par le chef de groupe.
-- L'itinéraire et l'horaire : Il est nécessaire de ne pas avoir entraîné son
-groupe dans une souricière. Parfois, on doit reconnaître soi-même le parcours
-glaciaire un jour précédent, pour vérifier qu'il est praticable. L'horaire doit être
-calculé pour ne pas se trouver aux mauvais endroit au mauvais moment.
-- La faute technique : En emmenant des personnes non expérimentées, les
-critères deviennent différents. Là où avec votre copain vous n'auriez jamais imaginé
-sortir la corde, avec vos amis profanes, ne pas s'encorder pourra être considéré
-comme une faute technique si par exemple l'accès au refuge comporte des passages
-exposés. Soit vous faites une parade efficace, soit vous sortez la corde.
-Il est habituel de dire que le dossier patient est toujours la meilleure défense du
-professionnel de santé. Les multiples informations qu'il collecte démontre sa rigueur
-et son sens de la responsabilité. Les antécédents médicaux, les médicaments pris par
-le patient sont notés. Les dates des soins des années précédentes montrent
-l'expérience acquise par le patient en matière de soins. Se lancer dans un plan de
-traitement lourd sur un patient qu'on connaît parfaitement depuis plusieurs années n'a
-pas la même valeur que sur un patient qu'on ne connaît que depuis une semaine.
-Analogie plus proche, le livre de bord, pièce juridique maîtresse d'un navire,
-comporte le rôle d'équipage, la route projetée, les conditions de vent et de mer, et va
-238
-
-permettre d'établir les diligences accomplies par le skipper.
-De la même façon, on peut se fabriquer des fiches « client » des personnes peu
-expérimentées qu'on emmène en montagne. Ces fiches fourniraient des informations
-précises sur les dates des courses, escalades, randonnées à pied, randonnées à
-raquettes, sorties de ski, que vous avez déjà faites avec vos amis, montrant que votre
-cordée était déjà un minimum rodée, que vous tenez compte de l'âge, de l'absence de
-pratique habituelle d'un sport, des antécédents médicaux, que vous avez un contact
-« à terre » en cas d'accident, etc.
-Un exemple pourrait être celui-ci :
-__________________________________________________________________
-FICHE PERSONNE EMMENEE EN MONTAGNE
-Nom :
-Prénom :
-Date de naissance :
-Adresse :
-Téléphone :
-Mail :
-Contact « à terre » : …........................................................................................
-__________________________________________________________________
-Antécédents médicaux : …...................................................................................
-Médicaments pris : …............................................................................................
-Antécédents de MAM : Date :
-Altitude :
-Symptômes :
-….............................................................................
-….............................................................................
-….............................................................................
-Sport habituel : …............................................................................................
-__________________________________________________________________
-Antécédents montagnards (randonnée, ski, raquette, camping, scoutisme, escalade)
-….................................................................................................................................
-….................................................................................................................................
-….................................................................................................................................
-__________________________________________________________________
-SORTIES ENSEMBLE
-Date :
-Course :
-Conditions :
-…........................................................................................................
-…........................................................................................................
-…........................................................................................................
-…........................................................................................................
-__________________________________________________________________
-
-239
-
-6/ Assister une autre cordée
-En présence d'autres cordées en difficulté, l'abstention volontaire de porter
-assistance peut constituer l'infraction de l'article 223-6 du Code Pénal.
-Art.223-6 : « Quiconque pouvant empêcher par son action immédiate, sans
-risque pour lui ou pour les tiers, soit un crime, soit un délit contre l'intégrité
-corporelle de la personne s'abstient volontairement de le faire est puni de cinq ans
-d'emprisonnement et de 75000 € d'amende.
-« Sera puni des mêmes peines quiconque s'abstient volontairement de porter à
-une personne en péril l'assistance que, sans risque pour lui ou pour les tiers, il pouvait
-lui prêter soit par une action personnelle, soit en provoquant un secours. »
-Ceci n'étonne personne car tout le monde connaît la « non assistance à
-personne en danger ». On sait moins qu'en présence d'une autre cordée peu
-expérimentée évoluant sous nos yeux et commettant une grosse bêtise sans s'en
-rendre compte, un juge pourra d'autant plus facilement qualifier l'infraction que notre
-expérience sera grande. Si à un débutant on ne pourra guère reprocher de n'avoir pas
-vu l'erreur d'appréciation faite par la cordée voisine, à un chef de cordée expérimenté
-il sera fait grief de n'avoir pas empêché le mauvais positionnement du descendeur
-par exemple de la cordée précédente pourtant visiblement novice. Ainsi, on gardera
-en mémoire que dès qu'on évoluera au contact d'une telle cordée, on endossera en
-quelque sorte un supplément de charge d'âme, qu'on le veuille ou non. Il restera à
-intervenir avec tout le doigté nécessaire.
-Il faut aussi préciser que dans le cas où l'on assiste une autre cordée moins
-expérimentée et que celle-ci souhaite ensuite continuer la route avec vous, vous
-acceptez de façon tacite la responsabilité de chef de caravane. Ainsi que le rapportait
-Sarraz-Bournet à propos d'un accident au Chardonnet en 1954 : « celui qui accepte
-que d'autres se joignent à sa cordée doit, de ce fait, assumer la charge de les aider et
-de les guider. »213Il ne s'agit donc pas de les abandonner avec une corde trop courte
-au-dessus de la rimaye, mais seulement les deux pieds posés bien à plat en sécurité
-sur le sentier voire la terrasse du refuge. Il s'agit de l'importante notion de
-délaissement à laquelle les juges sont de plus en plus sensibles.
-Conclusion
-A la lecture des articles du code civil et du code pénal, on comprend qu'au
-corps défendant de tout rédacteur de manuel d'alpinisme, c'est la totalité de l’ouvrage
-qui tient finalement lieu de chapitre juridique. En effet, ce qu'exige le droit est, ni
-plus ni moins, la mise en application de la bonne pratique. Et cette bonne pratique est
-la somme de tous les autres chapitres. La dangerosité judiciaire se situe exactement
-ici. A trop donner de conseils péremptoires et à ne pas savoir éviter les règles
-dogmatiques, pourtant invariablement mises en défaut à l'époque suivante, on
-fabrique soi-même le carcan quasi-réglementaire que le législateur avait pourtant
-pour but d'éviter en choisissant la voie de la responsabilité.
-213 Op. cit., Pierre Sarraz-Bournet dans Technique de l'alpinisme, dir. Bernard Amy, p.59.
-
-240
-
-En 1943, Pourchier et Frendo écrivaient : « Il n'y a rien d'absolu dans la
-conduite d'une course (…) : telle solution s'étant révélée bonne dans certains cas peut
-amener de grands déboires si elle est appliquée systématiquement. » En 1934, les
-auteurs du manuel du CAF soulignaient : « Nous croyons qu'il est impossible aux
-alpinistes de se préserver absolument de tout danger par la mise en pratique d'une
-technique rigoureuse. » Peut être devrait-on inscrire en filigrane de chacune des pages
-de tous les manuels d'alpinisme une formule de ce genre : Les techniques décrites ici
-ne possèdent aucun caractère formel et sont d'application toute relative ?
-Lors d'un accident, il ne faudrait pas croire qu'un imaginaire « acharnement
-judiciaire » choisisse pour son plaisir pervers d'accabler un présumé fautif. Les
-personnes présentes, donc ses pairs, souvent dans un souci inconscient d'autojustification, peuvent être les principaux acteurs à charge, à l'exemple de ce que
-Laurent-Franck Lienard décrit chez les forces de l'ordre : « Les collègues du policier
-qui a tiré vont fréquemment adopter une attitude extrêmement critique à l'égard de ce
-dernier. »214 Chacun sait ce qu'on aurait dû faire et ce qu'on a mal fait. Pour peu que
-les rivalités guide/sans guide ou professionnel/moniteur fédéral s'en mêlent,
-l'opprobre est à son comble. Les petites phrases assassines (« Si mon collègue n'avait
-pas ouvert le feu, la situation aurait pu être différente. »215) sont pain béni pour
-l'accusation et le juge sera bien obligé d'en tenir compte. Les alpinistes eux-mêmes,
-par leur jugement moral immédiat et à l'emporte-pièce, peuvent fabriquer leur propre
-camisole judiciaire dont ils se prennent ensuite à déplorer l'existence ; sans compter
-la performance de l'expert généralement impatient d'exhiber la complète étendue de
-ses connaissances.
-Enfin, la loi Fauchon a voulu alléger la responsabilité des décideurs,
-principalement des maires, ce qui ne justifie plus leur affolement sécuritaire.
-Échapper à la faute caractérisée exposant autrui à un risque d'une particulière gravité
-visée à l'alinéa 4 de l'article 121-3 du code pénal devrait pouvoir se faire sans élan
-liberticide. Placer un panneau explicite recommandant aux piétons, aux pratiquants
-de raquettes et aux skieurs de randonnée devant remonter des pistes de ski pour
-accéder à leurs itinéraires, de suivre scrupuleusement le bord des pistes et de traverser
-le plus rapidement possible à des endroits visibles et étroits, et un autre panneau
-demandant aux skieurs la plus grande attention du fait de la présence éventuelle de
-ces pratiquants lents à se déplacer, suffit à dégager la responsabilité pénale indirecte
-sans besoin de recourir à un arrêté municipal d'interdiction. On pourrait multiplier les
-exemples d'interdiction facilement remplaçables par une information, des
-explications et des recommandations. On pense, hors montagne, au panneau
-« baignade interdite » dont le fabricant a forcément fait fortune... Il appartient aux
-électeurs de sanctionner dans les urnes tout élu qui ne comprendrait pas leur volonté
-de vivre dans une société de liberté, et de le renvoyer à la loi Fauchon s'il prétend
-qu'il y est obligé.
-**
-214 Op. cit., Laurent-Franck Lienard, p.236.
-215 Ibid.
-
-241
-
-Chapitre 13 : Le guide de haute-montagne a-t-il un avenir ?
-« A partir d'ici, c'est pour les amateurs, dit Louiset. S'ils en ont envie qu'ils
-s'amusent ; moi je suis un professionnel, je m'arrête, j'en ai assez.. » Jean Giono216.
-De quoi parle-t-on ?
-Les guides de montagnes ont commencé à s'organiser en profession en 1821.
-Le Conseil municipal de Chamonix créa la Compagnie des guides de Chamonix suite
-à l'accident au Mont-Blanc au mois d'août 1820 de la caravane du docteur Hamel,
-conseiller aulique du Tsar, drame qui avait tué trois guides dans une avalanche. La
-première motivation était de créer une caisse de secours pour les familles. La
-compagnie s'attacha à organiser la profession en donnant la priorité à ses intérêts,
-instaurant notamment le tour-de-rôle et le tarif, « jetant ainsi les bases d'une véritable
-territorialisation appropriative de la haute-montagne chamionarde »217
-A partir de 1875, des associations d'alpinistes créèrent des corps de guides dans
-d'autres massifs, à l'exemple de la STD en Dauphiné. Ici, au contraire, la
-réglementation créait une subordination des guides à leurs clients par l'intermédiaire
-des associations, les empêchant par exemple de les abandonner à brûle-pourpoint en
-pleine ascension pour aller chasser un chamois. Le guide est considéré comme un
-« domestique spécialisé »218 soumis à la bienveillance paternelle du touriste
-bourgeois. Après 1925, les rivalités entre le CAF et la STD profitèrent aux guides qui
-purent s'introduire dans des commissions paritaires. Le CAF imposa son règlement
-dès 1930 à tous les corps de guides français à l'exception de la Compagnie des
-Guides de Chamonix. Chaque guide présentait un livret à son client dont des feuilles
-numérotées étaient destinées à recevoir son appréciation.
-216 L'Iris de Suze, Jean Giono, éditions Gallimard, 1970.
-217 Le touriste et son guide, Philippe Bourdeau, Revue de Géographie Alpine, tome 79, n°4, 1991, pp.89-104.
-218 Ibid.
-
-242
-
-En février 1948, l’État promulgue une loi sur les guides de montagne en
-entérinant plus ou moins les règlements du CAF. (Le livret sera maintenu jusqu'aux
-années soixante.) La nouvelle sélection remplace l'ancienne cooptation pourvoyeuse
-d'un niveau très hétérogène, par un diplôme d’État validant des connaissances.
-L'ENSA passe sous la tutelle du Ministère de la Jeunesse et des Sports.
-En 1976, la loi de 1948 est abrogée sous l'impulsion de Pierre Mazeaud. La
-nouvelle loi ne s'intéresse plus qu'à l'organisation de la sélection et de la formation
-des guides. L’État assimile alors le guide à un enseignant sportif, et le rattache
-juridiquement à d'autres professions du même ordre. On reconnaît la forte empreinte
-d'un alpiniste amateur de haut niveau qui ne peut concevoir la haute-montagne
-comme une conduite accompagnée. L'initiative de Mazeaud déconcerte la profession
-qui considère l'enseignement comme un suicide professionnel. Un vide
-réglementaire apparaît dans la pratique du métier lui-même.
-Depuis 1985, le Syndicat National des Guides de Montagnes (SNGM) élabore
-des recommandations professionnelles, explicite les droits et les devoirs vis à vis de
-la clientèle. On change de paradigme. L'obéissance à un règlement est abandonnée
-au profit d'une responsabilité vis à vis d'une déontologie, suivant une évolution déjà
-présente dans d'autres pays. La relation guide - client évolue à l'avenant : du
-paternalisme bourgeois hérité de la IIIème République vers la notion de contrat. Le
-guide devient un prestataire de service.219 Le client tend à ne plus être que le fairevaloir maladroit du guide talentueux.
-En 1986 est créé le monitorat d'escalade, entérinant le saucissonnage de la
-profession. En 1996, une qualification obligatoire est requise pour encadrer l'activité
-de canyoning (qui deviendra DE autonome en 2010). Les prérogatives concernant le
-ski de montagne et le ski hors-piste sont disputées avec la profession des moniteurs
-de ski, à laquelle est laissée l'activité d'enseignement tandis que les guides
-revendiquent la connaissance du risque. Ces chamailleries aboutissent à des situations
-cocasses comme le droit des guides à orienter des clients sur des pistes de ski par
-temps de brouillard tout en leur contestant le droit d'enseigner le ski sur ces mêmes
-pistes par temps clair. Cette concurrence obligent les guides à se préoccuper de
-marketing. De prestataires de services, ils mutent encore en vendeur de produit. Il
-s'agit d'élaborer puis de vendre un produit fini alléchant : séjour d'escalade au WadiRum, stage cascade en Écosse, fissures de l'Utah. Le client devient passif, ignorant
-des enjeux comme de la culture montagnarde. Il consomme.
-Dès 2005, le SNGM sonne l'alarme. L'accidentologie de la profession est
-mise en cause, particulièrement vis à vis des voisins européens. En 2015, une étude
-confirmera le diagnostic en montrant un taux de décès de 4,13 décès/an pour 1000
-guides français, face à un taux de 0,57 décès/an pour 1000 guides suisses 220. Le
-SNGM déclare que l'ENSA est incapable de former correctement des stagiaires,
-déplore la sportivisation du métier, des enseignants trop élitistes connaissant mal la
-219 La formation des guides de haute-montagne depuis 1948, Mathieu Martinez, août 2014, mémoire pour le Master
-ITER, Université Joseph Fourier, Grenoble.
-220 Accidents des guides de haute-montagne français de 2003 à 2013, Romain Ferlay, Cécile Radiguet de la Bastaie,
-thèse de doctorat en médecine, 2015 <dumas-01163777>.
-
-243
-
-pratique car souvent recrutés dès l'examen de guide parmi les majors des promotions.
-L'ENSA n'est plus vue que comme une fabrique de sportifs de haut niveau. Le SNGM
-souhaite une harmonisation de la formation avec celle des pays voisins. Le Ministère
-en prend également pour son grade, dénoncé comme trop attaché à une symbolique
-d'élitisme. Bruno Pellicier, président du syndicat de 2002 à 2006, assène :
-« Finalement, l'ENSA, son rôle, c'est l'excellence technique, point. »221
-Devant la charge, l'ENSA s'interroge sur sa part de responsabilité. N'a-t-elle pas
-trop mis l'accent sur le haut niveau et sur la valorisation de l'engagement en
-montagne ? Tout ceci aboutit en 2007 à une réorientation de la formation vers la
-gestion du risque, et à une professionnalisation - i.e. un rapprochement avec les
-exigences réelles du métier- des stagiaires.
-En 2010 apparaît une refonte du recrutement et de l'enseignement, qui peut se
-comprendre en quatre volets :
-– La gestuelle technique n'est plus le seul critère de sélection. Face à l'afflux
-de stagiaires aussi fortiches en escalade qu'ignares concernant les choses de
-la montagne et dont seul un tiers provient actuellement de zones de
-montagnes (Pour Charles Daubas, ancien de l'EMHM, « Desmaison, y en a
-plus un qui connaît maintenant ».), la notion de sens de la montagne
-apparaît à travers la gestion d'une course de montagne. Le pied montagnard
-et la culture montagnarde sont remis à l'honneur.
-– La période où l'aspirant-guide devait justifier d'une pratique autonome avec
-client disparaît du cursus au profit d'un tutorat auprès d'un professionnel en
-exercice. Cette modification, imposée par le syndicat, n'a pas été facilement
-intégrée par la profession. Nous reconnaissons personnellement une
-tendance générale des pouvoirs publics à imposer ce genre de période
-probatoire accompagnée par les pairs dans d'autres professions, puisqu'elle
-fait également son entrée en chirurgie dentaire.
-– La gestion du risque prend une place centrale dans l'enseignement. Un
-stage de cascade de glace est rendu obligatoire, cette activité étant jugée
-comme exemplaire pour servir de support pédagogique à ce nouveau thème.
-Pour Alain Ghersen, il s'agit presque d'introduire une note
-comportementale.222
-– La professionnalisation des individus est l'objectif ultime à travers le
-triptyque classique d'autres métiers : 1/ Expertise spécifique
-scientifiquement et techniquement fondée. 2/ Autonomie, permise par une
-formation longue et approfondie. 3/ Responsabilité, impliquant un contrôle
-des acquis et de la pratique par les pairs.
-Voici en quelques lignes où en sont les louables efforts de cette drôle de
-profession dont l'impossible gageure consiste à vendre à la fois l'aventure et l'absence
-de risque.
-221 Op. cit., Mathieu Martinez, p.243.
-222 Ibid.
-
-244
-
-Sur le terrain
-Le premier constat est que la profession jouit d'une assez bonne réputation chez
-le grand public qui ne met pas les pieds en haute-montagne. Elle est perçue comme
-une guilde assez fermée de gens plutôt sérieux et courageux. Une abondante
-littérature laudative a bien sûr aidé à construire un mythe de héros invincible doté de
-qualités physiques et morales exceptionnelles, un peu frustre mais taillé directement
-dans le solide granit des montagnes. Le panégyrique ayant été essentiellement écrit
-par la profession elle-même, les Rébuffat, Terray, Bonatti, Desmaison, on peut douter
-sans être taxer de totale perfidie de son parfait équilibre... Pour le moins, l'opinion
-générale apparaît beaucoup plus contrastée parmi les alpinistes eux-mêmes.
-Car ceux-ci semblent avoir un point de vue, si peu pertinent puisqu'ils ont
-affaire, chaque été, et chaque hiver, très concrètement, à une gent dont une portion
-exagérée croise leur trace sans un bonjour et s'invite à leurs relais à coups d'épaule.
-Curieusement, l'alpiniste de sport, du bas de sa condition depuis que Monsieur
-l'Alpiniste de Métier juge avoir pris du grade, élève une objection.
-Voici les faits : Les amateurs ont fatalement connu en chair et en os un ou deux
-guides qui ont assisté à leur initiation ou encadré des stages de glace, de neige ou de
-rocher. Ces guides sont la plupart du temps devenus des amis et notre dilettante est
-heureux de les rencontrer au hasard d'une escalade ou d'une file d'attente de remontée
-mécanique pour échanger sur les dernières courses, montrer les progrès accomplis
-depuis les premières années tandis que le professionnel ne se faisant plus tout jeune
-se félicite d'avoir su jouer son rôle de passeur.
-Toutefois, les rencontres sur le caillou faites avec l'aimable corporation se font
-dans une agressivité devenue banale, et chacun finit par collectionner une
-impressionnante série d'anecdotes affligeantes, allant de la simple rivalité à la
-véritable rixe : moquerie, malveillance verbale, dépassement discourtois voire
-dangereux, au contraire obstruction à un dépassement inoffensif, accaparement de la
-totalité d'un rocher école ou d'une cascade de glace d'initiation par la pose de
-nombreuses moulinettes et expulsion sous la menace d'un poing levé d'une autre
-cordée sollicitant un espace pour grimper (vu à La Grave), enlèvement d'un relais de
-sangle coiffant un becquet en cours d'utilisation pour y placer son propre relais (vu à
-la Chapelle de la Glière), descente en rappel sur une corde posée dans le même
-maillon que la cordée précédente qui n'a pas encore rappelé sa propre corde (vu au
-Grépon), hurlements à l'encontre de cordées situées en amont, sous prétexte de
-recevoir quelques débris de neige, alors que l'homme de l'art vient de précipiter sa
-propre équipe dans la descente de la pente raide précisément sous ces cordées déjà
-présentes (vu à l'aiguille d'Argentière), destruction des cairns puis invectives contre
-les cordées égarées dans la nuit traversant trop haut et menaçant de faire tomber des
-pierres (vu dans l'accès à la traversée du Pelvoux), sans compter les frontales éteintes
-sur un glacier pour égarer les suiveurs (un classique), cet animal jouant des coudes
-sur la vire d'attaque de la Dent du Géant tandis que de nombreuses cordées attendent
-stoïquement leur tour dans la bise, et autres mesquineries indignes d'une profession
-245
-
-honorable. Fait notable, l'exploit de la Dente del Gigante, intervenu l'été 2016,
-souleva l'indignation d'un montagnard italien âgé apparemment emmené par son fils :
-« Ah vous les guides, c'est toujours pareil, il faut que vous doubliez tout le monde ! Je suis guide, aboie l'infâme en guise de passe-droit. - Ah vous êtes guide ! Moi aussi
-je suis guide, et je reste derrière ! » Il s'agissait en réalité d'un sympathique guide
-italien à la retraite, encore affûté, qui formait son fils à sa future profession et qui
-partageait, pour notre plus grand plaisir, notre façon d'apprécier la fatigante coterie. A
-l'évidence, une manière de sélection darwinienne d'un profil psychologique
-particulièrement lourd s'était insidieusement imposée dans le cursus de l'ENSA au
-corps défendant de l'équipe enseignante... La Paramount 223 eut visiblement vent du
-phénomène dès 1951 puisqu'elle mit Popeye à la montagne aux prises avec le guide
-Bluto - « World Famous Mountain Guide, he never lets you down » affirme son
-enseigne - l'affreux allant jusqu'à s'emparer de la belle Olive en sectionnant la corde.
-Popeye ne doit son salut qu'au sauvetage d'un saint-bernard qui lui donne à manger
-des épinards, c'est dire...
-L'amateur accumulant ces navrantes historiettes finit par se convaincre que le
-principal danger objectif en haute-montagne n'est pas la chute des pierres mais bien
-la rencontre inopinée avec ce genre de prolétaire convaincu qu'il est écrit sur son
-écusson Roi de la Montagne, et se croyant autorisé à délivrer des injonctions à des
-cordées autonomes qu'il imagine sous ses ordres.
-Le retour d'expérience d'autres caravanes font penser que ces exactions sont
-rarement le fait du guide passionné à la fois alpiniste amateur de talent, mais qu'elles
-signent au contraire la rancœur d'individus, pas forcément âgés au contraire de ce
-qu'on pourrait croire, aigris précocement par un métier qui ne leur apporte aucune
-satisfaction, s'abîmant à livrer un colis en haut d'une pente, puis le redescendant,
-méprisant dans le même élan le client du jour comme le dilettante venu ici pour son
-plaisir qu'il voudrait bien voir déguerpir de ce massif qui n'est plus que son lieu de
-travail abhorré.
-Les amoureux de la haute-montagne seraient très reconnaissants à l'ENSA de
-prendre ce sujet à bras le corps plutôt que le nier dans un paresseux confort
-intellectuel.
-Le saucissonnage du métier et son obligation de trouver des activités annexes
-aussi épanouissantes que le canyoning, le ski-guiding, l’accrobranche ou la
-contemplation des petites fleurs (l'AMM...) devrait conduire à ménager l'immense
-vivier bêtement ignoré de clientèle potentielle que représentent les alpinistes
-amateurs autonomes pour des stages de perfectionnement de toute nature. Il suffit de
-rappeler les paroles de Jean Coste pour comprendre le grand intérêt pour un
-professionnel de se doter de cette espèce de client : « Je veux être un excellent élève
-parce que j'ai hâte d'être un Sans-guide. »224 Pour Pierre Mathey, président de
-l'Association suisse des guides de montagne, le différentiel de l'accidentologie des
-223 Alpine for you, Popeye the sailor, dirigé par I.Sparber, 1951, Paramount.
-224 Op. cit., Jean Coste, p.11.
-
-246
-
-professionnels des deux pays pourrait trouver son explication dans une clientèle
-plutôt privée en Suisse, plutôt « collective » en France, et par une culture du risque
-différente, moins axée sur la performance, davantage centrée sur le client.225 Faut-il
-comprendre que les guides suisses avaient fait tout leur possible pour séduire les Jean
-Coste quand leurs collègues hexagonaux avaient fait le maximum pour être honnis ?
-Quand les rapports qui informent que la profession végète et ne peut, en tout état de
-cause vivre exclusivement de son métier (une activité d'alpinisme durant en moyenne
-65 jours par an dans les Hautes-Alpes et générant un chiffre d'affaire annuel, et non
-un revenu, de 18200€ par an226), se succèdent, et plutôt que d'en vouloir à la terre
-entière, il serait peut être temps de revoir sa copie en profondeur. La profession de
-guide va très mal, et son agressivité habituelle sur le terrain en est le témoin le plus
-patent. Des gens épanouis ne se comportent pas de cette manière.
-L'éternelle proposition
-En préalable de sa prise de conscience, le professionnel peut admettre que le
-fait de tirer une rémunération de sa pratique n'apporte en aucune façon un supplément
-de légitimité à sa présence en haute-montagne. Premier effort manifestement coûteux
-pour certaines brutes rencontrées.
-Ensuite, il est temps, presque un siècle et demi après que Mummery ait
-définitivement montré que l'alpinisme ne peut se pratiquer dans toute sa vérité que
-sans guide, que la profession s'oriente totalement vers l'enseignement. C'est à dire,
-concrètement, que les ascensions ne représentent plus l'essentiel de l'activité, et
-qu'elles ne soient comprises que comme de simples supports pédagogiques pour
-délivrer une leçon d'alpinisme. Le sommet serait parfaitement facultatif tandis que
-l'existence bien réelle du contenu de la leçon ne le serait pas. En somme, les
-enseignants de l'ENSA formeraient des enseignants, ce qui n'a rien d'extraordinaire.
-Déjà en 1904, le Manuel d'Alpinisme du CAF227 voyait les choses ainsi :
-« Étant donné qu'il n'est pas d'école pour apprendre le sport alpin, que les guides
-eux-mêmes ne sont pas encore des professeurs, comme il en va des professionnels
-des autres sports (souligné par nous), celui qui désire faire des courses sans guide
-devra s'armer lui-même de toutes pièces et exceller dans toutes les branches de ce
-manuel. »
-En 1928, Alfred Couttet et Roger Frison-Roche ramenèrent pitons et
-mousquetons des Dolomites et nettoyèrent puis équipèrent le rocher des Gaillands à
-Chamonix pour en faire un rocher école. En 1935, à son retour du Hoggar, FrisonRoche, guide depuis 5 années, se mit en tête d'aller plus loin et de créer une véritable
-école qui dispenserait un enseignement complet des techniques d'alpinisme aux
-vacanciers. Il avait pris soin d'organiser son projet en impliquant le bureau des guides
-et en les engageant au tarif officiel, et l'école eut immédiatement beaucoup de succès.
-225 Op. cit., Romain Ferlay et Cécile Radiguet de la Bastaie, p.243.
-226 Le marché et l'impact socio-économique de l'alpinisme dans les Hautes-Alpes, JED, Conseil Général des HautesAlpes, 2013.
-227 Op. cit., C.A.F., p.7.
-
-247
-
-On y enseignait non seulement le rocher mais les rappels sur champignons de glace,
-le sauvetage, l'assurance, la conduite d'une course. Mais c'était sans compter les
-esprits butés : « La querelle entre guides et sans guides n'était pas encore apaisée ;
-les vieux se souvenaient d'une époque où ils étaient les seuls rois de la montagne.
-Que je forme des élèves sachant se débrouiller tout seuls par la suite leur paraissait
-dangereux.
-- Tu formes des futurs sans-guides, me reprochait-on. Tu vas ruiner
-notre profession !
-« Un jour de fin août, comme je revenais de course, je trouvai le secrétaire de
-l'école penaud et désemparé. Certains guides s'étaient emparés de force de ses
-papiers et l'avaient proprement jeté à la porte de son bureau.
-« Ainsi se termina cette expérience. Elle n'avait eu qu'un tort ; être en avance
-d'une vingtaine d'année ! »228
-L'épouse de Frison-Roche lui répétait qu'il avait un heureux caractère... ce dont
-il avait du reste fait la démonstration éclatante lors de son bizutage par les frères
-Charlet en 1925229. Autrement, il eût écrit en avance d'un siècle !
-Faut-il que cette profession se complaise dans l'entêtement pour que le
-volontarisme d'un Pierre Mazeaud230 n'ait pas suffi pour faire lâcher le vieux chanvre
-arrimé à l'épaisse taille du client et qu'on devienne enfin l'éducateur sportif adulte de
-la modernité, tel le moniteur de ski ou celui d'escalade ! A-t-on vu un nageur nager
-soutenu indéfiniment par la perche de son moniteur de natation ? Voit-on un
-parapentiste voler en éternel biplace avec son moniteur de parapente ?
-En 1977, Sylvain Jouty avait été très explicite : « Le guide, en prenant en
-charge tout l'effort moral et psychologique que demande une ascension, dénature
-celle-ci. (…) Il est pourtant certains guides qui pensent que leur métier devrait
-consister, paradoxalement, à apprendre à leurs clients à se passer de guides. C'est là
-une conception saine de ce métier. (…) Le rôle des guides devrait être aujourd'hui
-essentiellement pédagogique. »231
-Nous savons que les guides se sentiraient déshonorés si leur médaille de guide
-de haute-montagne leur était dégrafée au profit de celle de moniteur d'alpinisme au
-prétexte qu'ils seraient davantage que de simples moniteurs mais des passeurs - ce
-qui est vrai - c'est à dire celui qui permet de franchir une frontière, celle de la hautemontagne, comme celui qui relie avec les générations qui nous ont précédés en ces
-lieux. Qu'à cela ne tienne ! Conservez la médaille et changez la pratique.
-Le critérium retenu pour la profession mériterait un bouleversement plus
-radical que la timide introduction du sens montagnard. La compétition acharnée à
-l'excellence gestuelle ne retient en définitive que les plus batailleurs à supplanter
-leurs concurrents, la montagne se voyant privée de ses meilleurs soupirants. Ceux-ci,
-compétents mais tranquilles et las de cette guerre du probatoire, s'en vont vers
-d'autres cieux à l'exemple de ce qui s'était passé en voile, lorsque le navigateur Gilles
-228 Op. Cit., Roger Frison-Roche, p.10.
-229 Vocation alpine, Armand Charlet, éditions Hoëbeke, 1998. Édition originale 1949.
-230 Loi 75-988 du 29 octobre 1975.
-231 Op. cit., Sylvain Jouty, p.145.
-
-248
-
-Barbanson s'était détourné de la solitaire du Figaro après deux participations quand
-les compétiteurs s'étaient mis à mouiller voiles et cordages avant la pesée de leur
-bateau. De même que l'obtention de la médaille Fields n'est d'aucune garantie pour
-faire un bon professeur de mathématiques, les qualités requises pour retenir un
-enseignant de montagne sont davantage l'étendue des connaissances, l'exactitude, la
-rigueur, la maîtrise de soi, la pédagogie, la fiabilité morale, la patience, la
-bienveillance, que sa capacité à produire des horaires de courses spectaculaires ou à
-tenir les verrous de doigts. Craindre reproduire la situation d'il y a quelques années où
-le client skiait plus brillamment que le guide qui l'emmenait dans la poudre aurait
-d'autant moins de sens que la qualité d'un alpiniste ne se réduit pas à son niveau
-d'escalade, et que surtout, il ne s'agirait plus d'emmener quelqu'un quelque part, mais
-de lui transmettre quelque chose qu'il n'a pas : une connaissance. Transmission
-d'autant plus pertinente que l'expertise de la profession s'appuie dorénavant de plus
-en plus sur une base technologique et scientifique. Les études menées par le
-laboratoire de l'ENSA sous l'égide de Philippe Batoux en témoignent régulièrement.
-Les prétentions à un alpinisme basé sur des preuves scientifiques ne datent
-cependant pas d'hier. Casella* écrivait en 1913 : « Ce qui caractérise l’œuvre des
-Clubs Alpins durant ces dernières années, c'est qu'elle a transformé l'alpinisme
-en un sport scientifique. Je veux dire que les clubs se sont efforcés de déterminer
-d'une manière définitive les règles d'une technique très complexe. C'était là une
-tâche utile et qui diminuera peut être le nombre des accidents. » On appréciera le
-terme « définitive » pour mieux comprendre que notre pratique d'aujourd'hui sera
-sans doute jugée très sévèrement dans un siècle. Il est probable que l'homme
-tailleur de silex du paléolithique devait aussi penser avoir établi les règles
-définitives et scientifiques de la technique de la chasse...
-* Op.cit., Georges Casella, p.160.
-
-Le client disparaîtrait donc définitivement dans les oubliettes de l'histoire
-alpine comme une chose obsolète et abstruse et serait remplacé par l'élève, c'est à dire
-celui qu'on élève non en tirant sur la corde mais en transmettant un savoir. Chemin
-inverse de celui vilipendé par Régis Debray qui craint « une école qui reproduirait les
-vices et les automatismes du monde extérieur : zapping, surfing, cocooning,
-packaging, marketing, et qui ferait de l'élève un client ».232 Le client, bien identifié
-par le philosophe comme le degré zéro de l'apprentissage, qu'on est donc autorisé à
-éradiquer sans la moindre nostalgie. Alors seulement les guides pourront-ils
-s'épanouir – ce qui visiblement leur est actuellement difficile - , comme tout
-enseignant digne de ce nom, à être fiers du parcours de leurs élèves, comblés bien
-entendu quand ceux-ci les dépasseront. Alors seulement pourront-ils continuer
-d'exercer sans risque excessif, physique mais aussi malheureusement judiciaire,
-malgré le nombre des années. Alors seulement la profession entière aura-t-elle un
-avenir, et pourra notamment s'ouvrir davantage au femmes réduites à la portion
-232 Intervention sur France-Inter le 28 avril 2015.
-
-249
-
-congrue : Martine Rolland, première guide en 1983, 4 femmes guides jusque 1995,
-10 femmes en 2005, 18 femmes en 2014. Pas étonnant que nous nous fracassions
-contre cette phalange de machos...
-De nombreux professionnels ont évidemment déjà compris cette évolution
-inéluctable de leur métier. Ils proposent des stages de perfectionnement où l'on
-apprend comment aller là-haut tout seul ou participent à l'enseignement alpin du CAF
-ou d'autres structures. Certains écrivent des ouvrages décrivant avec précision des
-courses sélectionnées agrémentés de nombreux conseils techniques. Bruno Gardent,
-dans sa précieuse lettre à sa cousine publiée sur le site des guides de la Grave,
-explique en détail le matériel à emporter et la façon de s'assurer correctement dans la
-traversée de la Meije pour une cordée autonome. Des « écoles » d'alpinisme
-fleurissent ici ou là. L'ENSA a publié deux manuels techniques où il n'est question
-que d'alpinisme autonome. Nous savons que la profession a déjà théorisé depuis
-longtemps le fait que le guide n'est plus seulement celui qui va devant, mais qu'il est
-aussi derrière (pour rassembler) et au milieu (pour conseiller). 233 Ceux-là ne tiennent
-pas les montagnes avec une fièvre obsidionale et sont à féliciter.
-Quitte à vous arracher les derniers cheveux, un peu de mauvais esprit, cette
-méchanceté allégée en malice selon le mot de l'ancien guévariste (Régis Debray) :
-une cordée formée d'un guide et de son client ne pratiquent cette activité humaine
-qu'on appelle alpinisme qu'à deux conditions :
-1/ Le guide ne connaît pas la course d'alpinisme du jour, et doit donc répondre
-à toutes les questions que pose la montagne, que ce soit en termes d'itinéraire, de
-conditions, de difficulté, d'assurage ;
-2/ Le client possède une expérience de la haute-montagne suffisante pour avoir
-été capable d'assumer le risque de la course en toute connaissance de cause. C'est ce
-consentement éclairé du malade, comme on dit en médecine, qui est le plus souvent
-impossible à obtenir de façon loyale (ce qu'exige le Droit234) de la part d'un touriste
-attiré par une course dont il a entendu parlé mais sourd à comprendre qu'il pourrait
-bien mourir là-haut ou en revenir diminué.
-Ces deux conditions sont rarement réunies, de sorte que ni l'un ni l'autre ne
-pratiquent à cette occasion l'alpinisme. C'est autre chose : un guide emmène un client
-faire une ascension en haute-montagne, tout simplement. On n'y trouve pas les
-ingrédients principaux de la recette qui fait l'alpinisme, à savoir l'incertitude et le
-risque assumé. Ils ne sont pas des épices facultatives dont l'absence rend simplement
-le plat moins bon. Le lecteur a fini par admettre depuis que l'auteur le rabâche qu'ils
-sont, mieux que l'exercice musculaire ou pulmonaire, l'essence même de la pratique
-233 Paulo Grobel en 1990, cité par Bourdeau, op. cit., p.242.
-234 Cette exigence d'information est cependant loin d'être suffisante. Frédéric Caille explique que l'exercice
-professionnel du guide ne s'affranchit pas du droit commun qui implique : 1/ une obligation de moyen en matière de
-sécurité, qui devient une obligation de résultat quand il s'agit de milieux sécurisés (piste de ski, écoles d'escalade, via
-ferrata, etc.) ; 2/ le rejet systématique de la notion d'acceptation de risque dès lors qu'un contrat commercial est
-conclu. (Le guide comme professionnel de l'alpinisme : perceptions et enjeux du traitement judiciaire de la
-responsabilité dans le domaine des sports de montagne, dans Deux siècles d'alpinismes européens, Olivier Hoibian
-et Jacques Defrance (dir.), éditions de l'Harmattan, 2002.)
-
-250
-
-de l'alpinisme. Ils ne peuvent être ici présents, que l'on suive un mentor ou que l'on
-répète pour la énième fois une course dont on connaît chaque détail et ce dans des
-conditions variées.
-Il ne s'agit pas de dénier le qualificatif d'alpiniste à ces professionnels et à leurs
-clients, ce serait caricaturer le propos. Ce serait commettre l'erreur, commune à notre
-époque où l'esprit épais de l'éditorialiste contagionne la société entière, de réifier
-l'homme. Pour illustration, aucun tribunal ne poursuit qui que ce soit pour être un
-meurtrier ou un assassin, pourtant désignés comme tels par la presse. Telle personne
-est condamnée pour avoir commis un meurtre ou un assassinat tel jour et à telle
-heure, ce qui n'est pas du tout la même chose. On n'essentialise pas l'individu, c'est à
-dire qu'on ne le réduit pas à ce qu'il a fait tel jour et à telle heure. Ainsi, rien
-n'empêche le professionnel, comme le client, de pratiquer chacun de son côté
-l'alpinisme comme n'importe qui d'autre. C'est bien entendu le cas de nombreux
-guides, qui dès leur saison terminée, s'empressent de tenter à la fin de l'été ou à
-l'automne des courses souvent difficiles. Et c'est parce qu'ils comprennent ici
-parfaitement les valeurs d'engagement qu'ils éprouvent secrètement dans leur métier
-cette frustration de devoir vendre l'oxymore d'une aventure sans danger.
-Les amateurs ne font pas autant d'effort pour se hisser si haut dans le but de
-rencontrer un chamailleur. Nous pensons que la façon la plus heureuse de partager la
-montagne est de comprendre définitivement que le métier de guide et la pratique de
-l'alpinisme sont deux activités très distinctes et que cette évidence soit enseignée aux
-stagiaires. C'est cette prise de conscience qui permettra aux uns et aux autres de
-comprendre les enjeux de la pratique opposée. Il est normal qu'une cordée amateur se
-perde dans un terrain qu'elle ne connaît pas, puisqu'il s'agit du but même de
-l'alpinisme. Se perdre pour se retrouver. Finir par surmonter des difficultés, et non
-que ces difficultés n'existent pas. Mais il est normal aussi qu'un guide ne puisse pas
-assumer pour son client du jour, lié à lui par un contrat, le moindre risque. Il craindra
-davantage les chutes de pierres, les avalanches, les séracs, parce que le client n'est pas
-venu ici pour mourir et que la fameuse obligation de moyens se transforme in vivo en
-obligation de résultat ou y ressemble beaucoup, dès qu'il s'agit d'accident.
-Nous voulons croire que les derniers fâcheux corporatistes feront bientôt partie
-du passé, que la mutation du guide en enseignant d'alpinisme, mais, grand Dieu,
-conservant son nom idéalisé, va nécessairement se poursuivre, et que les rencontres
-des cimes ne se produiront plus qu'avec des personnages bonhommes, aimant
-davantage la montagne qu'eux-mêmes, à la mine réjouie, aux manières aimables et à
-la patience infinie.
-**
-
-251
-
-Chapitre 14 : Nouvelle saison
-« Il était mondain à Londres et à Paris, puis se refaisait à la campagne. »
-Maurice Barrès235
-Les ouvrages de body-building recommandent d'aménager des cycles
-d'entraînement pour la bonne raison que personne n'est capable de soutenir
-infiniment une intensité croissante d'exercices. Après l'interruption annuelle qui
-correspond aux vacances d'été, les culturistes sont invités a manier des poids
-inhabituellement légers en regard de leurs capacités, et surtout pas les charges
-soulevées en fin de cycle sous peine de blessures. On reprend les exercices de base
-avec balancier pour stimuler de nouveau l'organisme entier. Il s'agit de remettre la
-machine en route. Dans le même temps, on se nourrit mieux et on s'endort plus tôt.
-Pour le citadin qui envisage sa nouvelle saison d'alpinisme, l'été dernier est
-déjà loin. On a certes entretenu le foncier avec plus ou moins de rigueur par le
-footing, on a continué de grimper à la salle et sur des sites d'escalade. Mais l'aisance
-formidable acquise à la fin de l'été dans des terrains variés, arêtes effilées,
-désescalades de cailloux branlants, pentes de neige pourrie, a toute chance de s'être
-envolée malgré les belles descentes à ski de l'hiver.
-On reste modeste, on reprend tout à zéro. C'est à dire pour commencer par
-l'arme numéro un pour redevenir le montagnard qu'on était : le bivouac. On ira
-planter la tente là-haut, vers 2700m, près d'un glacier. On tracera dans la neige le
-premier sommet de la saison en se méfiant des dernières coulées qui vont purger les
-pentes surchargées. Seuls dans cette course facile, vers ce sommet peu fréquenté, il
-n'est pas si aisé de suivre l'itinéraire. Puis la pente raide qui grimpe à l'arête
-sommitale encore bien enneigée, un peu instable, ne nous fait pas du tout regretter
-d'avoir été humble dans le choix de notre objectif. Il faut le reconnaître, on n'en mène
-pas très large maintenant sur l'arête vertigineuse, on a hâte que le sommet arrive. On
-235 Op. cit, Maurice Barrès, p.3.
-
-252
-
-se serait cru plus à l'aise.
-Il est normal de se trouver gauche en parcours d'arête, surtout à la descente,
-quand on ne grimpe que des murs à longueur d'année. Il manque le guidon. Une paire
-de courses de cet acabit, et tout va revenir très vite. De la même façon que les
-muscles du body-builder reprennent rapidement la route des poids lourds, l'équilibre
-que vous aviez acquis l'année dernière va réapparaître.
-Il faudra ensuite se stimuler pour cette nouvelle saison. On pensera avec le
-sociologue Rodolphe Christin236 que le tourisme - nouvelle aliénation du travailleur
-jouant à se croire rentier le temps de la consommation d'un circuit pensé par une
-ingénierie sociale - est le renouvellement d'un divertissement standardisé, tandis que
-le voyage - aventure émancipatrice - est un prototype à la rencontre de la diversité.
-On épluchera les topos avec soin pour dénicher quelques courses loin des foules,
-comme la petite voie Paquet au Gioberney ou la voie Jonot à la Tête de Lauranoure.
-Les objectifs seront ambitieux mais réalistes, tenant compte notamment des dates de
-vacances. Si celles-ci commencent début août, nul besoin de fantasmer sur le couloir
-Whymper à l'aiguille Verte. Si on arrive plus tôt, on mettra en priorité de programme
-ce genre de courses de neige avant de ne plus pouvoir les faire. On guettera ensuite
-pour les courses de rocher le bon moment pour trouver un caillou sec puis on
-surveillera l'ouverture des rotures et autres rimayes.
-On peut choisir de découvrir un nouveau massif. Rencontrer les fameuses
-fissures chamoniardes est le dépaysement garanti pour l'arpenteur de l'Oisans. On
-reste ici encore modeste sur les cotations. Inversement, le Savoyard malhabile dans le
-mauvais rocher ferait bien d'envisager un séjour au pays du père Gaspard avant de
-projeter l'ascension du Cervin.
-Puis on rêve d'une grande course. Elle se concrétisera cette année ou l'année
-prochaine, mais on va dès maintenant réaliser l'approche, le repérage du socle, et
-l'ascension de la voie normale qui est la voie de retour. Un bel objectif. On soignera
-la stratégie pour obtenir une acclimatation à l'altitude ad hoc pour pas trop cher, des
-courses préparatoires assez hautes et deux nuits au moins à plus de 3000 m. Concilier
-ceci avec les conditions optimales, le créneau météo, et les dates des vacances, ce
-sera un nouveau casse-tête réjouissant.
-Par contre, on tâchera de ne pas chercher à se faire peur à chaque fois qu'on
-met les pieds en altitude. Livanos disait que « les grandes audaces font les petites
-carrières »237. Il n'est pas nécessaire de le comprendre dans sa version dramatique. Si
-le stress est le compagnon habituel que vous emmenez en montagne, l'envie d'y
-retourner vous quittera très vite. Les amateurs qui pratiquent encore après vingt ou
-trente années cultivent essentiellement un alpinisme de loisir, agrémenté seulement
-de temps à autre par un petit défi. Et pas chaque année, loin s'en faut. Un coureur ne
-236 Intervention à la conférence Ultra-sieste : Quel sport ? Dans quelle montagne ? Pour quel tourisme ? Rodolphe
-Christin, Les Houches, 28 août 2010.
-237 Op. cit., Georges Livanos, p.23.
-
-253
-
-réalise un marathon que de façon exceptionnelle. L'ordinaire d'un plaisancier n'est
-pas le gros temps mais un vent de demoiselle. Bien sûr, les récits qu'ont tendance à
-raconter les alpinistes sont émaillés d'aventures toutes plus extraordinaires les unes
-que les autres, mais ils sélectionnent les plus piquantes. Et penser au dessin de
-Samivel « Leur première : Comment ils la font... et comment ils la racontent. »238
-L'habituelle pratique est beaucoup plus proche de l'hédonisme des falaises
-ensoleillées qu'on ne le croit. La plupart des courses réalisées, si elles ne sont tout de
-même pas d'aimables promenades au risque nul, ne sont pas non plus des expéditions
-guerrières à réussir mort ou vif. Ne renoncez pas aux voies normales même après
-plusieurs années de pratique. Être teigneux avec soi-même revient à être très mal
-accompagné. Étrange ego qui forcerait à se faire peur. Si de très minuscules alarmes
-renforcent le moral, les grandes peurs au contraire le fragilisent. Fuyez-les comme la
-peste. Une épouvante est la meilleure façon de casser un homme. Les alpinistes âgés
-sont des gens qui ne se détestent point, se savent très bien accompagnés par euxmêmes, c'est à dire par un être bienveillant qui n'ira pas les mettre dans des situations
-stressantes. Le secret de la longévité, identique à celle des vieux artistes martiaux, est
-sans doute ici. Si vous appréhendez chaque sortie d'escalade, chaque grande voie,
-chaque cascade de glace, chaque course d'alpinisme, commencez par redevenir l'ami
-de vous-même que vous étiez239, et décidez de façon définitive que vous ne vous ferez
-plus aucun coup tordu en escalade et en montagne. Cela peut commencer, pourquoi
-pas, par la confection d'une petite perche pour mousquetonner à distance...
-Après quelques saisons, le paysage impersonnel des cimes s'est transformé.
-Vous avez été là-haut telle année, puis sur ce sommet-ci telle autre. Il n'est plus
-possible devant ces pics familiers qui réveillent tant de souvenirs de rester indifférent.
-Plus possible de promener la neurasthénie du jeune touriste de Rouff installé à la
-terrasse de Combloux face à la beauté de la chaîne du Mont-Blanc, qui, tandis que
-« le soleil en déclinant l'inondait d'une sorte de pâleur dorée » et qu'un « incendie
-dévorait les arêtes et les sommets », après « une longue conférence avec le maître
-d'hôtel (…) revint vers sa compagne et d'un geste nonchalant montrant cette magie
-divine, (…) laissa tomber ces mots : Il paraît que la curiosité de l'endroit, c'est
-ça. »240
-____________________________________________________________
-Quelques questions à ma compagne, qui pratique l'alpinisme sans guide
-depuis 24 années.
-Quelle est ta définition de l'alpinisme ?
-Je n'en ai pas. Cela ne m'intéresse pas. Par esprit scientifique, je dirais, grimper
-ou se promener dans les Alpes.
-238 Sous l’œil des choucas, Samivel, éditions Delagrave, 1948.
-239 Lire à ce sujet la belle lettre de Jacques Lagarde à Lucien Devies, op. cit., Olivier Hoibian, p.23.
-240 Op. cit., Marcel Rouff, p.14.
-
-254
-
-Quel est pour toi l'intérêt de pratiquer l'alpinisme ?
-Retrouver les vraies valeurs, remettre les pendules à l'heure. Quand on revient
-de course, on sait que l'eau chaude est plus importante que le dernier modèle de
-montre à la mode.
-Quelle est ta course la plus belle ?
-Une des dernières, la traversée du Cervin. Aussi la voie normale du Pic Bayle
-ce début de saison avec plein de neige. En remontant dans mes souvenirs, la voie
-Paquet au Gioberney car c'est une course courte et complète. Une course variée en
-miniature. Par contre au départ d'un refuge...
-Quel programme vois-tu pour les prochaines années ?
-Je ne le vois pas. Une belle photo, une envie d'y aller. Pas de projet précis.
-As-tu un conseil à donner à ceux qui débutent ?
-Choisir une belle montagne pour avoir envie d'y aller. Et un truc assez court
-pour qu'ils aient envie d'y retourner. Et bien choisir le compagnon de cordée aussi,
-pour ne pas se crier dessus toute la journée.
-As-tu un conseil à donner aux femmes qui vont faire de l'alpinisme ?
-Ne pas se laisser dissuader par son copain de passer en tête parce qu'il a peur
-pour vous. Du genre : « Tu es sûre, bien sûre, sûre sûre sûre, que tu vas y arriver ? »
-Le mot de la fin ?
-Une course réussie, c'est une course avec un bon bivouac avec de l'eau. On
-peut s'organiser comme on a envie. C'est la liberté. Et ce peut être réussi sans aller au
-sommet si on a fait la retraite au bon moment.
-
-**
-
-255
-
-Conclusion
-« Pour parler franc, là entre nous, je finis encore plus mal que j'ai
-commencé... » Céline241.
-La pratique de l'alpinisme consiste en définitive à vivre une petite ou une
-grande aventure en haute-montagne.
-Le randonneur a depuis longtemps apprivoisé la moyenne montagne. Il sait
-remplir sa gourde en amont des troupeaux, planter sa tente derrière un muret de
-pierres sèches, et porter un sac où il a su trouver un compromis judicieux entre
-l'autonomie et le poids. Il pense pouvoir demeurer longtemps dans ce pays des
-marmottes et des chamois, moyennant le matériel nécessaire.
-En découvrant la haute-montagne, l'alpiniste a embrassé l'essentielle
-différence : ici, on ne reste pas impunément. On est de passage, par une porte
-temporairement ouverte. Le chocard juché sur le gendarme voisin est trompeur. Un
-battement d'aile puis un piqué audacieux, et il aura rejoint les pentes gazonnées avant
-l'orage, nous laissant seul face aux éléments. Il faudra revenir avant que la porte ne se
-ferme.
-Ici, le montagnard doit acquérir une forte aptitude à contrôler son
-environnement : se débarrasser du sable collant à la semelle de ses chaussons avant
-ce pas en dalle, guetter les fissures propices aux coinceurs, ne pas perdre l'itinéraire et
-garder un œil sur les nuages en train de se former vers l'ouest. Écouter les chutes de
-pierres tout en surveillant sa montre et son altimètre. Saisir qu'il faut s'activer car
-l'isotherme élevé va détériorer rapidement les conditions de la descente, alors on
-passera à corde tendue dès la fin de ce passage difficile pour accélérer la progression.
-Ces prises de décisions, faites à la volée, émaillent la course du début à la fin,
-241 D'un château l'autre, Louis-Ferdinand Céline, éditions Gallimard, 1957.
-
-256
-
-et réclament une force de concentration soutenue. Si à la salle on grimpait avec ses
-muscles, ici, on grimpe surtout avec sa tête, et on le comprend à la fatigue nerveuse
-qui s'installe.
-Ce sont alors des qualités morales que l'on développe en haute-montagne,
-avant même les qualités athlétiques, c'est la raison pour laquelle l'alpinisme demeure
-une activité majeure et durable et non le dernier sport à la mode dans les milieux
-branchés des métropoles.
-Pour exercer ces qualités morales, on s'est convaincu que l'indispensable
-condition était de ne pas se faire tenir la main par un chaperon. L'autonomie, dès le
-début de la pratique, est la manière univoque de procéder. On ne peut pas tricher. De
-la même façon que les ouvrages sérieux de body-building vous expliquent que si vous
-voulez vous construire un corps d'athlète, il va falloir travailler dur, soulever lourd, et
-finalement réellement devenir un athlète, si votre souhait est de devenir alpiniste, il
-va bien falloir que votre cordée autonome quitte le confortable bivouac pour
-s'enfoncer dans la nuit, accompagnée par cette incertitude de l'itinéraire qui entretient
-une petite tension salutaire. Les satisfactions qu'apportera la réussite du sommet
-seront proportionnelles au fait d'avoir su maîtriser vos appréhensions et surmonter
-avec intelligence toutes les complications de la montagne. Alors seulement
-l'alpinisme pourra remplir votre vie sans l'enfermer. Alors seulement vos séances de
-grimpe sur résine prendront un sens : un moyen de grandir là-haut, et non plus un
-repli égotiste dans la répétition acharnée d'une gestuelle d'escalade.
-Trop de courage tue précocement. Le dessinateur Frédéric Delavier 242, féru
-d'anthropologie, allègue que les hommes, par une longue sélection naturelle
-préhistorique, sont génétiquement lâches. Survivre aux chasses dangereuses et aux
-guerres entre clans, n'aurait pu se faire que par la conjugaison d'une certaine
-pusillanimité et d'une capacité de projection spatio-temporelle afin de faire face à la
-prochaine fois : élaboration d'une tactique de chasse, conception des armes, pour
-réduire les risques et la peur. Le courage des femmes, condamnées à l'acceptation
-passive de leur destin incontrôlable – la mort en couches -, serait exclusivement
-tourné vers la protection de leur petit, et d'une manière plus élargie de leur foyer : un
-courage fataliste face à un risque qu'on ne peut qu'assumer. L'auteur avance que c'est
-la raison pour laquelle le courage est exalté dans la culture humaine, afin d'aider le
-mâle à combattre sa poltronnerie naturelle qui lui a néanmoins permis de survivre.
-Ces réflexions très pertinentes rejoignent les travaux du père de la sociobiologie
-Edward O. Wilson, qui a insisté sur le conflit permanent existant entre la sélection
-naturelle au niveau individuel (dont les produits sont la lâcheté, l'hypocrisie) et la
-sélection naturelle au niveau du groupe (dont les produits sont l'honneur, le devoir) 243.
-Le biologiste estime qu' « une grande partie de la culture humaine, en particulier le
-contenu des arts créatifs, est apparue du choc inévitable entre sélection individuelle et
-sélection de groupe »
-242 www.youtube.com/user/freddelavier
-243 La conquête sociale de la terre, Edward O. Wilson, éditions Flammarion, 2012.
-
-257
-
-Par ailleurs, Régis Debray244 nous apprend que l'errance actuelle des nouvelles
-générations françaises n'est pas sans rapport avec la disparition des mouvements
-ouvriers comme de l'influence catholique. La laïcité comme horizon indépassable de
-notre société contemporaine ne serait qu'un cadre sans tableau et le philosophe nous
-expose qu'il revient à chaque citoyen de remplir ce cadre pour lui-même. Ceci
-suppose qu'il lui soit délivré une instruction, faute de quoi la jeunesse peine à
-s'inscrire dans une aventure qui la grandit. Sans sacré, sans mythe, sans aventure,
-l'homme est réduit à l'animalité, raisonnable condition à laquelle son cerveau
-hypertélique ne sait se résoudre.
-Au total, on comprend que rien – la lâcheté de l'un, le confinement fataliste de
-l'autre - ne pousse naturellement, ni l'homme, ni la femme, à tenter l'aventure en
-haute-montagne. L'un et l'autre forcent leur caractère pour le meilleur, tachant de
-dépasser leur condition. Ce faisant, ils créent cet enchantement du monde qui leur est
-devenu indispensable. Tout ceci est bien le propre de toute culture humaine.
-**
-
-244 Colloque Intégration, laïcité, continuer la France, Régis Debray, 23 mai 2016.
-
-258
-
-APPENDICE 1
-
-ENERGIE ET FORCE
-
-On parle beaucoup de forces en escalade tandis que vos souvenirs scolaires
-évoquent certainement la notion d'énergie mécanique (Em).
-En creusant dans votre mémoire, on y trouvera sans nul doute que Em = Ec +
-Ep, Ec étant l'énergie cinétique, et Ep l'énergie potentielle de pesanteur.
-Puis en cherchant bien dans les basses fosses de votre hippocampe :
-Ec = ½mv² et Ep = mgh , m étant la masse en kilogrammes, v la vitesse en
-mètres par seconde, g l'accélération de la pesanteur environ 9,81 m/s², et h la hauteur
-en mètres.
-L'unité de ces énergies est le Joule.
-Dans le cas d'un solide à l'arrêt - votre copain qui ne trouve pas la fichue prise qui tombe deux mètres au-dessus du dernier point, Ec = 0 en début de chute. Donc
-Em = Ep = mgh. Votre copain tout mouillé fait 61kg (pour 1,80m, il faudra le faire
-manger régulièrement...), il a 3kg de vêtements, et un sac de 12kg car c'est un dur. Un
-rapide calcul nous donne une énergie potentielle de 76x9,81x4 = 2982,24 joules.
-Étant donné qu'il y a conservation de l'énergie mécanique pendant la chute, à la
-fin de celle-ci, l'énergie potentielle est arrivée à zéro, et c'est l'énergie cinétique qui l'a
-remplacée. On a donc Ec(fin de chute) = Ep(début de chute) = 2982,24 J = ½mv² = mgh.
-On en tire v = racine carrée de 2gh = 8,85m/s = 31,86km/h. C'est à cette vitesse que
-votre copain arrive en bas en évitant de justesse le rocher.
-Puis comme le joule est le travail d'une force de 1 newton sur une distance de 1
-mètre, et que le newton est la force nécessaire pour élever 1kg d'un mètre, et que par
-surplus, les indications portées sur tous vos beaux outils d'escalade font mention du
-kN, vous aimeriez bien savoir comment on passe de l'un à l'autre, c'est à dire traduire
-l'énergie potentielle de départ de 2982,24 joules en kN. Et là, patatras, votre vieux
-259
-
-professeur de physique du lycée se retourne dans sa tombe !
-Vous alliez nous faire une grosse bêtise : mélanger une énergie avec une force.
-Or, ce n'est pas du tout la même chose. Pour le comprendre, il suffit d'un dessin. Il
-faut admettre que les aires 1 et 2 du dessin sont égales même si le dessin n'est pas
-rigoureux.
-
-En abscisse, on a le temps ; en ordonnée, la force créée au moment du choc,
-soit sur le grimpeur, soit sur l'ancrage ou le relais, peu importe. La courbe de gauche
-est le résultat d'une chute sur une corde peu élastique. La force augmente rapidement
-et redescend rapidement, mais elle monte beaucoup. Le point culminant de la courbe
-est la force de choc maximale. La courbe de droite, qui est le résultat de la même
-chute avec une corde plus élastique, est plus étalée dans le temps et monte beaucoup
-moins. Son point culminant, la force de choc maximale, est plus faible. Mais les aires
-circonscrites par ces deux courbes sont identiques. Chacune représente la même
-énergie potentielle du début de chute que le choc doit dissiper.
-Avec ce dessin, il n'est plus possible de vouloir mélanger les torchons avec les
-serviettes : l'aire avec le point culminant atteint par la courbe. L'aire est en joules, le
-point culminant en newtons.
-On remarque qu'il vaut mieux absorber l'énergie potentielle de votre copain,
-qui dépend de son poids et de la hauteur de sa chute, sur une longue durée, pour qu'il
-soit soumis plus longtemps à des forces qui resteront raisonnables. Cette force de
-choc faible s'obtient de trois façons :
-– La corde choisie possède une grande élasticité.
-– Le facteur de chute (hauteur de chute/longueur de la corde depuis le
-260
-
-relais) est faible.
-– Le tirage a bien été géré pour que le facteur de chute réel soit bien le
-facteur de chute théorique.
-L'élasticité des cordes dynamiques d'escalade fait que l'augmentation de la
-hauteur de la chute, qui accroît l'énergie potentielle, est compensée par l'élasticité de
-la longueur supplémentaire de corde déroulée, pour deux situations à facteur de chute
-identique. C'est la raison pour laquelle on ne se préoccupe plus de la hauteur de la
-chute en ce qui concerne les forces mises en présence (il faudra par contre ne
-rencontrer aucun obstacle pendant la chute...), mais seulement du facteur de chute. Il
-reste le poids du grimpeur qui influe sur l'énergie potentielle. Mais là, votre copain a
-déjà fait le maximum...
-_______________________
-
-261
-
 APPENDICE 2
 
 LES NOEUDS INDISPENSABLES
