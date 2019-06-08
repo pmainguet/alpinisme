@@ -5,8 +5,6 @@ Table des matières
 - [Code de l'alpinisme amateur](#code-de-lalpinisme-amateur)
 - [Checklist - Techniques de base](#checklist---techniques-de-base)
 - [Progression](#progression)
-- [Matériel](#mat%C3%A9riel)
-- [Noeuds](#noeuds)
 - [Encordement & Progression](#encordement--progression)
   - [GLACIER ENNEIGE](#glacier-enneige)
   - [PENTE RAIDE NEIGE](#pente-raide-neige)
@@ -30,10 +28,29 @@ Table des matières
 - [Les relais en haute montagne](#les-relais-en-haute-montagne)
   - [Un cahier des charges varié](#un-cahier-des-charges-vari%C3%A9)
   - [The belay (maéthode britannique)](#the-belay-ma%C3%A9thode-britannique)
-  - [Relais pré-contraint.](#relais-pr%C3%A9-contraint)
   - [Relais en neige.](#relais-en-neige)
+  - [Triangulation unidirectionnelle avec sangle trop courte](#triangulation-unidirectionnelle-avec-sangle-trop-courte)
+  - [Triangulation multi-directionnelle ou uni-directionnelle pour un rappel](#triangulation-multi-directionnelle-ou-uni-directionnelle-pour-un-rappel)
+  - [Triangulation semi-directionnelle : le bon compromis](#triangulation-semi-directionnelle--le-bon-compromis)
+- [L'assurage dynamique](#lassurage-dynamique)
 - [Les conditions](#les-conditions)
+- [Franchir la rimaye](#franchir-la-rimaye)
+- [Sortie de goulotte en neige : danger.](#sortie-de-goulotte-en-neige--danger)
 - [Le matériel](#le-mat%C3%A9riel)
+  - [Vêtements](#v%C3%AAtements)
+  - [Bonnet & Casquette](#bonnet--casquette)
+  - [Gants](#gants)
+  - [Chaussures](#chaussures)
+  - [Lunettes de soleil](#lunettes-de-soleil)
+  - [Sac à dos](#sac-%C3%A0-dos)
+  - [Piolet](#piolet)
+  - [Crampons](#crampons)
+  - [Corde](#corde)
+    - [La classique](#la-classique)
+    - [Autres combinaisons](#autres-combinaisons)
+  - [Nombre de pitons, cordelette et sangle en vrac](#nombre-de-pitons-cordelette-et-sangle-en-vrac)
+- [Les maillons rapides](#les-maillons-rapides)
+- [Matériel](#mat%C3%A9riel)
 
 ## Code de l'alpinisme amateur
 
@@ -106,59 +123,6 @@ restez en tension permanente sur une vache de ce type quand vous l'utilisez, et 
 * Ecole de glace:
     * s'inscrire au bureau des guides pour quelques heures de cours pour rappel + cascade glace
     * Perfectionnement lors de stage de cascade de glace d'une semaine, ceci chaque année jusqu'à atteindre au moins le degré IV en cotation glace à vue en premier de cordée avec brochage.
-
-## Matériel
-
-* Général
-    * trousse de premiers secours:
-        * pansements de taille diverse
-        * Strap
-    * un ou deux pitons
-    * cordelette
-    * grand sac poubelle en cas de bivouac improvisé
-    * boussole
-    * altimètre
-    * carte au 1/25000e
-    * Nourriture
-    * Corde (traitement hydrophobe)
-
-## Noeuds
-
-* Noeud de huit
-    * Nœud de huit est le nœud d'encordement le plus courant car très résistant et facile à contrôler, une erreur se détectant au premier coup d’œil.
-    * Pour être tranquille toute une journée de montagne, il est préférable de réaliser son nœud de huit sans croiser. Il a donc l'aspect d'une boule, en
-    trois dimensions, et non d'un huit à plat.
-
-    ![Image](img/noeuxhuit.png?raw=true)
-    Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée à droite.
-
-* Noeud de chaise
-    * Avantage principal d'être moins volumineux, ce qui se justifie surtout quand on s'encorde en cours de corde pour l'encordement en N puisqu'on traite deux brins à la fois.
-    * Un nœud de chaise sous tension constante est très résistant même sans nœud d'arrêt quand on tire sur le dormant, c'est à dire la corde allant à l'autre grimpeur.En alpinisme, on est obligé de bloquer ce nœud de chaise par un double nœud d'arrêt serré contre lui pour deux raisons :
-        1. Le nœud de chaise seul glisse pour des valeurs très faibles quand on tire sur la boucle d'encordement elle-même (la ganse) comme si on voulait l'agrandir. Ce cas de traction se produit quand, pour l'encordement montagne classique, on a choisi de repasser la boucle venant des anneaux de buste dans la boucle d'encordement.
-        2. Un nœud d'encordement n'est pas en tension constante et peut donc facilement se desserrer. Or, un nœud de chaise qui se desserre peut également se retourner et se transformer en nœud coulant, S'il se retourne, il lâche.
-
-        ![Image](img/noeudchaise.png?raw=true)
-        ATTENTION : nœud de chaise mal fait en haut à gauche.
-
-
-* Noeuds autobloquants
-
-Nœud de Prusik. Aux USA, on le réalise souvent avec six spires.
-
-Nœud de Machard.
-
-Autobloquant français, dit parfois Machard français.
-Ne bloque que dans un sens.
-
-Le nœud de cœur, très facile à réaliser.
-
-Machard sur mousqueton, très agréable à faire coulisser. Attention,
-en s'agrippant au mousqueton on desserre l'autobloquant.
-
-Vous avez égaré votre anneau de cordelette ? Ne perdez pas
-espoir, et utilisez le machard tressé sur sangle. Éviter la sangle
-en dyneema pour cette utilisation (fusion facile).
 
 ## Encordement & Progression
 
@@ -567,7 +531,11 @@ Le coin de glace.
 
 * La poulie autobloquante micro-traction de Petzl (85g) est l'outil idéal pour le hissage du sac. Elle sera aussi d'un grand secours en cas de mouflage. La combinaison tibloc (39g) et poulie oscillante P02 de Petzl (42g), convient aussi.
 
+![Image](img/hissage1.png?raw=true)
+
 Le brin du sac est sur la poulie autobloquante, le brin du second sur la plaquette.
+
+![Image](img/hissage2.png?raw=true)
 
 Tête de mouflage faite de la poulie autobloquante, renvoi inférieur sur mousqueton et tibloc, renvoi supérieur sur mousqueton. On peut ainsi tirer vers soi en étant positionné sous le relais.
 
@@ -606,7 +574,11 @@ En écheveau à gauche, en couronne à droite.
         * En se levant sur la pédale, la corde se tend et facilite le déplacement de l'autobloquant du baudrier vers le haut. Une fois celui-ci glissé au maximum vers le haut, on s'assied dans le baudrier, puis on plie la jambe pour monter l'autobloquant du bas, et ainsi de suite.  
     * Deuxième technique
         * La seconde technique à connaître utilise l'anneau de 60cm pour le baudrier, et un nœud de cœur en remplacement de l'anneau de 120cm.
-        * La corde forme un nœud de cœur autour des deux mousquetons côte à côte. Une sangle est fixée dans le bas des deux mousquetons. Cette sangle forme une tête d'alouette autour du pied pour réaliser une pédale bien serrée.
+        
+        ![Image](img/sanglecoeur.png?raw=true)
+        
+        La corde forme un nœud de cœur autour des deux mousquetons côte à côte. Une sangle est fixée dans le bas des deux mousquetons. Cette sangle forme une tête d'alouette autour du pied pour réaliser une pédale bien serrée.
+        
         * L'avantage de cette technique est une grande rapidité pour une fatigue réduite, mais elle nécessite de ne pas démarrer pendu en bout de corde. Vous ne pourrez donc  utiliser cette technique qu'après avoir amorcé la remontée par la première technique pour avoir un peu de corde libre, ou bien sur glacier, en utilisant la réserve de corde d'un encordement en N.
         * C'est la technique qui nécessite le moins de matériel puisqu'il suffit d'un anneau de cordelette, de deux mousquetons pour le nœud de cœur (de préférence de même modèle pour un blocage plus sûr), et d'une petite sangle pour la pédale.
     * Alternatives
@@ -730,11 +702,15 @@ VN de la Pointe de la Pilatte
     * On ne suit personne bêtement.
     * Parvenu au glacier, on trouve un endroit commode pour enfiler les baudriers, chausser les crampons, s'encorder. Surtout, on n'attend pas que la pente s'accentue franchement pour mettre ses crampons sous peine de gymnastique scabreuse sur une pente raide et glissante.
 
+    ![Image](img/recherchertiers.png)
+
     Recherche des tiers (in vitro).
 
     * Encordez-vous un peu à l'écart de la trace car vous avez besoin de place pour trouver les tiers. Vous dépliez votre corde, chacun tient une extrémité, passe une boucle dans un mousqueton placé à son pontet de baudrier, puis vous vous écartez l'un de l'autre jusqu'à tendre la corde. Vous avez vos tiers.
     * Pendant que vous réalisez votre encordement en N, d'autres cordées vont sans doute s'approcher, quittant la trace, mais attirées par la lumière...
     * Quand le risque de chute dans d'immenses crevasses, bien larges et bien profondes, existe, on recommande de créer plusieurs nœuds de freinage (au moins trois : à 4-5 mètres du nœud d'encordement puis à 2-3 mètres de distance) sur l'encordement afin qu'ils se bloquent dans la lèvre de la crevasse, ce qui facilite le travail de celui resté à l'air libre puisqu'il n'est plus tiré (ou moins) par le poids de son compagnon. Ces nœuds de freinage ne fonctionnent réellement qu'avec une lèvre decrevasse faite de neige épaisse et molle, ce qui est justement le genre de terrain où le risque de percer un large pont de neige est élevé.
+
+    ![Image](img/noeudfreinage.png?raw=true)
 
     Nœud de freinage : un nœud de huit pour commencer, puis piéger un brin avec la boucle qui repart dans le nœud.
 
@@ -924,6 +900,11 @@ l'autre.
 * Engagement tient essentiellement à la difficulté grandissante de la retraite à mesure que l'on progresse vers le haut, la sortie par le sommet devenant la véritable option de retraite tant rebrousser chemin peut finir par être problématique. Il dépend aussi de l'éloignement, de l'absence de moyens de secours, de la saison, etc.
 * L'exposition d'un passage tient à la dangerosité de la chute dans l'escalade de celui-ci en raison du caractère aléatoire de l'assurage permis par le rocher.
 
+Pas d'artif (passage à reregarder)
+
+![image](img/pasartif.png?raw=true)
+La dégaine sur laquelle on est vaché, très courte, est accrochée au mousqueton du haut de la dégaine d'assurage, côté opposé au doigt.
+
 ## La réchappe
 
 * Si vous êtes à un piton infaillible et que vous n'avez pas dépassé la moitié de la longueur, vous laissez un mousqueton et vous vous faites mouliner jusqu'au relais. 
@@ -941,6 +922,8 @@ Cas escalade sportive vs alpinisme :
 * Le relais doit comporter deux points. Le relais sur piton unique était dans le passé de pratique courante., c'st à la fin des années 80 que le doublement se généralise. Bref, le chiffre deux ne possède aucun pouvoir magique : un piton solide vaut mieux que deux foireux, lesquels méritent d'en planter un troisième, et ainsi de suite jusqu'à obtenir une solidité suffisante pour le service que vous allez demander à votre relais. Car vous ne demanderez pas la même chose à tous vos relais.
 
 ### Un cahier des charges varié
+
+*  On voit que différentes façons de résoudre le problème de la solidité du relais sur des ancrages précaires se rejoignent dans leur principe. Par des chemins différents, chapiteaux de cirque, relais en neige, relais britannique, relais sur broches, plusieurs auteurs ont abouti à une réponse commune, le relais pré-contraint, gage de sa validité.
 
 * Cas de la vire très large, horizontale et non glissante faisant suite à une longueur facile. On se cale pour assurer le second à l'épaule dans le but d'enrayer une petite glissade éventuelle. Pour la longueur suivante, l'assureur n'aura pas plus besoin de relais qu'à la salle d'escalade avec les deux pieds par terre. Il vaut mieux l parer que fabriquer un relais parfaitement inutile.
 * Cas du relais de la fin des difficultés: A partir d'ici, vous allez raccourcir l'encordement et partir corde tendue. Le relais doit uniquement
@@ -966,154 +949,54 @@ résister à la mise en tension de la corde en cas de chute du second : un choc 
     * Réservé aux cordées réversibles, car il est compliqué pour le second de se vacher à son tour à chaque coinceur séparément.
     * On ne peut pas installer un mouflage, car celui-ci devrait être installé sur le pontet de l'assureur.
 
-### Relais pré-contraint.
-
-Classiquement, un relais en glace comporte deux broches, placées à une certaine distance l'une de l'autre afin que les deux ne dépendent pas de la résistance de la même zone de glace. Afin de réduire la force exercée sur chaque broche, l'angle formé vers le bas par la cordelette de liaison (ou la corde) allant à chaque broche doit être le plus fermé possible. L'idéal est donc que cet angle soit nul, ce qui est faisable en plaçant les broches l'une au dessus de l'autre. On respecte ainsi les deux impératifs : espacement important et angle le plus faible possible. Partant de cette configuration, Jérôme Blanc-Gras et Manu Ibarra 155 remettent à l'honneur le relais précontraint cité par Jeff Lowe en 1996, dérivé des ancrages des chapiteaux de cirque. La broche inférieure est celle où l'assureur est vaché. La broche supérieure contre-assure la broche inférieure par l'intermédiaire d'une cordelette mise en tension par un petit mouflage de la cordelette sur elle-même, à la façon employée en bushcraft pour tendre une corde entre deux arbres afin d'y installer un tarp. On peut également réaliser un mouflage par des allers-retours entre le mousqueton du haut et la broche du bas, en finissant par le nœud très connu des plaisanciers pour frapper un cordage sous tension : un tour mort et deux demi-clefs n'ont jamais lâché dit le dicton marin. On remarque que la mise en tension de la cordelette consolide la position de la broche inférieure, de la même façon que la mise en tension de la corde vers les différents coinceurs consolidait la position de l'assureur dans le relais britannique. Le
-principe est en effet le même. The belay était aussi un relais pré-contraint.
-
-Relais pré-contraint avec mouflage de type tarp.
-
-Détail du mouflage précédent.
-
-Relais pré-contraint, mouflage terminé par un tour mort et deux demi-clefs.
-
 ### Relais en neige.
 
-Le relais en neige est rarement prescrit en première intention. Si le rocher est
-proche, on privilégiera le relais en rocher ; si la glace est sous-jacente, on la dégagera
-pour visser deux broches. Si on ne dispose d'aucun ancrage possible en rocher ou en
-glace, on se résignera à poser un relais en neige, en seconde intention donc.
-Le principe du relais en neige consiste à confectionner un corps mort, un piolet
-le plus souvent, très en amont de l'assureur. Celui-ci assure le second à l'épaule ou à
-son pontet par une plaquette d'assurage ou un demi-cabestan, tout en étant vaché en
-tension sur le corps mort.
-On reconnaît de nouveau le principe du relais pré-contraint.
-On a déjà dit que tous les piolets peuvent être utilisés en corps mort, même
-ceux correspondant à l'ancienne norme B pour le manche. Il a en effet été montré que
-la déformation de ces manches tassait la neige devant le corps-mort jusqu'à former un
-bourrelet très résistant, et une tenue de l'ancrage bien supérieure à la résistance
-151
+* Le relais en neige est rarement prescrit en première intention. Si le rocher est proche, on privilégiera le relais en rocher.
+* Si la glace est sous-jacente, on la dégagera pour visser deux broches. Si on ne dispose d'aucun ancrage possible en rocher ou en glace, on se résignera à poser un relais en neige, en seconde intention donc.
+* Le principe du relais en neige consiste à confectionner un corps mort, un piolet le plus souvent, très en amont de l'assureur. Celui-ci assure le second à l'épaule ou à son pontet par une plaquette d'assurage ou un demi-cabestan, tout en étant vaché en tension sur le corps mort.
+*  Dans les Alpes, la neige ne tient pas sur des pentes supérieures à 50 ou 55°, au-delà on a affaire à la glace.
 
-intrinsèque du manche. La distinction B et T a donc été abandonnée.
-La chute de facteur 2 n'existe pas en neige, et c'est heureux car on dispose
-rarement de points de progression. Dans les Alpes, la neige ne tient pas sur des pentes
-supérieures à 50 ou 55°, au-delà on a affaire à la glace. Il existe donc des frottements
-importants lors d'une chute. Sur une pente à 45°, une chute qui serait de facteur 2 est
-de facteur √2, soit 1,41156.
-On voit que différentes façons de résoudre le problème de la solidité du relais
-sur des ancrages précaires se rejoignent dans leur principe. Par des chemins
-différents, chapiteaux de cirque, relais en neige, relais britannique, relais sur broches,
-plusieurs auteurs ont abouti à une réponse commune, le relais pré-contraint, gage de
-sa validité.
-Triangulation unidirectionnelle avec sangle trop courte
-Wassermann et Wicky157 préconisent de fixer la sangle avec des nœuds de
-cabestan sur chacun des mousquetons placés sur les ancrages. Un mou est laissé dans
-la portion reliant les deux ancrages, et le nœud du bas n'intéresse que deux épaisseurs
-de sangle. Ainsi, on consomme beaucoup moins de sangle (ou de cordelette pour un
-rappel), ce qui permet d'obtenir plus facilement l'angle aigu de la page 48. La sangle
-dyneema, au point de fusion bas, n'est pas recommandée pour cette utilisation.
+### Triangulation unidirectionnelle avec sangle trop courte
 
-Les nœuds de cabestan empêchent la dangereuse traction horizontale
+* Solution 1: Fixer la sangle avec des nœuds de cabestan sur chacun des mousquetons placés sur les ancrages. Un mou est laissé dans la portion reliant les deux ancrages, et le nœud du bas n'intéresse que deux épaisseurs de sangle. Ainsi, on consomme beaucoup moins de sangle (ou de cordelette pour un rappel). La sangle dyneema, au point de fusion bas, n'est pas recommandée pour cette utilisation. Les nœuds de cabestan empêchent la dangereuse traction horizontale
 sur les ancrages.
 
-Une autre façon de procéder, rapide et astucieuse, consiste à placer un nœud de
-huit ou un nœud simple en milieu de sangle, puis de mousquetonner chaque demianneau formé.
+![Image](img/sangletropcourte.png)
 
+* Une autre façon de procéder, rapide et astucieuse, consiste à placer un nœud de huit ou un nœud simple en milieu de sangle, puis de mousquetonner chaque demianneau formé.
+
+![Image](img/Vertaco.png)
 Montage dit parfois répartiteur Vertaco.
 
-Triangulation multi-directionnelle ou uni-directionnelle pour un rappel
-Le nœud de huit placé sur la sangle peut être discutable pour un rappel
-inconnu. Ceci parce que le nœud fixe définitivement la direction de résistance qu'on
-a voulu donner au relais. Il s'agit d'une triangulation uni-directionnelle., car tirer
-dans une autre direction ferait supporter la charge sur un seul ancrage. Il s'agit donc
-de descendre le rappel dans la direction choisie, et non de changer en cours de route.
-Or, dans les rappels inconnus, il arrive fréquemment qu'on jette la corde d'un côté,
-puis qu'on se ravise en cours de descente car on a aperçu le relais inférieur décalé là
-où on ne l'attendait pas.
-On peut alors être tenté de ne pas réaliser de nœud sur la sangle, mais de
-seulement tourner une des deux boucles, comme on l'a longtemps préconisé, pour
-bénéficier d'un relais multidirectionnel se prêtant aux changements de direction.
-Malheureusement, une sangle ou une cordelette ne sont pas dynamiques et
-offrent peu de résistance à un choc. De plus, si la sangle résiste, le choc peut être fatal
-pour l'ancrage restant. C'est la raison pour laquelle cette option est actuellement
-abandonnée.
-Si on souhaite conserver une légère mobilité du relais, on lui préfère la solution
-du paragraphe suivant : le relais semi-directionnel.
+### Triangulation multi-directionnelle ou uni-directionnelle pour un rappel
 
-153
+* Le nœud de huit placé sur la sangle peut être discutable pour un rappel inconnu. Ceci parce que le nœud fixe définitivement la direction de résistance qu'on a voulu donner au relais. Il s'agit d'une triangulation uni-directionnelle., car tirer dans une autre direction ferait supporter la charge sur un seul ancrage. Il s'agit donc de descendre le rappel dans la direction choisie, et non de changer en cours de route. Or, dans les rappels inconnus, il arrive fréquemment qu'on jette la corde d'un côté, puis qu'on se ravise en cours de descente car on a aperçu le relais inférieur décalé là où on ne l'attendait pas. On peut alors être tenté de ne pas réaliser de nœud sur la sangle, mais de seulement tourner une des deux boucles, comme on l'a longtemps préconisé, pour bénéficier d'un relais multidirectionnel se prêtant aux changements de direction. Malheureusement, une sangle ou une cordelette ne sont pas dynamiques et offrent peu de résistance à un choc. De plus, si la sangle résiste, le choc peut être fatal pour l'ancrage restant. C'est la raison pour laquelle cette option est actuellement abandonnée. Si on souhaite conserver une légère mobilité du relais, on lui préfère la solution du paragraphe suivant : le relais semi-directionnel.
 
+![Image](img/unidirect.png)
 Uni-directionnel à gauche : un seul ancrage sollicité en tirant à gauche.
 Multi-directionnel à droite : solution abandonnée.
 
-Triangulation semi-directionnelle : le bon compromis
-Afin de limiter le choc potentiel, on peut placer un nœud sur chacune des
-branches du V. On obtient ainsi un compromis entre la liberté de mouvement de
-l'ancrage et le choc réduit. On nomme cette solution triangulation semidirectionnelle. C'est celle qui semble la plus recommandable pour concilier les
-avantages de chaque technique. On dose le compromis le plus judicieux en
-rapprochant plus ou moins les nœuds du bas du triangle.
+### Triangulation semi-directionnelle : le bon compromis
 
+* Afin de limiter le choc potentiel, on peut placer un nœud sur chacune des branches du V. On obtient ainsi un compromis entre la liberté de mouvement de l'ancrage et le choc réduit. On nomme cette solution triangulation semidirectionnelle. C'est celle qui semble la plus recommandable pour concilier les avantages de chaque technique. On dose le compromis le plus judicieux en rapprochant plus ou moins les nœuds du bas du triangle.
+
+![Image](img/semidirect.png)
 Semi-directionnel, dit parfois répartiteur d'alpiniste.
 
-154
-
+![Image](img/semidirectionnelrappel.png)
 Semi-directionnel pour un rappel.
 
-S'il s'agit d'un relais de progression et non de rappel, on peut mousquetonner
-les deux brins de la sangle à la condition bien sûr d'en tourner un des deux pour ne
-pas mettre le mousqueton à cheval sur l'ensemble. Les nœuds peuvent être
-indifféremment des nœuds simples ou des nœuds de huit. On recommande de ne pas
-laisser davantage que 20cm de débattement entre chaque nœud et le point inférieur du
-dispositif.
-3/ L'assurage dynamique
-« (…) si l'on sait (et encore...) comment débute une chute, on ne sait jamais
-comment elle se terminera. » Livanos.158
-La mode, en salle d'escalade, est à l'assurage dynamique. Cela consiste à sauter
-vers le haut, avancer d'un pas ou lâcher un grand mou lorsque le copain s'envole pour
-se retrouver « déguisé en lustre » selon le mot du Grec (Livanos). L'argument est la
-diminution de la force de choc afin que la réception du vol se fasse dans la douceur...
-à la condition que cela ne finisse pas par terre ou par un télescopage du grimpeur
-avec son assureur comme on le voit plus souvent qu'on ne voudrait. Il faut
-reconnaître à cette méthode une certaine efficacité pour se fracturer le coccyx et
-épargner la corde...
-Le style semble avoir été introduit suite à l'utilisation du Gri-gri qui, lors de la
-chute, bloque la corde sans aucun coulissement, au contraire des anciens procédés
-d'assurage : descendeurs en huit et autres tubes. Pourtant, les plaquettes plates
-dépourvues de ressort, très en vogue en Angleterre dans les années soixante-dix et
-158 Op.cit., Georges Livanos, p..
+* S'il s'agit d'un relais de progression et non de rappel, on peut mousquetonner les deux brins de la sangle à la condition bien sûr d'en tourner un des deux pour ne pas mettre le mousqueton à cheval sur l'ensemble. Les nœuds peuvent être indifféremment des nœuds simples ou des nœuds de huit. On recommande de ne pas laisser davantage que 20cm de débattement entre chaque nœud et le point inférieur du dispositif.
 
-155
+## L'assurage dynamique
 
-quatre-vingt (plaquette Sticht dite aussi plaquette Salewa, conçue par l'alpiniste
-allemand Franz Sticht en 1973) bloquaient également très sèchement. La descente en
-rappel sur ces engins du reste éminemment fiables était pour cette raison assez
-cahotante. Il est vrai qu'un coulissement, même faible, de la corde dans le système
-d'assurage amortit le choc et permet une grande dissipation d'énergie. Mais est-il
-indispensable de sauter jusqu'à la première dégaine et pour éviter quoi au juste ?
-Les cordes dynamiques sont conçues et normées pour ne pas pouvoir
-transmettre une force de choc supérieure à 1200 daN (800 daN pour un brin d'une
-corde à double) lors d'une chute de facteur 1,77 d'un poids rigide guidé. Or, cette
-situation défavorable n'existe pas en salle d'escalade. Une fois le premier point clippé,
-la chute au niveau de la seconde dégaine va soit provoquer un facteur de chute proche
-de 1 si le mou strictement nécessaire a été donné, soit une chute au sol si le mou est
-excessif. La force de choc est donc d'emblée très inférieure aux 1200 daN qui sont
-pourtant déjà sans dommage pour le corps humain. Une fois les dégaines suivantes
-clippées, elle diminuera encore. De plus, les fabricants proposent des cordes qui
-présentent des forces de choc très inférieures à la limite de la norme.
-En montagne, prendre d'emblée l'habitude d'assurer de manière dynamique,
-soit en sautant vers le haut quand on le peut, soit en donnant un bon mètre de mou
-pendant le vol, risque de conditionner un réflexe préjudiciable dans beaucoup de
-circonstances quand une chute trop longue ferait rencontrer directement une
-proéminence du terrain : terrasse, vire, écaille saillante, becquet, pieux métallique,
-etc.
-S'il est bon de savoir comment assurer de manière dynamique, ce qui peut être
-utile parfois sur un relais en neige, en glace avec des broches douteuses, en rocher audessus d'un mauvais piton, on se gardera d'en faire une habitude.
-L'élasticité du système d'assurage peut se parfaire en montagne moins
-dangereusement avec l'emploi du nœud de demi-cabestan, l'utilisation pour les points
-douteux de dégaines-explose (dégaines à absorption d'énergie), la bonne gestion du
-tirage (un tirage important augmente la force de choc transmise au dernier ancrage)
-ou le mousquetonnage d'un seul brin de la corde à double.
-
-
+* Assurage dynamique: sauter vers le haut, avancer d'un pas ou lâcher un grand mou lorsque le copain s'envole.
+*  L'argument est la diminution de la force de choc afin que la réception du vol se fasse dans la douceur... à la condition que cela ne finisse pas par terre ou par un télescopage du grimpeur avec son assureur comme on le voit plus souvent qu'on ne voudrait.
+*  Il est vrai qu'un coulissement, même faible, de la corde dans le système d'assurage amortit le choc et permet une grande dissipation d'énergie. Mais est-il indispensable de sauter jusqu'à la première dégaine et pour éviter quoi au juste ? Les cordes dynamiques sont conçues et normées pour ne pas pouvoir transmettre une force de choc supérieure à 1200 daN (800 daN pour un brin d'une corde à double) lors d'une chute de facteur 1,77 d'un poids rigide guidé.
+*  Or, cette situation défavorable n'existe pas en salle d'escalade. Une fois le premier point clippé, la chute au niveau de la seconde dégaine va soit provoquer un facteur de chute proche de 1 si le mou strictement nécessaire a été donné, soit une chute au sol si le mou est excessif.
+*  La force de choc est donc d'emblée très inférieure aux 1200 daN qui sont pourtant déjà sans dommage pour le corps humain. Une fois les dégaines suivantes clippées, elle diminuera encore.
+*  En montagne, prendre d'emblée l'habitude d'assurer de manière dynamique, soit en sautant vers le haut quand on le peut, soit en donnant un bon mètre de mou pendant le vol, risque de conditionner un réflexe préjudiciable dans beaucoup de circonstances quand une chute trop longue ferait rencontrer directement une proéminence du terrain : terrasse, vire, écaille saillante, becquet, pieux métallique,
+*  S'il est bon de savoir comment assurer de manière dynamique, ce qui peut être utile parfois sur un relais en neige, en glace avec des broches douteuses, en rocher au-dessus d'un mauvais piton, on se gardera d'en faire une habitude. L'élasticité du système d'assurage peut se parfaire en montagne moins dangereusement avec l'emploi du nœud de demi-cabestan, l'utilisation pour les points douteux de dégaines-explose (dégaines à absorption d'énergie), la bonne gestion du tirage (un tirage important augmente la force de choc transmise au dernier ancrage) ou le mousquetonnage d'un seul brin de la corde à double.
 
 ## Les conditions
 
@@ -1153,852 +1036,149 @@ Pendant la course, on peut remarquer quelques phénomènes :
 * Dans le massif des Écrins, le mauvais temps vient le plus souvent du sud. Dans le massif du Mont-Blanc, il vient généralement de l'ouest. Si le vent
 en vient, regarder dans ces directions.
 
-7/ Franchir la rimaye
-L'état de la rimaye fait partie des conditions. Certaines courses sont réputées ne
-pouvoir se faire que jusqu'en milieu de saison pour cette raison. Les cordées les plus
-motivées arrivent parfois à repousser l'échéance de quelques jours au prix
-d'acrobaties au bord du gouffre. Mais il faudra dans ce cas en fin de journée savoir
-175
+## Franchir la rimaye
 
-aussi négocier le glacier peut être très ouvert qui constitue la descente sur l'autre
-versant. Il est préférable avant de se lancer de soigneusement s'informer pour savoir
-si ce glacier est encore praticable.
-En bonne condition, la rimaye est bouchée et forme simplement une fente ou
-une petite marche. Un grand pas et l'affaire est faite.
-Quand elle est plus ouverte, un pont de neige solide peut avoir été construit par
-la dernière coulée ayant purgé la pente. Ici, le couloir est si on peut dire de plain-pied.
-On passe rapidement, puis on dégage vite de la goulotte d'avalanche, car plus haut
-que le halo de la frontale, plusieurs centaines de mètres de dénivelée organisés en
-entonnoir ne demandent qu'à passer par là au moindre appel de la pesanteur. Si la
-coulée a été formidable et a jonché la pente sous la rimaye d'un amoncellement
-impressionnant de gros blocs de neige compacte, on se souvient de la réflexion du
-placide André Bertrand, meilleur grimpeur des Cerces de son temps, en réchappe
-dans la face nord de l'Eiger avec René Desmaison tandis que des rochers gros comme
-des armoires tombaient de toute part : « Ce qui tombe ne sera plus à tomber. »167
-Quand le pont de neige est douteux, on en fait un examen approfondi, en allant
-voir du côté gauche puis du côté droit, comme cet hiver avant de se lancer en cascade
-de glace sur un free-standing où on faisait le tour de la bête pour voir si elle était
-assez solide. La glace, la neige, sont solides à la compression, pas à la traction. Aussi,
-on cherche à savoir si les piliers sont compacts de chaque côté du pont. La neige du
-milieu doit reposer sur une sorte de voûte soumise à la compression.
-Si vous n'avez pas de chance, la rimaye se présente comme un mur, la lèvre
-supérieure étant très au-dessus de la lèvre inférieure. En l'absence de trace de passage,
-on peut se poser la question de savoir si le couloir est réellement en condition, et s'il
-n'est pas plus sage de faire demi-tour. Mais les traces ont pu aussi être effacées
-récemment suite à une petite coulée, aussi n'abandonnez pas trop vite. Franchir le
-mur peut ne pas être facile car il est généralement en neige plus ou moins molle, qui
-supporte mal le poids du grimpeur sur les seules pointes avant des crampons.
-Il faut d'abord choisir l'endroit le moins difficile, donc éliminer les endroits où
-la lèvre supérieure est surplombante ou trop à distance de la lèvre inférieure.
-Le second assure depuis la lèvre inférieure qui forme généralement une partie
-horizontale, sans trop s'approcher du trou. Il est simplement calé dans la neige si la
-pente est débonnaire, vaché à un corps-mort sinon. Il n'est pas dans l'axe de chute du
-premier de cordée car réceptionner son copain équipée de crampons est moins
-agréable que de l'accueillir avec ses chaussons d'escalade.
-Ensuite on cherche à progresser en piolet traction et cramponnage frontal. Si la
-lèvre est trop molle et à tendance à s'effondrer, il va falloir l'aménager.
-Trois solutions :
-1/ On creuse des marches au piolet. C'est une des dernières circonstances où
-l'alpiniste contemporain s'emploie à ce genre d'exercice. - Les autres occasions de
-tailler sont de courts passages de neige dure ou de glace qu'on rencontre parfois à de
-167 Professionnel du vide, René Desmaison, éditions Arthaud, 1979.
+L'état de la rimaye fait partie des conditions à vérifier pour préparer une course. Certaines courses sont réputées ne pouvoir se faire que jusqu'en milieu de saison pour cette raison.
+* En bonne condition, la rimaye est bouchée et forme simplement une fente ou une petite marche. Un grand pas et l'affaire est faite.
+* Quand elle est plus ouverte, un pont de neige solide peut avoir été construit par la dernière coulée ayant purgé la pente. On passe rapidement, puis on dégage vite de la goulotte d'avalanche, car plus haut que le halo de la frontale, plusieurs centaines de mètres de dénivelée organisés en entonnoir ne demandent qu'à passer par là au moindre appel de la pesanteur.
+* Quand le pont de neige est douteux, on en fait un examen approfondi, en allant voir du côté gauche puis du côté droit. La glace, la neige, sont solides à la compression, pas à la traction. Aussi, on cherche à savoir si les piliers sont compacts de chaque côté du pont. La neige du milieu doit reposer sur une sorte de voûte soumise à la compression.
+* Si vous n'avez pas de chance, la rimaye se présente comme un mur, la lèvre supérieure étant très au-dessus de la lèvre inférieure.
+* Franchir le mur peut ne pas être facile car il est généralement en neige plus ou moins molle, qui supporte mal le poids du grimpeur sur les seules pointes avant des crampons.
+* Il faut d'abord choisir l'endroit le moins difficile, donc éliminer les endroits où la lèvre supérieure est surplombante ou trop à distance de la lèvre inférieure. Le second assure depuis la lèvre inférieure qui forme généralement une partie horizontale, sans trop s'approcher du trou. Il est simplement calé dans la neige si la pente est débonnaire, vaché à un corps-mort sinon. Il n'est pas dans l'axe de chute du premier de cordée car réceptionner son copain équipée de crampons est moins agréable que de l'accueillir avec ses chaussons d'escalade.
+* Ensuite on cherche à progresser en piolet traction et cramponnage frontal. Si la lèvre est trop molle et à tendance à s'effondrer, il va falloir l'aménager. Trois solutions :
+  * On creuse des marches au piolet. C'est une des dernières circonstances où l'alpiniste contemporain s'emploie à ce genre d'exercice. Il faut souvent commencer par déblayer avec la panne du piolet la neige non adhérente et en cours de fonte qui pend de la lèvre supérieure. On tâche de se mouiller le moins possible. Une fois le déblayage accompli, on taille des marches profondes en tachant de trouver une ligne de faiblesse, pas forcément en ligne directe.
+  * On prend les gros bâtons en bois qui ont servi pour l'approche et qu'on a prévu d'abandonner, et on les enfonce horizontalement dans le mur vertical pour en faire des échelons. On monte le pied sur le premier bâton, on ancre le piolet plus haut en enfonçant le manche obliquement jusqu'à la tête, et on enfonce le deuxième bâton pour avoir un second échelon. De là, on part en libre avec les deux piolets et en se ménageant de profondes marches pour les pieds si la neige est toujours inconsistante. Si on n'a pas de bâton, le premier de cordée emprunte les piolets du second pour les planter à l'horizontale comme les bâtons.
+  * On creuse jusqu'à atteindre la glace pour placer une bonne broche, puis on mousquetonne un étrier en sangle sur la broche en tâchant de ne pas coincer une pointe de crampons dans le tissu de la sangle. On se vache très court sur la broche avec une dégaine.
 
-176
 
-petites brèches aériennes en parcours d'arête rocheuse, pour éviter de devoir remettre
-les crampons pour quelques mètres seulement. - Il faut souvent commencer par
-déblayer avec la panne du piolet la neige non adhérente et en cours de fonte qui pend
-de la lèvre supérieure. On tâche de se mouiller le moins possible car tout à l'heure, le
-vent au sommet sur les vêtements trempés nous le ferait regretter. (On a prévu une
-paire de gants de rechange dans le sac par personne.) Une fois le déblayage accompli,
-on taille des marches profondes en tachant de trouver une ligne de faiblesse, pas
-forcément en ligne directe. Pour ne pas se trouver rejeté en arrière, on peut creuser
-au-dessus de la marche une conque pour accueillir le genou et le tibia. Plus la neige
-est molle, plus les marches doivent être profondes, ce qui peut finir pas former un
-véritable escalier.
-2/ On prend les gros bâtons en bois qui ont servi pour l'approche et qu'on a
-prévu d'abandonner, et on les enfonce horizontalement dans le mur vertical pour en
-faire des échelons. On monte le pied sur le premier bâton, on ancre le piolet plus haut
-en enfonçant le manche obliquement jusqu'à la tête, et on enfonce le deuxième bâton
-pour avoir un second échelon. De là, on part en libre avec les deux piolets et en se
-ménageant de profondes marches pour les pieds si la neige est toujours inconsistante.
-Si on n'a pas de bâton, le premier de cordée emprunte les piolets du second pour les
-planter à l'horizontale comme les bâtons. Le second récupérera ses piolets au passage.
-S'il lui manque un piolet pour démarrer, le leader pourra peut-être lui renvoyer un
-piolet après avoir confectionné son relais, en le mousquetonnant à la corde et en le
-laissant filer.
-3/ On creuse jusqu'à atteindre la glace pour placer une bonne broche, puis on
-mousquetonne un étrier en sangle sur la broche en tâchant de ne pas coincer une
-pointe de crampons dans le tissu de la sangle. C'est un pas d'artif comme en rocher.
-On se vache très court sur la broche avec une dégaine comme à la page 143.
-Après avoir franchi la rimaye, le premier de cordée se met un peu à distance
-pour ne pas tomber bêtement dedans, et fait relais sans attendre. Une longueur courte
-permet de mieux assurer le second car la corde n'est pas encore élastique.
-Le relais est fait d'un corps-mort ; classiquement, le deuxième piolet dans une
-tranchée horizontale, très haut par rapport à l'assureur qui se vache en tension dessus.
-Ou bien on a emporté un deadman et on l'enfonce au marteau-piolet. Ou bien encore
-on casse en deux le bâton de bois qu'on a emmené pour l'approche (et qu'on n'a pas
-consommé pour franchir la lèvre) et on utilise les deux morceaux côte à côte en
-corps-mort.
-Si vous trouvez de la glace, vous êtes le roi du pétrole : deux broches reliées
-par une grande sangle nouée. Si vous trouvez le rocher du bord du couloir avec
-fissure ou becquet : trop facile. Attention toutefois à ces immenses becquets inspirant
-confiance mais dont la base disparaît dans la neige. Testez-le en le bousculant un peu
-avant de lui confier la cordée.
-Finalement, le fameux mal des rimayes décrit dans les livres pourrait bien
-177
+* Après avoir franchi la rimaye, le premier de cordée se met un peu à distance pour ne pas tomber bêtement dedans, et fait relais sans attendre. Une longueur courte permet de mieux assurer le second car la corde n'est pas encore élastique. Le relais est fait d'un corps-mort ; classiquement, le deuxième piolet dans une tranchée horizontale, très haut par rapport à l'assureur qui se vache en tension dessus. Si vous trouvez de la glace, vous êtes le roi du pétrole : deux broches reliées par une grande sangle nouée. Si vous trouvez le rocher du bord du couloir avec fissure ou becquet : trop facile. Attention toutefois à ces immenses becquets inspirant confiance mais dont la base disparaît dans la neige. Testez-le en le bousculant un peu avant de lui confier la cordée.
+  
+## Sortie de goulotte en neige : danger.
 
-devenir la meilleure partie de rigolade de la course où vous admirerez les qualités
-artistiques de votre copain qui se démène comme un beau diable à gravir plus vite la
-neige molle qu'elle ne se dérobe sous ses pieds avec ses jambes battant en tous sens
-dans le vide...
-8/ Sortie de goulotte en neige : danger.
-Les sorties de longueur en neige, vous avez connu ça lors de vos week-end en
-cascade de glace. On ne sait jamais à l'avance si on va avoir affaire à une neige
-compacte qui rend la sortie plus facile ou à une poudreuse inconsistante. Dans le
-raide, avec la corde qui tire en arrière en fin de longueur, on se fait vite peur.
-La glace bien sûr, c'est technique, mais c'est la sécurité. L'idéal est de
-progresser sur la neige compacte parce que ça va vite, et de s'assurer sur la glace
-parce que c'est solide.
-Aussi, on ne va pas quitter trop vite la goulotte de glace qui nous a donné du fil
-à retordre, pour partir à l'aventure dans la sortie en neige où on ne pourra peut être
-pas faire un relais sûr. Le second va en avoir besoin quand il va remonter à son tour la
-goulotte. Il est probable qu'on l'entende quand il entamera le pas dur : «Dis voir, il
-est béton ton relais ? ». Alors, à la fin de la goulotte de glace, avant de prendre pied
-sur la neige, on commence par visser une broche au dernier emplacement solide
-possible. Puis on regarde attentivement la suite. Y-a-t-il un becquet ou une fissure de
-rocher dans la pente de neige pour faire relais ? A quelle distance ? Ai-je assez de
-corde pour y aller ? On demande au second. Il sait répondre car il vient de voir passer
-le milieu qu'on a marqué au feutre. Il crie : « Il reste vingt mètres. » C'est largement,
-vous y allez. Si en vous rapprochant de ce que vous avez pris de loin pour un becquet,
-mais qui n'en est pas un, vous regrettez de vous être aventuré dans la neige raide,
-vous redescendrez plus sereinement en sachant qu'une broche vous protège en sortie
-de glace.
-Maintenant, si le copain vous crie « il reste cinq mètres », ne tentez pas le
-diable : une deuxième broche superposée à l'autre, une sangle qui les relie ; relais !
-9/ Conditions exécrables ou conditions dangereuses ?
-Vous sortez du dortoir un peu hagard. Bizarre, le gardien n'est pas venu
-réveiller son monde, et pourtant, vous entendez des voix en bas qui viennent du
-réfectoire. Vous vérifiez votre montre : 3h45. Vous ne l'avez pas entendu sonner à
-3h30, mais depuis que vous avez aligné quelques courses en haute-montagne, vous
-avez une sorte de réveil naturel dans la tête.
-En bas, c'est l'effervescence. Un vent froid s'est engouffré dans la salle horssac. On discute ferme dans une ambiance un peu folklo. Certains traînent en
-chaussons de refuge et caleçon, d'autres sont équipés de pied en cap, leurs
-mousquetons cognent sur le banc quand ils se rassoient. Vous comprenez que le
-temps ne s'est pas arrangé depuis hier soir. La dégradation prévue pour l'après-midi a
-sans doute pris un peu d'avance. Vous sortez sur la terrasse. Le vent manque de vous
-arracher la lourde porte des mains. Des flocons passent presque à l'horizontale. On ne
-178
-
-voit pas à vingt mètres. Il fait un froid de canard. Vous rentrez au réfectoire. Certains
-sont allés se recoucher. D'autres prétendent qu'ils partiront dans une paire d'heures,
-quand la tempête sera calmée, mais n'y croient pas eux-mêmes. La montagne s'est
-mise en colère. Vous allez vous recoucher à votre tour. Le genre de conditions
-exécrables où l'on n'hésite peu. Aucun danger : tout le monde reste au chaud. Quand
-la mer se fâche de cette façon, les marins restent au port et ne courent aucun risque.
-Il a fait bien chaud cette nuit sous la tente malgré le vent. Pour un peu, vous
-regrettez d'avoir monté votre sac de couchage dans les échelles des Egralets. Vous
-vous sentez en forme, prendre le petit déjeuner à 2 heures sans souffler dans ses
-mains est une aubaine. Les nuages de tout à l'heure se sont dissipés. Vous abattez la
-tente et la roulez sous un rocher. Vous voilà prêts pour cette longue course de neige.
-L'atmosphère est un peu étrange, inhabituelle, vous ne sauriez dire pourquoi. Peutêtre cette chaleur. Vous dévalez les pentes jusqu'au glacier empierré. Des frontales
-dansent en provenance du refuge du Couvercle. Puis vous arrivez au premier névé qui
-n'a pas regelé. Hésitations. On verra bien plus haut. Vous vous harnachez, chaussez
-les crampons par habitude et vous voilà à tracer vers les Courtes en vous enfonçant
-tous les dix pas dans un trou de neige molle. La progression est pénible, la fatigue
-arrive vite. Dans ces conditions médiocres mais maniables, quand donc allez-vous
-prendre la décision de renoncer à la course ? Avant ou après la chute de pierre qui va
-écraser le nez de votre copain ? Avant ou après le milieu de la pente raide instable,
-avec ce piolet technique dont la lame fine raye la neige inconsistante sans aucun
-freinage ? Ces conditions qui ne font pas peur, mi-figue mi-raisin, sont sans doute les
-plus traîtres car on a tendance à vouloir forcer le destin, à remettre à plus tard la
-bonne décision. On ne se voit pas renoncer pour si peu alors qu'on peut encore
-avancer. On constate bien que rien n'est habituel, mais on refuse de l'admettre. On
-veut croire à un meilleur regel en toute fin de nuit ou à plus haute altitude. C'est ici
-qu'il faut faire preuve d'une grande lucidité afin de se ménager une longue carrière...
-**
+* Les sorties de longueur en neige, on ne sait jamais à l'avance si on va avoir affaire à une neige compacte qui rend la sortie plus facile ou à une poudreuse inconsistante. Dans le raide, avec la corde qui tire en arrière en fin de longueur, on se fait vite peur.
+* La glace bien sûr, c'est technique, mais c'est la sécurité.
+* L'idéal est de progresser sur la neige compacte parce que ça va vite, et de s'assurer sur la glace parce que c'est solide.
+* A la fin de la goulotte de glace, avant de prendre pied sur la neige, on commence par visser une broche au dernier emplacement solide possible. Puis on regarde attentivement la suite. Y-a-t-il un becquet ou une fissure de rocher dans la pente de neige pour faire relais ? A quelle distance ? Ai-je assez de corde pour y aller ? On demande au second. Il sait répondre car il vient de voir passer le milieu qu'on a marqué au feutre. Il crie : « Il reste vingt mètres. » C'est largement, vous y allez. Si en vous rapprochant de ce que vous avez pris de loin pour un becquet, mais qui n'en est pas un, vous regrettez de vous être aventuré dans la neige raide, vous redescendrez plus sereinement en sachant qu'une broche vous protège en sortie de glace. Maintenant, si le copain vous crie « il reste cinq mètres », ne tentez pas le diable : une deuxième broche superposée à l'autre, une sangle qui les relie ; relais !
 
 ## Le matériel
 
-1/ La tenue
-On s'habille selon le fameux système multi-couche, qui doit permettre de
-concilier :
-– l'évacuation de l'humidité ;
-– l'isolation thermique ;
-– la protection contre le vent et la pluie.
-Les trois couches classiques de vêtements répondent à ce cahier des charges :
-sous-vêtement en matériau synthétique et non en coton qui doit éloigner l'humidité de
-la peau, fourrure polaire qui apporte la chaleur par la couche d'air qu'elle emprisonne,
-et veste gore-tex ou équivalent qui n'empêche pas l'évacuation finale de l'humidité. La
-veste gore-tex de l'alpiniste ne comporte pas de doublure chaude pour pouvoir
-l'utiliser par temps pluvieux et chaud, et diminuer son poids.
-Il serait attristant de croire que nous venons d'inventer l'eau chaude. M.L.
-Weissenbach192, en 1894, écrivait déjà que « les vêtements, pour être chauds, doivent
-191 Op. cit., Patrice de Bellefon, p.79.
-192 Op. cit., Georges Casella, p.161.
+### Vêtements
 
-192
+On s'habille selon le fameux système multi-couche, qui doit permettre de concilier :
+* l'évacuation de l'humidité
+* l'isolation thermique
+* la protection contre le vent et la pluie
 
-(…) être appliqués sur le corps en plusieurs couches minces séparées les unes des
-autres par une légère couche d'air ».
-Le pantalon idéal est près du corps, élastique, robuste, chaud, protège du vent
-et est imperméable. Si, en plus, il ne pèse pas trop lourd, c'est qu'on a trouvé le
-mouton à cinq pattes. On peut se tourner vers un pantalon de la marque Vertical dont
-la membrane MP+ se monte sur des tissus extensibles. Les pantalons de montagne en
-soft-shell conviennent mais sont rarement imperméables. On peut ajouter un surpantalon léger en gore-tex pour la montée au refuge ou au bivouac sous la pluie, ou
-choisir un poncho descendant bas.
-En conditions froides, la veste en duvet est toujours incontournable.
-Déconseillée en bushcraft car fragile et ne supportant pas l'humidité, en altitude, l'air
-sec et l'absence de pluie (remplacée par la neige) rendent inoffensifs ses principaux
-inconvénients. Il faut la choisir obligatoirement avec une capuche pour pouvoir
-l'utiliser en bivouac quand on ne s'est pas encombré d'un sac de couchage.
-Un alpiniste préfère généralement porter ses vêtements près du corps. Ceci
-limite l'accrochage des plis de tissu avec le rocher, les crampons, les piolets, les
-mousquetons, les broches, le décoinceur. On voit aussi beaucoup mieux les portematériels du baudrier. On évite cependant d'exagérer en choisissant une taille trop
-petite car c'est la couche d'air emprisonnée entre deux vêtements qui crée l'isolation
-thermique. On sera plus mobile avec un vêtement ajusté mais moins au chaud.
-Les bonnets fins doivent pouvoir être portés sous le casque. Les tours-de-cou et
-les cagoules en fourrure polaire apportent un supplément de chaleur pour un poids
-négligeable.
-Une casquette améliore la protection oculaire. Un chapeau à large bord protège
-en plus la nuque et les oreilles du soleil. Ils sont utiles pendant une longue montée au
-refuge ou au bivouac en plein soleil, mais on se contente souvent du casque, ce qui
-évite de le porter dans le sac.
-Une paire de gants de ski plus une paire de gants en fourrure polaire en
-rechange conviennent pour la plupart des courses d'été. Il faut que le matériau de la
-paume ait un minimum de grip et que la souplesse générale du gant permette de serrer
-un manche de piolet sans effort. Si elle est absente d'origine, on doit y coudre une
-boucle élastique pour maintenir le gant au poignet quand on l'ôte pour quelques
-instants, ce qui permet de saisir une petite prise avec la main nue sans devoir ranger
-son gant. Il est important que le matériau intérieur reste glissant quand on a la peau
-humide, sous peine de retourner l'intérieur des doigts en ôtant le gant : on ne peut
-alors le remettre qu'après de longs efforts. La boucle de serrage ne doit pas être trop
-envahissante ni trop agressive, pour éviter que la dragonne serrée d'un piolet ne crée
-une douleur à cet endroit.
-On a déjà parlé des chaussures. Les Italiens demeurent les spécialistes du
-produit. Les deux marques incontournables sont actuellement Scarpa et La Sportiva.
-Pour bien grimper, on choisit une pointure plus ajustée que pour la randonnée. Ceci
-implique qu'on aura mal au bout du gros orteil dans les très longues descentes et
-qu'on sera plus précocement sensible au froid. Souvent, les alpinistes finissent par
-193
+Les trois couches classiques de vêtements:
+* sous-vêtement en matériau synthétique et non en coton qui doit éloigner l'humidité de la peau
+* fourrure polaire qui apporte la chaleur par la couche d'air qu'elle emprisonne
+* veste gore-tex ou équivalent qui n'empêche pas l'évacuation finale de l'humidité.
 
-posséder plusieurs paires, de différents modèles, plus ou moins chauds, plus ou moins
-lourds et plus ou moins ajustés. Et ils choisissent en fonction de la course projetée. En
-conditions très froides, on évite la pointure trop petite qui favorise les gelures.
-En refuge ou au bivouac, personne ne prend de vêtements de nuit. On dort avec
-les sous-vêtements de la journée. Du reste, si on s'est lavé, c'était une toilette de chat,
-les douches restant rares. Les refuges obligent maintenant à dormir dans des sacs à
-viande. Il existe des modèles de la marque Sea to Summit (dont l'un pèse 125
-grammes) et qui peuvent, au bivouac, doubler une couverture de survie en forme de
-sac ou un sac de couchage léger.
-2/ Les lunettes de soleil
-Le rayonnement solaire s'étend sur la totalité du spectre électro-magnétique,
-depuis les plus petites longueurs d'onde (λ) des rayons gamma (à ne pas confondre
-avec les rayons cosmiques qui sont des protons ultra-rapides et non des photons)
-jusqu'aux grandes longueurs d'ondes des ondes radioélectriques, en passant par les
-rayons X, les ultra-violets, la lumière (c'est à dire la gamme d'ondes électromagnétiques visibles), et les infra-rouges.
-L'atmosphère, notamment la ionosphère (mésosphère, thermosphère et
-exosphère), stoppe les longueurs d'ondes inférieures aux UVB. L'irradiation aux
-rayons gamma et X ne se posent que pour les personnels navigant de l'aviation (ils
-portent maintenant des badges dosimétriques comme les professions de santé utilisant
-les rayons X), et les UVC (λ<280nm) sont en principe stoppés par la couche d'ozone,
-située dans la stratosphère, dont le fameux trou ne concerne que le continent
-antarctique.
-A l'arrivée au sol, sans nuage, on obtient les proportions suivantes : 56% du
-rayonnement est composé d'infra-rouges, 39% de lumière (λ comprise entre 400 et
-780nm ; limite inférieure parfois indiquée à 380nm), 5% d'ultra-violets. Les ultraviolets sont répartis en 98% d'UVA (λ comprise entre 315 et 400nm) et 2% d'UVB (λ
-comprise entre 280 et 315nm).
-Les infra-rouges sont stoppés par les nuages, et ont la bonne idée de provoquer
-de la chaleur, ce qui les empêchent d'avoir un effet délétère sur l’œil de l'alpiniste,
-hors masochisme invétéré.
-Les rayonnements qui nous concernent sont donc les UV A et B et la lumière
-visible. La quantité d'UV d��pend de deux paramètres :
-- L'épaisseur de l'atmosphère traversée : Ainsi, les UV sont plus nombreux aux
-faibles latitudes qu'aux latitudes élevées. C'est la raison pour laquelle on attire
-l'attention des vacanciers sous les tropiques, qui peuvent se surexposer sans le savoir
-pendant une journée nuageuse qui stoppera l'essentiel des infrarouges donc diminuera
-la sensation de chaleur. L'altitude joue bien entendu sur l'épaisseur de l'atmosphère
-traversée, et tous les 1000m d'altitude, on observe une augmentation de 10% des UV.
-L'épaisseur traversée varie également en fonction de l'heure (le soleil au zénith, c'est
-à dire en été et en France à 14h, étant bien sûr le plus proche) et de la déclinaison du
-194
+Le pantalon idéal est près du corps, élastique, robuste, chaud, protège du vent et est imperméable.
+On peut ajouter un surpantalon léger en gore-tex pour la montée au refuge ou au bivouac sous la pluie, ou choisir un poncho descendant bas.
 
-soleil (faisant les saisons).
-- La réflexion du rayonnement : La neige peut réfléchir de 40 à 90% du
-rayonnement (jusqu'à 80 ou 85% selon d'autres auteurs), le sable jusqu'à 20 ou 25%,
-l'eau jusqu'à 10%, la mer jusqu'à 20%. Ces rayons réfléchis contiennent de la lumière
-polarisée préjudiciable à la vision des contrastes. Ce sont principalement les UV et la
-lumière bleue qui sont réfléchies.
-La cornée stoppe les UVB de longueur d'onde inférieure à 295nm, puis le
-cristallin de l'adulte stoppe l'essentiel des autres UV A et B. Ainsi, seuls 1 à 2% des
-UV atteignent la rétine adulte.
-Chez l'enfant, le cristallin est moins opaque, spécialement avant l'âge de 6 ans.
-Mais à 13 ans, il laisse encore passer 60% des UVA et presque 25% des UVB. C'est à
-l'âge de 25 ans que le cristallin possède une filtration adulte. Puis, avec le
-vieillissement, le cristallin jaunit, ce qui améliore encore sa qualité de filtration. Mais
-les opérés de la cataracte se voient dépourvu de nouveau de toute protection, ce qui
-nécessite la mise en place d'un filtre.
-L'action des UV sur la conjonctive et la cornée peut entraîner une
-photokératoconjonctivite aiguë ou ophtalmie des neiges : en une paire d'heures
-apparaît la sensation d'avoir du sable dans les yeux, des larmoiements et une
-invalidité visuelle qui peut durer 24 heures. Le pronostic est bon (disparition
-spontanée des symptômes en deux ou trois jours), mais le handicap peut
-compromettre la sécurité de la cordée en haute-montagne.
-L'action des UV sur le cristallin, cumulative, peut à long terme favoriser la
-cataracte, laquelle est statistiquement plus précoce de 10 ans chez les professionnels
-de la montagne par rapport à la population générale.
-La lumière va à la rétine par définition, puisqu'il s'agit du rayonnement que
-notre œil perçoit. Des études récentes - notamment celle de 2012 conduite par GuoYuan Sui193, parue dans le British Journal of Ophtalmology - semblent montrer une
-certaine nocivité de la lumière bleue pour la rétine, et en faire un facteur de risque
-pour la DMLA (dégénérescence maculaire liée à l'âge, se traduisant par un trou noir
-au milieu du champ de vision). Cette affirmation n'est cependant pas considérée
-comme une vérité établie par la communauté scientifique.
-La DMLA reste une maladie multifactorielle dépendant d'autres facteurs de
-risque. Deux sont certains : l'âge et la consommation de tabac (risque multiplié par
-2,5 au-delà de 20 cigarettes par jour). D'autres sont évoqués mais non prouvés
-comme une prédisposition génétique, l'hypertension artérielle, l'obésité, l'insuffisance
-d'antioxydants dans l'alimentation.
-Le pigment maculaire, la lipofuscine, absorberait surtout les longueurs d'onde
-comprises entre 430 et 440 nm, d'autres auteurs parlent de 415 à 455 nm avec un pic
-à 430, ou 400 à 500 nm et encore 450 à 480 nm, quoi qu'il en soit une lumière bleue
-193 Is sunlight exposure a risk factor for age-related macular degeneration ? A systematic review and meta-analysis,
-Guo-Yuan Sui et coll., BJO, novembre 2012
+En conditions froides, la veste en duvet est toujours incontournable. Déconseillée en bushcraft car fragile et ne supportant pas l'humidité, en altitude, l'air sec et l'absence de pluie (remplacée par la neige) rendent inoffensifs ses principaux inconvénients. Il faut la choisir obligatoirement avec une capuche pour pouvoir l'utiliser en bivouac quand on ne s'est pas encombré d'un sac de couchage.
 
-195
+### Bonnet & Casquette
 
-foncée. Il en résulterait une toxicité pour la cellule rétinienne.
-On connaît par ailleurs la rétinite solaire, qui est la destruction localisée de
-cellules de l'épithélium pigmentaire de la rétine ainsi que des photorécepteurs,
-produite par l'observation d'éclipses solaires sans protections oculaires. Ces lésions
-sont le plus souvent réversibles en quelques mois mais peuvent laisser des séquelles,
-abaissant l'acuité visuelle. Il s'agit cependant d'un accident dû aux circonstances
-exceptionnelles d'une éclipse qui permettent de fixer le soleil alors que tous ses
-rayons ne sont pas masqués.
-Il résulte de ces données qu'il est indispensable de se protéger des UV pour
-éviter l'ophtalmie des neige et à long terme la cataracte. Et que les enfants ont, de
-plus, la rétine exposée à ces UV, ce qui pourrait être un facteur favorisant la DMLA.
-Il résulte également des dernières études, que se protéger de la lumière bleue,
-pourrait être utile, si cette longueur d'onde se voit confirmée comme facteur de risque
-de la DMLA.
-Avant de l'être pour des raisons prophylactiques, les lunettes de soleil sont
-d'abord portées pour un avantage utilitaire. Le verre teinté stoppe un certain
-pourcentage de rayonnement visible, ce qui supprime l'éblouissement dû à un excès
-de lumière.
-Selon l'utilisation, on distingue différentes catégories de filtration de la
-lumière :
-– Catégorie 1 : absorbe 20 à 57% de la lumière. Verres légèrement teintés.
-– Catégorie 2 : absorbe 57 à 82% de la lumière. Verres moyennement teintés.
-– Catégorie 3 : absorbe 82 à 92% de la lumière. Verres foncés.
-– Catégorie 4 : absorbe 92 à 97% de la lumière. Verres très foncés. Interdits
-pour la conduite automobile.
-Pour la montagne, les catégories 1 et 2 seraient insuffisantes pour une simple
-question de confort. Le choix reste à faire entre les catégories 3 et 4.
-Si le verre est trop sombre par rapport à la luminosité ambiante, la pupille va se
-dilater pour compenser. D'où le danger qu'il y aurait à porter ces verres trop sombres
-s'ils ne stoppaient pas également les UV, car ceux-ci pénétreraient en plus grande
-quantité dans le cristallin (et la rétine des enfants) du fait de la mydriase. C'est la
-raison pour laquelle toutes les lunettes de soleil estampillées CE vendues en Europe
-doivent maintenant filtrer 99,9% des UVB et 99% des UVA, quel que soit leur
-catégorie de filtration des rayonnements visibles (c'est à dire plus ou moins foncées).
-Ces lunettes comportent parfois un logo indiquant 100%UV ou UV400, en référence à
-la longueur d'onde minimale de la lumière.
-Cette filtration des UV est obtenue différemment selon les matériaux :
-- Les verres organiques, composés de résine de synthèse, aux excellentes
-qualités optiques mais peu résistants à la rayure, se trouvent surtout sur des lunettes
-de vue. Ils doivent pour la plupart d'entre eux recevoir un traitement de surface pour
-196
+Les bonnets fins doivent pouvoir être portés sous le casque. Les tours-de-cou et les cagoules en fourrure polaire apportent un supplément de chaleur pour un poids négligeable.
 
-filtrer les UV.
-- Les verres minéraux, composés de verre, ont des qualités optiques optimales,
-une bonne résistance à la rayure mais sont lourds et cassants. Ils équipent également
-davantage les lunettes de vue que les lunettes de soleil. Ils filtrent naturellement les
-UVB, mais pas les UVA. Ils doivent recevoir un traitement de surface pour ces
-derniers.
-- Les verres en polycarbonates ont de mauvaises qualités optiques, mais une
-bonne résistance à la rayure et à la fracture, sont légers, bon marché. Ils filtrent
-intrinsèquement les UV sans besoin de traitement de surface. La plupart des lunettes
-de soleil de sport les utilisent.
-Certains verres sont dits polarisants. Ceci signifie qu'ils stoppent la lumière
-polarisée issue des réflexions. Ils permettent de réduire l'éblouissement tout en
-augmentant les contrastes, en éliminant la lumière réfléchie perturbatrice qui n'est
-d'aucune utilité pour voir l'objet ciblé. Ils sont donc très indiqués en montagne et en
-mer.
-Il est classique de recommander pour la haute-montagne le port de lunettes de
-catégorie 4 filtrant bien sûr 100% des UV, et de formes bien enveloppantes ou munies
-de caches extérieurs pour stopper les rayonnements latéraux. Une étude de 2002 sous
-la conduite du Dr Hussam El Chehab 194 a montré une prévalence de pathologies
-oculaires augmentée chez les guides de haute-montagne par rapport à la population
-générale, mais sans corrélation avec leur fréquentation plus ou moins grande de la
-haute altitude (au-dessus de 3000m), la raison étant trouvée dans leur application à se
-protéger dans ces circonstances. Leur risque accru par rapport à la population
-générale semblait donc paradoxalement lié à leur fréquentation de la moyenne
-montagne où les lunettes sont moins systématiquement portées.
-On doit en conclure qu'il est préférable de porter des lunettes le plus souvent
-possible en montagne, et que choisir les verres les plus foncés, qui ne protègent pas
-davantage des UV, risque de les faire retirer dans beaucoup de circonstances,
-notamment pendant la grimpe sur rocher pour chercher au mieux les prises ou les
-pitons cachés au fond des fissures sombres. Tandis que choisir des verres moins
-foncés va certainement permettre de les porter plus continûment.
-Un choix idéal serait de posséder une paire de catégorie 4 pour les courses de
-neige, et une paire de catégorie 3 pour les courses de rocher. On peut encore emporter
-ces deux paires, l'une étant la paire de secours en cas de perte ou de fracture, leurs
-rôles étant permutés en fonction des circonstances.
-Les lunettes de soleil sont à la fois indispensables, perdables aussi facilement
-que des gants, et cassables. Il s'agit donc de consommable. En acquérir plusieurs
-paires bon marché est sans doute une meilleure dépense que la paire unique et très
-chère de la dernière marque à la mode.
-194 Do ultraviolet radiations induce earlier aged ocular pathologies among moutaineers guides ? Hussam El Chehab
-et coll., ARVO journal, vol.52, mars 2012.
+Une casquette améliore la protection oculaire. Un chapeau à large bord protège en plus la nuque et les oreilles du soleil. Ils sont utiles pendant une longue montée au refuge ou au bivouac en plein soleil, mais on se contente souvent du casque, ce qui évite de le porter dans le sac.
 
-197
+### Gants
 
-Il faut enfin ajouter :
-– que la visière d'une casquette ou le rebord d'un chapeau participe de la
-protection oculaire par l'ombre portée.
-– qu'une alimentation riche en anti-oxydants (vitamines C et E, caroténoïdes
-présents dans les carottes, les tomates, les courges, les brocolis) renforce la
-protection rétinienne à l'oxydation, donc aux radicaux libres, qui seraient
-formés dans les tissus par la respiration cellulaire qui se déroule à l'intérieur
-de ces drôles d'endosymbiotes que sont les mitochondries. Manger des
-fruits et des légumes et cesser de fumer pourrait être plus efficace que de se
-précipiter sur les nouveaux verres filtrant la lumière bleue.
-3/ Le sac à dos
-Un sac à dos d'alpinisme est de taille moyenne (30 à 45 litres) et ne comporte
-pas de poches latérales pour ne pas être plus large que le corps, au cas où il faudrait
-passer par une petite boîte à lettre comme on en trouve dans le massif du Mont-Blanc.
-Mais ici aussi, l'exagération peut devenir un défaut.
-Quand on grimpe en chaussons ; les chaussures et les crampons sont dans le
-sac. Trop étroit, celui-ci fait perdre beaucoup de temps pour composer le savant
-agencement qui permet de tout caser, surtout si l'on chausse une forte pointure. La
-priorité d'utilisation des objets est évidemment le grand ordonnateur : La cordelette
-pour poser des rappels sera utilisée après les chaussures car on quittera certainement
-les chaussons avant d'entamer la descente par la voie normale ; la gourde sera utilisée
-avant les crampons, etc. Mais malgré toute votre sagacité, il y aura bien un objet qu'il
-faudra aller chercher sous tous les autres à un moment ou un autre, et si votre sac est
-trop étroit et trop bourré, vous ne pourrez pas enfiler la main entre le tissu et le
-contenu pour le ramener des profondeurs. L'astuce est là. Celui qui vous sort
-n'importe quel article en un clin d’œil en donnant l'impression de tout avoir en haut
-du sac est celui qui n'en a pas tassé le contenu.
-A un moment ou un autre, on sera amené à hisser le sac du premier de cordée.
-Abîmer votre beau sac de montagne va certainement vous faire de la peine, mais si
-ça peut vous éviter un vol d'anthologie dans cette dalle où les coinceurs n'ont qu'un
-rôle décoratif, vous le sacrifierez sans miséricorde. Le sac doit donc être un
-minimum résistant à la déchirure. Le sac spéléo utilisé en grande voie est
-inconfortable pour les longues approches. Un vrai sac de hissage peut parfois
-convenir, mais il est généralement bien lourd, et sera plus indiqué pour une course
-TD où l'on pense devoir hisser pour de nombreuses longueurs.
-Alors pour une course classique, on tente de choisir le compromis. : un sac
-montagne de 40 à 45 litres, léger (moins d'1,200 kg), pas trop étroit, dont la ceinture
-ventrale est escamotable, dénué de poche extérieure à crampons pour éviter qu'elle ne
-s'accroche au rocher pendant le hissage, et dont le tissu paraît robuste, notamment
-celui du rabat qui prend les coups, et celui du dos, trop souvent fabriqué dans une
-198
+Une paire de gants de ski plus une paire de gants en fourrure polaire en rechange conviennent pour la plupart des courses d'été.
 
-maille fragile privilégiant l'aération. On évite de placer un objet dur au contact direct
-du tissu, car celui-ci se déchirerait au moindre frottement contre le rocher puisque
-soumis à la fois au marteau et à l'enclume. Les crampons sont rangés pointes
-inférieures contre pointes inférieures, emballés dans un sac plastique épais tourné
-autour, et on interpose entre les pointes avant et le tissu du sac la grosse paire de
-gants. Oubliez la pochette à crampons : trop lourde. Oubliez les protections de
-pointes en caoutchouc à replacer longuement. Un montagnard peut sortir et mettre à
-ses pieds ses crampons en quelques instants. On peut disposer les chaussures
-verticalement, tête bêche, contre le dos du sac, en interposant un vêtement dans les
-parties latérales entre le tissu du sac et les semelles. Les sangles de compression du
-sac sont bien serrées pour qu'elles rendent le tout compact et ne se prennent pas dans
-les saillies de rocher. Au retour de course, on fera le bilan des petites déchirures et on
-réparera avec du Seam Grip de Mac Nett. On aura évité les grosses déchirures car le
-premier de cordée, au lieu de tirer comme un âne bâté sur sa poulie autobloquante,
-aura obéi au doigt et à l’œil à son second – la rose, stop, la bleue, stop, la rose... - qui
-a pour mission de conduire sans dommage le sac hissé. On se congratule encore
-d'avoir réglé toutes ces manœuvres dans les grandes voies de la fin du printemps.
-4/ Piolets, marteaux
-Le premier achat sera le piolet à lame classique et à manche droit ou
-légèrement cintré. Acheter un piolet très léger à manche droit très long serait
-confortable en neige facile mais peu efficace en glace : trop léger et lame trop épaisse
-pour ancrer dans un matériau dur. Inversement, choisir un piolet très court, équipé
-d'une lame banane très fine, serait un handicap en neige molle et profonde. La lame
-rayerait la neige sans freiner, ce qui peut rendre une réchappe inefficace. Le petit
-manche planté jusqu'à la garde serait encore insuffisant pour atteindre la neige moins
-ramollie sous la surface. Le premier piolet classique doit être un compromis entre ces
-deux écueils : 60 ou 70 cm de long selon sa stature, relativement lourd, à lame
-d'épaisseur intermédiaire très bien affûtée pour pouvoir ancrer dans la glace et retenir
-dans la neige. Un bout de manche coupé en biais en guise de pique est inefficace en
-glace. Une véritable pique est indispensable.
-On achètera aussi un marteau équipé d'un bec à dépitonner pas trop agressif
-pour éviter de se blesser en cas de chute. Ce sera le marteau des escalades difficiles,
-compact, avec le poids bien en tête.
-Puis on s'équipera d'un petit marteau-piolet de type 3ème main, qui pourra
-remplacer les deux outil précédents dans un grand nombre de courses rocheuses à
-l'approche glaciaire débonnaire. Gain de poids assuré. A peine plus encombrant que le
-marteau, on le porte au baudrier. Comme le marteau, on l'équipe d'une cordelette de
-4mm en bout de manche pour l'attacher au porte-matériel. On règle la longueur de
-façon à pouvoir tendre le bras en complète extension du côté opposé à la hanche qui
-soutient le marteau. A la désescalade, on se prend souvent un genou dans cette
-cordelette : il suffit de la réduire par un nœud de vache peu serré pour qu'elle ne gêne
-plus. Dans la marche glaciaire, on reste conscient que creuser la tranchée en T pour
-199
+### Chaussures
 
-enfouir un corps-mort sera plus difficile avec le manche qu'avec une panne, aussi on
-tend encore mieux que d'habitude la corde et on évite les longs ponts de neige
-douteux. A la descente, on n'abuse pas de l'utilisation en piolet-rampe, la lame banane
-ayant tendance à mal tenir à l'envers. On peut alors planter le piolet légèrement de
-travers par rapport à la ligne de pente pour éviter son décrochage.
-Enfin, on finira par acquérir une paire de piolets-tractions pour la cascade de
-glace, l'un équipé d'un marteau, l'autre d'une panne, ces accessoires étant
-démontables. Ne pas hésiter à choisir un manche très cintré, mais en évitant tout de
-même les modèles spécifiques au dry-tooling.
-Dragonnes et longes des piolets-tractions
-En cascade de glace, on a cherché à grimper le plus possible sans dragonne
-pour libérer sa gestuelle. Mais on se fatigue un peu plus car on serre davantage le
-manche. En montagne, le mieux est d'emporter ses dragonnes au cas où et de ne les
-mousquetonner à son piolet que si on en éprouve le besoin en cours d'ascension. Il
-faut choisir des dragonnes détachables par un mousqueton ou une attache rapide. Si
-son piolet en est dépourvu, on installe une cordelette 5mm depuis le trou de la tête du
-piolet jusqu'au milieu du manche où elle est maintenue par un ruban adhésif. La
-dragonne comporte un mousqueton porte-matériel qui se clippe dans cette cordelette.
-Quant aux longes élastiques accrochées en permanence aux piolets, très à la
-mode, c'est une question de convenance personnelle. Leur rôle essentiel est de
-rassurer quant à la crainte de perdre son piolet. Hormis cet avantage psychologique,
-nous pensons qu'elles compliquent la progression et ne sont utiles que pour des
-courses très engagées. Si on a su renoncer depuis ses premières courses à toute longe
-sur son piolet classique, on a pris la bonne habitude de ne pas perdre son piolet : c'est
-devenu une seconde nature. Et puis, dans une course AD par exemple, on maîtrise le
-niveau technique suffisamment pour pouvoir poursuivre avec un seul piolet. Dans les
-longueurs délicates, le second donnera son deuxième piolet au leader qui a perdu le
-sien. D'où l'intérêt de s'être forgé une cordée relativement homogène, puisque le
-second devra être capable de négocier ces passages sans trop de fatigue, certes assuré
-du haut, mais à l'aide d'un seul engin.
-En glace, pouvoir se vacher très vite en tension sur son piolet est très
-confortable. On peut donc se confectionner avec une cordelette 7mm une vache
-courte équipée d'un mousqueton capable de passer dans le trou du bas du manche.
-Elle est nouée en permanence au baudrier mais clippée sur un porte-matériel. Elle
-permet de se vacher rapidement en tension au piolet pour brocher confortablement
-dans un pas vertical difficile bien pourvu en glace.
-5/ Les crampons
-Un modèle douze pointes en acier avec fixation automatique à l'arrière et
-sangle ou bride plastique à l'avant est incontournable. Si on choisit un étrier à l'avant,
-on se prive de la possibilité d'acheter à l'avenir des chaussures dépourvues de débord
-avant, ce qui limite énormément le choix.
-200
+Les Italiens demeurent les spécialistes du produit. Les deux marques incontournables sont actuellement Scarpa et La Sportiva. Pour bien grimper, on choisit une pointure plus ajustée que pour la randonnée. Ceci implique qu'on aura mal au bout du gros orteil dans les très longues descentes et qu'on sera plus précocement sensible au froid. Souvent, les alpinistes finissent par posséder plusieurs paires, de différents modèles, plus ou moins chauds, plus ou moins lourds et plus ou moins ajustés. Et ils choisissent en fonction de la course projetée. En conditions très froides, on évite la pointure trop petite qui favorise les gelures.
 
-Les deux pointes avant peuvent être verticales, ce qui les rend plus efficaces en
-glace.
-Il faut éviter les modèles typés cascade de glace trop spécifiques. Si on peut
-s'accommoder d'une mono-pointe avant, l'absence des pointes intermédiaires situées
-au milieu du pied et placées perpendiculaires à la marche est plus gênante. Ces
-pointes ont disparu de certains crampons cascade pour pouvoir mieux utiliser les
-pointes orientées vers l'arrière qui servent à griffer les colonnettes. Mais ce sont les
-pointes de retenue utilisées à la descente en cramponnage classique.
-Les antibotts sont maintenant livrés montés sur la plupart des modèles. En
-l'absence, il faut impérativement les commander ou bien, faute de mieux, s'en
-fabriquer avec du ruban adhésif large et solide.
-6/ La corde
-La classique
-Choisir une corde pour débuter en alpinisme ne pose aucun problème. Il faut
-clairement acquérir un rappel de 100 mètres livré en deux brins séparés de 50 m de
-couleurs différentes. Pour les courses de neige F et PD, où il n'y aura ni risque de
-chute avec un choc important, ni long rappel, on emportera un seul brin. Pour les
-courses de rocher, on prendra les deux brins. Le mousquetonnage d'un seul brin à la
-fois permet de réduire le tirage et d'obtenir une force de choc bien inférieure à celle
-d'une corde à simple. Ceci laisse aux coinceurs et broches à glace plus de chances de
-résister.
-On évitera les caractéristiques extrêmes, car les avantages des unes
-correspondent souvent aux inconvénients des autres :
-- Le premier critère est le poids. Entre un poids de 36 g par mètre et un autre de
-49 g, la différence dans le sac à dos sera énorme : 1,300 kg, Éviter le poids le plus
-lourd tombe sous le sens.
-- Le second critère est le diamètre. Manier une corde de 7,3 mm de diamètre
-n'a rien à voir avec une corde de 9 mm. Une corde très fine oblige l'emploi d'un frein
-spécialement adapté aux petits diamètres (microjul d'Elderid par exemple), beaucoup
-de vigilance pendant l'assurage et le rappel, un serrage moins sûr des nœuds
-autobloquants pour remontées ou mouflages, et un assurage au corps très difficile. Un
-choix ultra-léger certes, mais à l'évidence déconseillé à l'amateur bien décidé à se
-comporter comme celui qui essaie, et voulant avoir une corde capable de tout faire, et
+### Lunettes de soleil
+
+Il est classique de recommander pour la haute-montagne le port de lunettes de catégorie 4 filtrant bien sûr 100% des UV, et de formes bien enveloppantes ou munies de caches extérieurs pour stopper les rayonnements latéraux. Un choix idéal serait de posséder une paire de catégorie 4 pour les courses de neige, et une paire de catégorie 3 pour les courses de rocher.
+
+### Sac à dos
+
+Un sac montagne de 40 à 45 litres, léger (moins d'1,200 kg), pas trop étroit, dont la ceinture ventrale est escamotable, dénué de poche extérieure à crampons pour éviter qu'elle ne s'accroche au rocher pendant le hissage, et dont le tissu paraît robuste, notamment celui du rabat qui prend les coups, et celui du dos. Les crampons sont rangés pointes inférieures contre pointes inférieures, emballés dans un sac plastique épais tourné autour, et on interpose entre les pointes avant et le tissu du sac la grosse paire de gants. Oubliez la pochette à crampons : trop lourde. Réparation des petites déchirures avec du Seam Grip de Mac Nett.
+
+### Piolet
+
+Le premier achat sera le piolet à lame classique et à manche droit ou légèrement cintré. Acheter un piolet très léger à manche droit très long serait
+confortable en neige facile mais peu efficace en glace : trop léger et lame trop épaisse pour ancrer dans un matériau dur.
+Inversement, choisir un piolet très court, équipé d'une lame banane très fine, serait un handicap en neige molle et profonde. La lame rayerait la neige sans freiner, ce qui peut rendre une réchappe inefficace. Le petit manche planté jusqu'à la garde serait encore insuffisant pour atteindre la neige moins ramollie sous la surface.
+Le premier piolet classique doit être un compromis entre ces deux écueils : 60 ou 70 cm de long selon sa stature, relativement lourd, à lame d'épaisseur intermédiaire très bien affûtée pour pouvoir ancrer dans la glace et retenir dans la neige.
+Un bout de manche coupé en biais en guise de pique est inefficace en glace. Une véritable pique est indispensable.
+
+On achètera aussi un marteau équipé d'un bec à dépitonner pas trop agressif pour éviter de se blesser en cas de chute. Ce sera le marteau des escalades difficiles, compact, avec le poids bien en tête. Puis on s'équipera d'un petit marteau-piolet de type 3ème main, qui pourra remplacer les deux outil précédents dans un grand nombre de courses rocheuses à l'approche glaciaire débonnaire. Gain de poids assuré. A peine plus encombrant que le marteau, on le porte au baudrier. Comme le marteau, on l'équipe d'une cordelette de 4mm en bout de manche pour l'attacher au porte-matériel. On règle la longueur de façon à pouvoir tendre le bras en complète extension du côté opposé à la hanche qui soutient le marteau. A la désescalade, on se prend souvent un genou dans cette cordelette : il suffit de la réduire par un nœud de vache peu serré pour qu'elle ne gêne plus.
+
+On finira par acquérir une paire de piolets-tractions pour la cascade de glace, l'un équipé d'un marteau, l'autre d'une panne, ces accessoires étant démontables. Ne pas hésiter à choisir un manche très cintré, mais en évitant tout de même les modèles spécifiques au dry-tooling.
+
+* Dragonnes et longes des piolets-tractions:
+  * En cascade de glace, on a cherché à grimper le plus possible sans dragonne pour libérer sa gestuelle. Mais on se fatigue un peu plus car on serre davantage le manche.
+  * En montagne, le mieux est d'emporter ses dragonnes au cas où et de ne les mousquetonner à son piolet que si on en éprouve le besoin en cours d'ascension. Il faut choisir des dragonnes détachables par un mousqueton ou une attache rapide. Si son piolet en est dépourvu, on installe une cordelette 5mm depuis le trou de la tête du piolet jusqu'au milieu du manche où elle est maintenue par un ruban adhésif. La dragonne comporte un mousqueton porte-matériel qui se clippe dans cette cordelette.
+  * En glace, pouvoir se vacher très vite en tension sur son piolet est très confortable. On peut donc se confectionner avec une cordelette 7mm une vache courte équipée d'un mousqueton capable de passer dans le trou du bas du manche. Elle est nouée en permanence au baudrier mais clippée sur un porte-matériel. Elle permet de se vacher rapidement en tension au piolet pour brocher confortablement dans un pas vertical difficile bien pourvu en glace.
+ 
+### Crampons
+
+Un modèle douze pointes en acier avec fixation automatique à l'arrière et sangle ou bride plastique à l'avant est incontournable. Si on choisit un étrier à l'avant, on se prive de la possibilité d'acheter à l'avenir des chaussures dépourvues de débord avant, ce qui limite énormément le choix. Les deux pointes avant peuvent être verticales, ce qui les rend plus efficaces en glace. Il faut éviter les modèles typés cascade de glace trop spécifiques. Si on peut s'accommoder d'une mono-pointe avant, l'absence des pointes intermédiaires situées au milieu du pied et placées perpendiculaires à la marche est plus gênante. Ces pointes ont disparu de certains crampons cascade pour pouvoir mieux utiliser les pointes orientées vers l'arrière qui servent à griffer les colonnettes. Mais ce sont les pointes de retenue utilisées à la descente en cramponnage classique. Les antibotts sont maintenant livrés montés sur la plupart des modèles. En l'absence, il faut impérativement les commander ou bien, faute de mieux, s'en fabriquer avec du ruban adhésif large et solide.
+
+### Corde
+
+#### La classique
+
+* Deux brins de couleurs différentes de 50 m d'une corde de rappel d'un poids intermédiaire et relativement rustique. Avec 42 g par mètre, on porte 4,200 kg de corde.
+* Pour les courses de neige F et PD, où il n'y aura ni risque de chute avec un choc important, ni long rappel, on emportera un seul brin.
+* Pour les courses de rocher, on prendra les deux brins.
+
+Le mousquetonnage d'un seul brin à la fois permet de réduire le tirage et d'obtenir une force de choc bien inférieure à celle d'une corde à simple. Ceci laisse aux coinceurs et broches à glace plus de chances de résister.
+
+Critères de choix:
+* Poids: entre un poids de 36 g par mètre et un autre de 49 g, la différence dans le sac à dos sera énorme : 1,300 kg,
+* Diamètre: une corde très fine (7,3mm) oblige l'emploi d'un frein spécialement adapté aux petits diamètres (microjul d'Elderid par exemple), beaucoup
+de vigilance pendant l'assurage et le rappel, un serrage moins sûr des nœuds autobloquants pour remontées ou mouflages, et un assurage au corps très difficile. Déconseillé à l'amateur bien décidé à se comporter comme celui qui essaie, et voulant avoir une corde capable de tout faire, et
 surtout de pardonner toutes les bêtises.
-- Le troisième critère est la résistance de la gaine. Elle dépend du nombre de
-fuseaux constituant cette gaine (de 32 à 48, un faible nombre donnant une corde plus
-résistante à l'abrasion mais moins élastique), du pourcentage de fibres constituant la
-gaine par rapport au total des fibres de la gaine et de l'âme (de 35 à 45%, un
-pourcentage élevé donnant une corde plus résistante à l'abrasion) et du mode de
-tressage de la gaine autour de l'âme (tressage tri-axial, 1 fil, 2 fils, plus ou moins
-serré). On se fait une bonne idée de la résistance de la gaine en pliant la corde. Une
-201
-
-corde résistante à l'abrasion se laisse plier moins facilement. Elle tient donc moins
-bien les nœuds mais ceux-ci sont plus faciles à défaire après tension. Elle a moins
-tendance à faire un paquet de nœud inextricable au lancer d'un rappel sur un terrain
-peu incliné. Avoir une corde résistante à l'abrasion permet de remonter un rappel
-coincé sans trop de crainte pour la portion de corde qui s'appuie tout là-haut sur le
-rocher saillant, de ne pas devoir la changer au moindre coup de crampon malheureux,
-de ne pas être effrayé dans ce parcours d'arête rocheuse au point d'envisager de
-s'encorder en double. C'est un véritable confort que de posséder ce genre de corde
+* Résistance de la gaine: dépend du nombre de fuseaux constituant cette gaine (de 32 à 48, un faible nombre donnant une corde plus résistante à l'abrasion mais moins élastique), du pourcentage de fibres constituant la gaine par rapport au total des fibres de la gaine et de l'âme (de 35 à 45%, un pourcentage élevé donnant une corde plus résistante à l'abrasion) et du mode de tressage de la gaine autour de l'âme (tressage tri-axial, 1 fil, 2 fils, plus ou moins serré). On se fait une bonne idée de la résistance de la gaine en pliant la corde. Une corde résistante à l'abrasion se laisse plier moins facilement. Elle tient donc moins bien les nœuds mais ceux-ci sont plus faciles à défaire après tension. Elle a moins tendance à faire un paquet de nœud inextricable au lancer d'un rappel sur un terrain peu incliné. Avoir une corde résistante à l'abrasion permet de remonter un rappel coincé sans trop de crainte pour la portion de corde qui s'appuie tout là-haut sur le rocher saillant, de ne pas devoir la changer au moindre coup de crampon malheureux, de ne pas être effrayé dans ce parcours d'arête rocheuse au point d'envisager de s'encorder en double. C'est un véritable confort que de posséder ce genre de corde
 rustique, même si elle est un peu plus lourde.
-Bref, le choix est clair : Deux brins de 50 m d'une corde de rappel d'un poids
-intermédiaire et relativement rustique. Avec 42 g par mètre, on porte 4,200 kg de
-corde.
-Le rappel 2 x 60 mètres
-La surenchère n'a pas de limite. Tandis que Rébuffat conseillait en 1959 un
-rappel de 60 mètres pour les grandes courses, nous voici maintenant à 120 mètres
-pour beaucoup de couses glaciaires ou mixtes. Pour les courses classiques, les topos
-indiquent généralement la nécessité d'emporter une telle longueur, par exemple pour
-redescendre le couloir Whymper de l'aiguille Verte. Les rappels des goulottes récentes
-sont équipés à 60 mètres sans que cela soit forcément mentionné. Il faut donc être
-méfiant et bien se renseigner sur la voie projetée.
-Les autres choix
-Après avoir fait simple, on fait plus compliqué.
-La première raison est que votre cordée est maintenant devenue la reine de
-l'assurage en mouvement. Corde tendue à quinze mètres, vous avalez régulièrement
-des longueurs de IV ou IVsup ; parfois un ou deux pas de V. Ce n'est donc plus une
-simple glissade que votre corde est sensée retenir mais un beau vol certifié. Vous
-libérez tous les anneaux de buste en un clin d’œil pour vous lancer dans la longueur
-clef en 6a puis vous reprenez ensemble votre course extraordinaire vers le sommet
-après avoir raccourci de nouveau l'encordement. Trop fort. Mais avec quelle corde
-faites-vous ça ? Sortez-vous vraiment le second brin du rappel le temps de la
-longueur dure ou ce second brin reste-t-il dans le sac jusqu'aux longs rappels de la
-descente ?
-La seconde raison est que, quand vous voyez le topo indiquer « corde pour
-rappels de 30 mètres », vos genoux vieillissants se demandent s'il ne serait pas
-possible d'emporter moins lourd que les deux brins de 50. Mais voilà, un brin de 50
-pour un rappel de 30 mètres... il n'y a pas toujours une cordée conciliante à vos côtés
-pour franchir le dernier rappel au-dessus de la rimaye à la descente du Chardonnet...
-Alors si vous avez fini par acquérir un rappel 2 x 60 pour vos courses glaciaires,
-emporter un seul brin de 60 peut être une solution. On se retrouve alors avec le
-premier problème et avec le facteur limitant suivant : à la montée, on s'interdit de
-faire une longueur supérieure à 30 mètres puisqu'il faut grimper avec deux brins.
 
-202
+#### Autres combinaisons
 
-Pour résoudre le premier problème, de nombreuses cordées emportent
-maintenant un brin de corde à simple de 50 mètres et un brin de rappel de la corde qui
-sert aussi au hissage du sac.
-a/ Les diamètres peuvent être très différents, afin d'obtenir le poids le plus
-faible possible. On utilise alors pour le brin de rappel de la corde une cordelette en
-dyneema statique, comme la trail line 7,3mm dyneema de Beal qui pèse 30 g par
-mètre, ou un diamètre plus faible encore (5,5mm en dyneema). Le descendeur se
-place uniquement sur la corde à simple, l'autre brin ne servant qu'à rappeler la corde.
-On laisse un maillon rapide étroit et court pour que le nœud d'aboutement s'appuie
-dessus. Ce nœud est un nœud d'aboutement classique en huit, bien serré. Utilisé en
-appui contre le maillon, le nœud de huit est classé dans l'industrie parmi les nœuds
-d'arrêt ; on conseille pour cette utilisation dans l'industrie de laisser dépasser 50 cm
-de corde libre.
-Le premier inconvénient de la technique est d'être obligé d'emporter autant de
-maillons rapides que de rappels prévus. Or, on sait rarement à l'avance leur nombre
-exact.
-______________________________________
-Les maillons rapides
-Les maillons destinés à l'escalade sont maintenant des EPI (Équipement de
-Protection Individuelle) devant répondre à la norme EN 12275 qui prévoit une
-résistance à la traction selon le grand axe du maillon de 25 kN, et une résistance
-transversale de 10 kN, maillon vissé. Aucune résistance n'est contrôlée maillon
-dévissé. La marque Péguet propose trois matières pour ses maillons homologués en
-tant qu'EPI, avec les caractéristiques suivantes pour les plus petits numéros :
-matière
-diamètre du fil (mm) charge de rupture
-poids (g)
-acier zingué
-8mm
-35 kN
-77
-inox
-7mm
-45 kN
-52
-zycral
-10mm
-25 kN
-49
-Concernant les sites d'escalade équipés, il va sans dire que la responsabilité
-judiciaire d'un ouvreur qui utiliserait des maillons rapides qui ne seraient pas des EPI
-pourrait être engagée. L'exigence élevée de la norme a pour objectif de garantir la
-sécurité du maillon malgré son éventuel usage folklorique par un profane hors toute
-surveillance, comme voler en facteur 2, alors que l'objet n'avait été placé que pour
-descendre en rappel.
-En montagne, pour peu que vous n'emmeniez personne d'inexpérimenté et que
-vous choisissiez d'un commun accord avec votre compagnon de cordée le modèle des
-maillons auxquels vous allez confier vos vies, rien ne vous empêche d'être réalistes et
-d'abaisser le poids des maillons emportés. Vous n'équipez pas une voie à demeure, il
-appartient aux cordées suivantes adultes de vérifier à leur tour la solidité des relais
-qu'ils utilisent, aussi n'avez vous de responsabilité que vis à vis de vous-même. Les
-maillons rapides qui ne sont pas des EPI mais qui sont fiables doivent indiquer la
-203
+* Le rappel 2 x 60 mètres: Regarder le topo, car nécessaire sur certaines courses
+* Un brin de corde à simple de 50 mètres et un brin de rappel de la corde qui sert aussi au hissage du sac.
+  * Les diamètres peuvent être très différents, afin d'obtenir le poids le plus faible possible. On utilise alors pour le brin de rappel de la corde une cordelette en dyneema statique, comme la trail line 7,3mm dyneema de Beal qui pèse 30 g par mètre, ou un diamètre plus faible encore (5,5mm en dyneema). Le descendeur se place uniquement sur la corde à simple, l'autre brin ne servant qu'à rappeler la corde.
+    * On laisse un maillon rapide étroit et court pour que le nœud d'aboutement s'appuie dessus. Ce nœud est un nœud d'aboutement classique en huit, bien serré. Utilisé en appui contre le maillon, le nœud de huit est classé dans l'industrie parmi les nœuds d'arrêt ; on conseille pour cette utilisation dans l'industrie de laisser dépasser 50 cm de corde libre.
+    * Le premier inconvénient de la technique est d'être obligé d'emporter autant de maillons rapides que de rappels prévus. Or, on sait rarement à l'avance leur nombre exact.
+    * Le second inconvénient en cas de coincement est que la cordelette de rappel, souvent un brin de 7mm statique ou semi-statique, ne permet pas de s'assurer en premier de cordée pour aller récupérer la corde à simple coincée. Le troisième inconvénient est dans le lancer d'une cordelette légère en terrain peu raide : nouilles assurées. Pour cette raison, les anciens, qui utilisaient déjà ce système avec une cordelette en nylon de 5 mm quand un long rappel unique était prévu, préparaient leur cordelette en la portant, dans le sac ou dans une poche banane, nouée en chaînette. Celle-ci se détricotait d'elle-même au fur et à mesure de la descente le long de la corde à simple.
 
-charge de travail. La charge de rupture est égale à cinq fois cette charge de travail. Il
-s'agit d'une charge exercée selon le grand axe du maillon, celui-ci étant vissé. L'appui
-du nœud de la corde ne fait pas travailler, dans le cas qui nous préoccupe, le maillon
-rigoureusement selon son axe. Il est donc préférable de prévoir une marge de sécurité.
-Une charge de travail aux alentour de 200 kN, correspondant à une charge de rupture
-de 1000 kN, devrait vous permettre d'en sortir sains et saufs. S'il n'y a rien de gravé
-sur le maillon, il ne faut pas l'acheter. Sur le terrain, quand vous hésitez à utiliser un
-maillon, essayez de lire l'inscription. S'il n'y a aucune inscription, méfiance :
-remplacez-le. Si la gravure existait mais est devenue illisible, inspectez-le pour
-détecter des fissures. Puis estimez le diamètre. Un 4mm en acier zingué neuf a une
-charge de travail de 180 kg. Un 3,5mm en acier zingué a une charge de travail de
-100kg. Rouillé, ça commence à faire très très juste... Il va falloir trouver une autre
-solution.
-_______________________________________
-Le second inconvénient en cas de coincement est que la cordelette de rappel,
-souvent un brin de 7mm statique ou semi-statique, ne permet pas de s'assurer en
-premier de cordée pour aller récupérer la corde à simple coincée. Le troisième
-inconvénient est dans le lancer d'une cordelette légère en terrain peu raide : nouilles
-assurées. Pour cette raison, les anciens, qui utilisaient déjà ce système avec une
-cordelette en nylon de 5 mm quand un long rappel unique était prévu, préparaient leur
-cordelette en la portant, dans le sac ou dans une poche banane, nouée en chaînette.
-Celle-ci se détricotait d'elle-même au fur et à mesure de la descente le long de la
-corde à simple.
+    ![Image](img/chainette.png?raw=true)
+    Formation d'une chainette
 
-Formation d'une chaînette.
+  * Les deux diamètres peuvent être proches. On peut alors descendre classiquement (sans utiliser un maillon rapide), mais le compagnon resté au relais vérifie quand même qu'une corde ne coulisse pas plus vite que l'autre, en haut comme en bas du rappel. On peut installer d'avance le descendeur du second afin de bloquer la corde, puis nouer le bas du rappel avec une queue de vache au relais pour plus de sûreté. 
+  
+### Nombre de pitons, cordelette et sangle en vrac
 
-b/ Les deux diamètres peuvent être proches. On peut alors descendre
-classiquement (sans utiliser un maillon rapide), mais le compagnon resté au relais
-204
+On prend peu de pitons quand on est sûr de sortir par le haut ou que la course se réalise normalement en aller-retour avec un ou deux rappels maximum. Quand la course est plus ambitieuse, la descente se réalise généralement par la voie normale. La conséquence est que la voie de montée n'est pas équipée pour descendre en rappel. Sur un rocher bien pourvu en becquets, il suffira de sangle et de cordelette en vrac pour équiper les rappels. Mais dans une face plus difficile, donc plus lisse, on va consommer beaucoup plus de pitons. Si on en veut deux à chaque rappel, et qu'on se contente de rappels de trente mètres pour ne pas coincer, il va falloir un certain nombre de pitons. Il est confortable de pouvoir envisager une réchappe en rappel d'au moins les deux tiers de la hauteur d'une voie de rocher inconnue avec l'ensemble du matériel (sangles en vrac ou cousues, cordelettes, coinceurs, pitons) et compte tenu des possibilités de désescalade. S'il ne reste plus qu'un tiers de la voie, on peut estimer qu'on va sortir par le haut.
 
-vérifie quand même qu'une corde ne coulisse pas plus vite que l'autre, en haut comme
-en bas du rappel. On peut installer d'avance le descendeur du second afin de bloquer
-la corde, puis nouer le bas du rappel avec une queue de vache au relais pour plus de
-sûreté. Il vaut mieux faire des essais en couenne avec les descendeurs qu'on utilisera
-en montagne et à différentes vitesses.
-On trouve des cordes à simple à 62 g par mètre. Le brin de 50 pèse 3,100 kg.
-Pour le brin de rappel, 39 g par mètre permet d'avoir un diamètre d'encore 8,1mm. Le
-second brin pèse donc 1,950 kg. L'ensemble pèse 5,050 kg, soit 850 grammes de plus
-que le rappel 2 x 50. L'option cordelette dyneema permet de gagner 450 grammes
-(39g-30g = 9g x 50m = 450g) moins le poids des maillons rapides.
-Pour réduire cette différence de poids sans être obligé de choisir une cordelette
-de rappel qui nécessite l'emport de maillons, on peut choisir une corde multilabel.
-Un brin de 50m pesant 48 g par mètre donne un poids de 2,400 kg, soit un total de
-4,350 kg, et seulement 150 grammes de plus qu'un rappel 2 x 50. Ce choix va
-permettre de conserver la polyvalence d'un rappel classique et de pousser l'assurage
-en mouvement jusqu'à la limite de vos propres possibilités.
-Résoudre le second problème sans être limité par des longueurs de 30 mètres
-passe par la même solution : un brin de 60 m d'une corde multilabel, soit un poids de
-2,880 kg. On gagne 1,320 kg par rapport au rappel 2 x 50.
-7/ Nombre de pitons, cordelette et sangle en vrac
-On prend peu de pitons quand on est sûr de sortir par le haut ou que la course
-se réalise normalement en aller-retour avec un ou deux rappels maximum.
-Quand la course est plus ambitieuse, la descente se réalise généralement par la
-voie normale. La conséquence est que la voie de montée n'est pas équipée pour
-descendre en rappel. Même si des cordées ont pu battre en retraite et fabriquer
-quelques relais, il ne faut pas trop compter dessus, car les commensaux de la course
-ont tôt fait de récupérer pitons et maillons à chacune de leurs montées. La voie est
-donc aussi rapidement déséquipée qu'elle a été équipée. Sur un rocher bien pourvu
-en becquets, il suffira de sangle et de cordelette en vrac pour équiper les rappels.
-Mais dans une face plus difficile, donc plus lisse, on va consommer beaucoup plus de
-pitons. Si on en veut deux à chaque rappel, et qu'on se contente de rappels de trente
-mètres pour ne pas coincer, il va falloir un certain nombre de pitons.
-Il est confortable de pouvoir envisager une réchappe en rappel d'au moins les
-deux tiers de la hauteur d'une voie de rocher inconnue avec l'ensemble du matériel
-(sangles en vrac ou cousues, cordelettes, coinceurs, pitons) et compte tenu des
-possibilités de désescalade. S'il ne reste plus qu'un tiers de la voie, on peut estimer
-qu'on va sortir par le haut. Par risque de pluie, prévoir qu'on ne pourra que réaliser
-des rappels encore plus petits pour éviter de coincer la corde. On consommera
-beaucoup plus de matériel. Donc si le bulletin météo indique « risque d'averse en fin
-d'après-midi », emporter plus de cordelette et de pitons est une bonne idée.
-Dans les courses où on finirait par se charger excessivement, on diminue le
-diamètre de la cordelette pour pouvoir en emporter davantage. On réserve plutôt la
-205
+Si le bulletin météo indique « risque d'averse en fin d'après-midi », emporter plus de cordelette et de pitons est une bonne idée. Dans les courses où on finirait par se charger excessivement, on diminue le diamètre de la cordelette pour pouvoir en emporter davantage.
 
-5mm pour relier des pitons, la sangle pour des becquets non coupants, la cordelette
-7mm convenant partout. Si on est obligé de poser un anneau de rappel en 5mm sur un
-rocher agressif, on n'hésite pas à l'émousser soigneusement au marteau.
-Le matériel conseillé dans les livres qui décrivent des courses sélectionnées est
-à comprendre comme le minimum syndical quand tout va bien. Mais être autonome
-consiste à pouvoir faire face quand tout va mal. Dans une face importante, emporter
-une douzaine de pitons variés n'a rien de ridicule. Dans une course de rocher
-classique - D, 500m – prendre un ou deux pitons va vous servir à quoi ? En tout cas
-pas à une réchappe sous la pluie alors que vous avez déjà grimpé deux ressauts... Il
-est probable que l'essentiel de vos pitons restera dans le sac. Ils doivent être
-considérés comme un billet de retour. A ceux qui vous disent qu'il est inutile de se
-charger avec autant de matériel, répondez-leur que six pitons est un matériel extra
-léger comparé à un hélicoptère...
-**
+On réserve plutôt la 5mm pour relier des pitons, la sangle pour des becquets non coupants, la cordelette 7mm convenant partout. Si on est obligé de poser un anneau de rappel en 5mm sur un rocher agressif, on n'hésite pas à l'émousser soigneusement au marteau.
 
-206
+Le matériel conseillé dans les livres qui décrivent des courses sélectionnées est à comprendre comme le minimum syndical quand tout va bien. Mais être autonome consiste à pouvoir faire face quand tout va mal. Dans une face importante, emporter une douzaine de pitons variés n'a rien de ridicule. Dans une course de rocher classique - D, 500m – prendre un ou deux pitons va vous servir à quoi ? En tout cas pas à une réchappe sous la pluie alors que vous avez déjà grimpé deux ressauts... Il est probable que l'essentiel de vos pitons restera dans le sac. Ils doivent être considérés comme un billet de retour. A ceux qui vous disent qu'il est inutile de se charger avec autant de matériel, répondez-leur que six pitons est un matériel extra léger comparé à un hélicoptère...
 
+## Les maillons rapides
 
-LES NOEUDS INDISPENSABLES
+Les maillons destinés à l'escalade sont maintenant des EPI (Équipement de Protection Individuelle) devant répondre à la norme EN 12275 qui prévoit une résistance à la traction selon le grand axe du maillon de 25 kN, et une résistance transversale de 10 kN, maillon vissé.
 
-Les nœuds indispensables en alpinisme sont peu nombreux et
-simples.
-Vous trouverez d'abord dans les pages suivantes des nœuds
-d'encordement : nœud de huit, nœud de chaise flanqué de son
-double nœud d'arrêt, le même en cours de corde donc en traitant
-deux brins à la fois, puis avec la clef Yosémite.
-Ce seront ensuite des nœuds d'aboutement, soit pour réunir
-les deux brins d'un rappel, soit pour fermer un anneau de
-cordelette ou de sangle : nœud de jonction en huit pour le rappel,
-double nœud de pêcheur, triple nœud de pêcheur indiqué pour les
-cordelettes en dyneema, nœud de sangle préconisé pour les
-sangles.
-Puis il s'agira des nœuds sur mousquetons : nœud de
-cabestan, nœud de demi cabestan, et nœud de cœur (voir page 96
-pour ce nœud).
-On a vu les nœuds autobloquants pages 94, 95 et 98.
-Enfin, deux nœuds animaliers moins couramment utilisés :
-le nœud en tête d'alouette pour assujettir un anneau de cordelette
-ou de sangle, et le nœud de mule, pour bloquer un demi-cabestan
-par exemple, et un nœud marin : un tour mort et deux demi-clefs.
+## Matériel
 
-262
-
-Encordement par un nœud de huit.
-
-Encordement par un nœud de chaise flanqué de son double nœud d'arrêt.
-
-263
-
-Encordement par un nœud de chaise flanqué de son double nœud d'arrêt, mais réalisé
-en cours de corde, donc gérant deux brins à la fois (pour l'encordement en N par exemple).
-
-Encombrement : avantage à la clef Yosémite !
-
-264
-
-De haut en bas, nœud de sangle, double nœud de pêcheur, et nœud de
-jonction pour rappel.
-
-Triple nœud de pêcheur. Le double nœud de pêcheur glisse sur les cordelettes dyneema.
-
-265
-
-Nœuds de cabestan (à gauche) et de demi cabestan, appelés nœuds
-d'amarrage et de demi amarrage en Suisse.
-
-Nœud de mule comme le font les Suisses pour bloquer leur demi nœud d'amarrage.
-Ce nœud est bien sûr serré, puis sécurisé par un nœud d'arrêt en nouant la boucle
-autour de la corde allant au grimpeur.
-
-266
-
-Pour réaliser ce nœud de mule, tirer la petite croix marquée sur la corde
-en suivant le crayon.
-
-Nœud en tête d'alouette.
-267
-
-Un tour mort et deux demi clefs.
-
-*
-
-268
-
-APPENDICE 3
-
-TROIS MOUFLAGES
-
-Dans les trois cas, la tête de mouflage est une poulie autobloquante ou
-son équivalent : poulie plus autobloquant de type tibloc par exemple.
-A gauche : mouflage simple. La corde de réserve a une longueur
-suffisante et il est possible d'envoyer une boucle au mouflé. Celui-ci
-passe un mousqueton à son baudrier, ou mieux un mousqueton équipé
-d'une poulie, et y passe la boucle. On tire à plusieurs, ou bien il s'agit
-juste d'une aide pour un mouflé qui participe à son sauvetage.
-Au milieu : mouflage simple de surface. La corde de réserve a une
-longueur insuffisante, ou l'accès au mouflé ne permet pas de lui envoyer
-la corde. On installe un autobloquant, nœud ou autobloquant mécanique
-sur la corde. Le renvoi est fait sur un mousqueton, ou mieux sur une
-poulie.
-A droite : mouflage mariner. On a mouflé le mouflage à l'aide d'une
-cordelette auxiliaire accrochée en haut au relais. La démultiplication
-permet de tirer seul, si on a bien géré les frottements : poulies, objet dur
-sur la lèvre de la crevasse, etc.
-
-269
+* Général
+    * trousse de premiers secours:
+        * pansements de taille diverse
+        * Strap
+    * un ou deux pitons
+    * cordelette
+    * grand sac poubelle en cas de bivouac improvisé
+    * boussole
+    * altimètre
+    * carte au 1/25000e
+    * Nourriture
+    * Corde (traitement hydrophobe)
