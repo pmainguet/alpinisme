@@ -7,10 +7,16 @@
 * [Noeuds & Mouflages](Noeuds_&_Mouglages.md)
 * [Dangers & Secours](Dangers_&_Secours.md)
 
-## Progression 
+## Progression en alpinisme
 
 * [Progression & Préparation](Progression.md)
-* [Checklist](Préparation_sortie.md)
+
+## Fiches Encordement & Progression en fonction des cas de figure
+* [Fiche Glacier Enneigé](fiche/fiche-glacier-enneige.md)
+* [Fiche Pente Raide & Arête de Neige](fiche/fiche-pente-arete-de-neige.md)
+* [Fiche Rocher](fiche/fiche-rocher.md)
+* [Fiche Glace](fiche/fiche-glace.md)
+* [Fiche Cascade de Glace](fiche/fiche-cascade-de-glace.md)
 
 ## Ressources
 
