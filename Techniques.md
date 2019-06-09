@@ -1,8 +1,8 @@
-# NOTES ALPINISME
+# Techniques
 
 Table des matières
 
-- [NOTES ALPINISME](#notes-alpinisme)
+- [Techniques](#techniques)
   - [Techniques d'assurage](#techniques-dassurage)
     - [Encordement montagne classique](#encordement-montagne-classique)
     - [Considérations générale sur l'assurage](#consid%C3%A9rations-g%C3%A9n%C3%A9rale-sur-lassurage)
