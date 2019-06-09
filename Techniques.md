@@ -1,7 +1,5 @@
 # Techniques
 
-Table des matières
-
 - [Techniques](#techniques)
   - [Techniques d'assurage](#techniques-dassurage)
     - [Encordement montagne classique](#encordement-montagne-classique)
