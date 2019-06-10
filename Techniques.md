@@ -33,6 +33,7 @@
     - [Hissage de sac](#hissage-de-sac)
   - [Autres techniques en glace ou neige](#autres-techniques-en-glace-ou-neige)
     - [Stopper glissade en pente raide - Position de réchappe](#stopper-glissade-en-pente-raide---position-de-r%C3%A9chappe)
+    - [Sauvetage en crevasse](#sauvetage-en-crevasse)
     - [Franchir la rimaye](#franchir-la-rimaye)
     - [Sortie de goulotte en neige : danger.](#sortie-de-goulotte-en-neige--danger)
 
@@ -44,7 +45,7 @@
 * La corde est en tas, posée au sol. Chacun va raccourcir la corde en prenant des anneaux de buste.
 * On place sa main droite, paume ouverte vers bas, devant et légèrement au-dessus du pontet de son baudrier. La main gauche, en glissant le long de la corde depuis le nœud d'encordement, va amener la corde derrière la nuque, de gauche à droite. On fait plusieurs tours, jusqu'à obtenir la bonne longueur entre les grimpeurs, en tenant compte de la longueur nécessaire pour les nœuds d'arrêt.
 * Une fois le dernier anneau formé, on enfile le bras droit puis l'épaule droite dans la totalité des anneaux. On a donc ces anneaux en bandoulière sous l'aisselle droite, et derrière l'épaule droite.
-* Le dernier anneau passe sous tous les anneaux puis dans la boucle d'encordement que forme le premier nœud d'encordement.
+* Le dernier anneau passe sous tous les anneaux puis DANS LA BOUCLE d'encordement que forme le premier nœud d'encordement (et non pas le pontet du baudrier).
 
 ![Image](img/encordementmontagne1.png?raw=true)
 
@@ -54,6 +55,8 @@
 
 * On place enfin un mousqueton entre la boucle et le pontet pour prévenir le lâchage progressif du nœud simple.
 * On sécurise généralement la boucle en la mousquetonnant au pontet.
+
+![Image](https://lh3.googleusercontent.com/FEAnKLzNz53SD9RLwirZFPnapS-s2OACA07PSG2JZQVhBvhBAx_Qu4iMlFuynBuq68BGLPbfhMF0i51Le-CyfTp8EYOsCN3SqHPrqF4U3iglEaJRbxX5mxz3DyERCPUzh0jR1NLUHTHF6mwasDThNmKn833yISm6IY1KiYJ2uzhP-Ai7ZixMLS3do-RBhxrO6bvPS0QsV_ByOabfjNsgC4ucS_6w_mwoCnkGqs7HDfNL9seFyDKWzLhgvZrlJ3u9jKf9KwG1oMPSlZtuAV_f9VJqdrQaXOIBwt0QTZ2RrYvcBElSVQ2H1t7wjU8vQrdOPW62enGIBoRqpBWrL9RW5H4oAgW0bIzHLySVLcgcPho14YpuxzVPrJRW9gPaVF6GBcTh82n3Cz9J9_5f-VtzvJKu3SH4ET-G00XxLY89Gd8I-2a2vipo8HexS1BqAIhfaRTEpWJvMdtIwhcz-SwVlfHzOhHZyUDaM0Kg-6bwBg1Uq7ANYFJZ0SgqM9IUvT5YWflyCB-FyjDP983CLE7hhkDhNxlHQcUDX19GPV0KKae6XP4CHzbSr1j2pOvgn1j0QZeB_IEsU2qEXG3k1XF57BsTQjDgqp1ghVl_-K85WAEnCC6SXxyHsc2sKJMz8lR1G9mccAFBOpkQnnFWZAsBKpkByIWW7xaElQbMZiWrPBfqcYz8KL_303kuIm1MrnM2hZvDNSnqak-ktTEUaP9bc2ewfw=w690-h919-no)
 
 ### Considérations générale sur l'assurage
 
@@ -75,11 +78,13 @@
 * INCONVENIENTS:
   * L'assurage en mouvement est rudimentaire et apporte nettement moins de sécurité aux grimpeurs que l'assurage par longueurs. Mais la sécurité en montagne ne se réduit pas à la sécurité d'une longueur. Il s'agit aussi de descendre au plus tôt la pente de neige raide avant que le soleil ne la rende dangereuse, de quitter le sommet avant l'orage, de rentrer avant la nuit, et tout simplement de réduire la durée totale de la course afin d'épargner la fatigue de la cordée
 
+TO DO: Faire tableau récapitulatif type de terrain > encordement
+
 #### Encordement COURT SANS ANNEAUX A LA MAIN
 
 * PRINCIPE
   * La distance entre grimpeurs est de 3 à 4 mètres.
-  * Le premier de cordée, devant à la montée, derrière à la descente, est toujours plus haut que le second.
+  * Le premier de cordée est TOUJOURS PLUS HAUT que le second: devant à la montée, derrière à la descente.
   * Personne ne tient d'anneaux à la main.
   
 * AVANTAGES:
@@ -105,7 +110,7 @@
 
 * PRINCIPE:
   * La distance entre les grimpeurs est de 2 à 3 mètres.
-  * Le premier de cordée, devant à la montée, derrière à la descente, est toujours plus haut que le second.
+  * Le premier de cordée est TOUJOURS PLUS HAUT que le second: devant à la montée, derrière à la descente.
   * Le premier de cordée tient dans sa paume aval trois ou quatre mètres de corde, lovés en anneaux dont le dernier est serré en tour mort autour de la main. Ce dernier anneau doit toujours être le premier qu'on peut lâcher. Ceci implique de devoir retourner le paquet quand on change de main. Les anneaux sont assez courts
   * La corde est tendue comme une laisse entre la main aval et le pontet du second. Ceci permet au leader de sentir un début de glissade du second, et de le remettre en selle d'un coup de poignet énergique.
   * Si le leader monte plus vite que le second, il lâche des anneaux progressivement. S'il est rattrapé, il reprend des anneaux.
@@ -159,11 +164,27 @@
 
 #### ENCORDEMENT EN N
 
+QUESTION: Peut on utiliser l'encordement long classique ? => a priori oui, c'est ce que l'on a appris mais quelle est la différence entre les deux. Cas des mouflages en cas de chute dans une crevasse
+
 * PRINCIPE: L'encordement pour marche sur glacier en N est une variante de l'encordement long, mais sans pose de points intermédiaires.
 * La réserve en vrac dans le sac
   * L'encordement en N préconisé pour un glacier enneigé (crevasses masquées) prévoit originellement de placer un tiers de la corde plié en écheveau sous le rabat de son sac à dos.
   * Récemment, on préconise plutôt de placer cet excédent de corde en vrac à l'intérieur du sac. Ceci permet de tirer la longueur de corde utile à une remontée sur corde ou à un mouflage sans devoir nécessairement ôter son sac à dos, et ce de façon plus rapide.
   * La corde doit être soigneusement introduite dans le sac en commençant par son extrémité, pour qu'elle puisse sortir sans nœud. Certains appellent cela enkiter la corde.
+
+L'encordement pour glacier enneigé est l'encordement dit en N, c'est à dire en divisant la corde en trois parties. Chaque alpiniste réalise son nœud d'encordement au tiers de la corde. Pour trouver le bon endroit sur la corde, soit on a marqué les tiers au feutre, soit chaque grimpeur place provisoirement un mousqueton à son pontet, dans lequel il place une boucle de la corde (photo page 115). Tout en tenant chacun une extrémité de la corde, les deux grimpeurs s'éloignent l'un de l'autre, la corde coulissant dans les deux mousquetons, jusqu'à tendre la corde. On obtient ainsi les tiers. Le nœud d'encordement est le nœud de chaise avec double nœud d'arrêt. On peut également réaliser un nœud en huit au lieu du nœud de chaise, mais il présente l'inconvénient d'être très volumineux quand, comme ici, on le réalise avec deux épaisseurs de corde, puisqu'on s'encorde dans le cours de la corde et non à son extrémité. Nœud de chaise en cours de corde. Après la réalisation du nœud de chaise, on love le tiers libre en un petit écheveau qu'on place sous le rabat de son sac à dos. C'est la réserve de corde. Elle va servir à faciliter les manœuvres de sauvetage en crevasse le cas échéant : confection d'un mouflage ou jet de cette réserve au compagnon tombé dans le pot afin qu'il s'en serve pour remonter sur corde fixe, car la portion de corde reliant les deux grimpeurs peut avoir pénétré profondément dans la lèvre de la crevasse et être difficilement utilisable. Au baudrier, chacun porte au moins une ou deux broches à glace, deux anneaux de cordelettes (fermés par un double nœud de pêcheur) en 6mm, l'un de 60cm de long, l'autre de 120cm, deux mousquetons à vis, un petit bloqueur 32mécanique de type ropeman (de la marque Wild Country) ou tibloc (de la marque Petzl), quatre mousquetons simples. En bandoulière, chacun porte une sangle de 60cm et une sangle de 120cm. Il s'agit du matériel minimum pour se sortir d'une crevasse ou réaliser un relais et un petit mouflage. On peut y ajouter une petite poulie. La progression se fait corde tendue. L'idéal est que la corde ne touche pas le sol. La tension est cependant fatigante pour le grimpeur de tête car elle le freine. On peut donc détendre légèrement dans les zones peu suspectes de crevasses
+et tendre à la perfection dès qu'un doute se présente.
+Si un grimpeur perce un pont de neige fragile recouvrant une crevasse, la
+corde déjà tendue empêche la chute. Chacun doit donc progresser en gardant à l'esprit
+qu'il peut être tiré brusquement vers l'autre à tout instant, et qu'il lui appartiendra de
+ne pas se laisser entraîner.
+Pour cet encordement, on peut utiliser un seul brin d'une corde à double
+car il s'agit d'enrayer une glissade plus que de stopper une véritable chute. Mais on
+peut aussi bien entendu utiliser une corde à simple : qui peut le plus peut le moins.
+L'idéal est d'avoir un brin de 50 mètres de façon à disposer d'une quinzaine de mètres
+entre les grimpeurs. Si la corde est plus courte, on privilégie la longueur de
+l'encordement par rapport à la réserve de corde, qui sera alors plus courte.
+L'encordement n'est donc plus rigoureusement au tiers
 
 #### CAS PARTICULIERS
 
@@ -406,6 +427,33 @@ Position de réchappe.
 * PIEDS
     * En neige dure, on relève les pieds pour éviter de rebondir sur les pointes avant des crampons.
     * En neige molle, on écarte les pieds et on s'en sert pour freiner davantage, mais avec d'infinies précautions si l'on a chaussé les crampons pour ne pas risquer un arrêt brutal des pieds et une bascule tête en bas, et seulement après avoir déjà ralenti franchement par l'action du piolet. 
+
+### Sauvetage en crevasse
+
+**TODO: détailler le process => pas clair comment faire le transfert de poids**
+
+**TODO: Cas où l'on est sur un encordement long et pas un encordement en N**
+
+
+* Le second tombe dans une crevasse, s'arc-bouter pour ne pas être entraîné.
+* Tout en maintenant la tension de la corde, creuse derrière soi une tranchée profonde perpendiculaire à la corde, à l'aide de la panne de votre piolet, puis une seconde dans l'axe de la corde.
+* Dans ces tranchées, vous placerez votre piolet flanqué d'une sangle en corps-mort.
+* Puis il faudra vous libérer de la tension de la corde pour la transférer sur le corps-mort. On appelle cette manœuvre « abandon de la chaîne d'assurage ». Cela consiste à placer une cordelette entre le mousqueton à vis du corps-mort qui représente votre relais, et la corde en tension en formant autour de celle-ci un nœud auto-bloquant. 
+* Vous poussez ce nœud auto-bloquant à fond vers la crevasse pour commencer à tendre la cordelette et serrer le nœud, puis vous vous déplacez doucement en rampant vers la crevasse pour donner du mou à la corde. Le poids se reporte alors sur la cordelette etle relais.
+* Vous vérifiez que votre corps-mort reste bien à sa place, que tout semble solide, puis vous vous décordez.
+* Par sécurité, vous réalisez une boucle sur la corde avec un nœud en huit que vous mousquetonnez au relais.
+* Une fois debout, vous pouvez tasser soigneusement de la neige sur le piolet pour renforcer le corps-mort.
+* Vous pouvez maintenant vous déplacer le long de la corde tendue (y nouer un nœud de Prusik pour vous vacher en main courante si la situation est précaire) vers la crevasse pour prendre des nouvelles du second.
+* Il est O.K:
+  * A lui de jouer en remontant sur corde fixe.
+  * Si la corde a pénétré profondément dans la lèvre de la crevasse, vous allez lui renvoyer votre réserve de corde pour qu'il fasse sa remontée sur ce brin.
+  * Mais avant, vous irez mettre un objet sous cette corde, entre elle et la lèvre, pour éviter que ce brin ne pénètre à son tour dans la neige.
+  * Vous retournez à votre relais pour le renforcer en vous vachant au mousqueton à vis et en vous mettant en tension en direction inverse de la crevasse, assis et les pieds bien calés dans la neige.
+  * Dans le cas où la glace n'est pas loin, cas peu probable en début de saison, on la met à nu en raclant la neige avec la panne du piolet et on visse une, ou mieux, deux broches l'une derrière l'autre qu'on relie par une sangle.
+* S'il n'est pas OK
+  * Il va falloir faire un mouflage. Si des cordées traînent par là, appelez-les pour tirer à plusieurs.
+  * Sinon, occupez-vous d'abord de la santé de votre copain (le refroidissement...) car votre manœuvre va être longue.
+  * Relais solide et soigneux. [Mouflage mariner](Noeuds_%26_Mouglages.md#mouflages-simple-simple-de-surface-mariner) en soignant les frottements.
 
 ### Franchir la rimaye
 

@@ -1,5 +1,9 @@
 # Dangers et Secours
 
+- [Dangers et Secours](#dangers-et-secours)
+  - [Conditions de la course à vérifier avant le départ](#conditions-de-la-course-%C3%A0-v%C3%A9rifier-avant-le-d%C3%A9part)
+  - [L'exposition](#lexposition)
+
 ## Conditions de la course à vérifier avant le départ
 
 * La saison classique d'alpinisme commence vers la fin du mois de juin.
@@ -7,11 +11,18 @@
 * Beaucoup de couloirs de neige doivent maintenant être réalisés début juin, juste après les grosses purges de la fin du printemps.
 * C'est au début de l'été que les glaciers sont le plus praticables. Les crevasses sont visibles et leurs ponts de neige sont encore solides. La neige est dure et ne nécessite pas l'emploi des raquettes. Les rimayes sont faciles à franchir. De plus, les jours sont longs et pardonnent bien des bêtises, et la neige quitte le rocher.
 * Ce qui vous intéresse dans le bulletin, c'est :
-  * L'altitude de l'isotherme 0°C pour savoir s'il y aura un bon regel, mais aussi savoir s'il fera chaud ou froid.
+  * L'altitude de l'isotherme 0°C pour savoir s'il y aura un bon regel - gage de sécurité du cramponnage et de pente stable et sûre - mais aussi savoir s'il fera chaud ou froid.
     * Chaud : possibilité de course de rocher longue. Le bivouac forcé en paroi ne sera pas trop inconfortable. Les jours d'attente, un isotherme élevé fait fondre plus vite la neige résiduelle sur les rochers. Attention aux courses de neige / mixte AD.
     * Froid : possibilité de course de neige raide. Le cramponnage se fera en sécurité. Mais aussi, plus de vêtements et de matériel pour le bivouac de la veille, donc sac plus lourd.
     * Une cordée d'amateurs a besoin de cet isotherme bas pour rester en sécurité pendant toute la durée de la course.
-  * Le vent : Vent du nord fort au-dessus de 4000m : pas terrible pour escalader la dent du Géant, mais sans problème pour la face sud du Pouce. Foehn : on oublie les courses de neige raides. Vent et neige : risque de corniches ou de plaques. Vent variable et faible en altitude, : synonyme d'instabilité pouvant dégénérer en orage.
+    * En été, isotherme 0° à 4400m, c'est chaud. Isotherme 0° à 3900m, on s'en contente souvent.
+  * Le vent :
+    * Vent du nord fort au-dessus de 4000m : pas terrible pour escalader la dent du Géant, mais sans problème pour la face sud du Pouce.
+    * Foehn : on oublie les courses de neige raides.
+    * Vent et neige : risque de corniches ou de plaques.
+    * Vent variable et faible en altitude, : synonyme d'instabilité pouvant dégénérer en orage.
+    * Vent chaud ramollit la neige rapidement
+    * Vent fort déséquilibre sur une course d'arête et a pu créer des corniches et des plaques à vent les jours précédents
   * L'averse en fin d'après-midi ou orage : On choisit une course relativement courte, en tous cas sans risque de bivouac.
   * L'averse la veille de la course : on monte plus tôt au bivouac pour ne pas s'installer tout trempé. On emporte les ponchos en plus des veste gore-tex.
   * La neige des jours précédents et le risque d'avalanche ou de plaques à vent.
