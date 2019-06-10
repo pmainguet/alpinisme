@@ -82,17 +82,10 @@ de Machard, le nœud français, voire même le Machard croisé utilisable sur sa
 * Votre première course sera d'altitude modérée (bien en dessous de 4000m), réalisée en début de saison, une fois les pentes purgées de leur neige de printemps, de niveau pas trop difficile sur neige/glace. Les crevasses sont alors bien bouchées, souvent réduites à une simple fente qu'on enjambe (attention aux exceptions).
 * Exemple de course: Voie normale (VN) de Roche Faurio, VN des Rouies, VN du Giobernay,
 VN de la Pointe de la Pilatte
-* Première étape : la météo.
-    * Celle du jour de la course, celle de la veille (la montée en refuge), celle des jours précédents (la quantité de neige récente ayant pu rendre de nouveau la pente instable).
-    * Appeler le 08 99 71 02 .. (numéro dudépartement) pour obtenir le bulletin météo montagne et neige.
-    * On s'intéresse à:
-        * l'absence de précipitation
-        * la force du vent (un vent chaud ramollit la neige rapidement, un vent fort déséquilibre sur une course d'arête et a pu créer des corniches et des plaques à vent les jours précédents)
-        * l'isotherme 0° qui donne une indication sur le bon regel nocturne, gage de sécurité du cramponnage et de pente stable et sûre.
-            * En été, isotherme 0° à 4400m, c'est chaud.
-            * Isotherme 0° à 3900m, on s'en contente souvent.
-* Deuxième étape : réserver le refuge. Le bivouac sera pour une autre fois.
-* Troisième étape : préparer les sacs.
+* Avant le départ:
+  * Vérifier [la météo](Dangers_%26_Secours.md#conditions-de-la-course-à-vérifier-avant-le-départ).
+  * réserver le refuge. Le bivouac sera pour une autre fois.
+  * Préparer les sacs.
     * Petits (30 litres), légers. Si on a un 45 litres, la poche caméra amovible pourra rester au refuge, tout comme la ceinture ventrale. Dans une course de neige facile, pas de relais, pas de longueurs : on sera en mouvement, on ne se refroidira pas, ou pas longtemps (un gore-tex pour la crête sommitale en plein vent...).
     * Votre atout : la légèreté, la mobilité, l'absence de fatigue.
     * Pour chacun :

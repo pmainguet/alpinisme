@@ -4,7 +4,7 @@
   - [1 - Checklist matériel](#1---checklist-mat%C3%A9riel)
     - [Matériel de base - pour TOUTE SORTIE](#mat%C3%A9riel-de-base---pour-toute-sortie)
     - [GRANDE VOIE ROCHER](#grande-voie-rocher)
-    - [NEIGE](#neige)
+    - [Course sur NEIGE](#course-sur-neige)
     - [Course sur GLACIER](#course-sur-glacier)
   - [2 - Considérations générales sur le matériel](#2---consid%C3%A9rations-g%C3%A9n%C3%A9rales-sur-le-mat%C3%A9riel)
     - [Vêtements](#v%C3%AAtements)
@@ -39,7 +39,55 @@
 
 ### GRANDE VOIE ROCHER
 
-### NEIGE
+### Course sur NEIGE
+
+* Pour chacun :
+    * Un pantalon de montagne (de type soft-Shell épais et solide) resserré en bas des jambes (pour éviter de tricoter avec les crampons),
+    * une fourrure polaire,
+    * un sous-vêtement respirant,
+    * un gilet matelassé,
+    * une veste gore-tex légère
+    * un mouchoir
+    * les papiers (protégés de l'humidité par un sac congélation avec lien) et les clefs bien accrochées en sécurité dans une poche du sac à dos qu'on n'ouvrira pas
+    * une paire de stop-tout ou de guêtres très ajustées et très simples, dépourvues de câbles (trop de risque d'enfiler la pointe avant entre le câble et la chaussure de l'autre pied)
+    * une paire de chaussures d'alpinisme légères avec débord arrière (de type Trango de LaSportiva)
+    * une paire de chaussettes chaudes en fourrure polaire (qui sèchent vite)
+    * un baudrier d'escalade léger (300g maxi)
+    * unepaire de crampons 12 pointes semi-automatiques (talonnière automatique et sangles àl'avant),
+    * un piolet classique
+    * une paire de lunettes de glacier
+    * une paire de gants de ski bon marché car on les égare facilement,
+    * 4 mousquetons simples
+    * deux mousquetons à vis HMS
+    * une broche à glace (plus tard en saison, avec des crevasses plus ouvertes et une glace recouverte de moins de neige, deux broches par personne peuvent être utiles),
+    * un crochet à abalakov
+    * un anneau pour Prusik de 60cm, un anneau pour Prusik de 120cm
+    * une petite poulie et un petit bloqueur (tibloc ou ropeman) ou une poulie autobloquante (micro-traction de Petzl),
+    * un sac plastique robuste pour confectionner un corps mort qui peut servir à emballer les crampons
+    * un petit canif bien affûté capable de couper la cordelette,
+    * une grande sangle,
+    * une petite sangle
+    * une gourde
+    * des vivres de course (barres de céréales et chocolatées, fruits secs, fromage...)
+    * un sifflet
+    * un bâton télescopique
+    * une lampe frontale avec piles neuves
+    * du papier toilette
+    * une brosse à dent
+    * une casquette chaude ou un bonnet ou un casque si la voie est fréquentée ou emprunte un couloir qui peut canaliser les pierres ou chemine sous une arête de rocher qui peut en envoyer. On peut se passer du casque dans certaines courses de neige faciles, quand on a le ciel au-dessus de la tête pendant la totalité de la course.
+* Pour la cordée :
+    * 1 brin de 50 mètres de corde à double (il s'agit d'enrayer ici des glissades et non des chutes),
+    * 5 mètres de cordelette de 6 ou 7 mm de diamètre pour poser un rappel au cas où
+    * une trousse de secours (pansements, Strappal, Elastoplaste suffisant pour un strapping du genou, éosine, aspirine pour le MAM, Codoliprane, strips adhésifs de suture (Stéristrips) , compresses, Valium, épingles à nourrice)
+    * une petite paire de gants de secours (en laine ou en fourrure polaire),
+    * une montre-altimètre,
+    * une petite boussole,
+    * un morceau de la carte au 1/25000ème
+    * la photocopie du topo,
+    * une couverture de survie
+    * un tube de dentifrice très entamé et un morceau de savon (qui resteront au refuge)
+    * un appareil photo
+    * un téléphone portable
 
 ### Course sur GLACIER 
 
