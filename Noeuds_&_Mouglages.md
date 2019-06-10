@@ -6,7 +6,7 @@
     - [Noeud de chaise](#noeud-de-chaise)
   - [Noeud d'aboutement](#noeud-daboutement)
     - [Nœuds sur mousquetons:](#n%C5%93uds-sur-mousquetons)
-    - [Autres noeuds utiles (alouette, mule, tour mort et deux demi-clés)](#autres-noeuds-utiles-alouette-mule-tour-mort-et-deux-demi-cl%C3%A9s)
+    - [Autres noeuds utiles (alouette, mule, tour mort et deux demi-clés, noeud de freinage)](#autres-noeuds-utiles-alouette-mule-tour-mort-et-deux-demi-cl%C3%A9s-noeud-de-freinage)
     - [Noeuds autobloquants](#noeuds-autobloquants)
   - [Mouflages (simple, simple de surface, Mariner)](#mouflages-simple-simple-de-surface-mariner)
 
@@ -57,7 +57,7 @@ Pour réunir les deux brins d'un rappel, soit pour fermer un anneau de cordelett
 ![Image](img/cabestan.png?raw=true)
 * nœud de cœur
 
-### Autres noeuds utiles (alouette, mule, tour mort et deux demi-clés)
+### Autres noeuds utiles (alouette, mule, tour mort et deux demi-clés, noeud de freinage)
 
 * Nœud en tête d'alouette pour assujettir un anneau de cordelette ou de sangle
   ![Image](img/tetealouette.png?raw=true)
@@ -68,6 +68,9 @@ Pour réunir les deux brins d'un rappel, soit pour fermer un anneau de cordelett
   
 * Tour mort et deux demi-clefs. 
   ![Image](img/tourmort.png?raw=true)
+
+* Noeud de freinage
+![Image](img/noeudfreinage.png?raw=true) : un nœud de huit pour commencer, puis piéger un brin avec la boucle qui repart dans le nœud
 
 ### Noeuds autobloquants
 * Nœud de Prusik. Aux USA, on le réalise souvent avec six spires.

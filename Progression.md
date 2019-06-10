@@ -5,6 +5,9 @@
   - [Checklist - Techniques de base à connaitre](#checklist---techniques-de-base-%C3%A0-connaitre)
   - [Cheminement pour progresser](#cheminement-pour-progresser)
   - [La première course (de neige)](#la-premi%C3%A8re-course-de-neige)
+    - [Choix de la course](#choix-de-la-course)
+    - [Avant le départ:](#avant-le-d%C3%A9part)
+    - [Durant la course](#durant-la-course)
 
 ## Code de l'alpinisme amateur
 
@@ -79,86 +82,39 @@ de Machard, le nœud français, voire même le Machard croisé utilisable sur sa
 
 ## La première course (de neige)
 
+### Choix de la course
+
 * Votre première course sera d'altitude modérée (bien en dessous de 4000m), réalisée en début de saison, une fois les pentes purgées de leur neige de printemps, de niveau pas trop difficile sur neige/glace. Les crevasses sont alors bien bouchées, souvent réduites à une simple fente qu'on enjambe (attention aux exceptions).
-* Exemple de course: Voie normale (VN) de Roche Faurio, VN des Rouies, VN du Giobernay,
-VN de la Pointe de la Pilatte
-* Avant le départ:
+* Exemple de course: Voie normale (VN) de Roche Faurio, VN des Rouies, VN du Giobernay, VN de la Pointe de la Pilatte
+
+### Avant le départ:
   * Vérifier [la météo](Dangers_%26_Secours.md#conditions-de-la-course-à-vérifier-avant-le-départ).
   * réserver le refuge. Le bivouac sera pour une autre fois.
   * Préparer les sacs.
     * Petits (30 litres), légers. Si on a un 45 litres, la poche caméra amovible pourra rester au refuge, tout comme la ceinture ventrale. Dans une course de neige facile, pas de relais, pas de longueurs : on sera en mouvement, on ne se refroidira pas, ou pas longtemps (un gore-tex pour la crête sommitale en plein vent...).
     * Votre atout : la légèreté, la mobilité, l'absence de fatigue.
-    * Pour chacun :
-        * Un pantalon de montagne (de type soft-Shell épais et solide) resserré en bas des jambes (pour éviter de tricoter avec les crampons),
-        * une fourrure polaire,
-        * un sous-vêtement respirant,
-        * un gilet matelassé,
-        * une veste gore-tex légère
-        * un mouchoir
-        * les papiers (protégés de l'humidité par un sac congélation avec lien) et les clefs bien accrochées en sécurité dans une poche du sac à dos qu'on n'ouvrira pas
-        * une paire de stop-tout ou de guêtres très ajustées et très simples, dépourvues de câbles (trop de risque d'enfiler la pointe avant entre le câble et la chaussure de l'autre pied)
-        * une paire de chaussures d'alpinisme légères avec débord arrière (de type Trango de LaSportiva)
-        * une paire de chaussettes chaudes en fourrure polaire (qui sèchent vite)
-        * un baudrier d'escalade léger (300g maxi)
-        * unepaire de crampons 12 pointes semi-automatiques (talonnière automatique et sangles àl'avant),
-        * un piolet classique
-        * une paire de lunettes de glacier
-        * une paire de gants de ski bon marché car on les égare facilement,
-        * 4 mousquetons simples
-        * deux mousquetons à vis HMS
-        * une broche à glace (plus tard en saison, avec des crevasses plus ouvertes et une glace recouverte de moins de neige, deux broches par personne peuvent être utiles),
-        * un crochet à abalakov
-        * un anneau pour Prusik de 60cm, un anneau pour Prusik de 120cm
-        * une petite poulie et un petit bloqueur (tibloc ou ropeman) ou une poulie autobloquante (micro-traction de Petzl),
-        * un sac plastique robuste pour confectionner un corps mort qui peut servir à emballer les crampons
-        * un petit canif bien affûté capable de couper la cordelette,
-        * une grande sangle,
-        * une petite sangle
-        * une gourde
-        * des vivres de course (barres de céréales et chocolatées, fruits secs, fromage...)
-        * un sifflet
-        * un bâton télescopique
-        * une lampe frontale avec piles neuves
-        * du papier toilette
-        * une brosse à dent
-        * une casquette chaude ou un bonnet ou un casque si la voie est fréquentée ou emprunte un couloir qui peut canaliser les pierres ou chemine sous une arête de rocher qui peut en envoyer. On peut se passer du casque dans certaines courses de neige faciles, quand on a le ciel au-dessus de la tête pendant la totalité de la course.
-    * Pour la cordée :
-        * 1 brin de 50 mètres de corde à double (il s'agit d'enrayer ici des glissades et non des chutes),
-        * 5 mètres de cordelette de 6 ou 7 mm de diamètre pour poser un rappel au cas où
-        * une trousse de secours (pansements, Strappal, Elastoplaste suffisant pour un strapping du genou, éosine, aspirine pour le MAM, Codoliprane, strips adhésifs de suture (Stéristrips) , compresses, Valium, épingles à nourrice)
-        * une petite paire de gants de secours (en laine ou en fourrure polaire),
-        * une montre-altimètre,
-        * une petite boussole,
-        * un morceau de la carte au 1/25000ème
-        * la photocopie du topo,
-        * une couverture de survie
-        * un tube de dentifrice très entamé et un morceau de savon (qui resteront au refuge)
-        * un appareil photo
-        * un téléphone portable
+    * [Matériel à prévoir pour une course sur neige](Materiel.md#course-sur-neige)
     * On peut faire son sac en quatre étapes :
         1. On étale au sol l'ensemble des objets sélectionnés en s'interdisant d'en placer un seul dans le sac. Celui-ci est rigoureusement vide.
         2. On engouffre le tout dans le sac et on met celui-ci sur son dos. Immanquablement, on le trouve trop lourd.
         3. On étale de nouveau la totalité du contenu au sol, et on désigne le maximum d'objets, non pas inutiles, mais dont on va devoir se passer.
         4. On refait le sac plus soigneusement en plaçant au fond les objets les plus tardivement utilisés.
-* Quatrième étape : monter au refuge. La marche en montagne  se fait en regardant le sol où se pose le pied. On choisit ses appuis comme en escalade on choisit ses prises. Le pas n'est donc pas régulier, mais dépend des accidents du terrain. C'est le rythme qui est régulier. Peu chargé, un bâton, de ski ou télescopique, est utile. Lourdement chargé, deux bâtons sont préférables. La vitesse habituelle est de 300 mètres de dénivelé positif par heure.
-* Cinquième étape : partir dans la nuit.
-    * Si le début de l'itinéraire comporte une approche hors glacier ne nécessitant pas d'encordement, on ne met pas son baudrier, au contraire de toutes les cordées autour de nous. La marche sera moins fatigante et plus silencieuse qu'accompagnée par les cliquetis des portematériels chargés de mousquetons et de broches.
-    * On ne suit personne bêtement.
-    * Parvenu au glacier, on trouve un endroit commode pour enfiler les baudriers, chausser les crampons, s'encorder. Surtout, on n'attend pas que la pente s'accentue franchement pour mettre ses crampons sous peine de gymnastique scabreuse sur une pente raide et glissante.
 
-    ![Image](img/recherchertiers.png)
+### Durant la course
 
-    Recherche des tiers (in vitro).
+* La marche en montagne  se fait en regardant le sol où se pose le pied. On choisit ses appuis comme en escalade on choisit ses prises. Le pas n'est donc pas régulier, mais dépend des accidents du terrain. C'est le rythme qui est régulier. Peu chargé, un bâton, de ski ou télescopique, est utile. Lourdement chargé, deux bâtons sont préférables. La vitesse habituelle est de 300 mètres de dénivelé positif par heure.
+* Si le début de l'itinéraire comporte une approche hors glacier ne nécessitant pas d'encordement, on ne met pas son baudrier, au contraire de toutes les cordées autour de nous. La marche sera moins fatigante et plus silencieuse qu'accompagnée par les cliquetis des portematériels chargés de mousquetons et de broches.
+* On ne suit personne bêtement.
+* Parvenu au glacier, on trouve un endroit commode pour enfiler les baudriers, chausser les crampons, s'encorder. Surtout, on n'attend pas que la pente s'accentue franchement pour mettre ses crampons sous peine de gymnastique scabreuse sur une pente raide et glissante.
+* Encordez-vous avec un [Encordement en N]() un peu à l'écart de la trace car vous avez besoin de place pour trouver les tiers. 
+* Pendant que vous réalisez votre encordement en N, d'autres cordées vont sans doute s'approcher, quittant la trace, mais attirées par la lumière...
+* Quand le risque de chute dans d'immenses crevasses, bien larges et bien profondes, existe, on recommande de créer plusieurs nœuds de freinage (au moins trois : à 4-5 mètres du nœud d'encordement puis à 2-3 mètres de distance) sur l'encordement afin qu'ils se bloquent dans la lèvre de la crevasse, ce qui facilite le travail de celui resté à l'air libre puisqu'il n'est plus tiré (ou moins) par le poids de son compagnon. Ces nœuds de freinage ne fonctionnent réellement qu'avec une lèvre decrevasse faite de neige épaisse et molle, ce qui est justement le genre de terrain où le risque de percer un large pont de neige est élevé.
 
-    * Encordez-vous un peu à l'écart de la trace car vous avez besoin de place pour trouver les tiers. Vous dépliez votre corde, chacun tient une extrémité, passe une boucle dans un mousqueton placé à son pontet de baudrier, puis vous vous écartez l'un de l'autre jusqu'à tendre la corde. Vous avez vos tiers.
-    * Pendant que vous réalisez votre encordement en N, d'autres cordées vont sans doute s'approcher, quittant la trace, mais attirées par la lumière...
-    * Quand le risque de chute dans d'immenses crevasses, bien larges et bien profondes, existe, on recommande de créer plusieurs nœuds de freinage (au moins trois : à 4-5 mètres du nœud d'encordement puis à 2-3 mètres de distance) sur l'encordement afin qu'ils se bloquent dans la lèvre de la crevasse, ce qui facilite le travail de celui resté à l'air libre puisqu'il n'est plus tiré (ou moins) par le poids de son compagnon. Ces nœuds de freinage ne fonctionnent réellement qu'avec une lèvre decrevasse faite de neige épaisse et molle, ce qui est justement le genre de terrain où le risque de percer un large pont de neige est élevé.
+![Image](img/noeudfreinage.png?raw=true)
 
-    ![Image](img/noeudfreinage.png?raw=true)
+Nœud de freinage : un nœud de huit pour commencer, puis piéger un brin avec la boucle qui repart dans le nœud.
 
-    Nœud de freinage : un nœud de huit pour commencer, puis piéger un brin avec la boucle qui repart dans le nœud.
-
-    * Une fois l'encordement en N exécuté, on place sur les porte-matériels du cuissard la panoplie nécessaire pour remonter une crevasse. On porte donc son kit préféré pour remonter sur corde fixe, mais aussi le nécessaire pour fabriquer un relais et un mouflage.
+* Une fois l'encordement en N exécuté, on place sur les porte-matériels du cuissard la panoplie nécessaire pour remonter une crevasse. On porte donc son kit préféré pour remonter sur corde fixe, mais aussi le nécessaire pour fabriquer un relais et un mouflage.
 
 * Sixième étape : le jour se lève, et les autres...
     * On maintiendra heureusement une distance sanitaire avec les cordées accompagnées, la mauvaise humeur des chaperons vis à vis des sans guides étant susceptible de représenter le premier danger de la course du jour... Débutant ou pas, accumulantmille bévues ou pas, vous êtes ici chez vous comme n'importe qui d'autre. Votre embarras, vos hésitations, vos incertitudes, sont autant de poinçons certifiant votrelégitimité car c'est l'essence même de l'alpinisme de surmonter tout cela, tandis que la suffisance de celui qui pourrait décrire la moindre marche de la course depuis son lit n'est que la marque de son indigence.
