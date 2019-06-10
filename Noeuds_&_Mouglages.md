@@ -34,6 +34,10 @@ Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée
     ![Image](img/noeudhuit.png?raw=true)
     ![Image](img/chaise.png?raw=true)
 
+    Confection d'un noeud de chaise avec noeud d'arrêt
+    
+    ![Image](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Flezardevillemandeur.org%2Fwp-content%2Fuploads%2Fnoeud-de-chaise.jpg&f=1)
+
 * Noeud de chaise en cours de corde (pour l'encordement en N par exemple)
   
 ![Image](img/chaiseN.png?raw=true)

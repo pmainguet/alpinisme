@@ -10,6 +10,7 @@
       - [Encordement LONG dit souvent « progression à corde tendue »](#encordement-long-dit-souvent-%C2%AB-progression-%C3%A0-corde-tendue-%C2%BB)
       - [ENCORDEMENT EN N](#encordement-en-n)
       - [CAS PARTICULIERS](#cas-particuliers)
+      - [Encordement d'un troisième sur la corde](#encordement-dun-troisi%C3%A8me-sur-la-corde)
     - [Assurage à l'épaule](#assurage-%C3%A0-l%C3%A9paule)
     - [Assurage par longueurs](#assurage-par-longueurs)
     - [L'assurage dynamique - à relativiser](#lassurage-dynamique---%C3%A0-relativiser)
@@ -31,6 +32,7 @@
     - [Pas d'artif](#pas-dartif)
     - [Pliage de corde](#pliage-de-corde)
     - [Hissage de sac](#hissage-de-sac)
+    - [Poser une main courante](#poser-une-main-courante)
   - [Autres techniques en glace ou neige](#autres-techniques-en-glace-ou-neige)
     - [Stopper glissade en pente raide - Position de réchappe](#stopper-glissade-en-pente-raide---position-de-r%C3%A9chappe)
     - [Sauvetage en crevasse](#sauvetage-en-crevasse)
@@ -68,6 +70,8 @@
 * Connaître parfaitement le niveau d'escalade de son compagnon, ses points forts et ses points faibles (fissures en verrous, dalles friction, ou surplombs...) permet d'aller aux limites de l'assurage en mouvement sans se mettre en danger outre mesure. 
 * Ce qui compte n'est pas la rapidité réelle des mouvements mais la fluidité de la progression. Passer sans temps mort d'un encordement court à un encordement long, à une mini-longueur, à une parade ou une petite courte-échelle, est la clef.
 
+NOTE: pour s’encorder, la FFME préconise le nœud en 8 avec nœud d’arrêt.
+
 ### Assurage en mouvement - technique la plus simple
 
 * PRINCIPE:
@@ -79,7 +83,10 @@
 * INCONVENIENTS:
   * L'assurage en mouvement est rudimentaire et apporte nettement moins de sécurité aux grimpeurs que l'assurage par longueurs. Mais la sécurité en montagne ne se réduit pas à la sécurité d'une longueur. Il s'agit aussi de descendre au plus tôt la pente de neige raide avant que le soleil ne la rende dangereuse, de quitter le sommet avant l'orage, de rentrer avant la nuit, et tout simplement de réduire la durée totale de la course afin d'épargner la fatigue de la cordée
 
-TO DO: Faire tableau récapitulatif type de terrain > encordement
+**TO DO: Faire tableau récapitulatif type de terrain > encordement**
+
+* Face au risque de chute en crevasse, l'encordement est à quinze ou vingt mètres.
+* Devant le risque de glissade, on réduit à trois mètres en prenant des anneaux de buste pour l'enrayer avant toute prise de vitesse.
 
 #### Encordement COURT SANS ANNEAUX A LA MAIN
 
@@ -185,6 +192,11 @@ L'encordement pour marche sur glacier en N est une variante de l'encordement lon
   * Chacun doit donc progresser en gardant à l'esprit qu'il peut être tiré brusquement vers l'autre à tout instant, et qu'il lui appartiendra de ne pas se laisser entraîner.
   * Pour cet encordement, on peut utiliser un seul brin d'une corde à double car il s'agit d'enrayer une glissade plus que de stopper une véritable chute. Mais on peut aussi bien entendu utiliser une corde à simple : qui peut le plus peut le moins. L'idéal est d'avoir un brin de 50 mètres de façon à disposer d'une quinzaine de mètres entre les grimpeurs.
   * Si la corde est plus courte, on privilégie la longueur de l'encordement par rapport à la réserve de corde, qui sera alors plus courte. L'encordement n'est donc plus rigoureusement au tiers
+  * Quand le risque de chute dans d'immenses crevasses, bien larges et bien profondes, existe, on recommande de créer plusieurs [nœuds de freinage](Noeuds_%26_Mouglages.md#autres-noeuds-utiles-alouette-mule-tour-mort-et-deux-demi-clés-noeud-de-freinage) (au moins trois : à 4-5 mètres du nœud d'encordement puis à 2-3 mètres de distance) sur l'encordement afin qu'ils se bloquent dans la lèvre de la crevasse, ce qui facilite le travail de celui resté à l'air libre puisqu'il n'est plus tiré (ou moins) par le poids de son compagnon. Ces nœuds de freinage ne fonctionnent réellement qu'avec une lèvre decrevasse faite de neige épaisse et molle, ce qui est justement le genre de terrain où le risque de percer un large pont de neige est élevé.
+
+![Image](img/noeudfreinage.png?raw=true)
+
+Nœud de freinage : un nœud de huit pour commencer, puis piéger un brin avec la boucle qui repart dans le nœud.
 
 * NOTE: La réserve en vrac dans le sac
   * L'encordement en N préconisé pour un glacier enneigé (crevasses masquées) prévoit originellement de placer un tiers de la corde plié en écheveau sous le rabat de son sac à dos.
@@ -194,6 +206,11 @@ L'encordement pour marche sur glacier en N est une variante de l'encordement lon
 #### CAS PARTICULIERS
 
 * Progression sur une arête de neige effilée horizontale: La distance entre les deux grimpeurs est de 5 à 6 mètres, le leader tenant deux ou trois mètres d'anneaux à la main. Il se place derrière son second pour le garder à vue si la trace est faite. En cas de chute sur un versant, le leader doit lâcher les anneaux et sauter de l'autre côté en tâchant de ne pas se blesser. Les anneaux lâchés donnent le temps nécessaire pour réagir.
+
+#### Encordement d'un troisième sur la corde
+
+* La FFME recommande l'encordement à double noeud d'arrêt en randonnée et en randonnée glaciaire. Noeud de huit en bout.
+https://www.ffme.fr/fiches-ffme-techniques/page/encordement-avec-le-double-noeud-d-arret.html
 
 ### Assurage à l'épaule
 
@@ -416,6 +433,11 @@ La dégaine sur laquelle on est vaché, très courte, est accrochée au mousquet
 Tête de mouflage faite de la poulie autobloquante, renvoi inférieur sur mousqueton et tibloc, renvoi supérieur sur mousqueton. On peut ainsi tirer vers soi en étant positionné sous le relais:
 
 ![Image](img/hissage2.png?raw=true)
+
+### Poser une main courante
+
+https://www.ffme.fr/fiches-ffme-techniques/page/poser-une-main-courante.html
+https://www.ffme.fr/fiches-ffme-techniques/page/utiliser-une-main-courante-en-assurance-risque-de-chute-mortelle.html
 
 ## Autres techniques en glace ou neige
 

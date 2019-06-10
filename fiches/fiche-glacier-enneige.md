@@ -2,7 +2,7 @@
 
 Matériel minimum glacier (pour pouvoir se sortir d'une crevasse ou réaliser un relais + mouflage), voir [fichier "Materiel"](Materiel.md#course-sur-glacier)]
 
-* ENCORDEMENT - Encordement dit en N (long), c'est à dire en divisant la corde en trois parties.
+* ENCORDEMENT - Encordement dit en N (long), c'est à dire en divisant la corde en trois parties (quinze à vingt mètres).
     * Chaque alpiniste réalise son nœud d'encordement au tiers de la corde.
     * Pour trouver le bon endroit sur la corde, soit on a marqué les tiers au feutre, soit chaque grimpeur place provisoirement un mousqueton à son pontet, dans lequel il place une boucle de la corde. Tout en tenant chacun une extrémité de la corde, les deux grimpeurs s'éloignent l'un de l'autre, la corde coulissant dans les deux mousquetons, jusqu'à tendre la corde. On obtient ainsi les tiers.
     * Le nœud d'encordement:
@@ -15,8 +15,11 @@ Matériel minimum glacier (pour pouvoir se sortir d'une crevasse ou réaliser un
     * La tension est cependant fatigante pour le grimpeur de tête car elle le freine. On peut donc détendre légèrement dans les zones peu suspectes de crevasses et tendre à la perfection dès qu'un doute se présente.
     * Si un grimpeur perce un pont de neige fragile recouvrant une crevasse, la corde déjà tendue empêche la chute.
     * Chacun doit donc progresser en gardant à l'esprit qu'il peut être tiré brusquement vers l'autre à tout instant, et qu'il lui appartiendra de ne pas se laisser entraîner.
+    * Les pieds sont un peu écartés pour éviter d'accrocher une jambe de pantalon avec un crampon, d'un écartement similaire à la position de base du ski moderne : la largeur du bassin.
 
-* CRAMPONNAGE OU MARCHES - dépend de la dureté de la glace/neige
+* TYPE DE MARCHE - CRAMPONNAGE OU MARCHES - dépend de la dureté de la glace/neige
+  
+    * Marche en canard (pieds en V) pour faible pente, passage au cramponnage 10 pointes lorsque pente se redresse.
   
     * GLACIER OU GLACE DURE: cramponnage dix pointes (technique française).
         * Il s'agit de faire mordre les dix pointes inférieures de chaque crampon dans la neige, un crampon classique en comptant deux de plus dirigées vers l'avant qui ne sont d'aucune utilité sur pente faible. En conséquence, on tord la cheville au gré de l'inclinaison de la pente. Contrairement au ski, on ne prend pas de « carre ».
@@ -33,7 +36,14 @@ Matériel minimum glacier (pour pouvoir se sortir d'une crevasse ou réaliser un
 
         * A la descente, les deux pieds sont en canard. Pour éviter la prise de carres, on porte le poids sur l'avant du pied. On peut s'aider à conserver la bonne position du corps vers l'avant en pente soutenue en plaçant la main libre, celle qui ne tient pas le piolet, sur le genou.
 
+        * Si la pente est encore plus forte, le cramponnage frontal s'impose, de préférence à réserver pour de courtes sections, à moins d'un entraînement sérieux.
+
     * NEIGE MOLLE ET EPAISSE - imprimer des marches
         * A la montée, on marche alors normalement, comme on monte un escalier.
         * A la descente, on attaque franchement du talon. Mais dès que la couche de neige devient insuffisamment malléable, on revient au poids du corps porté sur l'avant du pied car une glissade sur le talon est une glissade sans filet.
             * Derrière le talon, il n'y a en effet plus rien pour retenir la chute, tandis que derrière l'avant-pied qui glisse, il y a encore toute la longueur du crampon pour se rattraper.
+
+* Quand la pente se redresse se posent trois questions :
+    * La longueur d'encordement est-elle encore adaptée à enrayer une glissade ?
+    * Dois-je ranger mon bâton télescopique pour mieux manier mon piolet ?
+    * Le cramponnage dix pointes est-il encore possible ?

@@ -4,9 +4,10 @@
   - [Code de l'alpinisme amateur](#code-de-lalpinisme-amateur)
   - [Checklist - Techniques de base à connaitre](#checklist---techniques-de-base-%C3%A0-connaitre)
   - [Cheminement pour progresser](#cheminement-pour-progresser)
-  - [La première course (de neige)](#la-premi%C3%A8re-course-de-neige)
+  - [Déroulé d'une course (de neige)](#d%C3%A9roul%C3%A9-dune-course-de-neige)
     - [Choix de la course](#choix-de-la-course)
     - [Avant le départ:](#avant-le-d%C3%A9part)
+    - [Au départ de la course](#au-d%C3%A9part-de-la-course)
     - [Durant la course](#durant-la-course)
 
 ## Code de l'alpinisme amateur
@@ -80,7 +81,7 @@ de Machard, le nœud français, voire même le Machard croisé utilisable sur sa
 * Faire des voies AD pour valider les acquis et fluidifier l'assurage en mouvement: déchaussage des crampons au bord de la rimaye, grimpe avec sac à dos, progression anneaux à la main ou corde tendue, pose de mini-relais, assurage sur sangles, rappels dans les brèches, recherche de l'itinéraire, tenu d'un horaire, équilibre sur une arête, escalade en grosses ou en crampons dans les zones enneigées, rocher moyen voire délité en cas d'erreur d'itinéraire, chutes de pierres, longues désescalades, descente sur un versant inconnu, tous ingrédients éminemment formateurs. Sur ce terrain, une cordée peu rodée pose des relais et tire des longueurs. Une cordée plus expérimentée réalise la course presque entièrement corde tendue. L'horaire entre les deux peut être du simple au triple.
 * Dans les courses de rocher classiques – 500m, niveau D -, on progresse essentiellement en tirant des longueurs. Mais il est essentiel d'être passé par l'étape précédente. Sinon, on sera incapable de reconnaître à temps les portions pouvant être gérées avec assurage en mouvement et on ne saura pas passer d'une option à l'autre sans d'interminables conciliabules. Faire la totalité de ce genre de course en tirant des longueurs même dans les portions faciles qui s'interposent entre deux ressauts difficiles, serait très exagéré et l'horaire s'en ressentirait.
 
-## La première course (de neige)
+## Déroulé d'une course (de neige)
 
 ### Choix de la course
 
@@ -88,6 +89,7 @@ de Machard, le nœud français, voire même le Machard croisé utilisable sur sa
 * Exemple de course: Voie normale (VN) de Roche Faurio, VN des Rouies, VN du Giobernay, VN de la Pointe de la Pilatte
 
 ### Avant le départ:
+
   * Vérifier [la météo](Dangers_%26_Secours.md#conditions-de-la-course-à-vérifier-avant-le-départ).
   * réserver le refuge. Le bivouac sera pour une autre fois.
   * Préparer les sacs.
@@ -100,52 +102,21 @@ de Machard, le nœud français, voire même le Machard croisé utilisable sur sa
         3. On étale de nouveau la totalité du contenu au sol, et on désigne le maximum d'objets, non pas inutiles, mais dont on va devoir se passer.
         4. On refait le sac plus soigneusement en plaçant au fond les objets les plus tardivement utilisés.
 
-### Durant la course
+### Au départ de la course
 
 * La marche en montagne  se fait en regardant le sol où se pose le pied. On choisit ses appuis comme en escalade on choisit ses prises. Le pas n'est donc pas régulier, mais dépend des accidents du terrain. C'est le rythme qui est régulier. Peu chargé, un bâton, de ski ou télescopique, est utile. Lourdement chargé, deux bâtons sont préférables. La vitesse habituelle est de 300 mètres de dénivelé positif par heure.
 * Si le début de l'itinéraire comporte une approche hors glacier ne nécessitant pas d'encordement, on ne met pas son baudrier, au contraire de toutes les cordées autour de nous. La marche sera moins fatigante et plus silencieuse qu'accompagnée par les cliquetis des portematériels chargés de mousquetons et de broches.
 * On ne suit personne bêtement.
 * Parvenu au glacier, on trouve un endroit commode pour enfiler les baudriers, chausser les crampons, s'encorder. Surtout, on n'attend pas que la pente s'accentue franchement pour mettre ses crampons sous peine de gymnastique scabreuse sur une pente raide et glissante.
-* Encordez-vous avec un [Encordement en N]() un peu à l'écart de la trace car vous avez besoin de place pour trouver les tiers. 
+* Encordez-vous avec un [Encordement en N](Techniques.md#encordement-en-n) un peu à l'écart de la trace car vous avez besoin de place pour trouver les tiers. 
 * Pendant que vous réalisez votre encordement en N, d'autres cordées vont sans doute s'approcher, quittant la trace, mais attirées par la lumière...
-* Quand le risque de chute dans d'immenses crevasses, bien larges et bien profondes, existe, on recommande de créer plusieurs nœuds de freinage (au moins trois : à 4-5 mètres du nœud d'encordement puis à 2-3 mètres de distance) sur l'encordement afin qu'ils se bloquent dans la lèvre de la crevasse, ce qui facilite le travail de celui resté à l'air libre puisqu'il n'est plus tiré (ou moins) par le poids de son compagnon. Ces nœuds de freinage ne fonctionnent réellement qu'avec une lèvre decrevasse faite de neige épaisse et molle, ce qui est justement le genre de terrain où le risque de percer un large pont de neige est élevé.
+* Une fois l'encordement en N exécuté, on place sur les porte-matériels du cuissard la [panoplie nécessaire pour remonter une crevasse](Materiel.md#course-sur-glacier). On porte donc son kit préféré pour remonter sur corde fixe, mais aussi le nécessaire pour fabriquer un relais et un mouflage.
 
-![Image](img/noeudfreinage.png?raw=true)
+### Durant la course
 
-Nœud de freinage : un nœud de huit pour commencer, puis piéger un brin avec la boucle qui repart dans le nœud.
-
-* Une fois l'encordement en N exécuté, on place sur les porte-matériels du cuissard la panoplie nécessaire pour remonter une crevasse. On porte donc son kit préféré pour remonter sur corde fixe, mais aussi le nécessaire pour fabriquer un relais et un mouflage.
-
-* Sixième étape : le jour se lève, et les autres...
-    * On maintiendra heureusement une distance sanitaire avec les cordées accompagnées, la mauvaise humeur des chaperons vis à vis des sans guides étant susceptible de représenter le premier danger de la course du jour... Débutant ou pas, accumulantmille bévues ou pas, vous êtes ici chez vous comme n'importe qui d'autre. Votre embarras, vos hésitations, vos incertitudes, sont autant de poinçons certifiant votrelégitimité car c'est l'essence même de l'alpinisme de surmonter tout cela, tandis que la suffisance de celui qui pourrait décrire la moindre marche de la course depuis son lit n'est que la marque de son indigence.
-    * Votre ligne de conduite sera de vous concentrer sur votre cordée, de faire les choses correctement, comme vous les avez apprises, afin d'assurer votre sécurité et de ne pas mettre en péril celle des autres (les chutes de pierres) et non d'accepter la sujétion à une quelconque autorité autoproclamée, aussi alpiniste chevronné, guide ou gardien de refuge soit-il.
-* Septième étape : la marche sur glacier.
-    * Elle se fait donc à corde tendue à une quinzaine de mètres l'un de l'autre, sans anneaux à la main. Les pieds sont un peu écartés pour éviter d'accrocher une jambe de pantalon avec un crampon, d'un écartement similaire à la position de base du ski moderne : la largeur du bassin.
-    * Dès que la pente se redresse, la marche en canard avec les pieds en V est proscrite afin de conserver ses tendons d'Achille en bon état, au profit du cramponnage 10 pointes. On dirigera d'autant plus la pointe des pieds vers l'aval que la pente sera forte. Et il sera bon de s'être habitué, dès les raidillons du sentier vers le refuge, à cette démarche, très reposante quand on est chaussé de chaussures d'alpinisme à semelles rigides.
-    * Quand la pente se redresse se posent trois questions :
-        * La longueur d'encordement est-elle encore adaptée à enrayer une glissade ?
-        * Dois-je ranger mon bâton télescopique pour mieux manier mon piolet ?
-        * Le cramponnage dix pointes est-il encore possible ?
-    * La longueur d'encordement :
-        * Face au risque de chute en crevasse, l'encordement est à quinze ou vingt mètres.
-        * Devant le risque de glissade, on réduit à trois mètres en prenant des anneaux de buste pour l'enrayer avant toute prise de vitesse.
-        * Pour la première course, il vaut mieux que le premier de cordée ne s'encombre pas d'anneaux à la main. Ainsi, il aura les deux mains libres et pourra changer son piolet de main facilement.
-        * La marche des deux membres de la cordée devra donc être rigoureusement à la même vitesse, ce qui donnera peut être un caractère un peu heurté à la progression. Ceci n'est pas très grave.
-        * Une question se pose. Que faire si la pente devient forte et que le risque de chute en crevasse est encore présent ?
-            * D'abord, êtes-vous bien sûr d'être sur le bon itinéraire ? N'êtes-vous pas plutôten train de vous diriger innocemment vers une zone tourmentée du glacier qu'on appelle... séracs ?
-            * Sinon, à vous de décider quel risque est le plus dangereux : crever à deux le même pont de neige (mauvais plan) ou ne pas être capable d'enrayer la glissade du compagnon dans la forte pente.
-            * Tout est question d'appréciation sur le terrain. La longueur de corde pourra aussi être un compromis. Si on choisit de conserver l'encordement long pour ne pas tomber à deux dans un pot, on sait qu'on est peu garanti contre les glissades et on en tient compte : on fait gaffe ! Ce qui est du reste la façon la plus universelle d'assurer sa sécurité en montagne.
-    * Ranger le baton
-        * Si vous n'êtes plus très à l'aise dans la pente, rangez le bâton même si devant vous la cordée continue tranquillement bâton en main et piolet nonchalamment posé sur l'épaule.
-        * Pensez qu'en cas de perte d'équilibre, il faudra ne pas lâcher le piolet, seul capable d'enrayer votre glissade. Avoir un bâton dans l'autre main peut vous tromper dans les priorités
-        * Vous aurez choisi votre piolet classique dépourvu de longe ou de dragonne car un piolet est un outil qu'on doit pouvoir changer de main instantanément, et saisir d'une multitude de façon selon la position où l'on se trouve, parfois bien involontairement.
-        * Vous avez bien fait de choisir un piolet à lame classique et d'une longueur environ 60cm pour votre stature moyenne. Tenu en piolet-canne sur le plat, bras pendant le long du corps, il ne touche pas le sol : il vous arrive à moitié du mollet.
-        * Vous pouvez faire un corps-mort avec un piolet que le manche soit estampillé B ou T, les deux répondant à la norme EN-13089 qui garantit une résistance suffisante en cas de choc au milieu du manche.
-    * Cramponnage dix pointes sur pente forte :
-        * Il s'agit surtout de ne pas perdre l'équilibre, de ne pas faire perdre l'équilibre à votre compagnon de cordée (qui vous entraînera à votre tour dans sa chute), et d'être capable à tout moment de remettre celui-ci sur pied s'il perdait l'équilibre.
-        * Le cramponnage à plat nécessite en particulier pour le premier de cordée, puisqu'il ne s'accomplit pas directement dans l'axe de la pente mais décrit des lacets, soit d'enjamber la corde, soit de tourner face à l'aval, à chaque changement de direction, afin que la corde passe par la hanche aval.
-        * Alors, sur pente relativement forte, le cramponnage mixte est souvent une bonne solution : un pied à plat, un pied en pointes frontales. La technique est très sûre et permet aussi d'alterner les pieds lorsqu'un des deux mollets n'en peut plus.
-        * Si la pente est encore plus forte, le cramponnage frontal s'impose, de préférence à réserver pour de courtes sections, à moins d'un entraînement sérieux. On
+* On maintiendra heureusement une distance sanitaire avec les cordées accompagnées, la mauvaise humeur des chaperons vis à vis des sans guides étant susceptible de représenter le premier danger de la course du jour... Débutant ou pas, accumulantmille bévues ou pas, vous êtes ici chez vous comme n'importe qui d'autre. Votre embarras, vos hésitations, vos incertitudes, sont autant de poinçons certifiant votrelégitimité car c'est l'essence même de l'alpinisme de surmonter tout cela, tandis que la suffisance de celui qui pourrait décrire la moindre marche de la course depuis son lit n'est que la marque de son indigence.
+* Votre ligne de conduite sera de vous concentrer sur votre cordée, de faire les choses correctement, comme vous les avez apprises, afin d'assurer votre sécurité et de ne pas mettre en péril celle des autres (les chutes de pierres) et non d'accepter la sujétion à une quelconque autorité autoproclamée, aussi alpiniste chevronné, guide ou gardien de refuge soit-il.
+  
 
 * Huitième étape : le topo vous a résumé ça d'une phrase expéditive : « Gravir les rochers faciles jusqu'au sommet. » Mais devant vous se dresse maintenant, en plein vent, un tas de rocs instables bien plus haut que la couenne de votre site d'escalade préféré. Et aucun spit ne brille sous le soleil levant. Tout ça n'inspire pas bien confiance. 
     * Repérer sommet

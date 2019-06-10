@@ -26,6 +26,8 @@
 
 ### A Lire
 
+* Techniques d'assurage et de rappel sans descendeur
+* https://www.ffme.fr/fiches-ffme/page/techniques-alpinismes.html
 * Glacier tutorial: https://www.youtube.com/watch?v=sfGNZA7nEl8&list=PLajYFniMZtJhlrB6gXJ5ImAZPu2-lhqaY
 * Chaine Youtube déjà regardé
 * youtube.com/user/mikebarter387/videos

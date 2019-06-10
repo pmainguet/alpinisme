@@ -20,6 +20,7 @@
       - [Autres combinaisons](#autres-combinaisons)
     - [Nombre de pitons, cordelette et sangle en vrac](#nombre-de-pitons-cordelette-et-sangle-en-vrac)
     - [Les maillons rapides](#les-maillons-rapides)
+    - [Trousse de secours](#trousse-de-secours)
 
 ## 1 - Checklist matériel
 
@@ -221,3 +222,109 @@ Le matériel conseillé dans les livres qui décrivent des courses sélectionné
 ### Les maillons rapides
 
 Les maillons destinés à l'escalade sont maintenant des EPI (Équipement de Protection Individuelle) devant répondre à la norme EN 12275 qui prévoit une résistance à la traction selon le grand axe du maillon de 25 kN, et une résistance transversale de 10 kN, maillon vissé.
+
+### Trousse de secours
+
+
+La trousse de secours
+Une trousse de secours trop fournie aura toutes les chances de rester à la
+maison au moindre prétexte : course facile, de courte durée, dans un endroit
+fréquenté. Au contraire, la réduire à une boîte de pansements la rend peu utile. Le
+compromis judicieux pourra dépendre de l'engagement de la course mais il est bon de
+se constituer une trousse standard qu'on emmènera partout, quitte à l'étoffer pour
+certains projets plus ambitieux.
+La trousse standard doit permettre de stopper le saignement et de protéger une
+plaie, de placer un strapping sur une articulation, de fabriquer une contention de
+fortune pour une entorse ou une fracture, d'atténuer la douleur, de désinfecter
+grossièrement une plaie, de laver un œil, de calmer une céphalée due au MAM,
+d'alerter les secours.
+Oubliez la stérilité des compresses, des pansements ou de vos gants de
+chirurgien. Vous êtes en traumatologie, c'est à dire en milieu septique. Désinfecter
+une plaie pleine de terre à l'aide d'une compresse stérile n'a aucun sens. Les bactéries
+ne vous ont pas attendu. Utilisez des compresses et des mains propres, c'est déjà bien.
+Les médicaments seront prescrits par votre médecin traitant en fonction de vos
+contre-indications et des interactions éventuelles avec des traitements déjà suivis. Il
+est indispensable que les membres de la cordée se confient mutuellement leurs
+antécédents médicaux, et les médicaments personnels qu'ils emportent. On évitera
+ainsi les longues explications de dernière minute pour chercher le spray de Ventoline
+caché au fond du sac de votre copain asthmatique, ou on apportera immédiatement le
+sucre nécessaire à la copine habituée aux malaises hypoglycémiques.
+Une trousse de secours complète pourrait être celle-ci :
+-1 petit flacon de liquide de désinfectant des mains (lotion hydro-alcoolique ou
+ammonium quaternaire) ;
+-1 paire de gants d'examen en latex non stériles (les gants en latex sont précis) ;
+-1 paire de gants d'examen en vinyl non stériles (si un membre de la cordée est
+allergique au latex) ;
+-2 unidoses de sérum physiologique (pour laver une plaie ou un œil),
+-2 unidoses d'éosine (pour désinfecter et assécher une plaie) ;
+-nombreuses compresses tissées non stériles (mais propres!) ;
+-1 rouleau entier d'Elastoplaste de 6cm de largeur (pour maintenir des
+pansements, des compresses, et pour placer un strapping) ;
+-1 boîte de stéri-strips (bandes autocollantes pour « suturer » les plaies) ;
+-1 boîte de pansements divers de bonne qualité, résistant à l'eau (ils doivent
+tenir malgré la neige) ;
+219
+
+-2 pansements hydrocolloïdes 15x15cm type Algoplaque, pour les plaies larges
+et en surface suite à une forte abrasion de la peau lors d'une chute ;
+-2 bandes extensibles non collantes, type Velpeau ou Nylex (pour maintenir un
+pansement en place, une compression, une contention) ;
+-plusieurs épingles à nourrice (pour arrêter les bandes, pour réparer les
+vêtements déchirés pendant la chute, pour soutenir un bras avec la manche piquée au
+tissu de la poitrine) ;
+-1 attelle d'urgence, déformable et ajustable, de type Sam Splint ;
+-6 comprimés de Codoliprane (association paracétamol et codéine, antalgique
+périphérique, 2c. en cas de douleur intense, espacer les prises de 4 heures minimum ;
+contre-indiqué en cas d'allergie à un constituant, en cas d'asthme, d'insuffisance
+hépatique ou respiratoire, et chez la femme enceinte) ;
+-4 comprimés de Nurofène 400 (ibuprofène, anti-inflammatoire à visée
+antalgique, 1c. en cas de douleur, espacer les prises de 6 heures minimum, alternance
+possible avec le Codoliprane, contre-indiqué en cas d'allergie, d'insuffisance
+hépatique ou rénale, d'ulcère, et chez la femme enceinte) ;
+-6 comprimés d'Aspirine 500 (acide acétylsalicylique, 1 ou 2 comprimés en cas
+de céphalée due au MAM, espacer les prises de 4 heures minimum ; contre-indiqué
+en cas d'allergie, d'asthme à l'aspirine, de risque hémorragique, d'insuffisance
+hépatique ou rénale, de prise d'anticoagulants, chez la femme enceinte) ;
+-4 comprimés de Coramine Glucose (glucose, 4 c.par jour en cas de fatigue
+brutale, conte-indiqué en cas d'allergie, d'hypertension artérielle, d'épilepsie, et chez
+la femme enceinte) ;
+- 4 comprimés de Valium 5mg (diazépam, anxiolytique, 1 comprimé en cas
+d'anxiété suite à un traumatisme ou en cas de contractures musculaires suite à une
+forte contusion, demander l'avis du médecin traitant) ;
+-4 comprimés de Guronsan (glucoronamide, vitamine C et caféine, 1c.le matin
+et 1c.à midi en cas de fatigue, contre-indiqué en cas d'allergie ou de calculs rénaux) ;
+-1 canif à petite lame ou un multitool avec ciseaux (pour découper les
+compresses, les pansements, les bandes diverses) ;
+-1 petit morceau de savon (pour un lavage plus sérieux en cas d'eau courante) ;
+-1 miroir de signalisation ;
+-1 sifflet ;
+-1 couverture de survie ;
+-1 téléphone portable ;
+-1 crème écran total pour peau et lèvres ;
+-1 paire de lunettes de glacier de secours.
+Pour les courses sérieuses, on pourra ajouter un coussin hémostatique
+d'urgence, une attelle Sam Splint de grande taille supplémentaire, une radio avec son
+abonnement au service local de secours, un corticoïde injectable pour traiter l’œdème
+cérébral (Soludécadron , 4mg en intramusculaire).
+En très haute altitude (pas dans les Alpes), on emporte de l'Adalate
+220
+
+(nifédipine), inhibiteur calcique par voie orale proposé habituellement pour les crises
+d'angor, pour son effet de diminution en quelques minutes du tonus vasculaire
+artériel. Il permet de diminuer la pression de l'artère pulmonaire en cas d’œdème
+pulmonaire.
+Pour le camp de base dans les Alpes (au camping!), on peut prévoir de
+l'Adrénaline en stylo injectable prêt à l'emploi (Epipen, Anapen) à utiliser en cas de
+choc anaphylactique suite à une piqûre de guêpe, surtout si l'un des membres de la
+cordée a présenté dans le passé des signes d'allergie (œdème local important, urticaire
+géant, œdème de Quincke).
+L'adrénaline entraîne une vasoconstriction périphérique puissante qui enraye la
+vasodilatation périphérique brutale provoquée par l'allergène, ce qui permet d'éviter le
+désamorçage de la pompe cardiaque par l'hypotension brutale. Elle entraîne
+également une puissante bronchodilatation combattant l'obstruction des voies
+aériennes due à l’œdème de Quincke.
+Si votre copain présente une hypertension artérielle, il est probablement sous
+bêtabloquant, médicament de choix pour l'hypertension artérielle du jeune car cela lui
+apporte du confort en lui évitant les bouffées de chaleur et de rougeur liées à
+l'émotivité. Il va donc vous falloir plus d'adrénaline car le bêtabloquant l'empêche
+d'agir: appeler le SAMU.
