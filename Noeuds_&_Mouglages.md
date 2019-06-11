@@ -140,3 +140,7 @@ Mouflage Mariner simple:
 Mouflage Mariner double:
 
 ![Image](img/mouflagemarinerdouble.png?raw=true)
+
+Lors de la traction, l'autobloquant 2 vient contre1, tandis que 4 et 3 se rapprochent. L'autobloquant 1 prend le blessé en charge, et le sauveteur peut replacer 2 et 3 pour poursuivre la manoeuvre.
+
+![Image](img/mouflage.gif)

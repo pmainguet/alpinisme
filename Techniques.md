@@ -4,9 +4,7 @@
   - [Techniques d'assurage et d'encordement selon type de progression](#techniques-dassurage-et-dencordement-selon-type-de-progression)
     - [Considérations générale sur l'assurage](#consid%C3%A9rations-g%C3%A9n%C3%A9rale-sur-lassurage)
     - [A retenir](#a-retenir)
-    - [Anneaux de buste](#anneaux-de-buste)
-      - [Technique classique](#technique-classique)
-      - [Technique EMHM Chamonix](#technique-emhm-chamonix)
+    - [Anneaux de buste - Technique classique](#anneaux-de-buste---technique-classique)
     - [Assurage en mouvement - technique la plus simple](#assurage-en-mouvement---technique-la-plus-simple)
       - [Encordement COURT SANS ANNEAUX A LA MAIN](#encordement-court-sans-anneaux-a-la-main)
       - [Encordement COURT AVEC ANNEAUX A LA MAIN](#encordement-court-avec-anneaux-a-la-main)
@@ -42,6 +40,7 @@
     - [Sauvetage en crevasse - cas où remontée](#sauvetage-en-crevasse---cas-o%C3%B9-remont%C3%A9e)
     - [Franchir la rimaye](#franchir-la-rimaye)
     - [Sortie de goulotte en neige : danger.](#sortie-de-goulotte-en-neige--danger)
+    - [Piolet en tant que relais récupérable](#piolet-en-tant-que-relais-r%C3%A9cup%C3%A9rable)
 
 ## Techniques d'assurage et d'encordement selon type de progression
 
@@ -68,7 +67,7 @@ NOTE: pour s’encorder, la FFME préconise le nœud en 8 avec nœud d’arrêt.
 
 2. Y a t'il présence de CREVASSE ?
    
-   Oui => Progression simultanée "corde tendue" avec encordement en N (voire encordement anneaux de buste version EMHM), distance de 15 à 20 mètres
+   Oui => Progression simultanée "corde tendue" avec encordement en N, distance de 15 à 20 mètres
    
    Non => (voir 3.)
 
@@ -87,11 +86,7 @@ NOTE: pour s’encorder, la FFME préconise le nœud en 8 avec nœud d’arrêt.
 
     * Progression avec anneaux de buste et distance de 2 à 3 mètres
 
-
-
-### Anneaux de buste
-
-#### Technique classique
+### Anneaux de buste - Technique classique
 
 * Chaque membre de la cordée est encordé à une extrémité de la corde par un nœud en huit ou un nœud de chaise assorti de son double nœud d'arrêt, selon sa préférence.
 * La corde est en tas, posée au sol. Chacun va raccourcir la corde en prenant des anneaux de buste.
@@ -108,16 +103,9 @@ NOTE: pour s’encorder, la FFME préconise le nœud en 8 avec nœud d’arrêt.
 * On place enfin un mousqueton entre la boucle et le pontet pour prévenir le lâchage progressif du nœud simple.
 * On sécurise généralement la boucle en la mousquetonnant au pontet.
 
-
 ![Image](https://lh3.googleusercontent.com/FEAnKLzNz53SD9RLwirZFPnapS-s2OACA07PSG2JZQVhBvhBAx_Qu4iMlFuynBuq68BGLPbfhMF0i51Le-CyfTp8EYOsCN3SqHPrqF4U3iglEaJRbxX5mxz3DyERCPUzh0jR1NLUHTHF6mwasDThNmKn833yISm6IY1KiYJ2uzhP-Ai7ZixMLS3do-RBhxrO6bvPS0QsV_ByOabfjNsgC4ucS_6w_mwoCnkGqs7HDfNL9seFyDKWzLhgvZrlJ3u9jKf9KwG1oMPSlZtuAV_f9VJqdrQaXOIBwt0QTZ2RrYvcBElSVQ2H1t7wjU8vQrdOPW62enGIBoRqpBWrL9RW5H4oAgW0bIzHLySVLcgcPho14YpuxzVPrJRW9gPaVF6GBcTh82n3Cz9J9_5f-VtzvJKu3SH4ET-G00XxLY89Gd8I-2a2vipo8HexS1BqAIhfaRTEpWJvMdtIwhcz-SwVlfHzOhHZyUDaM0Kg-6bwBg1Uq7ANYFJZ0SgqM9IUvT5YWflyCB-FyjDP983CLE7hhkDhNxlHQcUDX19GPV0KKae6XP4CHzbSr1j2pOvgn1j0QZeB_IEsU2qEXG3k1XF57BsTQjDgqp1ghVl_-K85WAEnCC6SXxyHsc2sKJMz8lR1G9mccAFBOpkQnnFWZAsBKpkByIWW7xaElQbMZiWrPBfqcYz8KL_303kuIm1MrnM2hZvDNSnqak-ktTEUaP9bc2ewfw=w690-h919-no)
 
-#### Technique EMHM Chamonix
-
-Source: https://www.randonneepyrenees.com/Images/rando/escalade/docs/Encordement.pdf
-
-![Image](img/anneauxbustefermedeuxversion.png)
-
-![Image](img/anneauxbustefermedeuxversion2.png)
+Note: il existe d'autres techniques d'anneaux de buste, comme celle d'EMHM Chamonix (mais pas réussi à la faire): https://www.randonneepyrenees.com/Images/rando/escalade/docs/Encordement.pdf
 
 ### Assurage en mouvement - technique la plus simple
 
@@ -505,6 +493,8 @@ Position de réchappe.
   * Déplacer le 2ème autobloquant vers le haut en gardant le pied dans la pédale.
   * Répéter les actions 5 à 7 jusqu’à la sortie de la crevasse. 
 
+![Image](img/autosauvetage.gif?raw=true)
+
 * Remontée sur rappel
     * Le rappel ne se remonte évidemment qu'à la condition qu'on ait encore à sa disposition les deux extrémités.
     * Si on ne les a pas, on grimpe en s'assurant en premier de cordée avec la portion de corde qu'on a pu rappeler, jusqu'à la seconde extrémité qui pend en l'air, puis on démarre la remontée sur corde à cet endroit.
@@ -523,21 +513,29 @@ Position de réchappe.
 
 ### Sauvetage en crevasse - cas où remontée 
 
-**TODO: détailler le process => pas clair comment faire le transfert de poids**
-
-**TODO: Cas où l'on est sur un encordement long et pas un encordement en N**
-
+NOTE: décrit pour encordement en N (pas conseillé de faire encordement en long sur glacier car pas facile de libérer du mou)
 
 * Enrayer la chute et se stabiliser avec les pieds.
 * Réaliser un amarrage (broches, corps mort selon la qualité de la neige ou de la glace).
 * Se longer sur l’amarrage (cela évitera de glisser vers la crevasse.
 * Réaliser un autobloquant (A) sur la corde et le relier à l’amarrage. (s’assurer qu’il ne glisse pas), afin de libérer la tension de la corde pour la transférer sur le corps mort
-* Défaire les anneaux de buste.
+* Si la corde a pénétré profondément dans la lèvre de la crevasse, vous allez lui renvoyer votre réserve de corde pour qu'il fasse sa remontée sur ce brin.
 * Réalisation d'un [Mouflage mariner simple ou double](Noeuds_%26_Mouglages.md#mouflages-simple-simple-de-surface-mariner)
 
-* NOTE: Si la corde a pénétré profondément dans la lèvre de la crevasse, vous allez lui renvoyer votre réserve de corde pour qu'il fasse sa remontée sur ce brin.
+Exemple vidéo:
+* Building an anchor: https://www.youtube.com/watch?v=VbJ2Y3t_NkA
+* Transfer Load / Escape System: https://www.youtube.com/watch?v=Z07LXfplRNs
+* Check Victim / Drop loop: https://www.youtube.com/watch?v=EhlanzaBtp4
+* The Z pulley: https://www.youtube.com/watch?v=sF4kETlz3kk
+
+Voir Petzl (avec matériel)
+* https://www.petzl.com/FR/fr/Sport/Secours-crevasse-n%C2%B0-1---transfert-du-poids-de-la-victime-sur-un-ancrage?ActivityName=Alpinisme
+* https://www.petzl.com/FR/fr/Sport/Secours-crevasse-n%C2%B0-2---acces-au-bord-de-la-crevasse-pour-evaluer-la-situation?ActivityName=Alpinisme
+* https://www.petzl.com/FR/fr/Sport/Secours-crevasse-n%C2%B0-3---mouflages-pour-le-secours-en-crevasse?ActivityName=Alpinisme
 
 ### Franchir la rimaye
+
+Voir: https://www.petzl.com/FR/fr/Sport/Franchir-une-rimaye-pendant-une-course-de-neige?ActivityName=Alpinisme
 
 L'état de la rimaye fait partie des conditions à vérifier pour préparer une course. Certaines courses sont réputées ne pouvoir se faire que jusqu'en milieu de saison pour cette raison.
 * En bonne condition, la rimaye est bouchée et forme simplement une fente ou une petite marche. Un grand pas et l'affaire est faite.
@@ -560,3 +558,11 @@ L'état de la rimaye fait partie des conditions à vérifier pour préparer une 
 * La glace bien sûr, c'est technique, mais c'est la sécurité.
 * L'idéal est de progresser sur la neige compacte parce que ça va vite, et de s'assurer sur la glace parce que c'est solide.
 * A la fin de la goulotte de glace, avant de prendre pied sur la neige, on commence par visser une broche au dernier emplacement solide possible. Puis on regarde attentivement la suite. Y-a-t-il un becquet ou une fissure de rocher dans la pente de neige pour faire relais ? A quelle distance ? Ai-je assez de corde pour y aller ? On demande au second. Il sait répondre car il vient de voir passer le milieu qu'on a marqué au feutre. Il crie : « Il reste vingt mètres. » C'est largement, vous y allez. Si en vous rapprochant de ce que vous avez pris de loin pour un becquet, mais qui n'en est pas un, vous regrettez de vous être aventuré dans la neige raide, vous redescendrez plus sereinement en sachant qu'une broche vous protège en sortie de glace. Maintenant, si le copain vous crie « il reste cinq mètres », ne tentez pas le diable : une deuxième broche superposée à l'autre, une sangle qui les relie ; relais !
+
+### Piolet en tant que relais récupérable
+
+![image](img/pioletejectable.gif)
+
+Le piolet 1 est enfoncé dans la neige, la cordelette 4 fixée à la pointe (noeud de cabestan n'entravant pas la sortie). Lors de la récupération du rappel, la corde 3 entraîne l'autobloquant de la cordelette 4, qui fait sortir le piolet 1. Le piolet 1 entraîne le piolet 2 par la sangle 5, qui doit être assez longue pour ne pas bloquer la sortie de 1.
+
+Ce système fonctionne aussi avec des skis.
