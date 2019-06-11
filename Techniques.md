@@ -5,19 +5,17 @@
     - [Considérations générale sur l'assurage](#consid%C3%A9rations-g%C3%A9n%C3%A9rale-sur-lassurage)
     - [En bref](#en-bref)
     - [Anneaux de buste - Technique classique](#anneaux-de-buste---technique-classique)
-    - [Assurage en mouvement - technique la plus simple](#assurage-en-mouvement---technique-la-plus-simple)
-      - [Encordement COURT SANS ANNEAUX A LA MAIN](#encordement-court-sans-anneaux-a-la-main)
-      - [Encordement COURT AVEC ANNEAUX A LA MAIN](#encordement-court-avec-anneaux-a-la-main)
-      - [Encordement LONG dit souvent « progression à corde tendue »](#encordement-long-dit-souvent-%C2%AB-progression-%C3%A0-corde-tendue-%C2%BB)
-      - [ENCORDEMENT EN N](#encordement-en-n)
-      - [CAS PARTICULIERS](#cas-particuliers)
-      - [Encordement d'un troisième sur la corde](#encordement-dun-troisi%C3%A8me-sur-la-corde)
-    - [Assurage à l'épaule](#assurage-%C3%A0-l%C3%A9paule)
+    - [Assurage en mouvement avec encordement COURT (3-4 mètres) sans anneaux à la main, sans pose de protection](#assurage-en-mouvement-avec-encordement-court-3-4-m%C3%A8tres-sans-anneaux-%C3%A0-la-main-sans-pose-de-protection)
+    - [Assurage en mouvement avec encordement LONG et pose de PROTECTION (ou usage du terrain)](#assurage-en-mouvement-avec-encordement-long-et-pose-de-protection-ou-usage-du-terrain)
+    - [Encordement COURT AVEC ANNEAU A LA MAIN](#encordement-court-avec-anneau-a-la-main)
+    - [ENCORDEMENT EN N pour assurage sur glacier crevassé](#encordement-en-n-pour-assurage-sur-glacier-crevass%C3%A9)
+    - [Encordement d'un troisième sur la corde](#encordement-dun-troisi%C3%A8me-sur-la-corde)
     - [Assurage par longueurs](#assurage-par-longueurs)
     - [L'assurage dynamique - à relativiser](#lassurage-dynamique---%C3%A0-relativiser)
-  - [Les relais](#les-relais)
+  - [Les relais pour l'assurage par longueur](#les-relais-pour-lassurage-par-longueur)
     - [Cas où relais béton non nécessaire](#cas-o%C3%B9-relais-b%C3%A9ton-non-n%C3%A9cessaire)
     - [Mini-relais](#mini-relais)
+    - [Assurage à l'épaule](#assurage-%C3%A0-l%C3%A9paule)
     - [Triangulation du relais](#triangulation-du-relais)
       - [Triangulation unidirectionnelle avec sangle trop courte](#triangulation-unidirectionnelle-avec-sangle-trop-courte)
     - [Triangulation multi-directionnelle ou uni-directionnelle pour un rappel](#triangulation-multi-directionnelle-ou-uni-directionnelle-pour-un-rappel)
@@ -58,26 +56,25 @@
 
 1. L'escalade est elle DIFFICILE ?
    
-   Oui => Progression de RELAIS EN RELAIS
+   Oui => [Assurage par longueur](#assurage-par-longueurs)
 
 2. Y a t'il présence de CREVASSE ?
    
-   Oui => Progression CORDE TENDUE avec encordement en N, distance de 15 à 20 mètres
+   Oui => Progression avec [encordement en N](#encordement-en-n-pour-assurage-sur-glacier-crevass%C3%A9), distance de 15 à 20 mètres
 
 3. Y a t il un risque de GLISSADE (pente de neige raide, arêtes de neige) ?
 
-   Oui => Progression avec anneaux de buste + anneaux à la main pour le premier et distance de 2 à 3 mètres
+   Oui => [Progression avec encordement COURT + anneaux à la main pour le premier](#encordement-court-avec-anneau-a-la-main)
 
 4. Pas de DIFFICULTE, de risque de GLISSADE, pas de CREVASSE ?
 
-   A - Terrain moyennement difficile & Facilement protégeable (naturellement ou pose matériel), avec pose régulière de mini-relais:
+   A - Terrain moyennement difficile & Facilement protégeable (naturellement ou pose matériel), avec mini-relais ou assurage à l'épaule régulier:
 
-    * "Assurage en mouvement", avec pose de protection ou usage du terrain, encordement long, distance de 15-30 mètres
+    * [Assurage en mouvement avec encordement LONG](#assurage-en-mouvement-avec-encordement-long-et-pose-de-protection-ou-usage-du-terrain) (15-30 mètres) et pose de PROTECTION (ou usage du terrain)
    
    B - Facile, régulier, ne demandant pas trop de variation de corde:
 
-    * Progression sans pose de protection avec anneaux de buste sans anneaux à la main, distance de 3-4 mètres
-
+    * [Assurage en mouvement avec encordement COURT](#assurage-en-mouvement-avec-encordement-court-3-4-m%C3%A8tres-sans-anneaux-%C3%A0-la-main-sans-pose-de-protection) (3-4 mètres) sans anneaux à la main, sans pose de protection
 
 ### Anneaux de buste - Technique classique
 
@@ -101,32 +98,23 @@
 
 Note: il existe d'autres techniques d'anneaux de buste, utilisable sur glacier en remplacement de l'encordement en N, comme celle d'EMHM Chamonix (mais pas réussi à la faire): https://www.randonneepyrenees.com/Images/rando/escalade/docs/Encordement.pdf, voir aussi https://forum.camptocamp.org/t/anneaux-de-buste-new-school/114158/9
 
-### Assurage en mouvement - technique la plus simple
+### Assurage en mouvement avec encordement COURT (3-4 mètres) sans anneaux à la main, sans pose de protection
 
 * PRINCIPE:
   * Les membres de la cordée progressent ensemble en cherchant à maintenir la corde à peu près tendue. Si l'un glisse, il est retenu par l'autre.
   * Pas de pose de protections
-  * En cas d'obstacle court, le premier de cordée le franchit, paré voire poussé par le second, se cale derrière un recoin du rocher, et assure son compagnon [à l'épaule](#assurage-%C3%A0-l%C3%A9paule) ou directement sur un becquet rocheux avec un [mini-relais](#mini-relais). Le second le rejoint, puis les deux repartent corde tendue.
-* AVANTAGES:
-  * Rapide et simple
-* INCONVENIENTS:
-  * L'assurage en mouvement est rudimentaire et apporte nettement moins de sécurité aux grimpeurs que l'assurage par longueurs. Mais la sécurité en montagne ne se réduit pas à la sécurité d'une longueur. Il s'agit aussi de descendre au plus tôt la pente de neige raide avant que le soleil ne la rende dangereuse, de quitter le sommet avant l'orage, de rentrer avant la nuit, et tout simplement de réduire la durée totale de la course afin d'épargner la fatigue de la cordée
-
-#### Encordement COURT SANS ANNEAUX A LA MAIN
-
-* PRINCIPE
   * La distance entre grimpeurs est de 3 à 4 mètres.
   * Le premier de cordée est TOUJOURS PLUS HAUT que le second: devant à la montée, derrière à la descente.
   * Personne ne tient d'anneaux à la main.
-  
+  * En cas d'obstacle court, le premier de cordée le franchit, paré voire poussé par le second, se cale derrière un recoin du rocher, et assure son compagnon [à l'épaule](#assurage-%C3%A0-l%C3%A9paule) ou directement sur un becquet rocheux avec un [mini-relais](#mini-relais). Le second le rejoint, puis les deux repartent corde tendue.
 * AVANTAGES:
   * Technique d'assurage qui permet la progression la plus rapide sur un terrain uniforme. 
   * Le second de cordée est bien assuré, sauf dans les traversées. Le leader peut avoir intérêt pour gérer celles-ci à traverser en amont de son second pour éviter un pendule.
   * Le premier de cordée a les deux mains libres. En neige, il peut donc manier deux piolets et être capable en permanence de retenir une glissade du second. En rocher, les deux mains libres lui donnent une grande sûreté.
   * Le risque de faire tomber des pierres est minimum. Les pierres qu'enverrait le leader n'auraient pas le temps de prendre de la vitesse avant d'atteindre le second.
-
 * INCONVENIENTS:
-  * Le premier de cordée n'est assuré que par la proximité du second qui peut le parer ou caler ses pieds sur des adhérences précaires. Le leader doit donc être très sûr.
+  * L'assurage en mouvement est rudimentaire et apporte nettement moins de sécurité aux grimpeurs que l'assurage par longueurs. Mais la sécurité en montagne ne se réduit pas à la sécurité d'une longueur. Il s'agit aussi de descendre au plus tôt la pente de neige raide avant que le soleil ne la rende dangereuse, de quitter le sommet avant l'orage, de rentrer avant la nuit, et tout simplement de réduire la durée totale de la course afin d'épargner la fatigue de la cordée
+* Le premier de cordée n'est assuré que par la proximité du second qui peut le parer ou caler ses pieds sur des adhérences précaires. Le leader doit donc être très sûr.
 
 * A UTILISER SI:
     * Terrains faciles pour la cordée - neige, glace, mixte ou rocher - à l'exception des glaciers enneigés en raison du risque de chute en crevasse
@@ -138,36 +126,7 @@ Note: il existe d'autres techniques d'anneaux de buste, utilisable sur glacier e
   * Nécessité fréquente de franchir des obstacles, si ceux-ci excèdent en hauteur la longueur d'encordement. Pour de tels obstacles, la marche aux anneaux est plus indiquée.
   * Le leader n'a plus la capacité de retenir une glissade du second.
 
-#### Encordement COURT AVEC ANNEAUX A LA MAIN
-
-* PRINCIPE:
-  * La distance entre les grimpeurs est de 2 à 3 mètres.
-  * Le premier de cordée est TOUJOURS PLUS HAUT que le second: devant à la montée, derrière à la descente.
-  * Le premier de cordée tient dans sa paume aval trois ou quatre mètres de corde, lovés en anneaux dont le dernier est serré en tour mort autour de la main. Ce dernier anneau doit toujours être le premier qu'on peut lâcher. Ceci implique de devoir retourner le paquet quand on change de main. Les anneaux sont assez courts
-  * La corde est tendue comme une laisse entre la main aval et le pontet du second. Ceci permet au leader de sentir un début de glissade du second, et de le remettre en selle d'un coup de poignet énergique.
-  * Si le leader monte plus vite que le second, il lâche des anneaux progressivement. S'il est rattrapé, il reprend des anneaux.
-  * A la descente, s'il rattrape son second, il reprend des anneaux. S'il se fait distancer, il lâche des anneaux.
-  * Il pense à bien refaire le dernier tour serré à chaque fois.
-
-* AVANTAGES:
-  * ???
-  
-* INCONVENIENTS
-  * Le leader est non seulement mal assuré, mais doit maintenir en permanence la tension de la corde. Sa main occupée est un handicap non seulement pour grimper mais aussi pour rattraper une glissade du second. 
-  
-* A UTILISER SI
-  * Terrains faciles pour la cordée, à la condition que le leader se sente capable de gérer les anneaux. à l'exception des glaciers enneigés
-  * Terrain facile semé de courts passages plus difficiles
-
-* A NE PAS/PLUS UTILISER SI:
-  * Idem méthode d'encordement court sans anneaux
-  * Premier de cordée n'est pas à l'aise avec la technique.
-  * Pente de neige raide uniforme, sans franchissement d'obstacle, rien ne justifie de s'encombrer avec des anneaux, d'autant plus si on possède deux piolets. La méthode d'encordement court sans anneaux est alors préférable.
-  * Sur des gradins rocheux uniformes sans possibilités d'assurage, le leader préférera sans doute aussi avoir ses deux mains libres.
-
-#### Encordement LONG dit souvent « progression à corde tendue »
-
-Note: me semble très proche d'un assurage en mouvement avec pose de protections
+### Assurage en mouvement avec encordement LONG et pose de PROTECTION (ou usage du terrain) 
 
 * PRINCIPE:
   * La distance entre les deux grimpeurs est de 12 à 15 mètres environ.
@@ -196,7 +155,12 @@ Note: me semble très proche d'un assurage en mouvement avec pose de protections
   * Risque grandissant de chute du second. S'il chute, il risque d'entraîner le leader dans un vol en premier de cordée.
   * Quand le second se trouve trop limite dans la plupart des passages : relais.
 
-#### ENCORDEMENT EN N
+### Encordement COURT AVEC ANNEAU A LA MAIN
+
+* Progression sur une arête de neige effilée horizontale: La distance entre les deux grimpeurs est de 5 à 6 mètres, le leader tenant deux ou trois mètres d'anneaux à la main. Il se place derrière son second pour le garder à vue si la trace est faite. En cas de chute sur un versant, le leader doit lâcher les anneaux et sauter de l'autre côté en tâchant de ne pas se blesser. Les anneaux lâchés donnent le temps nécessaire pour réagir.
+* Inconvénients: Le leader est non seulement mal assuré, mais doit maintenir en permanence la tension de la corde. Sa main occupée est un handicap non seulement pour grimper mais aussi pour rattraper une glissade du second. 
+
+### ENCORDEMENT EN N pour assurage sur glacier crevassé
 
   * encordement long avec anneaux de buste: utilisé plutôt l’été lors des raids glaciaires, mais principal inconvénient est qu'en cas de chute en crevasse, les anneaux de corde ne sont pas mobilisables rapidement, pour terrain régulier, demandant peu de variations de corde par Petzl
   * C'EST CELUI QUI EST RECOMMANDE => encordement en N avec réserve de corde: utilisé plutôt en ski de montagne, recommandé par la FFME pour les traversées glacières, pour marche longue (car configuration figée) par Petzl
@@ -228,24 +192,10 @@ Nœud de freinage : un nœud de huit pour commencer, puis piéger un brin avec l
   * Récemment, on préconise plutôt de placer cet excédent de corde en vrac à l'intérieur du sac. Ceci permet de tirer la longueur de corde utile à une remontée sur corde ou à un mouflage sans devoir nécessairement ôter son sac à dos, et ce de façon plus rapide.
   * La corde doit être soigneusement introduite dans le sac en commençant par son extrémité, pour qu'elle puisse sortir sans nœud. Certains appellent cela enkiter la corde.
 
-#### CAS PARTICULIERS
-
-* Progression sur une arête de neige effilée horizontale: La distance entre les deux grimpeurs est de 5 à 6 mètres, le leader tenant deux ou trois mètres d'anneaux à la main. Il se place derrière son second pour le garder à vue si la trace est faite. En cas de chute sur un versant, le leader doit lâcher les anneaux et sauter de l'autre côté en tâchant de ne pas se blesser. Les anneaux lâchés donnent le temps nécessaire pour réagir.
-
-#### Encordement d'un troisième sur la corde
+### Encordement d'un troisième sur la corde
 
 * La FFME recommande l'encordement à double noeud d'arrêt en randonnée et en randonnée glaciaire. Noeud de huit en bout.
 https://www.ffme.fr/fiches-ffme-techniques/page/encordement-avec-le-double-noeud-d-arret.html
-
-### Assurage à l'épaule
-
-**TODO: Voir comment on fait dans la pratique (tirage de la corde)**
-
-* L'assurage à l'épaule consiste à se caler solidement derrière une saillie, la jambe avant devant être capable de supporter le poids du second sans déraper.
-* La corde partant de l'assuré passe par la main avant en supination, passe sous l'aisselle du même côté, derrière le dos, puis sur l'épaule opposée, pour finir devant la poitrine dans l'autre main en pronation.
-* On ne peut avec cette méthode qu'enrayer une glissade que l'assuré va devoir finir de stopper lui-même. 
-* Vêtements épais pour l'assureur, des manches longues, le port de gants en cuir brut.
-* L'assureur peut aussi s'auto-assurer à un becquet pour consolider sa position, mais dans ce cas, pourquoi ne pas assurer directement sur ce becquet avec un demi-cabestan ? Dans ce cas, la vache passe du même côté du corps que la corde qui va à l'assuré.
 
 ### Assurage par longueurs
 
@@ -263,7 +213,7 @@ https://www.ffme.fr/fiches-ffme-techniques/page/encordement-avec-le-double-noeud
 * En montagne, prendre d'emblée l'habitude d'assurer de manière dynamique, soit en sautant vers le haut quand on le peut, soit en donnant un bon mètre de mou pendant le vol, risque de conditionner un réflexe préjudiciable dans beaucoup de circonstances quand une chute trop longue ferait rencontrer directement une proéminence du terrain : terrasse, vire, écaille saillante, becquet, pieux métallique,
 * S'il est bon de savoir comment assurer de manière dynamique, ce qui peut être utile parfois sur un relais en neige, en glace avec des broches douteuses, en rocher au-dessus d'un mauvais piton, on se gardera d'en faire une habitude. L'élasticité du système d'assurage peut se parfaire en montagne moins dangereusement avec l'emploi du nœud de demi-cabestan, l'utilisation pour les points douteux de dégaines-explose (dégaines à absorption d'énergie), la bonne gestion du tirage (un tirage important augmente la force de choc transmise au dernier ancrage) ou le mousquetonnage d'un seul brin de la corde à double.
 
-## Les relais
+## Les relais pour l'assurage par longueur
 
 Escalade sportive vs alpinisme :
 * Le relais comporte un maillon primaire. Commencez par retaper les pitons puis par vous vacher n'importe où, plutôt que de vous lancer dans une longue recherche d'un éventuel maillon primaire. Il ne s'agit pas d'être scolaire mais efficace.
@@ -280,6 +230,16 @@ résister à la mise en tension de la corde en cas de chute du second : un choc 
 ### Mini-relais
 
 Les mini-relais (pour mini-longueurs) consistent à interrompre la progression simultanée le temps de franchir un passage plus difficile. Chacun son tour, mais on conserve l'encordement réduit. On place une sangle sur un becquet, le second se vache assez long pour pouvoir parer et passe la corde dans un demi-cabestan à son pontet.
+
+### Assurage à l'épaule
+
+**TODO: Voir comment on fait dans la pratique (tirage de la corde)**
+
+* L'assurage à l'épaule consiste à se caler solidement derrière une saillie, la jambe avant devant être capable de supporter le poids du second sans déraper.
+* La corde partant de l'assuré passe par la main avant en supination, passe sous l'aisselle du même côté, derrière le dos, puis sur l'épaule opposée, pour finir devant la poitrine dans l'autre main en pronation.
+* On ne peut avec cette méthode qu'enrayer une glissade que l'assuré va devoir finir de stopper lui-même. 
+* Vêtements épais pour l'assureur, des manches longues, le port de gants en cuir brut.
+* L'assureur peut aussi s'auto-assurer à un becquet pour consolider sa position, mais dans ce cas, pourquoi ne pas assurer directement sur ce becquet avec un demi-cabestan ? Dans ce cas, la vache passe du même côté du corps que la corde qui va à l'assuré.
 
 ### Triangulation du relais
 
