@@ -47,7 +47,7 @@
 * L'assurage en mouvement est assez long à acquérir. Il faut engranger beaucoup de courses de rocher PD et AD pour devenir vraiment efficace.
 * En pratique, il ne faut pas hésiter à changer de méthode en fonction des circonstances et utiliser des [mini-relais](#mini-relais)
 * Vous placez un friend ou deux dans le passage que vous surmontez en un éclair puis vous faites relais juste au-dessus. Ça ne prend pas des heures : une sangle sur un becquet, un demi-cabestan : C'est bon, tu peux venir.
-3. * En pratique, on passe d'un mode d'assurage à un autre sans interruption. On cherche à être débrouillard, non académique.
+* En pratique, on passe d'un mode d'assurage à un autre sans interruption. On cherche à être débrouillard, non académique.
 * Connaître parfaitement le niveau d'escalade de son compagnon, ses points forts et ses points faibles (fissures en verrous, dalles friction, ou surplombs...) permet d'aller aux limites de l'assurage en mouvement sans se mettre en danger outre mesure. 
 * Ce qui compte n'est pas la rapidité réelle des mouvements mais la fluidité de la progression. Passer sans temps mort d'un encordement court à un encordement long, à une mini-longueur, à une parade ou une petite courte-échelle, est la clef.
 * Pour s’encorder en bout de corde, la FFME préconise le nœud en 8 avec nœud d’arrêt. Pour s'encorder en N, utilisation d'un noeud de vache et d'un noeud d'arrêt
