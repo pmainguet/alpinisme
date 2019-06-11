@@ -67,27 +67,47 @@ Pour réunir les deux brins d'un rappel, soit pour fermer un anneau de cordelett
   ![Image](img/tetealouette.png?raw=true)
   
 * Nœud de mule, pour bloquer un demi-cabestan par exemple. Ce nœud est bien sûr serré, puis sécurisé par un nœud d'arrêt en nouant la boucle autour de la corde allant au grimpeur. Pour réaliser ce nœud de mule, tirer la petite croix marquée sur la corde en suivant le crayon.
+  
   ![Image](img/noeudcoeur.png?raw=true)
+
   ![Image](img/noeudcoeur2.png?raw=true)
+
+  ![Image](img/noeudmuleconfection.png?raw=true)
   
 * Tour mort et deux demi-clefs. 
+* 
   ![Image](img/tourmort.png?raw=true)
 
 * Noeud de freinage
 ![Image](img/noeudfreinage.png?raw=true) : un nœud de huit pour commencer, puis piéger un brin avec la boucle qui repart dans le nœud
 
 ### Noeuds autobloquants
+
 * Nœud de Prusik. Aux USA, on le réalise souvent avec six spires.
+
   ![Image](img/prussike.png)
+
 * Nœud de Machard.
+
   ![Image](img/machard.png)
+
 * Autobloquant français, dit parfois Machard français. Ne bloque que dans un sens.
-  ![Image](img/machardfrancais.png)
-* Nœud de cœur, très facile à réaliser.
+
+![Image](img/machardfrancais.png)
+
+* Nœud de cœur, très facile à réaliser. Utilisé pour assurer un second de cordée ou réaliser un auto
+bloquant lors d’une remontée sur corde fixe .
+
   ![Image](img/coeur.png)
+
+  ![Image](img/noeudcoeurrealisation.png)
+
 * Machard sur mousqueton, très agréable à faire coulisser. Attention, en s'agrippant au mousqueton on desserre l'autobloquant.
+
   ![Image](img/machardmousqueton.png)
+
 * Vous avez égaré votre anneau de cordelette ? Ne perdez pas espoir, et utilisez le machard tressé sur sangle. Éviter la sangle en dyneema pour cette utilisation (fusion facile).
+
   ![Image](img/machardsangle.png)
 
 ## Mouflages (simple, simple de surface, Mariner)
@@ -99,3 +119,24 @@ Dans les trois cas, la tête de mouflage est une poulie autobloquante ou son éq
 
 ![Image](img/mouflage.png?raw=true)
 Mouflage simple, simple de surface, mariner
+
+* Etapes du Mouflage Mariner double
+  * Passer le brin mou de la corde dans le mousqueton de l’amarrage.
+  * Poser un 2ème autobloquant (B) sur le brin en tension et le raccorder sur son baudrier.
+  * Aller, de manière auto assuré voir la victime et placer un piolet au niveau de la lèvre afin d’éviter qu’elle ne soit cisaillée par la corde.
+  * Revenir à la tête de mouflage.
+  * Poser un 3ème autobloquant (C) sur le brin mou, à l’opposé du 1er autobloquant
+  * Prendre une cordelette (5-7 mètres de cordelette de 7mm avec 1 nœud de vache et 1 mousqueton à chaque extrémité).
+  * Mettre le mousqueton avec la cordelette dans l’anneau du 3ème autobloquant (C).
+  * Placer un mousqueton sur le 2ème autobloquant (B) et passer la cordelette dedans ( système de poulie).
+  * prendre le dernier bout de cordelette avec son mousqueton et passer la corde dedans ( système de 2ème poulie).
+  * Tirer sur la corde jusqu’ à ce que les 2 autobloquants (B) et (C) soient cote à cote , ensuite les déplacer pour retendre la cordelette et retirer sur la corde.
+  * Répéter le point précédent jusqu’à la sortie de la crevasse. 
+  
+Mouflage Mariner simple:
+
+![Image](img/mouflageMarinersimple.png?raw=true)
+
+Mouflage Mariner double:
+
+![Image](img/mouflagemarinerdouble.png?raw=true)

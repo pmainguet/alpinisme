@@ -1,9 +1,12 @@
 # Techniques
 
 - [Techniques](#techniques)
-  - [Techniques d'assurage](#techniques-dassurage)
-    - [Encordement montagne classique](#encordement-montagne-classique)
+  - [Techniques d'assurage et d'encordement selon type de progression](#techniques-dassurage-et-dencordement-selon-type-de-progression)
     - [Considérations générale sur l'assurage](#consid%C3%A9rations-g%C3%A9n%C3%A9rale-sur-lassurage)
+    - [A retenir](#a-retenir)
+    - [Anneaux de buste](#anneaux-de-buste)
+      - [Technique classique](#technique-classique)
+      - [Technique EMHM Chamonix](#technique-emhm-chamonix)
     - [Assurage en mouvement - technique la plus simple](#assurage-en-mouvement---technique-la-plus-simple)
       - [Encordement COURT SANS ANNEAUX A LA MAIN](#encordement-court-sans-anneaux-a-la-main)
       - [Encordement COURT AVEC ANNEAUX A LA MAIN](#encordement-court-avec-anneaux-a-la-main)
@@ -28,20 +31,67 @@
   - [Autres techniques générales](#autres-techniques-g%C3%A9n%C3%A9rales)
     - [Le rappel](#le-rappel)
     - [La réchappe](#la-r%C3%A9chappe)
-    - [Remontée sur corde fixe](#remont%C3%A9e-sur-corde-fixe)
     - [Pas d'artif](#pas-dartif)
     - [Pliage de corde](#pliage-de-corde)
     - [Hissage de sac](#hissage-de-sac)
     - [Poser une main courante](#poser-une-main-courante)
   - [Autres techniques en glace ou neige](#autres-techniques-en-glace-ou-neige)
     - [Stopper glissade en pente raide - Position de réchappe](#stopper-glissade-en-pente-raide---position-de-r%C3%A9chappe)
-    - [Sauvetage en crevasse](#sauvetage-en-crevasse)
+    - [Creuser un corps mort pour assurage en neige](#creuser-un-corps-mort-pour-assurage-en-neige)
+    - [Remontée sur corde fixe - autosauvetage](#remont%C3%A9e-sur-corde-fixe---autosauvetage)
+    - [Sauvetage en crevasse - cas où remontée](#sauvetage-en-crevasse---cas-o%C3%B9-remont%C3%A9e)
     - [Franchir la rimaye](#franchir-la-rimaye)
     - [Sortie de goulotte en neige : danger.](#sortie-de-goulotte-en-neige--danger)
 
-## Techniques d'assurage
+## Techniques d'assurage et d'encordement selon type de progression
 
-### Encordement montagne classique
+### Considérations générale sur l'assurage
+
+* L'assurage en mouvement est assez long à acquérir. Il faut engranger beaucoup de courses de rocher PD et AD pour devenir vraiment efficace.
+* En pratique, il ne faut pas hésiter à changer de méthode en fonction des circonstances et utiliser des [mini-relais](#mini-relais)
+* Vous placez un friend ou deux dans le passage que vous surmontez en un éclair puis vous faites relais juste au-dessus. Ça ne prend pas des heures : une sangle sur un becquet, un demi-cabestan : C'est bon, tu peux venir.
+3. * En pratique, on passe d'un mode d'assurage à un autre sans interruption. On cherche à être débrouillard, non académique.
+* Connaître parfaitement le niveau d'escalade de son compagnon, ses points forts et ses points faibles (fissures en verrous, dalles friction, ou surplombs...) permet d'aller aux limites de l'assurage en mouvement sans se mettre en danger outre mesure. 
+* Ce qui compte n'est pas la rapidité réelle des mouvements mais la fluidité de la progression. Passer sans temps mort d'un encordement court à un encordement long, à une mini-longueur, à une parade ou une petite courte-échelle, est la clef.
+
+NOTE: pour s’encorder, la FFME préconise le nœud en 8 avec nœud d’arrêt.
+
+### A retenir
+
+**TO DO: Faire tableau récapitulatif type de terrain > encordement**
+
+1. L'escalade est elle DIFFICILE ?
+   
+   Oui => Progression de relais en relais
+   
+   Non => progression simultanée (voir 2.)
+
+2. Y a t'il présence de CREVASSE ?
+   
+   Oui => Progression simultanée "corde tendue" avec encordement en N (voire encordement anneaux de buste version EMHM), distance de 15 à 20 mètres
+   
+   Non => (voir 3.)
+
+3. Le terrain est il ... ?
+
+   Facile, régulier, ne demandant pas trop de variation de corde:
+
+    * Progression avec ou sans "Anneaux à la main" ... 
+    * ...anneaux de buste ouvert ou fermés
+   
+   Facilement protégeable, sans risque de glissade:
+
+    * Progression "assurage en mouvement", encordement long, distance de 15-30 mètres
+
+   Risque de glissade (pente de neige raide, arêtes de neige):
+
+    * Progression avec anneaux de buste et distance de 2 à 3 mètres
+
+
+
+### Anneaux de buste
+
+#### Technique classique
 
 * Chaque membre de la cordée est encordé à une extrémité de la corde par un nœud en huit ou un nœud de chaise assorti de son double nœud d'arrêt, selon sa préférence.
 * La corde est en tas, posée au sol. Chacun va raccourcir la corde en prenant des anneaux de buste.
@@ -61,16 +111,13 @@
 
 ![Image](https://lh3.googleusercontent.com/FEAnKLzNz53SD9RLwirZFPnapS-s2OACA07PSG2JZQVhBvhBAx_Qu4iMlFuynBuq68BGLPbfhMF0i51Le-CyfTp8EYOsCN3SqHPrqF4U3iglEaJRbxX5mxz3DyERCPUzh0jR1NLUHTHF6mwasDThNmKn833yISm6IY1KiYJ2uzhP-Ai7ZixMLS3do-RBhxrO6bvPS0QsV_ByOabfjNsgC4ucS_6w_mwoCnkGqs7HDfNL9seFyDKWzLhgvZrlJ3u9jKf9KwG1oMPSlZtuAV_f9VJqdrQaXOIBwt0QTZ2RrYvcBElSVQ2H1t7wjU8vQrdOPW62enGIBoRqpBWrL9RW5H4oAgW0bIzHLySVLcgcPho14YpuxzVPrJRW9gPaVF6GBcTh82n3Cz9J9_5f-VtzvJKu3SH4ET-G00XxLY89Gd8I-2a2vipo8HexS1BqAIhfaRTEpWJvMdtIwhcz-SwVlfHzOhHZyUDaM0Kg-6bwBg1Uq7ANYFJZ0SgqM9IUvT5YWflyCB-FyjDP983CLE7hhkDhNxlHQcUDX19GPV0KKae6XP4CHzbSr1j2pOvgn1j0QZeB_IEsU2qEXG3k1XF57BsTQjDgqp1ghVl_-K85WAEnCC6SXxyHsc2sKJMz8lR1G9mccAFBOpkQnnFWZAsBKpkByIWW7xaElQbMZiWrPBfqcYz8KL_303kuIm1MrnM2hZvDNSnqak-ktTEUaP9bc2ewfw=w690-h919-no)
 
-### Considérations générale sur l'assurage
+#### Technique EMHM Chamonix
 
-* L'assurage en mouvement est assez long à acquérir. Il faut engranger beaucoup de courses de rocher PD et AD pour devenir vraiment efficace.
-* En pratique, il ne faut pas hésiter à changer de méthode en fonction des circonstances et utiliser des [mini-relais](#mini-relais)
-* Vous placez un friend ou deux dans le passage que vous surmontez en un éclair puis vous faites relais juste au-dessus. Ça ne prend pas des heures : une sangle sur un becquet, un demi-cabestan : C'est bon, tu peux venir.
-* En pratique, on passe d'un mode d'assurage à un autre sans interruption. On cherche à être débrouillard, non académique.
-* Connaître parfaitement le niveau d'escalade de son compagnon, ses points forts et ses points faibles (fissures en verrous, dalles friction, ou surplombs...) permet d'aller aux limites de l'assurage en mouvement sans se mettre en danger outre mesure. 
-* Ce qui compte n'est pas la rapidité réelle des mouvements mais la fluidité de la progression. Passer sans temps mort d'un encordement court à un encordement long, à une mini-longueur, à une parade ou une petite courte-échelle, est la clef.
+Source: https://www.randonneepyrenees.com/Images/rando/escalade/docs/Encordement.pdf
 
-NOTE: pour s’encorder, la FFME préconise le nœud en 8 avec nœud d’arrêt.
+![Image](img/anneauxbustefermedeuxversion.png)
+
+![Image](img/anneauxbustefermedeuxversion2.png)
 
 ### Assurage en mouvement - technique la plus simple
 
@@ -82,11 +129,6 @@ NOTE: pour s’encorder, la FFME préconise le nœud en 8 avec nœud d’arrêt.
   * Rapide et simple
 * INCONVENIENTS:
   * L'assurage en mouvement est rudimentaire et apporte nettement moins de sécurité aux grimpeurs que l'assurage par longueurs. Mais la sécurité en montagne ne se réduit pas à la sécurité d'une longueur. Il s'agit aussi de descendre au plus tôt la pente de neige raide avant que le soleil ne la rende dangereuse, de quitter le sommet avant l'orage, de rentrer avant la nuit, et tout simplement de réduire la durée totale de la course afin d'épargner la fatigue de la cordée
-
-**TO DO: Faire tableau récapitulatif type de terrain > encordement**
-
-* Face au risque de chute en crevasse, l'encordement est à quinze ou vingt mètres.
-* Devant le risque de glissade, on réduit à trois mètres en prenant des anneaux de buste pour l'enrayer avant toute prise de vitesse.
 
 #### Encordement COURT SANS ANNEAUX A LA MAIN
 
@@ -143,6 +185,8 @@ NOTE: pour s’encorder, la FFME préconise le nœud en 8 avec nœud d’arrêt.
 
 #### Encordement LONG dit souvent « progression à corde tendue »
 
+Note: me semble très proche d'un assurage en mouvement avec pose de protections
+
 * PRINCIPE:
   * La distance entre les deux grimpeurs est de 12 à 15 mètres environ.
   * Le premier de cordée est devant à la montée.
@@ -172,9 +216,10 @@ NOTE: pour s’encorder, la FFME préconise le nœud en 8 avec nœud d’arrêt.
 
 #### ENCORDEMENT EN N
 
-**TO DO: Peut on utiliser l'encordement long classique ? => a priori oui, c'est ce que l'on a appris mais quelle est la différence entre les deux. Cas des mouflages en cas de chute dans une crevasse**
-
-L'encordement pour marche sur glacier en N est une variante de l'encordement long, mais sans pose de points intermédiaires.
+NOTE: L'encordement en N avec réserve de corde dans le sac est une variante de l'encordement long avec anneaux de buste, mais sans pose de points intermédiaires:
+  * encordement long avec anneaux de buste: utilisé plutôt l’été lors des raids glaciaires, mais principal inconvénient est qu'en cas de chute en crevasse, les anneaux de corde ne sont pas mobilisables rapidement, pour terrain régulier, demandant peu de variations de corde par Petzl
+  * encordement en N avec réserve de corde: utilisé plutôt en ski de montagne, recommandé par la FFME pour les traversées glacières, pour marche longue (car configuration figée) par Petzl
+  * Autre méthode pour progression facile sur glacier: anneaux de buste non bloqués https://forum.camptocamp.org/t/anneaux-de-buste-new-school/114158/9
 
 * PRINCIPE:
   * L'encordement pour glacier enneigé est l'encordement dit en N, c'est à dire en divisant la corde en trois parties.
@@ -361,44 +406,6 @@ S'il s'agit d'un relais de progression et non de rappel, on peut mousquetonner l
 * On peut objecter que se faire mouliner sur un point fragile n'est pas judicieux en raison de l'effet poulie qui double la charge sur l'ancrage par rapport à un rappel. Ceci est vrai. Mais installer un rappel est beaucoup plus long à réaliser, on sera donc plus longtemps sur le point douteux.
 * Avec une corde double, on peut installer un rappel sur un seul brin, tandis que le second continue d'assurer sur le second brin pendant toute l'installation du rappel puis pendant toute la descente. Tout ceci va être bien chronophage et disproportionné si le piton n'est pas franchement minable et qu'il suffit de quelques mètres de moulinette pour atteindre un ancrage sûr.
 
-### Remontée sur corde fixe
-
-* Matériel sophistiqué pour confort dans les longueurs (spéléo, big wall) - poignéesbloqueurs, bloqueurs de poitrine, bloqueurs de pied
-* Matériel dispo (sangle et cordelette) pour s'échapper de situation compliquée en haute montagne
-    * 2 cordelettes de 6mm, fermées en anneaux par un double-nœud de pêcheur, l'un de 60cm pour le baudrier, l'autre de 120cm pour la pédale de pied.
-
-* Technique de remontage
-    * Des noeuds autobloquants (Prussik ou Machard) permettent de fixer ces anneaux à la corde fixe, et de les coulisser vers le haut l'un après l'autre pendant la progression.
-    * Première technique
-        * On place l'anneau de 120cm en dessous de l'anneau de 60cm.
-        * En se levant sur la pédale, la corde se tend et facilite le déplacement de l'autobloquant du baudrier vers le haut. Une fois celui-ci glissé au maximum vers le haut, on s'assied dans le baudrier, puis on plie la jambe pour monter l'autobloquant du bas, et ainsi de suite.  
-    * Deuxième technique
-        * La seconde technique à connaître utilise l'anneau de 60cm pour le baudrier, et un nœud de cœur en remplacement de l'anneau de 120cm.
-        
-        ![Image](img/sanglecoeur.png?raw=true)
-        
-        La corde forme un nœud de cœur autour des deux mousquetons côte à côte. Une sangle est fixée dans le bas des deux mousquetons. Cette sangle forme une tête d'alouette autour du pied pour réaliser une pédale bien serrée.
-        
-        * L'avantage de cette technique est une grande rapidité pour une fatigue réduite, mais elle nécessite de ne pas démarrer pendu en bout de corde. Vous ne pourrez donc  utiliser cette technique qu'après avoir amorcé la remontée par la première technique pour avoir un peu de corde libre, ou bien sur glacier, en utilisant la réserve de corde d'un encordement en N.
-        * C'est la technique qui nécessite le moins de matériel puisqu'il suffit d'un anneau de cordelette, de deux mousquetons pour le nœud de cœur (de préférence de même modèle pour un blocage plus sûr), et d'une petite sangle pour la pédale.
-    * Alternatives
-        * Le machard sur mousqueton est également très agréable à utiliser car il coulisse plus facilement qu'un nœud de Prusik.
-        Le machard croisé sur sangle est à essayer, au cas où.
-
-* Remontée sur rappel
-    * Le rappel ne se remonte évidemment qu'à la condition qu'on ait encore à sa disposition les deux extrémités.
-    * Si on ne les a pas, on grimpe en s'assurant en premier de cordée avec la portion de corde qu'on a pu rappeler, jusqu'à la seconde extrémité qui pend en l'air, puis on démarre la remontée sur corde à cet endroit.
-    * On remonte en emprisonnant les deux brins à la fois dans les autobloquants.
-
-* Remontée en crevasse
-    * Sur un glacier, une fois dans la crevasse, retirer votre sac sera souvent la première chose à faire.
-    * Accrochez votre piolet à un porte-matériel du baudrier
-    * Mettez une sangle à votre pontet en tête d'alouette, accrochez-y votre sac à dos pour gagner un peu de liberté et avoir accès à votre matériel
-    * retirez vos lunettes de glacier et mettez-les dans la poche du rabat, sortez une fourrure polaire et enfilez-la
-    * Récupérer frontale
-    * Installer votre matériel de remontée
-    * Votre remontée doit être efficace et sans à coup,il ne s'agit pas d'arracher le méchant piolet qui fait office de relais de fortune et de l'entraîner avec vous. Répétez ces techniques et peaufinez-les. 
-
 ### Pas d'artif
 
 Voici les étapes pour franchir un pas en artif :
@@ -457,32 +464,78 @@ Position de réchappe.
     * En neige dure, on relève les pieds pour éviter de rebondir sur les pointes avant des crampons.
     * En neige molle, on écarte les pieds et on s'en sert pour freiner davantage, mais avec d'infinies précautions si l'on a chaussé les crampons pour ne pas risquer un arrêt brutal des pieds et une bascule tête en bas, et seulement après avoir déjà ralenti franchement par l'action du piolet. 
 
-### Sauvetage en crevasse
+### Creuser un corps mort pour assurage en neige
+
+* Technique avec un piolet
+  * Creuser une tranchée profonde perpendiculaire à la corde, à l'aide de la panne de votre piolet, puis une seconde dans l'axe de la corde.
+  * Dans ces tranchées, vous placerez votre piolet flanqué d'une sangle en corps-mort.
+  * Tasser de la neige au dessus du piolet
+
+### Remontée sur corde fixe - autosauvetage
+
+* Matériel sophistiqué pour confort dans les longueurs (spéléo, big wall) - poignéesbloqueurs, bloqueurs de poitrine, bloqueurs de pied
+* Matériel dispo (sangle et cordelette) pour s'échapper de situation compliquée en haute montagne
+    * 2 cordelettes de 6mm, fermées en anneaux par un double-nœud de pêcheur, l'un de 60cm pour le baudrier, l'autre de 120cm pour la pédale de pied.
+
+* Technique de remontage
+    * Des noeuds autobloquants (Prussik ou Machard) permettent de fixer ces anneaux à la corde fixe, et de les coulisser vers le haut l'un après l'autre pendant la progression.
+    * Première technique
+        * On place l'anneau de 120cm en dessous de l'anneau de 60cm.
+        * En se levant sur la pédale, la corde se tend et facilite le déplacement de l'autobloquant du baudrier vers le haut. Une fois celui-ci glissé au maximum vers le haut, on s'assied dans le baudrier, puis on plie la jambe pour monter l'autobloquant du bas, et ainsi de suite.  
+    * Deuxième technique
+        * La seconde technique à connaître utilise l'anneau de 60cm pour le baudrier, et un nœud de cœur en remplacement de l'anneau de 120cm.
+        
+        ![Image](img/sanglecoeur.png?raw=true)
+        
+        La corde forme un nœud de cœur autour des deux mousquetons côte à côte. Une sangle est fixée dans le bas des deux mousquetons. Cette sangle forme une tête d'alouette autour du pied pour réaliser une pédale bien serrée.
+        
+        * L'avantage de cette technique est une grande rapidité pour une fatigue réduite, mais elle nécessite de ne pas démarrer pendu en bout de corde. Vous ne pourrez donc  utiliser cette technique qu'après avoir amorcé la remontée par la première technique pour avoir un peu de corde libre, ou bien sur glacier, en utilisant la réserve de corde d'un encordement en N.
+        * C'est la technique qui nécessite le moins de matériel puisqu'il suffit d'un anneau de cordelette, de deux mousquetons pour le nœud de cœur (de préférence de même modèle pour un blocage plus sûr), et d'une petite sangle pour la pédale.
+    * Alternatives
+        * Le machard sur mousqueton est également très agréable à utiliser car il coulisse plus facilement qu'un nœud de Prusik.
+        Le machard croisé sur sangle est à essayer, au cas où.
+
+* Etapes:
+  * Mettre un autobloquant A sur la corde au dessus de soit.
+  * Se vacher dessus avec sa longe.
+  * Placer un deuxième autobloquant B entre le premier et son nœud d’encordement.
+  * Réaliser à l’aide d’une sangle C une pédale que l’on placera sur le dernier autobloquant B.
+  * S’élever sur la pédale et déplacer le premier autobloquant sur lequel on est vaché.
+  * Se remettre en tension dans le baudrier après avoir bougé le 1er autobloquant.
+  * Déplacer le 2ème autobloquant vers le haut en gardant le pied dans la pédale.
+  * Répéter les actions 5 à 7 jusqu’à la sortie de la crevasse. 
+
+* Remontée sur rappel
+    * Le rappel ne se remonte évidemment qu'à la condition qu'on ait encore à sa disposition les deux extrémités.
+    * Si on ne les a pas, on grimpe en s'assurant en premier de cordée avec la portion de corde qu'on a pu rappeler, jusqu'à la seconde extrémité qui pend en l'air, puis on démarre la remontée sur corde à cet endroit.
+    * On remonte en emprisonnant les deux brins à la fois dans les autobloquants.
+
+* Remontée en crevasse
+    * Sur un glacier, une fois dans la crevasse, retirer votre sac sera souvent la première chose à faire.
+    * Accrochez votre piolet à un porte-matériel du baudrier
+    * Mettez une sangle à votre pontet en tête d'alouette, accrochez-y votre sac à dos pour gagner un peu de liberté et avoir accès à votre matériel
+    * retirez vos lunettes de glacier et mettez-les dans la poche du rabat, sortez une fourrure polaire et enfilez-la
+    * Récupérer frontale
+    * Installer votre matériel de remontée
+    * Votre remontée doit être efficace et sans à coup,il ne s'agit pas d'arracher le méchant piolet qui fait office de relais de fortune et de l'entraîner avec vous. Répétez ces techniques et peaufinez-les. 
+
+![Image](img/remonteesurcorde.png?raw=true)
+
+### Sauvetage en crevasse - cas où remontée 
 
 **TODO: détailler le process => pas clair comment faire le transfert de poids**
 
 **TODO: Cas où l'on est sur un encordement long et pas un encordement en N**
 
 
-* Le second tombe dans une crevasse, s'arc-bouter pour ne pas être entraîné.
-* Tout en maintenant la tension de la corde, creuse derrière soi une tranchée profonde perpendiculaire à la corde, à l'aide de la panne de votre piolet, puis une seconde dans l'axe de la corde.
-* Dans ces tranchées, vous placerez votre piolet flanqué d'une sangle en corps-mort.
-* Puis il faudra vous libérer de la tension de la corde pour la transférer sur le corps-mort. On appelle cette manœuvre « abandon de la chaîne d'assurage ». Cela consiste à placer une cordelette entre le mousqueton à vis du corps-mort qui représente votre relais, et la corde en tension en formant autour de celle-ci un nœud auto-bloquant. 
-* Vous poussez ce nœud auto-bloquant à fond vers la crevasse pour commencer à tendre la cordelette et serrer le nœud, puis vous vous déplacez doucement en rampant vers la crevasse pour donner du mou à la corde. Le poids se reporte alors sur la cordelette etle relais.
-* Vous vérifiez que votre corps-mort reste bien à sa place, que tout semble solide, puis vous vous décordez.
-* Par sécurité, vous réalisez une boucle sur la corde avec un nœud en huit que vous mousquetonnez au relais.
-* Une fois debout, vous pouvez tasser soigneusement de la neige sur le piolet pour renforcer le corps-mort.
-* Vous pouvez maintenant vous déplacer le long de la corde tendue (y nouer un nœud de Prusik pour vous vacher en main courante si la situation est précaire) vers la crevasse pour prendre des nouvelles du second.
-* Il est O.K:
-  * A lui de jouer en remontant sur corde fixe.
-  * Si la corde a pénétré profondément dans la lèvre de la crevasse, vous allez lui renvoyer votre réserve de corde pour qu'il fasse sa remontée sur ce brin.
-  * Mais avant, vous irez mettre un objet sous cette corde, entre elle et la lèvre, pour éviter que ce brin ne pénètre à son tour dans la neige.
-  * Vous retournez à votre relais pour le renforcer en vous vachant au mousqueton à vis et en vous mettant en tension en direction inverse de la crevasse, assis et les pieds bien calés dans la neige.
-  * Dans le cas où la glace n'est pas loin, cas peu probable en début de saison, on la met à nu en raclant la neige avec la panne du piolet et on visse une, ou mieux, deux broches l'une derrière l'autre qu'on relie par une sangle.
-* S'il n'est pas OK
-  * Il va falloir faire un mouflage. Si des cordées traînent par là, appelez-les pour tirer à plusieurs.
-  * Sinon, occupez-vous d'abord de la santé de votre copain (le refroidissement...) car votre manœuvre va être longue.
-  * Relais solide et soigneux. [Mouflage mariner](Noeuds_%26_Mouglages.md#mouflages-simple-simple-de-surface-mariner) en soignant les frottements.
+* Enrayer la chute et se stabiliser avec les pieds.
+* Réaliser un amarrage (broches, corps mort selon la qualité de la neige ou de la glace).
+* Se longer sur l’amarrage (cela évitera de glisser vers la crevasse.
+* Réaliser un autobloquant (A) sur la corde et le relier à l’amarrage. (s’assurer qu’il ne glisse pas), afin de libérer la tension de la corde pour la transférer sur le corps mort
+* Défaire les anneaux de buste.
+* Réalisation d'un [Mouflage mariner simple ou double](Noeuds_%26_Mouglages.md#mouflages-simple-simple-de-surface-mariner)
+
+* NOTE: Si la corde a pénétré profondément dans la lèvre de la crevasse, vous allez lui renvoyer votre réserve de corde pour qu'il fasse sa remontée sur ce brin.
 
 ### Franchir la rimaye
 
