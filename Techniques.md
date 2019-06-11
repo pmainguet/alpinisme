@@ -3,7 +3,7 @@
 - [Techniques](#techniques)
   - [Techniques d'assurage et d'encordement selon type de progression](#techniques-dassurage-et-dencordement-selon-type-de-progression)
     - [Considérations générale sur l'assurage](#consid%C3%A9rations-g%C3%A9n%C3%A9rale-sur-lassurage)
-    - [A retenir](#a-retenir)
+    - [En bref](#en-bref)
     - [Anneaux de buste - Technique classique](#anneaux-de-buste---technique-classique)
     - [Assurage en mouvement - technique la plus simple](#assurage-en-mouvement---technique-la-plus-simple)
       - [Encordement COURT SANS ANNEAUX A LA MAIN](#encordement-court-sans-anneaux-a-la-main)
@@ -52,39 +52,32 @@
 3. * En pratique, on passe d'un mode d'assurage à un autre sans interruption. On cherche à être débrouillard, non académique.
 * Connaître parfaitement le niveau d'escalade de son compagnon, ses points forts et ses points faibles (fissures en verrous, dalles friction, ou surplombs...) permet d'aller aux limites de l'assurage en mouvement sans se mettre en danger outre mesure. 
 * Ce qui compte n'est pas la rapidité réelle des mouvements mais la fluidité de la progression. Passer sans temps mort d'un encordement court à un encordement long, à une mini-longueur, à une parade ou une petite courte-échelle, est la clef.
+* Pour s’encorder en bout de corde, la FFME préconise le nœud en 8 avec nœud d’arrêt. Pour s'encorder en N, utilisation d'un noeud de vache et d'un noeud d'arrêt
 
-NOTE: pour s’encorder, la FFME préconise le nœud en 8 avec nœud d’arrêt.
-
-### A retenir
-
-**TO DO: Faire tableau récapitulatif type de terrain > encordement**
+### En bref
 
 1. L'escalade est elle DIFFICILE ?
    
-   Oui => Progression de relais en relais
-   
-   Non => progression simultanée (voir 2.)
+   Oui => Progression de RELAIS EN RELAIS
 
 2. Y a t'il présence de CREVASSE ?
    
-   Oui => Progression simultanée "corde tendue" avec encordement en N, distance de 15 à 20 mètres
+   Oui => Progression CORDE TENDUE avec encordement en N, distance de 15 à 20 mètres
+
+3. Y a t il un risque de GLISSADE (pente de neige raide, arêtes de neige) ?
+
+   Oui => Progression avec anneaux de buste + anneaux à la main pour le premier et distance de 2 à 3 mètres
+
+4. Pas de DIFFICULTE, de risque de GLISSADE, pas de CREVASSE ?
+
+   A - Terrain moyennement difficile & Facilement protégeable (naturellement ou pose matériel), avec pose régulière de mini-relais:
+
+    * "Assurage en mouvement", avec pose de protection ou usage du terrain, encordement long, distance de 15-30 mètres
    
-   Non => (voir 3.)
+   B - Facile, régulier, ne demandant pas trop de variation de corde:
 
-3. Le terrain est il ... ?
+    * Progression sans pose de protection avec anneaux de buste sans anneaux à la main, distance de 3-4 mètres
 
-   Facile, régulier, ne demandant pas trop de variation de corde:
-
-    * Progression avec ou sans "Anneaux à la main" ... 
-    * ...anneaux de buste ouvert ou fermés
-   
-   Facilement protégeable, sans risque de glissade:
-
-    * Progression "assurage en mouvement", encordement long, distance de 15-30 mètres
-
-   Risque de glissade (pente de neige raide, arêtes de neige):
-
-    * Progression avec anneaux de buste et distance de 2 à 3 mètres
 
 ### Anneaux de buste - Technique classique
 
@@ -105,7 +98,8 @@ NOTE: pour s’encorder, la FFME préconise le nœud en 8 avec nœud d’arrêt.
 
 ![Image](https://lh3.googleusercontent.com/FEAnKLzNz53SD9RLwirZFPnapS-s2OACA07PSG2JZQVhBvhBAx_Qu4iMlFuynBuq68BGLPbfhMF0i51Le-CyfTp8EYOsCN3SqHPrqF4U3iglEaJRbxX5mxz3DyERCPUzh0jR1NLUHTHF6mwasDThNmKn833yISm6IY1KiYJ2uzhP-Ai7ZixMLS3do-RBhxrO6bvPS0QsV_ByOabfjNsgC4ucS_6w_mwoCnkGqs7HDfNL9seFyDKWzLhgvZrlJ3u9jKf9KwG1oMPSlZtuAV_f9VJqdrQaXOIBwt0QTZ2RrYvcBElSVQ2H1t7wjU8vQrdOPW62enGIBoRqpBWrL9RW5H4oAgW0bIzHLySVLcgcPho14YpuxzVPrJRW9gPaVF6GBcTh82n3Cz9J9_5f-VtzvJKu3SH4ET-G00XxLY89Gd8I-2a2vipo8HexS1BqAIhfaRTEpWJvMdtIwhcz-SwVlfHzOhHZyUDaM0Kg-6bwBg1Uq7ANYFJZ0SgqM9IUvT5YWflyCB-FyjDP983CLE7hhkDhNxlHQcUDX19GPV0KKae6XP4CHzbSr1j2pOvgn1j0QZeB_IEsU2qEXG3k1XF57BsTQjDgqp1ghVl_-K85WAEnCC6SXxyHsc2sKJMz8lR1G9mccAFBOpkQnnFWZAsBKpkByIWW7xaElQbMZiWrPBfqcYz8KL_303kuIm1MrnM2hZvDNSnqak-ktTEUaP9bc2ewfw=w690-h919-no)
 
-Note: il existe d'autres techniques d'anneaux de buste, comme celle d'EMHM Chamonix (mais pas réussi à la faire): https://www.randonneepyrenees.com/Images/rando/escalade/docs/Encordement.pdf
+
+Note: il existe d'autres techniques d'anneaux de buste, utilisable sur glacier en remplacement de l'encordement en N, comme celle d'EMHM Chamonix (mais pas réussi à la faire): https://www.randonneepyrenees.com/Images/rando/escalade/docs/Encordement.pdf, voir aussi https://forum.camptocamp.org/t/anneaux-de-buste-new-school/114158/9
 
 ### Assurage en mouvement - technique la plus simple
 
@@ -204,11 +198,9 @@ Note: me semble très proche d'un assurage en mouvement avec pose de protections
 
 #### ENCORDEMENT EN N
 
-NOTE: L'encordement en N avec réserve de corde dans le sac est une variante de l'encordement long avec anneaux de buste, mais sans pose de points intermédiaires:
   * encordement long avec anneaux de buste: utilisé plutôt l’été lors des raids glaciaires, mais principal inconvénient est qu'en cas de chute en crevasse, les anneaux de corde ne sont pas mobilisables rapidement, pour terrain régulier, demandant peu de variations de corde par Petzl
-  * encordement en N avec réserve de corde: utilisé plutôt en ski de montagne, recommandé par la FFME pour les traversées glacières, pour marche longue (car configuration figée) par Petzl
-  * Autre méthode pour progression facile sur glacier: anneaux de buste non bloqués https://forum.camptocamp.org/t/anneaux-de-buste-new-school/114158/9
-
+  * C'EST CELUI QUI EST RECOMMANDE => encordement en N avec réserve de corde: utilisé plutôt en ski de montagne, recommandé par la FFME pour les traversées glacières, pour marche longue (car configuration figée) par Petzl
+  
 * PRINCIPE:
   * L'encordement pour glacier enneigé est l'encordement dit en N, c'est à dire en divisant la corde en trois parties.
   * Chaque alpiniste réalise son nœud d'encordement au tiers de la corde.
