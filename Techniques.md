@@ -474,23 +474,23 @@ NOTA: si encordement en N avec un mousqueton à vis, possible d'avoir un second 
 
 * Les noeuds autobloquants Chap. 1:
 
-[![Les noeuds autobloquants Chap. 1]([https://img.youtube.com/vi/_1RG-CSgGpc/0.jpg](https://www.youtube.com/watch?v=_1RG-CSgGpc))](https://www.youtube.com/watch?v=_1RG-CSgGpc "Les noeuds autobloquants Chap. 1")  
+[![Les noeuds autobloquants Chap. 1](https://img.youtube.com/vi/_1RG-CSgGpc/0.jpg)](https://www.youtube.com/watch?v=_1RG-CSgGpc "Les noeuds autobloquants Chap. 1")  
 
 * Les noeuds autobloquants Chap. 2 - Ficelou Monobrin:
 
-[![Les noeuds autobloquants Chap. 2 - Ficelou Monobrin]([https://img.youtube.com/vi/Lj9wNgbDs1s/0.jpg](https://www.youtube.com/watch?v=Lj9wNgbDs1s))](https://www.youtube.com/watch?v=Lj9wNgbDs1s "Les noeuds autobloquants Chap. 2 - Ficelou Monobrin")  
+[![Les noeuds autobloquants Chap. 2 - Ficelou Monobrin](https://img.youtube.com/vi/Lj9wNgbDs1s/0.jpg)](https://www.youtube.com/watch?v=Lj9wNgbDs1s "Les noeuds autobloquants Chap. 2 - Ficelou Monobrin")  
 
 * Comment remonter sur corde en escalade ou canyoning ? - Chap 1:
 
-[![Comment remonter sur corde en escalade ou canyoning ? - Chap 1]([https://img.youtube.com/vi/o1-IIsGOboc/0.jpg](https://www.youtube.com/watch?v=o1-IIsGOboc))](https://www.youtube.com/watch?v=o1-IIsGOboc "Comment remonter sur corde en escalade ou canyoning ? - Chap 1") 
+[![Comment remonter sur corde en escalade ou canyoning ? - Chap 1](https://img.youtube.com/vi/o1-IIsGOboc/0.jpg)](https://www.youtube.com/watch?v=o1-IIsGOboc "Comment remonter sur corde en escalade ou canyoning ? - Chap 1") 
 
 * Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme:
 
-[![Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme]([https://img.youtube.com/vi/IHYqOQLduwo/0.jpg](https://www.youtube.com/watch?v=IHYqOQLduwo))](https://www.youtube.com/watch?v=IHYqOQLduwo "Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme") 
+[![Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme](https://img.youtube.com/vi/IHYqOQLduwo/0.jpg)](https://www.youtube.com/watch?v=IHYqOQLduwo "Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme") 
 
 Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3:
 
-[![Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3]([https://img.youtube.com/vi/a4N96Ct7oKw/0.jpg](https://www.youtube.com/watch?v=a4N96Ct7oKw))](https://www.youtube.com/watch?v=a4N96Ct7oKw "Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3") 
+[![Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3](https://img.youtube.com/vi/a4N96Ct7oKw/0.jpg)](https://www.youtube.com/watch?v=a4N96Ct7oKw "Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3") 
 
 ##### Descendeur type Reverso et ficelou
 
@@ -543,8 +543,6 @@ NOTA: la méthode sélectionnée tout en haut est une variante plus simple.
 * Récupérer frontale
 * Installer votre matériel de remontée
 * Votre remontée doit être efficace et sans à coup,il ne s'agit pas d'arracher le méchant piolet qui fait office de relais de fortune et de l'entraîner avec vous. Répétez ces techniques et peaufinez-les. 
-
-![Image](img/remonteesurcorde.png?raw=true)
 
 ### Sauvetage en crevasse - cas où remontée pas possible
 
