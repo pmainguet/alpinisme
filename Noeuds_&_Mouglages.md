@@ -83,6 +83,14 @@ Pour réunir les deux brins d'un rappel, soit pour fermer un anneau de cordelett
 
 ### Noeuds autobloquants
 
+* Les noeuds autobloquants Chap. 1:
+
+[![Les noeuds autobloquants Chap. 1](https://img.youtube.com/vi/_1RG-CSgGpc/0.jpg)](https://www.youtube.com/watch?v=_1RG-CSgGpc "Les noeuds autobloquants Chap. 1")  
+
+* Les noeuds autobloquants Chap. 2 - Ficelou Monobrin:
+
+[![Les noeuds autobloquants Chap. 2 - Ficelou Monobrin](https://img.youtube.com/vi/Lj9wNgbDs1s/0.jpg)](https://www.youtube.com/watch?v=Lj9wNgbDs1s "Les noeuds autobloquants Chap. 2 - Ficelou Monobrin")  
+
 * Nœud de Prusik. Aux USA, on le réalise souvent avec six spires.
 
   ![Image](img/prussike.png)
@@ -141,6 +149,6 @@ Mouflage Mariner double:
 
 ![Image](img/mouflagemarinerdouble.png?raw=true)
 
-Lors de la traction, l'autobloquant 2 vient contre1, tandis que 4 et 3 se rapprochent. L'autobloquant 1 prend le blessé en charge, et le sauveteur peut replacer 2 et 3 pour poursuivre la manoeuvre.
+Lors de la traction, l'autobloquant 2 vient contre1, tandis que 4 et 3 se rapprochent. L'autobloquant 1 prend le blessé en charge, et le sauveteur peut replacer 2 et 3 pour poursuivre la manoeuvre:
 
 ![Image](img/mouflage.gif)

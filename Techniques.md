@@ -16,6 +16,8 @@
     - [Cas où relais béton non nécessaire](#cas-o%C3%B9-relais-b%C3%A9ton-non-n%C3%A9cessaire)
     - [Mini-relais](#mini-relais)
     - [Assurage à l'épaule](#assurage-%C3%A0-l%C3%A9paule)
+    - [cas où la triangulation n'est pas nécessaire - points béton](#cas-o%C3%B9-la-triangulation-nest-pas-n%C3%A9cessaire---points-b%C3%A9ton)
+    - [Cas d'une traversée où l'usage du Reverso en mode relais est trop lent](#cas-dune-travers%C3%A9e-o%C3%B9-lusage-du-reverso-en-mode-relais-est-trop-lent)
     - [Triangulation du relais](#triangulation-du-relais)
       - [Triangulation unidirectionnelle avec sangle trop courte](#triangulation-unidirectionnelle-avec-sangle-trop-courte)
     - [Triangulation multi-directionnelle ou uni-directionnelle pour un rappel](#triangulation-multi-directionnelle-ou-uni-directionnelle-pour-un-rappel)
@@ -250,6 +252,26 @@ Les mini-relais (pour mini-longueurs) consistent à interrompre la progression s
 * Vêtements épais pour l'assureur, des manches longues, le port de gants en cuir brut.
 * L'assureur peut aussi s'auto-assurer à un becquet pour consolider sa position, mais dans ce cas, pourquoi ne pas assurer directement sur ce becquet avec un demi-cabestan ? Dans ce cas, la vache passe du même côté du corps que la corde qui va à l'assuré.
 
+### cas où la triangulation n'est pas nécessaire - points béton
+
+**TO DO: A TESTER EN CONDITIONS REELLES**
+
+* Deux point bétons
+* Une dégaine sur le piton haut
+* Noeud de cabestan dans le mousqueton bas de la dégaine pour l'assureur (le second fera son noeud de cabestan dans le mousqueton du haut)
+* Un mousqueton à vis sur l'autre piton et une dégaine sur le mousqueton
+* Noeud de cabestan dans le mousqueton bzas de la dégaine pour l'assureur avec le deuxième brin de corde (second sur mousqueton du haut)
+* Si point non relié, les relier avec sangle: tête d'alouette (sur la plaquette ou le mousqueton de la dégaine ?) et clipée dans le mousqueton ou la dégaine de l'autre.
+* Installation du reverso dans le mousqueton à vis
+
+A voir: vachage du second et départ (pose d'une troisième dégaine pour pouvoir éviter chute sans protection)
+
+### Cas d'une traversée où l'usage du Reverso en mode relais est trop lent
+
+* Cas d'une traversée où le second se déplace rapidement.
+* On fait un relais triangulé ou non pour se vacher dessus en fonction de la qualité des points
+* Au lieu de placer le Reverso sur le mousqueton central, on assure le second au baudrier en veillant à passer la corde dans une dégaine de renvoi (afin d'éviter de se faire tirer du relais et de ne pouvoir y revenir en cas de chute du second)
+  
 ### Triangulation du relais
 
 #### Triangulation unidirectionnelle avec sangle trop courte
@@ -448,6 +470,10 @@ NOTA: si encordement en N avec un mousqueton à vis, possible d'avoir un second 
 
 ![Image](img/selfrescue1-2.png?raw=true)
 
+Regarder également ce tutoriel où la cordelette de 120 cm est remplacée par une pédale classique raccourci clipée dans un second prussik court.
+
+[![Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3](https://img.youtube.com/vi/a4N96Ct7oKw/0.jpg)](https://www.youtube.com/watch?v=a4N96Ct7oKw "Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3") 
+
 #### Deux petits prussik, une longe et une sangle
 
  * Mettre un autobloquant A sur la corde au dessus de soit.
@@ -472,14 +498,6 @@ NOTA: si encordement en N avec un mousqueton à vis, possible d'avoir un second 
 
 #### Autres méthodes à regarder (Points de chute)
 
-* Les noeuds autobloquants Chap. 1:
-
-[![Les noeuds autobloquants Chap. 1](https://img.youtube.com/vi/_1RG-CSgGpc/0.jpg)](https://www.youtube.com/watch?v=_1RG-CSgGpc "Les noeuds autobloquants Chap. 1")  
-
-* Les noeuds autobloquants Chap. 2 - Ficelou Monobrin:
-
-[![Les noeuds autobloquants Chap. 2 - Ficelou Monobrin](https://img.youtube.com/vi/Lj9wNgbDs1s/0.jpg)](https://www.youtube.com/watch?v=Lj9wNgbDs1s "Les noeuds autobloquants Chap. 2 - Ficelou Monobrin")  
-
 * Comment remonter sur corde en escalade ou canyoning ? - Chap 1:
 
 [![Comment remonter sur corde en escalade ou canyoning ? - Chap 1](https://img.youtube.com/vi/o1-IIsGOboc/0.jpg)](https://www.youtube.com/watch?v=o1-IIsGOboc "Comment remonter sur corde en escalade ou canyoning ? - Chap 1") 
@@ -487,10 +505,6 @@ NOTA: si encordement en N avec un mousqueton à vis, possible d'avoir un second 
 * Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme:
 
 [![Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme](https://img.youtube.com/vi/IHYqOQLduwo/0.jpg)](https://www.youtube.com/watch?v=IHYqOQLduwo "Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme") 
-
-Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3:
-
-[![Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3](https://img.youtube.com/vi/a4N96Ct7oKw/0.jpg)](https://www.youtube.com/watch?v=a4N96Ct7oKw "Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3") 
 
 ##### Descendeur type Reverso et ficelou
 
