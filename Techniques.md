@@ -35,7 +35,16 @@
     - [Stopper glissade en pente raide - Position de réchappe](#stopper-glissade-en-pente-raide---position-de-r%C3%A9chappe)
     - [Creuser un corps mort pour assurage en neige](#creuser-un-corps-mort-pour-assurage-en-neige)
     - [Remontée sur corde fixe - autosauvetage](#remont%C3%A9e-sur-corde-fixe---autosauvetage)
-    - [Sauvetage en crevasse - cas où remontée](#sauvetage-en-crevasse---cas-o%C3%B9-remont%C3%A9e)
+      - [Deux petits prussik, une longe et une sangle](#deux-petits-prussik-une-longe-et-une-sangle)
+      - [Une cordelette + sangle et deux mousquetons pour pédales avec anneau de coeur](#une-cordelette--sangle-et-deux-mousquetons-pour-p%C3%A9dales-avec-anneau-de-coeur)
+      - [Autres méthodes à regarder (Points de chute)](#autres-m%C3%A9thodes-%C3%A0-regarder-points-de-chute)
+        - [Descendeur type Reverso et ficelou](#descendeur-type-reverso-et-ficelou)
+        - [Noeud de coeur et noeud autobloquant](#noeud-de-coeur-et-noeud-autobloquant)
+      - [Avec deux ficelous](#avec-deux-ficelous)
+      - [Deux autobloquants mais avec un ficelou et une sangle.](#deux-autobloquants-mais-avec-un-ficelou-et-une-sangle)
+      - [Remontée sur rappel](#remont%C3%A9e-sur-rappel)
+      - [Remontée en crevasse](#remont%C3%A9e-en-crevasse)
+    - [Sauvetage en crevasse - cas où remontée pas possible](#sauvetage-en-crevasse---cas-o%C3%B9-remont%C3%A9e-pas-possible)
     - [Franchir la rimaye](#franchir-la-rimaye)
     - [Sortie de goulotte en neige : danger.](#sortie-de-goulotte-en-neige--danger)
     - [Piolet en tant que relais récupérable](#piolet-en-tant-que-relais-r%C3%A9cup%C3%A9rable)
@@ -413,30 +422,35 @@ Position de réchappe.
 
 ### Remontée sur corde fixe - autosauvetage
 
-* Matériel sophistiqué pour confort dans les longueurs (spéléo, big wall) - poignéesbloqueurs, bloqueurs de poitrine, bloqueurs de pied
-* Matériel dispo (sangle et cordelette) pour s'échapper de situation compliquée en haute montagne
-    * 2 cordelettes de 6mm, fermées en anneaux par un double-nœud de pêcheur, l'un de 60cm pour le baudrier, l'autre de 120cm pour la pédale de pied.
+* Différentes techniques existent
+* La plus simple: remontée avec deux cordelettes, une de 60 fermée avec des double noeuds de pêcheur et une de 120 cm non fermée
 
-* Technique de remontage
-    * Des noeuds autobloquants (Prussik ou Machard) permettent de fixer ces anneaux à la corde fixe, et de les coulisser vers le haut l'un après l'autre pendant la progression.
-    * Première technique
-        * On place l'anneau de 120cm en dessous de l'anneau de 60cm.
-        * En se levant sur la pédale, la corde se tend et facilite le déplacement de l'autobloquant du baudrier vers le haut. Une fois celui-ci glissé au maximum vers le haut, on s'assied dans le baudrier, puis on plie la jambe pour monter l'autobloquant du bas, et ainsi de suite.  
-    * Deuxième technique
-        * La seconde technique à connaître utilise l'anneau de 60cm pour le baudrier, et un nœud de cœur en remplacement de l'anneau de 120cm.
-        
-        ![Image](img/sanglecoeur.png?raw=true)
-        
-        La corde forme un nœud de cœur autour des deux mousquetons côte à côte. Une sangle est fixée dans le bas des deux mousquetons. Cette sangle forme une tête d'alouette autour du pied pour réaliser une pédale bien serrée.
-        
-        * L'avantage de cette technique est une grande rapidité pour une fatigue réduite, mais elle nécessite de ne pas démarrer pendu en bout de corde. Vous ne pourrez donc  utiliser cette technique qu'après avoir amorcé la remontée par la première technique pour avoir un peu de corde libre, ou bien sur glacier, en utilisant la réserve de corde d'un encordement en N.
-        * C'est la technique qui nécessite le moins de matériel puisqu'il suffit d'un anneau de cordelette, de deux mousquetons pour le nœud de cœur (de préférence de même modèle pour un blocage plus sûr), et d'une petite sangle pour la pédale.
-    * Alternatives
-        * Le machard sur mousqueton est également très agréable à utiliser car il coulisse plus facilement qu'un nœud de Prusik.
-        Le machard croisé sur sangle est à essayer, au cas où.
+La vidéo:
+[![Self rescue with prussiks](img/selfrescue1-1.png)](https://www.youtube.com/watch?v=E6Mbl1QiQ_E "Self rescue with prussiks")  
 
-* Etapes:
-  * Mettre un autobloquant A sur la corde au dessus de soit.
+* Installation:
+  * Faire un noeud de prussik avec la cordelette de 60 cm bien au dessus de sa tête
+  * Plier la cordelette en deux et faire un noeud de vache au niveau de la boucle
+  * Faire un noeud de prussik sous le précédent, avec la boucle créée
+  * Faire une boucle pour le pied
+    * Première méthode: avec l'un des bouts libres du second prussik, faire une petite boucle (noeud de vache) puis passer le même bout de corde dans la boucle: un noeud coulant tres bien si on a des chaussures rigides
+    * Seconde méthode: avec l'un des bouts libres du second prussik, faire une boucle de taille moyenne pour passer directement le pied
+  * Attacher le premier prussik sur le pontet du baudrier avec un mousqueton à vis.
+  * Attacher le deuxième brin libre du second prussik sur le pontet sur le mêmemousqueton à vis, en faisant un noeud de vache (laisser du mou, car ce n'est que la sécurité)
+  
+* Usages:
+  * Se mettre debout sur la pédale, tout en faisant coulisser le prussik du haut
+  * S'assoir dans son baudrier
+  * Remontée la pédale
+  * Recommencer
+
+NOTA: si encordement en N avec un mousqueton à vis, possible d'avoir un second backup en faisant des noeuds réguliers sur la corde initiale et en les mousquetonnant dans le mousqueton d'encordement (si absent le rajouter).
+
+![Image](img/selfrescue1-2.png?raw=true)
+
+#### Deux petits prussik, une longe et une sangle
+
+ * Mettre un autobloquant A sur la corde au dessus de soit.
   * Se vacher dessus avec sa longe.
   * Placer un deuxième autobloquant B entre le premier et son nœud d’encordement.
   * Réaliser à l’aide d’une sangle C une pédale que l’on placera sur le dernier autobloquant B.
@@ -447,23 +461,92 @@ Position de réchappe.
 
 ![Image](img/autosauvetage.gif?raw=true)
 
-* Remontée sur rappel
-    * Le rappel ne se remonte évidemment qu'à la condition qu'on ait encore à sa disposition les deux extrémités.
-    * Si on ne les a pas, on grimpe en s'assurant en premier de cordée avec la portion de corde qu'on a pu rappeler, jusqu'à la seconde extrémité qui pend en l'air, puis on démarre la remontée sur corde à cet endroit.
-    * On remonte en emprisonnant les deux brins à la fois dans les autobloquants.
+#### Une cordelette + sangle et deux mousquetons pour pédales avec anneau de coeur
 
-* Remontée en crevasse
-    * Sur un glacier, une fois dans la crevasse, retirer votre sac sera souvent la première chose à faire.
-    * Accrochez votre piolet à un porte-matériel du baudrier
-    * Mettez une sangle à votre pontet en tête d'alouette, accrochez-y votre sac à dos pour gagner un peu de liberté et avoir accès à votre matériel
-    * retirez vos lunettes de glacier et mettez-les dans la poche du rabat, sortez une fourrure polaire et enfilez-la
-    * Récupérer frontale
-    * Installer votre matériel de remontée
-    * Votre remontée doit être efficace et sans à coup,il ne s'agit pas d'arracher le méchant piolet qui fait office de relais de fortune et de l'entraîner avec vous. Répétez ces techniques et peaufinez-les. 
+* Anneau de 60cm pour le baudrier, et un nœud de cœur en remplacement de l'anneau de 120cm.
+     
+![Image](img/sanglecoeur.png?raw=true)
+        
+* La corde forme un nœud de cœur autour des deux mousquetons côte à côte. Une sangle est fixée dans le bas des deux mousquetons. Cette sangle forme une tête d'alouette autour du pied pour réaliser une pédale bien serrée.
+* L'avantage de cette technique est une grande rapidité pour une fatigue réduite, mais elle nécessite de ne pas démarrer pendu en bout de corde. Vous ne pourrez donc  utiliser cette technique qu'après avoir amorcé la remontée par la première technique pour avoir un peu de corde libre, ou bien sur glacier, en utilisant la réserve de corde d'un encordement en N.
+
+#### Autres méthodes à regarder (Points de chute)
+
+* Les noeuds autobloquants Chap. 1:
+
+[![Les noeuds autobloquants Chap. 1]([https://img.youtube.com/vi/_1RG-CSgGpc/0.jpg](https://www.youtube.com/watch?v=_1RG-CSgGpc))](https://www.youtube.com/watch?v=_1RG-CSgGpc "Les noeuds autobloquants Chap. 1")  
+
+* Les noeuds autobloquants Chap. 2 - Ficelou Monobrin:
+
+[![Les noeuds autobloquants Chap. 2 - Ficelou Monobrin]([https://img.youtube.com/vi/Lj9wNgbDs1s/0.jpg](https://www.youtube.com/watch?v=Lj9wNgbDs1s))](https://www.youtube.com/watch?v=Lj9wNgbDs1s "Les noeuds autobloquants Chap. 2 - Ficelou Monobrin")  
+
+* Comment remonter sur corde en escalade ou canyoning ? - Chap 1:
+
+[![Comment remonter sur corde en escalade ou canyoning ? - Chap 1]([https://img.youtube.com/vi/o1-IIsGOboc/0.jpg](https://www.youtube.com/watch?v=o1-IIsGOboc))](https://www.youtube.com/watch?v=o1-IIsGOboc "Comment remonter sur corde en escalade ou canyoning ? - Chap 1") 
+
+* Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme:
+
+[![Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme]([https://img.youtube.com/vi/IHYqOQLduwo/0.jpg](https://www.youtube.com/watch?v=IHYqOQLduwo))](https://www.youtube.com/watch?v=IHYqOQLduwo "Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme") 
+
+Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3:
+
+[![Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3]([https://img.youtube.com/vi/a4N96Ct7oKw/0.jpg](https://www.youtube.com/watch?v=a4N96Ct7oKw))](https://www.youtube.com/watch?v=a4N96Ct7oKw "Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3") 
+
+##### Descendeur type Reverso et ficelou
+
+* On aura comme bloqueur de poing un autobloquant fait avec le ficelou et, comme bloqueur ventral, le Reverso.
+* Dans un premier temps, je confectionne un autobloquant avec le ficelou, je le verrouille avec MS, je me longe dedans et je clippe ma pédale.
+* Ensuite, pour installer le Reverso en mode autobloquant, je l’installe comme pour une utilisation au relais mais ici le relais, ce sera le point d’attache de mon harnais.
+* Enfin, j’installe normalement la corde dans le descendeur et je clippe un MS comme quand je vais assurer quelqu’un sauf que le mousqueton connecté à la corde ne sera pas cette fois relié au harnais.
+* Et je pense bien à verrouiller le MS.
+
+Voilà, le Reverso est en mode autobloquant. La suite, normalement on la connaît: monte/pousse/ravale/monte/pousse/raval/…
+
+##### Noeud de coeur et noeud autobloquant
+
+* pour l'autobloquant il te faut un ficelou et pour le nœud de cœur, il te faut deux mousquetons qui ont la même forme.
+* C’est mieux si les deux mousquetons n’ont pas de virole et pas de grosse bague.
+* Le nœud de cœur va nous servir comme bloqueur ventral. Pour le confectionner, je vais connecter au point d’attache de mon harnais deux mousquetons identiques et clipper la corde dans les deux mousquetons (dans les deux brins si on est sur corde à double bien sûr).
+* Puis, je vais clipper le brin aval de la corde, dans le mousqueton supérieur en faisant une boucle de manière à ce que la corde passe entre les deux mousquetons et qu’elle sorte vers l’avant.
+* Le nœud de cœur est loin d’être infaillible et, je vais obligatoirement appliquer le principe de redondance en me longeant dans un second bloqueur plus fiable, comme ici dans un nœud autobloquant. Et aussi, en cours d’utilisation, je vais régulièrement contrôler que la corde reste bien en place dans les mousquetons et que ces derniers sont bien positionnés (pas de chevauchement, vrille, retournement, etc.).
+
+#### Avec deux ficelous
+
+* Donc là, on se fait un p’tit Machard comme bloqueur ventral avec un anneau de cordelette.
+* Ensuite, comme bloqueur de poing, on va faire ici un Souabe avec un ficelou monobrin. Je connecte un Mousqueton de Sécurité (MS) au ficelou et j’y clippe ma longe et ma pédale.
+* Alors la galère quand on a un nœud autobloquant en ventral, c’est que pendant la phase de poussée sur la pédale, et bien cet autobloquant est autobloqué ! C’est à dire que, le bloqueur ventral, ici un Machard, ne va pas coulisser seul sur la corde au fur et à mesure que je monte. Et en plus de ça, si je tire sur le nœud d’une main pour le faire coulisser vers le haut ça ne va pas le faire, parce qu’il n’y a pas assez de poids dans la corde en dessous de moi. Non en fait, ça va juste faire remonter la corde mais pas le nœud !
+* Donc la solution c’est de :
+  * Bien caler la corde dès le début dans ses pieds pour pouvoir par la suite bien la bloquer. Attention : il faut bien caller les deux brins de la corde sinon, quand je vais faire remonter le nœud, il peut y avoir un décalage des brins dans le nœud et alors là, l’autobloquant ne va pas fonctionner;
+  * Pendant la poussée du pied sur la pédale, je serre bien les pieds pour bloquer la corde et, une fois la corde bloquée tendue, je fais remonter d’une main le nœud ventral;
+Tout au long de la remontée, je fais coulisser la corde entre mes pieds sans la perdre histoire d’être un peu efficace et d’éviter d’avoir à re-caller la corde à chaque fois;
+Et ainsi de suite.
+
+NOTA: la méthode sélectionnée tout en haut est une variante plus simple.
+
+#### Deux autobloquants mais avec un ficelou et une sangle.
+
+* Dans notre cas, on utilise une sangle en dyneema.
+* Il faut être vigilant sur l’utilisation d’un autobloquant fait avec une sangle dyneema principalement parce que cette matière a tendance à être plus glissante. Ça demande donc, en fonction de la configuration, corde à simple/corde à double etc., d’ajuster le nœud avec un peu plus de tour ou de tresse, de contrôler régulièrement la bonne tenue du nœud et, pourquoi pas, de réserver ce nœud à une position comme bloqueur de poing afin de garantir le meilleur blocage avec l’autre ficelou pour le ventral.
+  
+#### Remontée sur rappel
+
+* Le rappel ne se remonte évidemment qu'à la condition qu'on ait encore à sa disposition les deux extrémités.
+* Si on ne les a pas, on grimpe en s'assurant en premier de cordée avec la portion de corde qu'on a pu rappeler, jusqu'à la seconde extrémité qui pend en l'air, puis on démarre la remontée sur corde à cet endroit.
+* On remonte en emprisonnant les deux brins à la fois dans les autobloquants.
+
+#### Remontée en crevasse
+
+* Sur un glacier, une fois dans la crevasse, retirer votre sac sera souvent la première chose à faire.
+* Accrochez votre piolet à un porte-matériel du baudrier
+* Mettez une sangle à votre pontet en tête d'alouette, accrochez-y votre sac à dos pour gagner un peu de liberté et avoir accès à votre matériel
+* retirez vos lunettes de glacier et mettez-les dans la poche du rabat, sortez une fourrure polaire et enfilez-la
+* Récupérer frontale
+* Installer votre matériel de remontée
+* Votre remontée doit être efficace et sans à coup,il ne s'agit pas d'arracher le méchant piolet qui fait office de relais de fortune et de l'entraîner avec vous. Répétez ces techniques et peaufinez-les. 
 
 ![Image](img/remonteesurcorde.png?raw=true)
 
-### Sauvetage en crevasse - cas où remontée 
+### Sauvetage en crevasse - cas où remontée pas possible
 
 NOTE: décrit pour encordement en N (pas conseillé de faire encordement en long sur glacier car pas facile de libérer du mou)
 
