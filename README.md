@@ -15,11 +15,11 @@
 * [Progression & Préparation](Progression.md)
 
 ## Fiches Encordement & Progression en fonction des cas de figure
-* [Fiche Glacier Enneigé](fiche/fiche-glacier-enneige.md)
-* [Fiche Pente Raide & Arête de Neige](fiche/fiche-pente-arete-de-neige.md)
-* [Fiche Rocher](fiche/fiche-rocher.md)
-* [Fiche Glace](fiche/fiche-glace.md)
-* [Fiche Cascade de Glace](fiche/fiche-cascade-de-glace.md)
+* [Fiche Glacier Enneigé](fiches/fiche-glacier-enneige.md)
+* [Fiche Pente Raide & Arête de Neige](fiches/fiche-pente-arete-de-neige.md)
+* [Fiche Rocher](fiches/fiche-rocher.md)
+* [Fiche Glace](fiches/fiche-glace.md)
+* [Fiche Cascade de Glace](fiches/fiche-cascade-de-glace.md)
 
 ## Ressources
 
