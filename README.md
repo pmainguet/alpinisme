@@ -2,7 +2,10 @@
 
 ## Considérations
 
-* [Techniques](Techniques.md)
+* Techniques
+  * [Techniques d'assurage et d'encordement selon le type de progression](Techniques_assurage_encordement.md)
+  * [Autres techniques générales - Rappel, réchappe, ...](Techniques_generale.md)
+  * [Autres techniques en glace et neige - Autoassurage et sauvetage crevasse](Techniques_crevasse.md)
 * [Matériel](Matériel.md)
 * [Noeuds & Mouflages](Noeuds_&_Mouglages.md)
 * [Dangers & Secours](Dangers_&_Secours.md)

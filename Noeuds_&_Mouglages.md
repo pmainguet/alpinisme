@@ -1,14 +1,13 @@
 # Noeuds & Mouflages
 
-- [Noeuds & Mouflages](#noeuds--mouflages)
-  - [Noeuds](#noeuds)
-    - [Noeud de huit](#noeud-de-huit)
-    - [Noeud de chaise](#noeud-de-chaise)
-  - [Noeud d'aboutement](#noeud-daboutement)
-    - [Nœuds sur mousquetons:](#n%C5%93uds-sur-mousquetons)
-    - [Autres noeuds utiles (alouette, mule, tour mort et deux demi-clés, noeud de freinage)](#autres-noeuds-utiles-alouette-mule-tour-mort-et-deux-demi-cl%C3%A9s-noeud-de-freinage)
-    - [Noeuds autobloquants](#noeuds-autobloquants)
-  - [Mouflages (simple, simple de surface, Mariner)](#mouflages-simple-simple-de-surface-mariner)
+- [Noeuds & Mouflages](#Noeuds--Mouflages)
+  - [Noeuds](#Noeuds)
+    - [Noeud de huit](#Noeud-de-huit)
+    - [Noeud de chaise](#Noeud-de-chaise)
+  - [Noeud d'aboutement](#Noeud-daboutement)
+    - [Nœuds sur mousquetons:](#N%C5%93uds-sur-mousquetons)
+    - [Autres noeuds utiles (alouette, mule, tour mort et deux demi-clés, noeud de freinage)](#Autres-noeuds-utiles-alouette-mule-tour-mort-et-deux-demi-cl%C3%A9s-noeud-de-freinage)
+    - [Noeuds autobloquants](#Noeuds-autobloquants)
 
 ## Noeuds
 
@@ -117,38 +116,3 @@ bloquant lors d’une remontée sur corde fixe .
 * Vous avez égaré votre anneau de cordelette ? Ne perdez pas espoir, et utilisez le machard tressé sur sangle. Éviter la sangle en dyneema pour cette utilisation (fusion facile).
 
   ![Image](img/machardsangle.png)
-
-## Mouflages (simple, simple de surface, Mariner)
-
-Dans les trois cas, la tête de mouflage est une poulie autobloquante ou son équivalent : poulie plus autobloquant de type tibloc par exemple.
-* Mouflage simple (gauche): La corde de réserve a une longueur suffisante et il est possible d'envoyer une boucle au mouflé. Celui-ci passe un mousqueton à son baudrier, ou mieux un mousqueton équipé d'une poulie, et y passe la boucle. On tire à plusieurs, ou bien il s'agit juste d'une aide pour un mouflé qui participe à son sauvetage.
-* Mouflage simple de surface (milieu): La corde de réserve a une longueur insuffisante, ou l'accès au mouflé ne permet pas de lui envoyer la corde. On installe un autobloquant, nœud ou autobloquant mécanique sur la corde. Le renvoi est fait sur un mousqueton, ou mieux sur une poulie.
-* Mouflage mariner (à droite) On a mouflé le mouflage à l'aide d'une cordelette auxiliaire accrochée en haut au relais. La démultiplication permet de tirer seul, si on a bien géré les frottements : poulies, objet dur sur la lèvre de la crevasse, etc.
-
-![Image](img/mouflage.png?raw=true)
-Mouflage simple, simple de surface, mariner
-
-* Etapes du Mouflage Mariner double
-  * Passer le brin mou de la corde dans le mousqueton de l’amarrage.
-  * Poser un 2ème autobloquant (B) sur le brin en tension et le raccorder sur son baudrier.
-  * Aller, de manière auto assuré voir la victime et placer un piolet au niveau de la lèvre afin d’éviter qu’elle ne soit cisaillée par la corde.
-  * Revenir à la tête de mouflage.
-  * Poser un 3ème autobloquant (C) sur le brin mou, à l’opposé du 1er autobloquant
-  * Prendre une cordelette (5-7 mètres de cordelette de 7mm avec 1 nœud de vache et 1 mousqueton à chaque extrémité).
-  * Mettre le mousqueton avec la cordelette dans l’anneau du 3ème autobloquant (C).
-  * Placer un mousqueton sur le 2ème autobloquant (B) et passer la cordelette dedans ( système de poulie).
-  * prendre le dernier bout de cordelette avec son mousqueton et passer la corde dedans ( système de 2ème poulie).
-  * Tirer sur la corde jusqu’ à ce que les 2 autobloquants (B) et (C) soient cote à cote , ensuite les déplacer pour retendre la cordelette et retirer sur la corde.
-  * Répéter le point précédent jusqu’à la sortie de la crevasse. 
-  
-Mouflage Mariner simple:
-
-![Image](img/mouflageMarinersimple.png?raw=true)
-
-Mouflage Mariner double:
-
-![Image](img/mouflagemarinerdouble.png?raw=true)
-
-Lors de la traction, l'autobloquant 2 vient contre1, tandis que 4 et 3 se rapprochent. L'autobloquant 1 prend le blessé en charge, et le sauveteur peut replacer 2 et 3 pour poursuivre la manoeuvre:
-
-![Image](img/mouflage.gif)
