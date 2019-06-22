@@ -13,18 +13,23 @@
     - [Deux autobloquants mais avec un ficelou et une sangle.](#Deux-autobloquants-mais-avec-un-ficelou-et-une-sangle)
     - [Remontée sur rappel](#Remont%C3%A9e-sur-rappel)
     - [Remontée en crevasse](#Remont%C3%A9e-en-crevasse)
+    - [Avec poignée jumar et minitraction](#Avec-poign%C3%A9e-jumar-et-minitraction)
   - [Sauvetage en crevasse - cas où remontée pas possible](#Sauvetage-en-crevasse---cas-o%C3%B9-remont%C3%A9e-pas-possible)
   - [Franchir la rimaye](#Franchir-la-rimaye)
   - [Sortie de goulotte en neige : danger.](#Sortie-de-goulotte-en-neige--danger)
   - [Piolet en tant que relais récupérable](#Piolet-en-tant-que-relais-r%C3%A9cup%C3%A9rable)
   - [Mouflages (simple, simple de surface, Mariner)](#Mouflages-simple-simple-de-surface-Mariner)
+    - [Mouflage boucle](#Mouflage-boucle)
+    - [Mouflage simple](#Mouflage-simple)
+    - [Mariner simple](#Mariner-simple)
+    - [Mariner double](#Mariner-double)
+    - [Le Grand Balancier (pour l'escalade)](#Le-Grand-Balancier-pour-lescalade)
 
 ## Stopper glissade en pente raide - Position de réchappe
 
 * Il n'est pas possible de stopper la glissade du compagnon de cordée si celui-ci est passif.
 
-![Image](img/rechape.png?raw=true)
-Position de réchappe.
+![Position de réchappe.](img/rechape.png)
 
 * Le plus tôt possible, il tente de se retourner sur le ventre en conservant la tête à l'amont.
 * PIOLET:
@@ -47,8 +52,9 @@ Position de réchappe.
 * Différentes techniques existent
 * La plus simple: remontée avec deux cordelettes, une de 60 fermée avec des double noeuds de pêcheur et une de 120 cm non fermée
 
-La vidéo:
-[![Self rescue with prussiks](img/selfrescue1-1.png)](https://www.youtube.com/watch?v=E6Mbl1QiQ_E "Self rescue with prussiks")  
+![Principe général de l'autosauvetage](img/autosauvetage.png)
+
+Voir la vidéo [Self rescue with prussiks](https://www.youtube.com/watch?v=E6Mbl1QiQ_E)  
 
 * Installation:
   * Faire un noeud de prussik avec la cordelette de 60 cm bien au dessus de sa tête
@@ -68,11 +74,9 @@ La vidéo:
 
 NOTA: si encordement en N avec un mousqueton à vis, possible d'avoir un second backup en faisant des noeuds réguliers sur la corde initiale et en les mousquetonnant dans le mousqueton d'encordement (si absent le rajouter).
 
-![Image](img/selfrescue1-2.png?raw=true)
+![Noeuds réguliers sur la corde](img/selfrescue1-2.png)
 
-Regarder également ce tutoriel où la cordelette de 120 cm est remplacée par une pédale classique raccourci clipée dans un second prussik court.
-
-[![Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3](https://img.youtube.com/vi/a4N96Ct7oKw/0.jpg)](https://www.youtube.com/watch?v=a4N96Ct7oKw "Comment remonter sur corde avec deux autobloquants - Remontée sur corde Chap.3") 
+Regarder également [ce tutoriel vidéo](https://www.youtube.com/watch?v=a4N96Ct7oKw) où la cordelette de 120 cm est remplacée par une pédale classique raccourci clipée dans un second prussik court.
 
 ### Deux petits prussik, une longe et une sangle
 
@@ -85,26 +89,20 @@ Regarder également ce tutoriel où la cordelette de 120 cm est remplacée par u
   * Déplacer le 2ème autobloquant vers le haut en gardant le pied dans la pédale.
   * Répéter les actions 5 à 7 jusqu’à la sortie de la crevasse. 
 
-![Image](img/autosauvetage.gif?raw=true)
-
 ### Une cordelette + sangle et deux mousquetons pour pédales avec anneau de coeur
 
 * Anneau de 60cm pour le baudrier, et un nœud de cœur en remplacement de l'anneau de 120cm.
      
-![Image](img/sanglecoeur.png?raw=true)
+![Noeud de coeur](img/sanglecoeur.png)
         
 * La corde forme un nœud de cœur autour des deux mousquetons côte à côte. Une sangle est fixée dans le bas des deux mousquetons. Cette sangle forme une tête d'alouette autour du pied pour réaliser une pédale bien serrée.
 * L'avantage de cette technique est une grande rapidité pour une fatigue réduite, mais elle nécessite de ne pas démarrer pendu en bout de corde. Vous ne pourrez donc  utiliser cette technique qu'après avoir amorcé la remontée par la première technique pour avoir un peu de corde libre, ou bien sur glacier, en utilisant la réserve de corde d'un encordement en N.
 
 ### Autres méthodes à regarder (Points de chute)
 
-* Comment remonter sur corde en escalade ou canyoning ? - Chap 1:
+* Comment remonter sur corde en escalade ou canyoning ? - Chap 1: [voir la vidéo de Points de Chute](https://www.youtube.com/watch?v=o1-IIsGOboc)
 
-[![Comment remonter sur corde en escalade ou canyoning ? - Chap 1](https://img.youtube.com/vi/o1-IIsGOboc/0.jpg)](https://www.youtube.com/watch?v=o1-IIsGOboc "Comment remonter sur corde en escalade ou canyoning ? - Chap 1") 
-
-* Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme:
-
-[![Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme](https://img.youtube.com/vi/IHYqOQLduwo/0.jpg)](https://www.youtube.com/watch?v=IHYqOQLduwo "Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme") 
+* Ch.2 - Le MODE DEBROUILLE de la remontée sur corde en escalade et canyonisme: [voir la vidéo de Points de Chute](https://www.youtube.com/watch?v=IHYqOQLduwo)
 
 #### Descendeur type Reverso et ficelou
 
@@ -158,16 +156,30 @@ NOTA: la méthode sélectionnée tout en haut est une variante plus simple.
 * Installer votre matériel de remontée
 * Votre remontée doit être efficace et sans à coup,il ne s'agit pas d'arracher le méchant piolet qui fait office de relais de fortune et de l'entraîner avec vous. Répétez ces techniques et peaufinez-les. 
 
+### Avec poignée jumar et minitraction
+
+A REGARDER
+
 ## Sauvetage en crevasse - cas où remontée pas possible
 
 NOTE: décrit pour encordement en N (pas conseillé de faire encordement en long sur glacier car pas facile de libérer du mou)
 
 * Enrayer la chute et se stabiliser avec les pieds.
+* Le second se sécurise en installant une broche à glace et en se vachant pour éviter de tomber plus bas.
 * Réaliser un amarrage (broches, corps mort selon la qualité de la neige ou de la glace).
 * Se longer sur l’amarrage (cela évitera de glisser vers la crevasse.
-* Réaliser un autobloquant (A) sur la corde et le relier à l’amarrage. (s’assurer qu’il ne glisse pas), afin de libérer la tension de la corde pour la transférer sur le corps mort
+* Transfert du poids sur le corps mort
+  * Réaliser un autobloquant sur la corde et le relier à l’amarrage.
+  * Il est possible d'utiliser une Microtraction ([Voir video How To XV](https://youtu.be/Ukhnzlh22qQ?t=175))
+  * S’assurer qu’il ne glisse pas avant de libérer la tension de la corde pour la transférer sur le corps mort.
+  * Il est possible de faire un noeud de mule avec le brin de réserve sur le relais ([voir la vidéo de l'ENSA](https://youtu.be/z93_oX7fjM8?t=229) et d'autres à coller ici)
+* On utilise dans ce cas le reste de corde pour réaliser le sauvetage du second.
+* Le premier de cordée installe un autobloquant (cordelette ou tibloc) sur le reste de corde. Afin de se déplacer en sécurité, i faut garder une tension dans cette corde
+* Il libère ses anneaux de buste s'il en a et se désencorde.
+* On vérifie l'ancrage et on le double éventuellement.
 * Si la corde a pénétré profondément dans la lèvre de la crevasse, vous allez lui renvoyer votre réserve de corde pour qu'il fasse sa remontée sur ce brin.
-* Réalisation d'un [Mouflage mariner simple ou double](Noeuds_%26_Mouglages.md#mouflages-simple-simple-de-surface-mariner)
+* On installe un ski, une pelle, un piolet sur la levre pour éviter que la réserve de corde subisse le même sort
+* Réalisation d'un [Mouflage boucle, simple ou mariner double](#Mouflages-simple-simple-de-surface-Mariner)
 
 Exemple vidéo:
 * Building an anchor: https://www.youtube.com/watch?v=VbJ2Y3t_NkA
@@ -185,6 +197,7 @@ Voir Petzl (avec matériel)
 Voir: https://www.petzl.com/FR/fr/Sport/Franchir-une-rimaye-pendant-une-course-de-neige?ActivityName=Alpinisme
 
 L'état de la rimaye fait partie des conditions à vérifier pour préparer une course. Certaines courses sont réputées ne pouvoir se faire que jusqu'en milieu de saison pour cette raison.
+
 * En bonne condition, la rimaye est bouchée et forme simplement une fente ou une petite marche. Un grand pas et l'affaire est faite.
 * Quand elle est plus ouverte, un pont de neige solide peut avoir été construit par la dernière coulée ayant purgé la pente. On passe rapidement, puis on dégage vite de la goulotte d'avalanche, car plus haut que le halo de la frontale, plusieurs centaines de mètres de dénivelée organisés en entonnoir ne demandent qu'à passer par là au moindre appel de la pesanteur.
 * Quand le pont de neige est douteux, on en fait un examen approfondi, en allant voir du côté gauche puis du côté droit. La glace, la neige, sont solides à la compression, pas à la traction. Aussi, on cherche à savoir si les piliers sont compacts de chaque côté du pont. La neige du milieu doit reposer sur une sorte de voûte soumise à la compression.
@@ -208,7 +221,7 @@ L'état de la rimaye fait partie des conditions à vérifier pour préparer une 
 
 ## Piolet en tant que relais récupérable
 
-![image](img/pioletejectable.gif)
+![Technique du piolet éjectable](img/pioletejectable.gif)
 
 Le piolet 1 est enfoncé dans la neige, la cordelette 4 fixée à la pointe (noeud de cabestan n'entravant pas la sortie). Lors de la récupération du rappel, la corde 3 entraîne l'autobloquant de la cordelette 4, qui fait sortir le piolet 1. Le piolet 1 entraîne le piolet 2 par la sangle 5, qui doit être assez longue pour ne pas bloquer la sortie de 1.
 
@@ -216,35 +229,64 @@ Ce système fonctionne aussi avec des skis.
 
 ## Mouflages (simple, simple de surface, Mariner)
 
-Dans les trois cas, la tête de mouflage est une poulie autobloquante ou son équivalent : poulie plus autobloquant de type tibloc par exemple.
-* Mouflage simple (gauche): La corde de réserve a une longueur suffisante et il est possible d'envoyer une boucle au mouflé. Celui-ci passe un mousqueton à son baudrier, ou mieux un mousqueton équipé d'une poulie, et y passe la boucle. On tire à plusieurs, ou bien il s'agit juste d'une aide pour un mouflé qui participe à son sauvetage.
-* Mouflage simple de surface (milieu): La corde de réserve a une longueur insuffisante, ou l'accès au mouflé ne permet pas de lui envoyer la corde. On installe un autobloquant, nœud ou autobloquant mécanique sur la corde. Le renvoi est fait sur un mousqueton, ou mieux sur une poulie.
-* Mouflage mariner (à droite) On a mouflé le mouflage à l'aide d'une cordelette auxiliaire accrochée en haut au relais. La démultiplication permet de tirer seul, si on a bien géré les frottements : poulies, objet dur sur la lèvre de la crevasse, etc.
+[Voir la vidéo source](https://www.youtube.com/watch?time_continue=1&v=UjrFtLTYyNY)
 
-![Image](img/mouflage.png?raw=true)
-Mouflage simple, simple de surface, mariner
+![Mouflage simple, simple de surface, mariner](img/mouflage.png)
 
-* Etapes du Mouflage Mariner double
-  * Passer le brin mou de la corde dans le mousqueton de l’amarrage.
-  * Poser un 2ème autobloquant (B) sur le brin en tension et le raccorder sur son baudrier.
-  * Aller, de manière auto assuré voir la victime et placer un piolet au niveau de la lèvre afin d’éviter qu’elle ne soit cisaillée par la corde.
-  * Revenir à la tête de mouflage.
-  * Poser un 3ème autobloquant (C) sur le brin mou, à l’opposé du 1er autobloquant
-  * Prendre une cordelette (5-7 mètres de cordelette de 7mm avec 1 nœud de vache et 1 mousqueton à chaque extrémité).
-  * Mettre le mousqueton avec la cordelette dans l’anneau du 3ème autobloquant (C).
-  * Placer un mousqueton sur le 2ème autobloquant (B) et passer la cordelette dedans ( système de poulie).
-  * prendre le dernier bout de cordelette avec son mousqueton et passer la corde dedans ( système de 2ème poulie).
-  * Tirer sur la corde jusqu’ à ce que les 2 autobloquants (B) et (C) soient cote à cote , ensuite les déplacer pour retendre la cordelette et retirer sur la corde.
-  * Répéter le point précédent jusqu’à la sortie de la crevasse. 
-  
-Mouflage Mariner simple:
+### Mouflage boucle
 
-![Image](img/mouflageMarinersimple.png?raw=true)
+![Mouflage Boucle](img/mouflageboucle.png)
 
-Mouflage Mariner double:
+* Simple et efficace, il faut être en visuel et disposer de suffisamment de corde pour atteindre son second par une boucle.
+* Le leader utilise la corde déjà avalée en amont du système d'assurage.
+* Avant de descendre la corde a son second, le leader y place un mousqueton de sécurité que le second fixe à son pontet
+* Le second se tracte sur le brin relié au système d'assurage pour aider à la manoeuvre
 
-![Image](img/mouflagemarinerdouble.png?raw=true)
+### Mouflage simple
 
-Lors de la traction, l'autobloquant 2 vient contre1, tandis que 4 et 3 se rapprochent. L'autobloquant 1 prend le blessé en charge, et le sauveteur peut replacer 2 et 3 pour poursuivre la manoeuvre:
+[La video](https://youtu.be/UjrFtLTYyNY?t=140)
 
-![Image](img/mouflage.gif)
+![Mouflage simple](img/mouflagesimple.png)
+
+* Lorsque le second est trop bas pour un mouflage boucle.
+*  Cette technique démultiplie la force par trois mais exisge de tirer 3 fois plus de cordes.
+*  Le leader construit un noeud autobloqant à l'aide d'un anneau de cordelette d'environ 7mm de diamètre.
+*  Il le place sur l'une des deux cordes du second.
+*  Il y fixe un mousqueton qui fera office de point e renvoi pour la corde en amont de la plaquette (le mieux est de faire passer la corde dans une poulie accrochée au mousqueton)
+*  Pour huisser le second, il suffit de tirer vers le haut la corde ainsi placée
+
+![Renvoi en amont de la plaquette](img/mouflagesimplerenvoiplaquette.png)
+
+* Il est possible de rajouter un mousqueton au niveau du relais et de faire passer le brin mou de la corde pour augmenter la démultiplication et tirer vers le bas plutôt que vers le haut
+
+[Voir la video de How to XV](https://youtu.be/Ukhnzlh22qQ?t=372)
+
+### Mariner simple
+
+[La video](https://youtu.be/UjrFtLTYyNY?t=231)
+
+![Mouflage Mariner](img/mouflagemariner.png)
+
+![Mouflage Mariner simple avec machard comme tête de mouflage](img/mouflageMarinersimple.png)
+
+* Si les frottements sont trop important ou le second trop lourd, une démultiplication plus importante des forces est nécessaire.
+* Le Mariner simple démultiplie par 5 les forces exercées, mais la mise en place est plus longue et il y a une perte sur le débattement en contrepartie de la démultiplication.
+* Le point de renvoi n'est plus fixé directement au noeud autobloquant, mais à l'extrémité d'une cordelette de 2 ou 3 mètres qui est fixée par son autre extrémité au relais.
+* Cette cordelette coulisse via un mousqueton dans le noeud autobloquant.
+* En aval de ce mousqueton, le leader fixe un mousqueton de renvoi sur la cordelette avec un noeud de cabestan.
+* Comme pour le mouflage simple, après avoir renvoyé la corde dans le mousqueton de renvoi, tire vers le haut.
+
+### Mariner double
+
+Principe: lors de la traction, l'autobloquant 2 vient contre1, tandis que 4 et 3 se rapprochent. L'autobloquant 1 prend le blessé en charge, et le sauveteur peut replacer 2 et 3 pour poursuivre la manoeuvre
+
+![Principe général du mouflage Mariner double](img/mouflage.gif)
+
+![Mouflage Mariner double avec machard comme tête de mouflage](img/mouflagemarinerdouble.png)
+
+### Le Grand Balancier (pour l'escalade)
+
+* Dans le cas où le second est trop loin, où les frottements sont trop importants ou qu'il est nécessaire, on ne peut réaliser les mouflages classiques.
+* On réalise dans ce cas une manoeuvre de synthèse et d'exception le grand balancier
+
+[Voir la vidéo explicative du Grand Balancier](https://www.youtube.com/watch?v=UU6EFqwLIYY)

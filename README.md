@@ -7,7 +7,7 @@
   * [Autres techniques générales - Rappel, réchappe, ...](Techniques_generale.md)
   * [Autres techniques en glace et neige - Autoassurage et sauvetage crevasse](Techniques_crevasse.md)
 * [Matériel](Matériel.md)
-* [Noeuds & Mouflages](Noeuds_&_Mouglages.md)
+* [Noeuds](Noeuds.md)
 * [Dangers & Secours](Dangers_&_Secours.md)
 
 ## Progression en alpinisme
@@ -15,24 +15,29 @@
 * [Progression & Préparation](Progression.md)
 
 ## Fiches Encordement & Progression en fonction des cas de figure
-* [Fiche Glacier Enneigé](fiches/fiche-glacier-enneige.md)
-* [Fiche Pente Raide & Arête de Neige](fiches/fiche-pente-arete-de-neige.md)
-* [Fiche Rocher](fiches/fiche-rocher.md)
-* [Fiche Glace](fiches/fiche-glace.md)
-* [Fiche Cascade de Glace](fiches/fiche-cascade-de-glace.md)
+* [Fiche Glacier Enneigé](./fiche-glacier-enneige.md)
+* [Fiche Pente Raide & Arête de Neige](./fiche-pente-arete-de-neige.md)
+* [Fiche Rocher](./fiche-rocher.md)
+* [Fiche Glace](./fiche-glace.md)
+* [Fiche Cascade de Glace](./fiche-cascade-de-glace.md)
 
 ## Ressources
 
 ### Références utilisées
 
 * [Alpinisme sans guide](https://alpinismesansguide.blogspot.com/p/le-livre.html) - le meilleur document de synthèse sur les techniques d'alpinismes en français.
+* Pointsdechute: de chouettes tutoriaux rigolos sur l'escalade et le canyoning https://pointsdechutes.com/ & https://www.youtube.com/user/pointsdechutes
+* How to XV with Xavier Delerue by Swatch: des tutos neige et alpinisme https://www.youtube.com/channel/UC7FNrty1fPrhzXTFDGNgJxg/videos
 
 ### A Lire
 
+* VIDEOS A REGARDER SUR LE MOUFLAGE
+  * https://www.youtube.com/channel/UCp7-0MNgXpmaG7XNlJS6Krg
+  * https://www.youtube.com/watch?v=Ukhnzlh22qQ
+  * https://www.youtube.com/watch?v=oyMoTK0eJnU
+  * Glacier tutorial: https://www.youtube.com/watch?v=sfGNZA7nEl8&list=PLajYFniMZtJhlrB6gXJ5ImAZPu2-lhqaY
 * Techniques d'assurage et de rappel sans descendeur
 * https://www.ffme.fr/fiches-ffme/page/techniques-alpinismes.html
-* Glacier tutorial: https://www.youtube.com/watch?v=sfGNZA7nEl8&list=PLajYFniMZtJhlrB6gXJ5ImAZPu2-lhqaY
-* Chaine Youtube déjà regardé
 * youtube.com/user/mikebarter387/videos
 * https://alpinismesansguide.blogspot.com/2018/10/quel-materiel-acheter-pour-mes.html
 * https://alpinismesansguide.blogspot.com/2018/10/assurage-du-premier-de-cordee-les.html

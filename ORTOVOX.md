@@ -22,7 +22,7 @@
             * Nuages aux bords très marqués et fort gonflement (Castellanus) dès le matin
             * Observer la formation des nuages qui mène à un orage : des cumulus (nuages isolés, denses et aux bords clairement délimités) aux Castellanus (gonflement partiel et aspect crénelé) jusqu’au cumulonimbus (nuage d'orage, le plus souvent en forme d'enclume)
 
-            <img src="img/orto-heatstorm.png?raw=true" height="350" />
+            <img src="img/orto-heatstorm.png" height="350" />
 
     * Orage de front: mettent souvent fin à une période de beau temps par une perturbation météorologique forte, sous la forme d'une soudaine chute de température.
         * peuvent arriver toute l'année
@@ -33,7 +33,7 @@
             * Détérioration prolongée des conditions météorologiques
             * Accompagné le plus souvent d’une chute des températures (Givre, chute de neige en altitude)
 
-            <img src="img/orto-frontstorm.png?raw=true" height="350" />
+            <img src="img/orto-frontstorm.png" height="350" />
 
 * Que faire si l'on est pris dans un orage?
     * Retirer tous les objets métalliques et les éloigner (dégaines, crampons ...)
@@ -44,19 +44,19 @@
 
 * Type de rochers:
 
-    <img src="img/orto-rocks.png?raw=true" width="50%" />
+    <img src="img/orto-rocks.png" width="50%" />
 
     * Roche primaire:
         * Granite: principalement dans les Alpes occidentales.
             
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fj%C3%A6regranitt3.JPG/600px-Fj%C3%A6regranitt3.JPG?raw=true" height="200" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fj%C3%A6regranitt3.JPG/600px-Fj%C3%A6regranitt3.JPG" height="200" />
             
             * Excellente roche, très stable, excellente adhérence
             * Parcouru de fissures et arêtes, permet donc de bien s'autoassurer (trad)
             * Type d'escalade: bonnes propriétés d’adhérence, prises doigts et pieds minimalistes, prises en opposition, fissures, arêtes et intersections, épaules et bandes horizontales 
         * Gneiss: roche la plus commune de la crête principale des Alpes
 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Orthogneiss_Geopark.jpg/440px-Orthogneiss_Geopark.jpg?raw=true" height="200" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Orthogneiss_Geopark.jpg/440px-Orthogneiss_Geopark.jpg" height="200" />
 
             * C'est un granite remodelé qui ne se grimpe donc pas très différement
             * Il y a cependant des variations dans la qualité de la roche, peut être très fragile
@@ -113,7 +113,7 @@ Pour placer un piton:
 
 * Légende topo
 
-<img src="img/ort-topo.png?raw=true" width="70%">
+<img src="img/ort-topo.png" width="70%">
 
 Lien PDF: https://www.ortovox.com/safety-academy-lab-rock/fileadmin/user_upload/Downloads/TopoErklaerungDownload_FR.pdf
 
@@ -121,6 +121,6 @@ Lien PDF: https://www.ortovox.com/safety-academy-lab-rock/fileadmin/user_upload/
     * Contrairement à l'escalade sportive, en escalade alpine, il n’y a pas que la difficulté de la voie qui compte. Le même grimpeur peut grimper sans difficulté une voie bien sécurisée en niveau six et se retrouver en difficulté dans une voie de montagne mal équipée de niveau quatre.
     * On rajoute une cotation d’engagement, comme l'échelle E. Elle ne décrit pas la difficulté d'escalade, mais la protection, le risque d'accident et les exigences psychologiques.
 
-<img src="img/ort-diff1.jpg?raw=true" width="300px">
+<img src="img/ort-diff1.jpg" width="300px">
 
-<img src="img/ort-diff2.png?raw=true" width="300px">
+<img src="img/ort-diff2.png" width="300px">

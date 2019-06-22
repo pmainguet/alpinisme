@@ -1,26 +1,26 @@
 # Matériel
 
-- [Matériel](#mat%C3%A9riel)
-  - [1 - Checklist matériel](#1---checklist-mat%C3%A9riel)
-    - [Matériel de base - pour TOUTE SORTIE](#mat%C3%A9riel-de-base---pour-toute-sortie)
-    - [GRANDE VOIE ROCHER](#grande-voie-rocher)
-    - [Course sur NEIGE](#course-sur-neige)
-    - [Course sur GLACIER](#course-sur-glacier)
-  - [2 - Considérations générales sur le matériel](#2---consid%C3%A9rations-g%C3%A9n%C3%A9rales-sur-le-mat%C3%A9riel)
-    - [Vêtements](#v%C3%AAtements)
-    - [Bonnet & Casquette](#bonnet--casquette)
-    - [Gants](#gants)
-    - [Chaussures](#chaussures)
-    - [Lunettes de soleil](#lunettes-de-soleil)
-    - [Sac à dos](#sac-%C3%A0-dos)
-    - [Piolet](#piolet)
-    - [Crampons](#crampons)
-    - [Corde](#corde)
-      - [La classique](#la-classique)
-      - [Autres combinaisons](#autres-combinaisons)
-    - [Nombre de pitons, cordelette et sangle en vrac](#nombre-de-pitons-cordelette-et-sangle-en-vrac)
-    - [Les maillons rapides](#les-maillons-rapides)
-    - [Trousse de secours](#trousse-de-secours)
+- [Matériel](#Mat%C3%A9riel)
+  - [1 - Checklist matériel](#1---Checklist-mat%C3%A9riel)
+    - [Matériel de base - pour TOUTE SORTIE](#Mat%C3%A9riel-de-base---pour-TOUTE-SORTIE)
+    - [GRANDE VOIE ROCHER](#GRANDE-VOIE-ROCHER)
+    - [Course sur NEIGE](#Course-sur-NEIGE)
+    - [Course sur GLACIER](#Course-sur-GLACIER)
+  - [2 - Considérations générales sur le matériel](#2---Consid%C3%A9rations-g%C3%A9n%C3%A9rales-sur-le-mat%C3%A9riel)
+    - [Vêtements](#V%C3%AAtements)
+    - [Bonnet & Casquette](#Bonnet--Casquette)
+    - [Gants](#Gants)
+    - [Chaussures](#Chaussures)
+    - [Lunettes de soleil](#Lunettes-de-soleil)
+    - [Sac à dos](#Sac-%C3%A0-dos)
+    - [Piolet](#Piolet)
+    - [Crampons](#Crampons)
+    - [Corde](#Corde)
+      - [La classique](#La-classique)
+      - [Autres combinaisons](#Autres-combinaisons)
+    - [Nombre de pitons, cordelette et sangle en vrac](#Nombre-de-pitons-cordelette-et-sangle-en-vrac)
+    - [Les maillons rapides](#Les-maillons-rapides)
+    - [Trousse de secours](#Trousse-de-secours)
 
 ## 1 - Checklist matériel
 
@@ -95,12 +95,14 @@
 * Matériel minimum glacier (pour pouvoir se sortir d'une crevasse ou réaliser un relais + mouflage)
   * une ou deux broches à glace
   * deux anneaux de cordelettes (fermés par un double nœud de pêcheur) en 6mm, l'un de 60cm de long, l'autre de 120cm,
-  * deux mousquetons à vis,
-  * petit bloqueur mécanique de type ropeman (de la marque Wild Country) ou tibloc (de la marque Petzl)
-  * quatre mousquetons simples.
   * Sangle de 60cm et une sangle de 120cm.
-  * On peut y ajouter une petite poulie.
-
+  * 2 (3) mousquetons à vis
+  * 4 (2) mousquetons simples.
+  * Vache courte (corde 7mm) avec mousqueton pour se vacher sur piolet
+  * anneau 5 mm servant de dragonne si nécessaire
+  * Options:
+    * On peut y ajouter une petite poulie.
+    * Poignée jumar, minitraction et tibloc pour remontée sur corde ou mouflage facile (en complément des deux cordelettes)
 
 * CORDE - un brin de corde à double de 50 mètres
   * on peut utiliser un seul brin d'une corde à double car il s'agit d'enrayer une glissade plus que de stopper une véritable chute.
@@ -111,19 +113,19 @@
 ### Vêtements
 
 On s'habille selon le fameux système multi-couche, qui doit permettre de concilier :
-* l'évacuation de l'humidité
-* l'isolation thermique
-* la protection contre le vent et la pluie
+  * l'évacuation de l'humidité
+  * l'isolation thermique
+  * la protection contre le vent et la pluie
 
 Les trois couches classiques de vêtements:
-* sous-vêtement en matériau synthétique et non en coton qui doit éloigner l'humidité de la peau
-* fourrure polaire qui apporte la chaleur par la couche d'air qu'elle emprisonne
-* veste gore-tex ou équivalent qui n'empêche pas l'évacuation finale de l'humidité.
+  * sous-vêtement en matériau synthétique et non en coton qui doit éloigner l'humidité de la peau
+  * fourrure polaire qui apporte la chaleur par la couche d'air qu'elle emprisonne
+  * veste gore-tex ou équivalent qui n'empêche pas l'évacuation finale de l'humidité.
 
 Le pantalon idéal est près du corps, élastique, robuste, chaud, protège du vent et est imperméable.
 On peut ajouter un surpantalon léger en gore-tex pour la montée au refuge ou au bivouac sous la pluie, ou choisir un poncho descendant bas.
 
-En conditions froides, la veste en duvet est toujours incontournable. Déconseillée en bushcraft car fragile et ne supportant pas l'humidité, en altitude, l'air sec et l'absence de pluie (remplacée par la neige) rendent inoffensifs ses principaux inconvénients. Il faut la choisir obligatoirement avec une capuche pour pouvoir l'utiliser en bivouac quand on ne s'est pas encombré d'un sac de couchage.
+En conditions froides, la veste en duvet est toujours incontournable. Déconseillée en bushcraft car fragile et ne supportant pas l'humidité, en altitude, l'air sec et l'absence de pluie (remplacée par la neige) rendent inoffensifs ses principaux inconvénients. Il faut la choisir  avec une capuche pour pouvoir l'utiliser en bivouac quand on ne s'est pas encombré d'un sac de couchage.
 
 ### Bonnet & Casquette
 
@@ -168,7 +170,7 @@ On achètera aussi un marteau équipé d'un bec à dépitonner pas trop agressif
 
 On finira par acquérir une paire de piolets-tractions pour la cascade de glace, l'un équipé d'un marteau, l'autre d'une panne, ces accessoires étant démontables. Ne pas hésiter à choisir un manche très cintré, mais en évitant tout de même les modèles spécifiques au dry-tooling.
 
-* Dragonnes et longes des piolets-tractions:
+Dragonnes et longes des piolets-tractions:
   * En cascade de glace, on a cherché à grimper le plus possible sans dragonne pour libérer sa gestuelle. Mais on se fatigue un peu plus car on serre davantage le manche.
   * En montagne, le mieux est d'emporter ses dragonnes au cas où et de ne les mousquetonner à son piolet que si on en éprouve le besoin en cours d'ascension. Il faut choisir des dragonnes détachables par un mousqueton ou une attache rapide. Si son piolet en est dépourvu, on installe une cordelette 5mm depuis le trou de la tête du piolet jusqu'au milieu du manche où elle est maintenue par un ruban adhésif. La dragonne comporte un mousqueton porte-matériel qui se clippe dans cette cordelette.
   * En glace, pouvoir se vacher très vite en tension sur son piolet est très confortable. On peut donc se confectionner avec une cordelette 7mm une vache courte équipée d'un mousqueton capable de passer dans le trou du bas du manche. Elle est nouée en permanence au baudrier mais clippée sur un porte-matériel. Elle permet de se vacher rapidement en tension au piolet pour brocher confortablement dans un pas vertical difficile bien pourvu en glace.
@@ -204,8 +206,7 @@ rustique, même si elle est un peu plus lourde.
     * Le premier inconvénient de la technique est d'être obligé d'emporter autant de maillons rapides que de rappels prévus. Or, on sait rarement à l'avance leur nombre exact.
     * Le second inconvénient en cas de coincement est que la cordelette de rappel, souvent un brin de 7mm statique ou semi-statique, ne permet pas de s'assurer en premier de cordée pour aller récupérer la corde à simple coincée. Le troisième inconvénient est dans le lancer d'une cordelette légère en terrain peu raide : nouilles assurées. Pour cette raison, les anciens, qui utilisaient déjà ce système avec une cordelette en nylon de 5 mm quand un long rappel unique était prévu, préparaient leur cordelette en la portant, dans le sac ou dans une poche banane, nouée en chaînette. Celle-ci se détricotait d'elle-même au fur et à mesure de la descente le long de la corde à simple.
 
-    ![Image](img/chainette.png?raw=true)
-    Formation d'une chainette
+    ![Formation d'une chainette](img/chainette.png)
 
   * Les deux diamètres peuvent être proches. On peut alors descendre classiquement (sans utiliser un maillon rapide), mais le compagnon resté au relais vérifie quand même qu'une corde ne coulisse pas plus vite que l'autre, en haut comme en bas du rappel. On peut installer d'avance le descendeur du second afin de bloquer la corde, puis nouer le bas du rappel avec une queue de vache au relais pour plus de sûreté. 
   
@@ -217,7 +218,7 @@ Si le bulletin météo indique « risque d'averse en fin d'après-midi », empor
 
 On réserve plutôt la 5mm pour relier des pitons, la sangle pour des becquets non coupants, la cordelette 7mm convenant partout. Si on est obligé de poser un anneau de rappel en 5mm sur un rocher agressif, on n'hésite pas à l'émousser soigneusement au marteau.
 
-Le matériel conseillé dans les livres qui décrivent des courses sélectionnées est à comprendre comme le minimum syndical quand tout va bien. Mais être autonome consiste à pouvoir faire face quand tout va mal. Dans une face importante, emporter une douzaine de pitons variés n'a rien de ridicule. Dans une course de rocher classique - D, 500m – prendre un ou deux pitons va vous servir à quoi ? En tout cas pas à une réchappe sous la pluie alors que vous avez déjà grimpé deux ressauts... Il est probable que l'essentiel de vos pitons restera dans le sac. Ils doivent être considérés comme un billet de retour. A ceux qui vous disent qu'il est inutile de se charger avec autant de matériel, répondez-leur que six pitons est un matériel extra léger comparé à un hélicoptère...
+Le matériel conseillé dans les livres qui décrivent des courses sélectionnées est à comprendre comme le minimum syndical quand tout va bien. Mais être autonome consiste à pouvoir faire face quand tout va mal. Dans une face importante, emporter une douzaine de pitons variés n'a rien de ridicule. Dans une course de rocher classique - D, 500m – prendre un ou deux pitons va vous servir à quoi ? En tout cas pas à une réchappe sous la pluie alors que vous avez déjà grimpé deux ressauts... Il est probable que l'essentiel de vos pitons restera dans le sac. Ils doivent être considérés comme un billet de retour.
 
 ### Les maillons rapides
 
@@ -225,106 +226,32 @@ Les maillons destinés à l'escalade sont maintenant des EPI (Équipement de Pro
 
 ### Trousse de secours
 
+Une trousse de secours trop fournie aura toutes les chances de rester à la maison au moindre prétexte : course facile, de courte durée, dans un endroit fréquenté. Au contraire, la réduire à une boîte de pansements la rend peu utile.
 
-La trousse de secours
-Une trousse de secours trop fournie aura toutes les chances de rester à la
-maison au moindre prétexte : course facile, de courte durée, dans un endroit
-fréquenté. Au contraire, la réduire à une boîte de pansements la rend peu utile. Le
-compromis judicieux pourra dépendre de l'engagement de la course mais il est bon de
-se constituer une trousse standard qu'on emmènera partout, quitte à l'étoffer pour
-certains projets plus ambitieux.
-La trousse standard doit permettre de stopper le saignement et de protéger une
-plaie, de placer un strapping sur une articulation, de fabriquer une contention de
-fortune pour une entorse ou une fracture, d'atténuer la douleur, de désinfecter
-grossièrement une plaie, de laver un œil, de calmer une céphalée due au MAM,
-d'alerter les secours.
-Oubliez la stérilité des compresses, des pansements ou de vos gants de
-chirurgien. Vous êtes en traumatologie, c'est à dire en milieu septique. Désinfecter
-une plaie pleine de terre à l'aide d'une compresse stérile n'a aucun sens. Les bactéries
-ne vous ont pas attendu. Utilisez des compresses et des mains propres, c'est déjà bien.
-Les médicaments seront prescrits par votre médecin traitant en fonction de vos
-contre-indications et des interactions éventuelles avec des traitements déjà suivis. Il
-est indispensable que les membres de la cordée se confient mutuellement leurs
-antécédents médicaux, et les médicaments personnels qu'ils emportent. On évitera
-ainsi les longues explications de dernière minute pour chercher le spray de Ventoline
-caché au fond du sac de votre copain asthmatique, ou on apportera immédiatement le
-sucre nécessaire à la copine habituée aux malaises hypoglycémiques.
-Une trousse de secours complète pourrait être celle-ci :
--1 petit flacon de liquide de désinfectant des mains (lotion hydro-alcoolique ou
-ammonium quaternaire) ;
--1 paire de gants d'examen en latex non stériles (les gants en latex sont précis) ;
--1 paire de gants d'examen en vinyl non stériles (si un membre de la cordée est
-allergique au latex) ;
--2 unidoses de sérum physiologique (pour laver une plaie ou un œil),
--2 unidoses d'éosine (pour désinfecter et assécher une plaie) ;
--nombreuses compresses tissées non stériles (mais propres!) ;
--1 rouleau entier d'Elastoplaste de 6cm de largeur (pour maintenir des
-pansements, des compresses, et pour placer un strapping) ;
--1 boîte de stéri-strips (bandes autocollantes pour « suturer » les plaies) ;
--1 boîte de pansements divers de bonne qualité, résistant à l'eau (ils doivent
-tenir malgré la neige) ;
-219
-
--2 pansements hydrocolloïdes 15x15cm type Algoplaque, pour les plaies larges
-et en surface suite à une forte abrasion de la peau lors d'une chute ;
--2 bandes extensibles non collantes, type Velpeau ou Nylex (pour maintenir un
-pansement en place, une compression, une contention) ;
--plusieurs épingles à nourrice (pour arrêter les bandes, pour réparer les
-vêtements déchirés pendant la chute, pour soutenir un bras avec la manche piquée au
-tissu de la poitrine) ;
--1 attelle d'urgence, déformable et ajustable, de type Sam Splint ;
--6 comprimés de Codoliprane (association paracétamol et codéine, antalgique
-périphérique, 2c. en cas de douleur intense, espacer les prises de 4 heures minimum ;
-contre-indiqué en cas d'allergie à un constituant, en cas d'asthme, d'insuffisance
-hépatique ou respiratoire, et chez la femme enceinte) ;
--4 comprimés de Nurofène 400 (ibuprofène, anti-inflammatoire à visée
-antalgique, 1c. en cas de douleur, espacer les prises de 6 heures minimum, alternance
-possible avec le Codoliprane, contre-indiqué en cas d'allergie, d'insuffisance
-hépatique ou rénale, d'ulcère, et chez la femme enceinte) ;
--6 comprimés d'Aspirine 500 (acide acétylsalicylique, 1 ou 2 comprimés en cas
-de céphalée due au MAM, espacer les prises de 4 heures minimum ; contre-indiqué
-en cas d'allergie, d'asthme à l'aspirine, de risque hémorragique, d'insuffisance
-hépatique ou rénale, de prise d'anticoagulants, chez la femme enceinte) ;
--4 comprimés de Coramine Glucose (glucose, 4 c.par jour en cas de fatigue
-brutale, conte-indiqué en cas d'allergie, d'hypertension artérielle, d'épilepsie, et chez
-la femme enceinte) ;
-- 4 comprimés de Valium 5mg (diazépam, anxiolytique, 1 comprimé en cas
-d'anxiété suite à un traumatisme ou en cas de contractures musculaires suite à une
-forte contusion, demander l'avis du médecin traitant) ;
--4 comprimés de Guronsan (glucoronamide, vitamine C et caféine, 1c.le matin
-et 1c.à midi en cas de fatigue, contre-indiqué en cas d'allergie ou de calculs rénaux) ;
--1 canif à petite lame ou un multitool avec ciseaux (pour découper les
-compresses, les pansements, les bandes diverses) ;
--1 petit morceau de savon (pour un lavage plus sérieux en cas d'eau courante) ;
--1 miroir de signalisation ;
--1 sifflet ;
--1 couverture de survie ;
--1 téléphone portable ;
--1 crème écran total pour peau et lèvres ;
--1 paire de lunettes de glacier de secours.
-Pour les courses sérieuses, on pourra ajouter un coussin hémostatique
-d'urgence, une attelle Sam Splint de grande taille supplémentaire, une radio avec son
-abonnement au service local de secours, un corticoïde injectable pour traiter l’œdème
-cérébral (Soludécadron , 4mg en intramusculaire).
-En très haute altitude (pas dans les Alpes), on emporte de l'Adalate
-220
-
-(nifédipine), inhibiteur calcique par voie orale proposé habituellement pour les crises
-d'angor, pour son effet de diminution en quelques minutes du tonus vasculaire
-artériel. Il permet de diminuer la pression de l'artère pulmonaire en cas d’œdème
-pulmonaire.
-Pour le camp de base dans les Alpes (au camping!), on peut prévoir de
-l'Adrénaline en stylo injectable prêt à l'emploi (Epipen, Anapen) à utiliser en cas de
-choc anaphylactique suite à une piqûre de guêpe, surtout si l'un des membres de la
-cordée a présenté dans le passé des signes d'allergie (œdème local important, urticaire
-géant, œdème de Quincke).
-L'adrénaline entraîne une vasoconstriction périphérique puissante qui enraye la
-vasodilatation périphérique brutale provoquée par l'allergène, ce qui permet d'éviter le
-désamorçage de la pompe cardiaque par l'hypotension brutale. Elle entraîne
-également une puissante bronchodilatation combattant l'obstruction des voies
-aériennes due à l’œdème de Quincke.
-Si votre copain présente une hypertension artérielle, il est probablement sous
-bêtabloquant, médicament de choix pour l'hypertension artérielle du jeune car cela lui
-apporte du confort en lui évitant les bouffées de chaleur et de rougeur liées à
-l'émotivité. Il va donc vous falloir plus d'adrénaline car le bêtabloquant l'empêche
-d'agir: appeler le SAMU.
+La trousse standard doit permettre de stopper le saignement et de protéger une plaie, de placer un strapping sur une articulation, de fabriquer une contention de fortune pour une entorse ou une fracture, d'atténuer la douleur, de désinfecter grossièrement une plaie, de laver un œil, de calmer une céphalée due au MAM, d'alerter les secours.
+* 1 petit flacon de liquide de désinfectant des mains (lotion hydro-alcoolique ou ammonium quaternaire)
+* 1 paire de gants d'examen en latex/vinyl non stériles (les gants en latex sont précis)
+* 2 unidoses de sérum physiologique (pour laver une plaie ou un œil)
+* 2 unidoses d'éosine (pour désinfecter et assécher une plaie)
+* nombreuses compresses tissées non stériles (mais propres!)
+* 1 rouleau entier d'Elastoplaste de 6cm de largeur (pour maintenir des pansements, des compresses, et pour placer un strapping)
+* 1 boîte de stéri-strips (bandes autocollantes pour « suturer » les plaies)
+* 1 boîte de pansements divers de bonne qualité, résistant à l'eau (ils doivent tenir malgré la neige)
+* 2 pansements hydrocolloïdes 15x15cm type Algoplaque, pour les plaies larges et en surface suite à une forte abrasion de la peau lors d'une chute
+* 2 bandes extensibles non collantes, type Velpeau ou Nylex (pour maintenir un pansement en place, une compression, une contention)
+* plusieurs épingles à nourrice (pour arrêter les bandes, pour réparer les vêtements déchirés pendant la chute, pour soutenir un bras avec la manche piquée au tissu de la poitrine)
+* 1 attelle d'urgence, déformable et ajustable, de type Sam Splint
+* 6 comprimés de Codoliprane (association paracétamol et codéine, antalgique périphérique, 2c. en cas de douleur intense, espacer les prises de 4 heures minimum (contre-indiqué en cas d'allergie à un constituant, en cas d'asthme, d'insuffisance hépatique ou respiratoire, et chez la femme enceinte)
+* 4 comprimés de Nurofène 400 (ibuprofène, anti-inflammatoire à visée antalgique, 1c. en cas de douleur, espacer les prises de 6 heures minimum, alternance possible avec le Codoliprane, contre-indiqué en cas d'allergie, d'insuffisance hépatique ou rénale, d'ulcère, et chez la femme enceinte)
+* 6 comprimés d'Aspirine 500 (acide acétylsalicylique, 1 ou 2 comprimés en cas de céphalée due au MAM, espacer les prises de 4 heures minimum ; contre-indiqué en cas d'allergie, d'asthme à l'aspirine, de risque hémorragique, d'insuffisance hépatique ou rénale, de prise d'anticoagulants, chez la femme enceinte)
+* 4 comprimés de Coramine Glucose (glucose, 4 c.par jour en cas de fatigue brutale, conte-indiqué en cas d'allergie, d'hypertension artérielle,d'épilepsie, et chez la femme enceinte)
+* 4 comprimés de Valium 5mg (diazépam, anxiolytique, 1 comprimé en cas d'anxiété suite à un traumatisme ou en cas de contractures musculaires suite à une forte contusion, demander l'avis du médecin traitant)
+* 4 comprimés de Guronsan (glucoronamide, vitamine C et caféine, 1c.le matin et 1c.à midi en cas de fatigue, contre-indiqué en cas d'allergie ou de calculs rénaux)
+* 1 canif à petite lame ou un multitool avec ciseaux (pour découper les compresses, les pansements, les bandes diverses)
+* 1 petit morceau de savon (pour un lavage plus sérieux en cas d'eau courante)
+* 1 miroir de signalisation
+* 1 sifflet
+* 1 couverture de survie
+* 1 téléphone portable
+* 1 crème écran total pour peau et lèvres
+* 1 paire de lunettes de glacier de secours.

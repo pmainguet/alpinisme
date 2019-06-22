@@ -17,7 +17,7 @@
 * Pour être tranquille toute une journée de montagne, il est préférable de réaliser son nœud de huit sans croiser. Il a donc l'aspect d'une boule, en
 trois dimensions, et non d'un huit à plat.
 
-![Image](img/noeuxhuit.png?raw=true)
+![Image](img/noeuxhuit.png)
 Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée à droite.
 
 ### Noeud de chaise
@@ -27,11 +27,11 @@ Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée
     1. Le nœud de chaise seul glisse pour des valeurs très faibles quand on tire sur la boucle d'encordement elle-même (la ganse) comme si on voulait l'agrandir. Ce cas de traction se produit quand, pour l'encordement montagne classique, on a choisi de repasser la boucle venant des anneaux de buste dans la boucle d'encordement.
     2. Un nœud d'encordement n'est pas en tension constante et peut donc facilement se desserrer. Or, un nœud de chaise qui se desserre peut également se retourner et se transformer en nœud coulant, S'il se retourne, il lâche.
 
-    ![Image](img/noeudchaise.png?raw=true)
+    ![Image](img/noeudchaise.png)
     ATTENTION : nœud de chaise mal fait en haut à gauche.
 
-    ![Image](img/noeudhuit.png?raw=true)
-    ![Image](img/chaise.png?raw=true)
+    ![Image](img/noeudhuit.png)
+    ![Image](img/chaise.png)
 
     Confection d'un noeud de chaise avec noeud d'arrêt
     
@@ -39,10 +39,10 @@ Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée
 
 * Noeud de chaise en cours de corde (pour l'encordement en N par exemple)
   
-![Image](img/chaiseN.png?raw=true)
+![Image](img/chaiseN.png)
 
 * Noeud de chaise clef Yosémite (encombrement minimal!)
-![Image](img/noeudyosemite.png?raw=true)
+![Image](img/noeudyosemite.png)
 
 ## Noeud d'aboutement 
 
@@ -51,34 +51,34 @@ Pour réunir les deux brins d'un rappel, soit pour fermer un anneau de cordelett
 * double nœud de pêcheur
 * triple nœud de pêcheur indiqué pour les cordelettes en dyneema
 * nœud de sangle préconisé pour les sangles.
-  ![Image](img/rabouttement.png?raw=true)
-  ![image](img/doublepecheur.png?raw=true)
+  ![Image](img/rabouttement.png)
+  ![image](img/doublepecheur.png)
   
 ### Nœuds sur mousquetons:
 * nœud de cabestan
 * nœud de demi cabestan
-![Image](img/cabestan.png?raw=true)
+![Image](img/cabestan.png)
 * nœud de cœur
 
 ### Autres noeuds utiles (alouette, mule, tour mort et deux demi-clés, noeud de freinage)
 
 * Nœud en tête d'alouette pour assujettir un anneau de cordelette ou de sangle
-  ![Image](img/tetealouette.png?raw=true)
+  ![Image](img/tetealouette.png)
   
 * Nœud de mule, pour bloquer un demi-cabestan par exemple. Ce nœud est bien sûr serré, puis sécurisé par un nœud d'arrêt en nouant la boucle autour de la corde allant au grimpeur. Pour réaliser ce nœud de mule, tirer la petite croix marquée sur la corde en suivant le crayon.
   
-  ![Image](img/noeudcoeur.png?raw=true)
+  ![Image](img/noeudcoeur.png)
 
-  ![Image](img/noeudcoeur2.png?raw=true)
+  ![Image](img/noeudcoeur2.png)
 
-  ![Image](img/noeudmuleconfection.png?raw=true)
+  ![Image](img/noeudmuleconfection.png)
   
 * Tour mort et deux demi-clefs. 
 * 
-  ![Image](img/tourmort.png?raw=true)
+  ![Image](img/tourmort.png)
 
 * Noeud de freinage
-![Image](img/noeudfreinage.png?raw=true) : un nœud de huit pour commencer, puis piéger un brin avec la boucle qui repart dans le nœud
+![Image](img/noeudfreinage.png) : un nœud de huit pour commencer, puis piéger un brin avec la boucle qui repart dans le nœud
 
 ### Noeuds autobloquants
 

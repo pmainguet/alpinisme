@@ -40,8 +40,9 @@ Voici les étapes pour franchir un pas en artif :
 * On récupère l'étrier dès qu'on a mousquetonné la corde sur le nouveau point en se laissant descendre à la corde.
 * On se rapproche de nouveau du coinceur du haut en se tirant à la corde, comme à la salle quand on remonte après un vol.
 
-![image](img/pasartif.png?raw=true)
 La dégaine sur laquelle on est vaché, très courte, est accrochée au mousqueton du haut de la dégaine d'assurage, côté opposé au doigt.
+
+![Pas d'artif](img/pasartif.png)
 
 ## Pliage de corde
 
@@ -57,11 +58,11 @@ La dégaine sur laquelle on est vaché, très courte, est accrochée au mousquet
 
 Le brin du sac est sur la poulie autobloquante, le brin du second sur la plaquette:
 
-![Image](img/hissage1.png?raw=true)
+![Hissage version 1](img/hissage1.png)
 
 Tête de mouflage faite de la poulie autobloquante, renvoi inférieur sur mousqueton et tibloc, renvoi supérieur sur mousqueton. On peut ainsi tirer vers soi en étant positionné sous le relais:
 
-![Image](img/hissage2.png?raw=true)
+![Hissage version 2](img/hissage2.png)
 
 ## Poser une main courante
 

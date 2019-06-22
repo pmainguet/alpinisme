@@ -67,7 +67,7 @@ Le nœud de huit placé sur la sangle peut être discutable pour un rappel incon
 Uni-directionnel à gauche : un seul ancrage sollicité en tirant à gauche.
 Multi-directionnel à droite : solution abandonnée
 
-![Image](img/unidirect.png)
+![Relais unidirectionnel (à gauche) et multidirectionnel (à droite)](img/unidirect.png)
 
 ## Triangulation semi-directionnelle : le bon compromis
 
@@ -75,11 +75,11 @@ Afin de limiter le choc potentiel, on peut placer un nœud sur chacune des branc
 
 Semi-directionnel, dit parfois répartiteur d'alpiniste:
 
-![Image](img/semidirect.png)
+![Relais semi directionel](img/semidirect.png)
 
 Semi-directionnel pour un rappel:
 
-![Image](img/semidirectionnelrappel.png)
+![Relais semi directionnel pour rappel](img/semidirectionnelrappel.png)
 
 S'il s'agit d'un relais de progression et non de rappel, on peut mousquetonner les deux brins de la sangle à la condition bien sûr d'en tourner un des deux pour ne pas mettre le mousqueton à cheval sur l'ensemble. Les nœuds peuvent être indifféremment des nœuds simples ou des nœuds de huit. On recommande de ne pas laisser davantage que 20cm de débattement entre chaque nœud et le point inférieur du dispositif.
 

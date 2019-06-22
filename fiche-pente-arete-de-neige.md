@@ -20,7 +20,7 @@ Note: Important de débotter en neige collante: on tape régulièrement un ou de
         * PIOLET: Piolet appui ou panne:
             * La main tient le piolet en haut du manche très près de la tête, ou bien par la panne, mais c'est cette fois la lame du piolet qui est plantée en la poussant simplement devant soi dans la pente raide, tandis que la main libre est posée sur la neige pour parfaire l'équilibre.
 
-            ![Image](img/pioletpanne.png?raw=true)
+            ![Image](img/pioletpanne.png)
 
         * PIED:
             * On progresse face à la pente avec la moitié du pied qui pénètre à chaque pas dans la neige.
@@ -31,7 +31,7 @@ Note: Important de débotter en neige collante: on tape régulièrement un ou de
             * une main sur la tête, l'autre main en bas de manche.
             * On ancre la lame en tenant le piolet d'une seule main comme on le pratique en cascade de glace tel un smash de tennis, puis on s'y tient à deux mains.
 
-            ![Image](img/pioletancre.png?raw=true)
+            ![Image](img/pioletancre.png)
 
         * PIED
             * Cramponnage frontal.
@@ -40,7 +40,7 @@ Note: Important de débotter en neige collante: on tape régulièrement un ou de
                 * Pieds à plat, avec le corps vrillé, le bas tourné vers l'aval, le haut vers l'amont ou de travers.
                 * Au moment critique du désancrage, l'équilibre était résolu par un pas intermédiaire dit du pied-assis: avant que le pied devenu aval ne passe de nouveau devant le tibia du pied amont, on le posait à plat contre la pente, orteils dirigés vers le bas, assez haut sous la fesse arrière, genou plié bien sûr, comme si on allait s'asseoir dans un étrier.
                 * Ceci donne la stabilité nécessaire pour désancrer puis ancrer de nouveau plus haut.
-                ![Image](img/piedassis.png?raw=true)
+                ![Image](img/piedassis.png)
         * Plus lent et fatiguant
 
     * Pentes très raides:
@@ -58,7 +58,7 @@ Note: Important de débotter en neige collante: on tape régulièrement un ou de
     * Traversée et descentes raides: piolet-ramasse.
         * Piolet est tenu sensiblement horizontalement au niveau de la hanche amont, pique posée ou plantée dans la neige, une main en pronation en bas du manche (très proche de la pique) appuyant vers la pente, l'autre main en supination sur la tête du piolet tirant vers le haut. 
 
-        ![Image](img/pioletramasse.png?raw=true)
+        ![Image](img/pioletramasse.png)
     
     * Pentes très raides:
         * PIOLET: piolet traction comme en glace, avec souvent second piolet
