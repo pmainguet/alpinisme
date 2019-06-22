@@ -1,11 +1,11 @@
 # Dangers et Secours
 
-- [Dangers et Secours](#dangers-et-secours)
-  - [Conditions de la course à vérifier avant le départ](#conditions-de-la-course-%C3%A0-v%C3%A9rifier-avant-le-d%C3%A9part)
-  - [L'exposition](#lexposition)
-  - [Elements de météorologie](#elements-de-m%C3%A9t%C3%A9orologie)
-  - [Elements sur les avalanches](#elements-sur-les-avalanches)
-  - [Dangers](#dangers)
+- [Dangers et Secours](#Dangers-et-Secours)
+  - [Conditions de la course à vérifier avant le départ](#Conditions-de-la-course-%C3%A0-v%C3%A9rifier-avant-le-d%C3%A9part)
+  - [L'exposition](#Lexposition)
+  - [Elements de météorologie](#Elements-de-m%C3%A9t%C3%A9orologie)
+  - [Elements sur les avalanches](#Elements-sur-les-avalanches)
+  - [Dangers](#Dangers)
 
 ## Conditions de la course à vérifier avant le départ
 
@@ -32,25 +32,25 @@
   * Le ciel nocturne plus ou moins nuageux : Ciel clair, bon regel.
 
 Les facteurs favorisant le regel sont :
-* une nuit claire et sans vent
-* une surface de neige très exposée au ciel, et non, encaissée comme un couloir ;
-* une surface de neige environnée d'autres surfaces de neige, et non de rochers ;
-* une atmosphère pure, non polluée (donc éloignée de la vallée) ;
-* une neige propre (absence de passage, absence de coulée de terre dans un couloir) ;
-* une neige contenant peu d'air (les marches tassées de la bonne trace des cordées des jours précédents gèleront plus facilement).
+  * une nuit claire et sans vent
+  * une surface de neige très exposée au ciel, et non, encaissée comme un couloir ;
+  * une surface de neige environnée d'autres surfaces de neige, et non de rochers ;
+  * une atmosphère pure, non polluée (donc éloignée de la vallée) ;
+  * une neige propre (absence de passage, absence de coulée de terre dans un couloir) ;
+  * une neige contenant peu d'air (les marches tassées de la bonne trace des cordées des jours précédents gèleront plus facilement).
 
 On conseille d'attendre deux ou trois jours de beau temps après une chute de neige pour retourner en hautemontagne. Dans les couloirs, il faut attendre que la neige fraîche se transforme ou que la pente se purge dans le cas d'une grosse chute de neige. En hiver, un froid rigoureux peut empêcher la neige de se transformer, ce qui prolonge le risque d'avalanche. En été, l'idéal est d'avoir des températures chaudes permettant la purge ou la transformation, puis un bon regel le jour de la course.
 
 Sur le rocher, on doit attendre que la neige disparaisse ou, au moins, qu'elle ne soit pas trop envahissante. Certaines courses de rocher tolèrent une neige résiduelle ; celle-ci peut même être souhaitable pour stabiliser un mauvais rocher. D'autres ne peuvent être réalisées que sur un rocher parfaitement sec, ce qui est le cas quand de nombreux passages sont en adhérence sur des dalles. Dans une face nord, la fonte de la neige peut produire du verglas.
 
 Pendant la course, on peut remarquer quelques phénomènes :
-* Le sommet de la montagne fume en fin de matinée : signe de beau temps.
-* Un nuage lenticulaire se forme au-dessus du sommet: signe de l'arrivée d'une perturbation.
-* Un halo se forme autour de la pleine lune ou du soleil : il va pleuvoir dans quelques heures, au maximum dans une demi-journée.
-* Les traînées des avions à réaction tardent à disparaître : le beau temps ne va pas durer plus d'une journée.
-* Le vent en altitude est faible et variable : des orages non prévus par le bulletin météo peuvent se déclencher.
-* Dans le massif des Écrins, le mauvais temps vient le plus souvent du sud. Dans le massif du Mont-Blanc, il vient généralement de l'ouest. Si le vent
-en vient, regarder dans ces directions.
+  * Le sommet de la montagne fume en fin de matinée : signe de beau temps.
+  * Un nuage lenticulaire se forme au-dessus du sommet: signe de l'arrivée d'une perturbation.
+  * Un halo se forme autour de la pleine lune ou du soleil : il va pleuvoir dans quelques heures, au maximum dans une demi-journée.
+  * Les traînées des avions à réaction tardent à disparaître : le beau temps ne va pas durer plus d'une journée.
+  * Le vent en altitude est faible et variable : des orages non prévus par le bulletin météo peuvent se déclencher.
+  * Dans le massif des Écrins, le mauvais temps vient le plus souvent du sud. Dans le massif du Mont-Blanc, il vient généralement de l'ouest. Si le vent
+  en vient, regarder dans ces directions.
 
 ## L'exposition
 

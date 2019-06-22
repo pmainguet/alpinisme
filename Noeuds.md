@@ -17,8 +17,10 @@
 * Pour être tranquille toute une journée de montagne, il est préférable de réaliser son nœud de huit sans croiser. Il a donc l'aspect d'une boule, en
 trois dimensions, et non d'un huit à plat.
 
-![Image](img/noeuxhuit.png)
 Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée à droite.
+
+![Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée à droite.](img/noeuxhuit.png)
+
 
 ### Noeud de chaise
     
@@ -27,22 +29,23 @@ Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée
     1. Le nœud de chaise seul glisse pour des valeurs très faibles quand on tire sur la boucle d'encordement elle-même (la ganse) comme si on voulait l'agrandir. Ce cas de traction se produit quand, pour l'encordement montagne classique, on a choisi de repasser la boucle venant des anneaux de buste dans la boucle d'encordement.
     2. Un nœud d'encordement n'est pas en tension constante et peut donc facilement se desserrer. Or, un nœud de chaise qui se desserre peut également se retourner et se transformer en nœud coulant, S'il se retourne, il lâche.
 
-    ![Image](img/noeudchaise.png)
     ATTENTION : nœud de chaise mal fait en haut à gauche.
 
-    ![Image](img/noeudhuit.png)
-    ![Image](img/chaise.png)
+    ![Nœud de chaise mal fait en haut à gauche](img/noeudchaise.png)
+
+    ![Noeud de chaise sur baudrier](img/chaise.png)
 
     Confection d'un noeud de chaise avec noeud d'arrêt
     
-    ![Image](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Flezardevillemandeur.org%2Fwp-content%2Fuploads%2Fnoeud-de-chaise.jpg&f=1)
+    ![noeud de chaise avec noeud d'arrêt](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Flezardevillemandeur.org%2Fwp-content%2Fuploads%2Fnoeud-de-chaise.jpg&f=1)
 
 * Noeud de chaise en cours de corde (pour l'encordement en N par exemple)
   
-![Image](img/chaiseN.png)
+![Noeud de chaise en cours de corde](img/chaiseN.png)
 
 * Noeud de chaise clef Yosémite (encombrement minimal!)
-![Image](img/noeudyosemite.png)
+
+![Noeud de chaise clef Yosémite](img/noeudyosemite.png)
 
 ## Noeud d'aboutement 
 

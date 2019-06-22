@@ -113,14 +113,14 @@
 ### Vêtements
 
 On s'habille selon le fameux système multi-couche, qui doit permettre de concilier :
-  * l'évacuation de l'humidité
-  * l'isolation thermique
-  * la protection contre le vent et la pluie
+* l'évacuation de l'humidité
+* l'isolation thermique
+* la protection contre le vent et la pluie
 
 Les trois couches classiques de vêtements:
-  * sous-vêtement en matériau synthétique et non en coton qui doit éloigner l'humidité de la peau
-  * fourrure polaire qui apporte la chaleur par la couche d'air qu'elle emprisonne
-  * veste gore-tex ou équivalent qui n'empêche pas l'évacuation finale de l'humidité.
+* sous-vêtement en matériau synthétique et non en coton qui doit éloigner l'humidité de la peau
+* fourrure polaire qui apporte la chaleur par la couche d'air qu'elle emprisonne
+* veste gore-tex ou équivalent qui n'empêche pas l'évacuation finale de l'humidité.
 
 Le pantalon idéal est près du corps, élastique, robuste, chaud, protège du vent et est imperméable.
 On peut ajouter un surpantalon léger en gore-tex pour la montée au refuge ou au bivouac sous la pluie, ou choisir un poncho descendant bas.
@@ -171,9 +171,10 @@ On achètera aussi un marteau équipé d'un bec à dépitonner pas trop agressif
 On finira par acquérir une paire de piolets-tractions pour la cascade de glace, l'un équipé d'un marteau, l'autre d'une panne, ces accessoires étant démontables. Ne pas hésiter à choisir un manche très cintré, mais en évitant tout de même les modèles spécifiques au dry-tooling.
 
 Dragonnes et longes des piolets-tractions:
-  * En cascade de glace, on a cherché à grimper le plus possible sans dragonne pour libérer sa gestuelle. Mais on se fatigue un peu plus car on serre davantage le manche.
-  * En montagne, le mieux est d'emporter ses dragonnes au cas où et de ne les mousquetonner à son piolet que si on en éprouve le besoin en cours d'ascension. Il faut choisir des dragonnes détachables par un mousqueton ou une attache rapide. Si son piolet en est dépourvu, on installe une cordelette 5mm depuis le trou de la tête du piolet jusqu'au milieu du manche où elle est maintenue par un ruban adhésif. La dragonne comporte un mousqueton porte-matériel qui se clippe dans cette cordelette.
-  * En glace, pouvoir se vacher très vite en tension sur son piolet est très confortable. On peut donc se confectionner avec une cordelette 7mm une vache courte équipée d'un mousqueton capable de passer dans le trou du bas du manche. Elle est nouée en permanence au baudrier mais clippée sur un porte-matériel. Elle permet de se vacher rapidement en tension au piolet pour brocher confortablement dans un pas vertical difficile bien pourvu en glace.
+
+* En cascade de glace, on a cherché à grimper le plus possible sans dragonne pour libérer sa gestuelle. Mais on se fatigue un peu plus car on serre davantage le manche.
+* En montagne, le mieux est d'emporter ses dragonnes au cas où et de ne les mousquetonner à son piolet que si on en éprouve le besoin en cours d'ascension. Il faut choisir des dragonnes détachables par un mousqueton ou une attache rapide. Si son piolet en est dépourvu, on installe une cordelette 5mm depuis le trou de la tête du piolet jusqu'au milieu du manche où elle est maintenue par un ruban adhésif. La dragonne comporte un mousqueton porte-matériel qui se clippe dans cette cordelette.
+* En glace, pouvoir se vacher très vite en tension sur son piolet est très confortable. On peut donc se confectionner avec une cordelette 7mm une vache courte équipée d'un mousqueton capable de passer dans le trou du bas du manche. Elle est nouée en permanence au baudrier mais clippée sur un porte-matériel. Elle permet de se vacher rapidement en tension au piolet pour brocher confortablement dans un pas vertical difficile bien pourvu en glace.
  
 ### Crampons
 
@@ -190,12 +191,10 @@ Un modèle douze pointes en acier avec fixation automatique à l'arrière et san
 Le mousquetonnage d'un seul brin à la fois permet de réduire le tirage et d'obtenir une force de choc bien inférieure à celle d'une corde à simple. Ceci laisse aux coinceurs et broches à glace plus de chances de résister.
 
 Critères de choix:
+
 * Poids: entre un poids de 36 g par mètre et un autre de 49 g, la différence dans le sac à dos sera énorme : 1,300 kg,
-* Diamètre: une corde très fine (7,3mm) oblige l'emploi d'un frein spécialement adapté aux petits diamètres (microjul d'Elderid par exemple), beaucoup
-de vigilance pendant l'assurage et le rappel, un serrage moins sûr des nœuds autobloquants pour remontées ou mouflages, et un assurage au corps très difficile. Déconseillé à l'amateur bien décidé à se comporter comme celui qui essaie, et voulant avoir une corde capable de tout faire, et
-surtout de pardonner toutes les bêtises.
-* Résistance de la gaine: dépend du nombre de fuseaux constituant cette gaine (de 32 à 48, un faible nombre donnant une corde plus résistante à l'abrasion mais moins élastique), du pourcentage de fibres constituant la gaine par rapport au total des fibres de la gaine et de l'âme (de 35 à 45%, un pourcentage élevé donnant une corde plus résistante à l'abrasion) et du mode de tressage de la gaine autour de l'âme (tressage tri-axial, 1 fil, 2 fils, plus ou moins serré). On se fait une bonne idée de la résistance de la gaine en pliant la corde. Une corde résistante à l'abrasion se laisse plier moins facilement. Elle tient donc moins bien les nœuds mais ceux-ci sont plus faciles à défaire après tension. Elle a moins tendance à faire un paquet de nœud inextricable au lancer d'un rappel sur un terrain peu incliné. Avoir une corde résistante à l'abrasion permet de remonter un rappel coincé sans trop de crainte pour la portion de corde qui s'appuie tout là-haut sur le rocher saillant, de ne pas devoir la changer au moindre coup de crampon malheureux, de ne pas être effrayé dans ce parcours d'arête rocheuse au point d'envisager de s'encorder en double. C'est un véritable confort que de posséder ce genre de corde
-rustique, même si elle est un peu plus lourde.
+* Diamètre: une corde très fine (7,3mm) oblige l'emploi d'un frein spécialement adapté aux petits diamètres (microjul d'Elderid par exemple), beaucoup de vigilance pendant l'assurage et le rappel, un serrage moins sûr des nœuds autobloquants pour remontées ou mouflages, et un assurage au corps très difficile. Déconseillé à l'amateur bien décidé à se comporter comme celui qui essaie, et voulant avoir une corde capable de tout faire, et surtout de pardonner toutes les bêtises.
+* Résistance de la gaine: dépend du nombre de fuseaux constituant cette gaine (de 32 à 48, un faible nombre donnant une corde plus résistante à l'abrasion mais moins élastique), du pourcentage de fibres constituant la gaine par rapport au total des fibres de la gaine et de l'âme (de 35 à 45%, un pourcentage élevé donnant une corde plus résistante à l'abrasion) et du mode de tressage de la gaine autour de l'âme (tressage tri-axial, 1 fil, 2 fils, plus ou moins serré). On se fait une bonne idée de la résistance de la gaine en pliant la corde. Une corde résistante à l'abrasion se laisse plier moins facilement. Elle tient donc moins bien les nœuds mais ceux-ci sont plus faciles à défaire après tension. Elle a moins tendance à faire un paquet de nœud inextricable au lancer d'un rappel sur un terrain peu incliné. Avoir une corde résistante à l'abrasion permet de remonter un rappel coincé sans trop de crainte pour la portion de corde qui s'appuie tout là-haut sur le rocher saillant, de ne pas devoir la changer au moindre coup de crampon malheureux, de ne pas être effrayé dans ce parcours d'arête rocheuse au point d'envisager de s'encorder en double. C'est un véritable confort que de posséder ce genre de corde rustique, même si elle est un peu plus lourde.
 
 #### Autres combinaisons
 
@@ -214,9 +213,7 @@ rustique, même si elle est un peu plus lourde.
 
 On prend peu de pitons quand on est sûr de sortir par le haut ou que la course se réalise normalement en aller-retour avec un ou deux rappels maximum. Quand la course est plus ambitieuse, la descente se réalise généralement par la voie normale. La conséquence est que la voie de montée n'est pas équipée pour descendre en rappel. Sur un rocher bien pourvu en becquets, il suffira de sangle et de cordelette en vrac pour équiper les rappels. Mais dans une face plus difficile, donc plus lisse, on va consommer beaucoup plus de pitons. Si on en veut deux à chaque rappel, et qu'on se contente de rappels de trente mètres pour ne pas coincer, il va falloir un certain nombre de pitons. Il est confortable de pouvoir envisager une réchappe en rappel d'au moins les deux tiers de la hauteur d'une voie de rocher inconnue avec l'ensemble du matériel (sangles en vrac ou cousues, cordelettes, coinceurs, pitons) et compte tenu des possibilités de désescalade. S'il ne reste plus qu'un tiers de la voie, on peut estimer qu'on va sortir par le haut.
 
-Si le bulletin météo indique « risque d'averse en fin d'après-midi », emporter plus de cordelette et de pitons est une bonne idée. Dans les courses où on finirait par se charger excessivement, on diminue le diamètre de la cordelette pour pouvoir en emporter davantage.
-
-On réserve plutôt la 5mm pour relier des pitons, la sangle pour des becquets non coupants, la cordelette 7mm convenant partout. Si on est obligé de poser un anneau de rappel en 5mm sur un rocher agressif, on n'hésite pas à l'émousser soigneusement au marteau.
+Si le bulletin météo indique « risque d'averse en fin d'après-midi », emporter plus de cordelette et de pitons est une bonne idée. Dans les courses où on finirait par se charger excessivement, on diminue le diamètre de la cordelette pour pouvoir en emporter davantage. On réserve plutôt la 5mm pour relier des pitons, la sangle pour des becquets non coupants, la cordelette 7mm convenant partout. Si on est obligé de poser un anneau de rappel en 5mm sur un rocher agressif, on n'hésite pas à l'émousser soigneusement au marteau.
 
 Le matériel conseillé dans les livres qui décrivent des courses sélectionnées est à comprendre comme le minimum syndical quand tout va bien. Mais être autonome consiste à pouvoir faire face quand tout va mal. Dans une face importante, emporter une douzaine de pitons variés n'a rien de ridicule. Dans une course de rocher classique - D, 500m – prendre un ou deux pitons va vous servir à quoi ? En tout cas pas à une réchappe sous la pluie alors que vous avez déjà grimpé deux ressauts... Il est probable que l'essentiel de vos pitons restera dans le sac. Ils doivent être considérés comme un billet de retour.
 
@@ -229,6 +226,9 @@ Les maillons destinés à l'escalade sont maintenant des EPI (Équipement de Pro
 Une trousse de secours trop fournie aura toutes les chances de rester à la maison au moindre prétexte : course facile, de courte durée, dans un endroit fréquenté. Au contraire, la réduire à une boîte de pansements la rend peu utile.
 
 La trousse standard doit permettre de stopper le saignement et de protéger une plaie, de placer un strapping sur une articulation, de fabriquer une contention de fortune pour une entorse ou une fracture, d'atténuer la douleur, de désinfecter grossièrement une plaie, de laver un œil, de calmer une céphalée due au MAM, d'alerter les secours.
+
+Trousse de base:
+  
 * 1 petit flacon de liquide de désinfectant des mains (lotion hydro-alcoolique ou ammonium quaternaire)
 * 1 paire de gants d'examen en latex/vinyl non stériles (les gants en latex sont précis)
 * 2 unidoses de sérum physiologique (pour laver une plaie ou un œil)

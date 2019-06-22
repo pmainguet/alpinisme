@@ -31,14 +31,14 @@
 ## Pas d'artif
 
 Voici les étapes pour franchir un pas en artif :
-* On pose le coinceur, on mousquetonne la dégaine On se pend dessus, d'abord doucement pour le tester, puis on y met franchement tout son poids.
-* On mousquetonne alors seulement la corde.
-* On mousquetonne l'étrier en sangle sur le mousqueton du haut de la dégaine.
-* On se vache très court avec une dégaine entre le pontet et ce mousqueton du haut, du côté opposé au doigt.
-* On passe un pied dans une marche de l'étrier et on se lève. La dégaine qui sert de vache aide à se redresser dans un mouvement d'opposition avec le pied et pivote vers le haut.
-* Une fois debout sur l'étrier, on pose un autre coinceur plus haut et on recommence l'opération.
-* On récupère l'étrier dès qu'on a mousquetonné la corde sur le nouveau point en se laissant descendre à la corde.
-* On se rapproche de nouveau du coinceur du haut en se tirant à la corde, comme à la salle quand on remonte après un vol.
+  * On pose le coinceur, on mousquetonne la dégaine On se pend dessus, d'abord doucement pour le tester, puis on y met franchement tout son poids.
+  * On mousquetonne alors seulement la corde.
+  * On mousquetonne l'étrier en sangle sur le mousqueton du haut de la dégaine.
+  * On se vache très court avec une dégaine entre le pontet et ce mousqueton du haut, du côté opposé au doigt.
+  * On passe un pied dans une marche de l'étrier et on se lève. La dégaine qui sert de vache aide à se redresser dans un mouvement d'opposition avec le pied et pivote vers le haut.
+  * Une fois debout sur l'étrier, on pose un autre coinceur plus haut et on recommence l'opération.
+  * On récupère l'étrier dès qu'on a mousquetonné la corde sur le nouveau point en se laissant descendre à la corde.
+  * On se rapproche de nouveau du coinceur du haut en se tirant à la corde, comme à la salle quand on remonte après un vol.
 
 La dégaine sur laquelle on est vaché, très courte, est accrochée au mousqueton du haut de la dégaine d'assurage, côté opposé au doigt.
 
@@ -66,5 +66,7 @@ Tête de mouflage faite de la poulie autobloquante, renvoi inférieur sur mousqu
 
 ## Poser une main courante
 
-https://www.ffme.fr/fiches-ffme-techniques/page/poser-une-main-courante.html
-https://www.ffme.fr/fiches-ffme-techniques/page/utiliser-une-main-courante-en-assurance-risque-de-chute-mortelle.html
+A regarder:
+
+* https://www.ffme.fr/fiches-ffme-techniques/page/poser-une-main-courante.html
+* https://www.ffme.fr/fiches-ffme-techniques/page/utiliser-une-main-courante-en-assurance-risque-de-chute-mortelle.html

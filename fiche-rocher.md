@@ -1,8 +1,7 @@
-### ROCHER
+# Fiche Encordement & Progression sur ROCHER
 
-* Grimper en grosses
-    * En montagne, on grimpe généralement en chaussons à partir du 4e degré.
-    * On pourra préférer grimper en grosses, si les fissures nécessite des coincements nombreux, si le rocher est partiellement enneigé, s'il y a alternance de roches et de mixte qui impose les crampons. Si les sections rocheuses sont courtes et peu difficiles, on conserve alors les crampons pour éviter de perdre du temps.
+* En montagne, on grimpe généralement en chaussons à partir du 4e degré.
+* On pourra préférer grimper en grosses, si les fissures nécessite des coincements nombreux, si le rocher est partiellement enneigé, s'il y a alternance de roches et de mixte qui impose les crampons. Si les sections rocheuses sont courtes et peu difficiles, on conserve alors les crampons pour éviter de perdre du temps.
 
 * Désescalade
     * Face au vide, les paumes prenant appui le plus bas possible, les bras un peu écartés, les jambes écartées. On plie une jambe tandis que l'autre jambe tendue va chercher une prise très en aval.
