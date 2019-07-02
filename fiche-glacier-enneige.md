@@ -1,19 +1,28 @@
 # Fiche Encordement & Progression sur GLACIER ENNEIGE
 
+- [Fiche Encordement & Progression sur GLACIER ENNEIGE](#Fiche-Encordement--Progression-sur-GLACIER-ENNEIGE)
+  - [MATERIEL MINIMUM](#MATERIEL-MINIMUM)
+  - [INSTALLATION DU MATERIEL](#INSTALLATION-DU-MATERIEL)
+  - [ENCORDEMENT](#ENCORDEMENT)
+  - [PROGRESSION](#PROGRESSION)
+  - [TYPE DE MARCHE](#TYPE-DE-MARCHE)
+  - [CONSEILS](#CONSEILS)
+
 ## MATERIEL MINIMUM
 
 Pouvoir se sortir d'une crevasse ou réaliser un relais + mouflage, voir [fichier "Materiel"](../Materiel.md#course-sur-glacier)]
 
 ## INSTALLATION DU MATERIEL
 
-* Utiliser une des sangles pour accrocher une broche à glacer, la relier avec tête d'alouette au pontet du baudrier
+* Utiliser une des sangles pour accrocher une broche à glace, la relier avec tête d'alouette au pontet du baudrier
 * On s'encorde en N (voir ci-après)
 * Pour la réserve de corde
-* On la love en un petit écheveau qu'on place sous le rabat de son sac à dos.
-* On peut faire des anneaux de buste avec la réserve de corde. A la fin de la corde, faire une boucle, la passer dans la boucle du baudrier, la faire passer à l'intérieur des anneaux de buste et la faire passer dans la boucle ainsi formée et la fixer au baudrier avec un mousqueton à vis.
+  * On la love en un petit écheveau qu'on place sous le rabat de son sac à dos.
+  * On peut faire des anneaux de buste avec la réserve de corde. A la fin de la corde, faire une boucle, la passer dans la boucle du baudrier, la faire passer à l'intérieur des anneaux de buste et la faire passer dans la boucle ainsi formée et la fixer au baudrier avec un mousqueton à vis.
+
 * Il peut être utile d'installer déjà un système autobloquant sur la corde en prévision d'une chute. Dans ce cas, laisser du mou pour que l'encordement principal joue son role Plusieurs possibilités:
-    * Machard français non relié au baudrier qui sert de poignée en progression normale et d'ancrage temporaire en passant le piolet dedans
-    * Autobloquant relié à un mousqueton et une sangle fixés au porte matériel du baudrier (donc non tendus). 
+  * Machard français non relié au baudrier qui sert de poignée en progression normale et d'ancrage temporaire en passant le piolet dedans
+  * Autobloquant relié à un mousqueton et une sangle fixés au porte matériel du baudrier (donc non tendus). 
 
 * Voir les vidéos suivantes pour un bon aperçu général:
   * [Vidéo ENSA Chamonix](https://www.youtube.com/watch?v=z93_oX7fjM8)
@@ -21,7 +30,7 @@ Pouvoir se sortir d'une crevasse ou réaliser un relais + mouflage, voir [fichie
 
 ## ENCORDEMENT
 
-Encordement dit en N (long), c'est à dire en divisant la corde en trois parties (quinze à vingt mètres).
+=> Encordement dit en N (long), c'est à dire en divisant la corde en trois parties (quinze à vingt mètres).
 
 * Chaque alpiniste réalise son nœud d'encordement au tiers de la corde.
 * Pour trouver le bon endroit sur la corde, soit on a marqué les tiers au feutre, soit chaque grimpeur place provisoirement un mousqueton à son pontet, dans lequel il place une boucle de la corde. Tout en tenant chacun une extrémité de la corde, les deux grimpeurs s'éloignent l'un de l'autre, la corde coulissant dans les deux mousquetons, jusqu'à tendre la corde. On obtient ainsi les tiers.
@@ -32,7 +41,7 @@ Encordement dit en N (long), c'est à dire en divisant la corde en trois parties
 
 ## PROGRESSION
 
-Progression en corde tendue.
+=> Progression en corde tendue.
 
 * Il peut être intéressant de faire quelques noeuds sur la corde pour ajouter de la friction
 * L'idéal est que la corde ne touche pas le sol.
@@ -56,10 +65,8 @@ CRAMPONNAGE OU MARCHES - dépend de la dureté de la glace/neige
         * On reporte le poids du corps sur le nouveau pied amont, puis l'ancien pied amont, devenu aval, passe derrière le mollet du nouveau pied amont (c'est à dire entre la pente de neige et la jambe, espace de plus en plus réduit à mesure que la pente s'accentue), et se pose de nouveau de travers à la pente, mais plus haut sur la pente.
         * Plus la pente est forte, plus l'ensemble du corps se tourne vers l'aval, donnant alors l'impression de progresser à reculons.
         * La progression forme donc des lacets. En bout de lacet, le changement de direction se fait pour le premier de cordée en se tournant vers l'aval, ce qui lui évite de devoir enjamber la corde qui relie les deux membres de la cordée, car la corde doit rester du côté de la hanche aval du leader pour l'empêcher d'être soumis à une rotation qui le déséquilibrerait lors d'une glissade du second.
-
-        Technique dix pointes, au moment du croisement de jambes.
         
-        ![Technique 10 pointes](img/technique10pointes.png)
+        ![Technique dix pointes, au moment du croisement de jambes.](img/technique10pointes.png)
 
     * A la descente, les deux pieds sont en canard. Pour éviter la prise de carres, on porte le poids sur l'avant du pied. On peut s'aider à conserver la bonne position du corps vers l'avant en pente soutenue en plaçant la main libre, celle qui ne tient pas le piolet, sur le genou.
 
@@ -68,7 +75,6 @@ CRAMPONNAGE OU MARCHES - dépend de la dureté de la glace/neige
 * NEIGE MOLLE ET EPAISSE - imprimer des marches
     * A la montée, on marche alors normalement, comme on monte un escalier.
     * A la descente, on attaque franchement du talon. Mais dès que la couche de neige devient insuffisamment malléable, on revient au poids du corps porté sur l'avant du pied car une glissade sur le talon est une glissade sans filet.
-        * Derrière le talon, il n'y a en effet plus rien pour retenir la chute, tandis que derrière l'avant-pied qui glisse, il y a encore toute la longueur du crampon pour se rattraper.
 
 * Quand la pente se redresse se posent trois questions :
     * La longueur d'encordement est-elle encore adaptée à enrayer une glissade ?

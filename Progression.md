@@ -1,24 +1,26 @@
 # Progression & Préparation
 
-- [Progression & Préparation](#progression--pr%C3%A9paration)
-  - [Code de l'alpinisme amateur](#code-de-lalpinisme-amateur)
-  - [Checklist - Techniques de base à connaitre](#checklist---techniques-de-base-%C3%A0-connaitre)
-  - [Cheminement pour progresser](#cheminement-pour-progresser)
-  - [Déroulé d'une course (de neige)](#d%C3%A9roul%C3%A9-dune-course-de-neige)
-    - [Choix de la course](#choix-de-la-course)
-    - [Avant le départ:](#avant-le-d%C3%A9part)
-    - [Au départ de la course](#au-d%C3%A9part-de-la-course)
-    - [Durant la course](#durant-la-course)
+- [Progression & Préparation](#Progression--Pr%C3%A9paration)
+  - [Code de l'alpinisme amateur](#Code-de-lalpinisme-amateur)
+  - [Checklist - Techniques de base à connaitre](#Checklist---Techniques-de-base-%C3%A0-connaitre)
+  - [Cheminement pour progresser](#Cheminement-pour-progresser)
+  - [Déroulé d'une course (de neige)](#D%C3%A9roul%C3%A9-dune-course-de-neige)
+    - [Choix de la course](#Choix-de-la-course)
+    - [Avant le départ:](#Avant-le-d%C3%A9part)
+    - [Au départ de la course](#Au-d%C3%A9part-de-la-course)
+    - [Durant la course](#Durant-la-course)
+    - [La descente](#La-descente)
 
 ## Code de l'alpinisme amateur
 
 1. Décider que l'autonomie précède la pratique.
 2. Choisir un compagnon de cordée fiable.
 3. S'introduire en montagne comme un bédouin par des randonnées sous tente.
-4. S'initier à l'escalade efficacement avec un moniteur breveté d’État. 5. Lire tout.
+4. S'initier à l'escalade efficacement avec un moniteur breveté d’État.
+5. Lire tout.
 6. S'initier au cramponnage en une paire d'heures par une école de glace avec un guide de haute-montagne.
 7. Réaliser sa première course d'alpinisme, courte, facile, en bonnes conditions, et en autonomie, sans suivre quiconque.
-8. L'échec ? Une aaine pour progresser.
+8. L'échec ? Une aubaine pour progresser.
 9. S'inscrire par la suite à des stages de cascade de glace, incontournable pour la suite de la progression.
 10. Préférer les bivouacs aux nuits en refuge.
 11. Préférer les vieilles courses classiques aux voies modernes.
@@ -31,10 +33,8 @@
 * Mousquetonner la corde qui entre dans le mousqueton depuis l'assureur jusqu'au grimpeur en allant du rocher à l'extérieur et non l'inverse. Si la suite de la voie se dirige à droite, il vaut mieux placer la dégaine de façon à ce que le doigt du mousqueton du bas soit tourné vers la gauche. 
 * Se vacher au relais puis faire la fameuse manip pour passer la corde dans le maillon sans rompre la chaîne d'assurage.
 * Au sol, vous savez faire un gros nœud de sécurité en bout de corde dès que la longueur de la voie semble approcher la moitié de la longueur de votre corde
-* Poser un rappel en égalisant les deux brins, vous savez doubler votre descendeur par un autobloquant que vous mettez au-dessus du
-descendeur ou en dessous selon votre convenance personnelle, en ayant compris les avantages et les inconvénients de votre choix.
-* Vous savez utiliser indifféremment le nœud de Prusik, le nœud
-de Machard, le nœud français, voire même le Machard croisé utilisable sur sangle si vous avez perdu votre cordelette.
+* Poser un rappel en égalisant les deux brins, vous savez doubler votre descendeur par un autobloquant que vous mettez au-dessus du descendeur ou en dessous selon votre convenance personnelle, en ayant compris les avantages et les inconvénients de votre choix.
+* Vous savez utiliser indifféremment le nœud de Prusik, le nœud de Machard, le nœud français, voire même le Machard tressé utilisable sur sangle si vous avez perdu votre cordelette.
 * Débiter en anneaux pour rappels, votre vieille corde devenue raide
 * Vous savez distinguer une broche scellée d'une plaquette montée sur un goujon à expansion.
 * Pour la plaquette, vous emportez souvent un maillon rapide pour une réchappe confortable, ou au moins un petit anneau de cordelette. Vous savez bien entendu qu'on ne se fait pas mouliner sur une sangle ou une cordelette.
@@ -60,7 +60,7 @@ de Machard, le nœud français, voire même le Machard croisé utilisable sur sa
     * Sur couenne raide:
         * Techniques de remontées sur corde fixe, (sortie de glacier et décoincer rappel récalcitrant)
             * Rappel bloqué
-            * Chute dans crevasse: accrochez votre piolet à un porte-matériel du baudrier, mettez une sangle à votre pontet en tête d'alouette, accrochez-y votre sac à dos, retirez vos lunettes de glacier et mettez-les dans la poche du rabat, sortez une fourrure polaire et enfilez-la, chercher sa frontale,
+            * Chute dans crevasse
             * Remontée sur un brin ou deux brins
         * Mouflages.
     * A l'écart des voies équipées, on plante des pitons variés au pied du rocher.
@@ -86,7 +86,6 @@ de Machard, le nœud français, voire même le Machard croisé utilisable sur sa
 ### Choix de la course
 
 * Votre première course sera d'altitude modérée (bien en dessous de 4000m), réalisée en début de saison, une fois les pentes purgées de leur neige de printemps, de niveau pas trop difficile sur neige/glace. Les crevasses sont alors bien bouchées, souvent réduites à une simple fente qu'on enjambe (attention aux exceptions).
-* Exemple de course: Voie normale (VN) de Roche Faurio, VN des Rouies, VN du Giobernay, VN de la Pointe de la Pilatte
 
 ### Avant le départ:
 
@@ -114,26 +113,28 @@ de Machard, le nœud français, voire même le Machard croisé utilisable sur sa
 
 ### Durant la course
 
-* On maintiendra heureusement une distance sanitaire avec les cordées accompagnées, la mauvaise humeur des chaperons vis à vis des sans guides étant susceptible de représenter le premier danger de la course du jour... Débutant ou pas, accumulantmille bévues ou pas, vous êtes ici chez vous comme n'importe qui d'autre. Votre embarras, vos hésitations, vos incertitudes, sont autant de poinçons certifiant votrelégitimité car c'est l'essence même de l'alpinisme de surmonter tout cela, tandis que la suffisance de celui qui pourrait décrire la moindre marche de la course depuis son lit n'est que la marque de son indigence.
+* On maintiendra heureusement une distance sanitaire avec les cordées accompagnées, la mauvaise humeur des chaperons vis à vis des sans guides étant susceptible de représenter le premier danger de la course du jour... Débutant ou pas, accumulant mille bévues ou pas, vous êtes ici chez vous comme n'importe qui d'autre. Votre embarras, vos hésitations, vos incertitudes, sont autant de poinçons certifiant votre légitimité car c'est l'essence même de l'alpinisme de surmonter tout cela, tandis que la suffisance de celui qui pourrait décrire la moindre marche de la course depuis son lit n'est que la marque de son indigence.
+
 * Votre ligne de conduite sera de vous concentrer sur votre cordée, de faire les choses correctement, comme vous les avez apprises, afin d'assurer votre sécurité et de ne pas mettre en péril celle des autres (les chutes de pierres) et non d'accepter la sujétion à une quelconque autorité autoproclamée, aussi alpiniste chevronné, guide ou gardien de refuge soit-il.
   
 
-* Huitième étape : le topo vous a résumé ça d'une phrase expéditive : « Gravir les rochers faciles jusqu'au sommet. » Mais devant vous se dresse maintenant, en plein vent, un tas de rocs instables bien plus haut que la couenne de votre site d'escalade préféré. Et aucun spit ne brille sous le soleil levant. Tout ça n'inspire pas bien confiance. 
+* Le topo vous a résumé ça d'une phrase expéditive : « Gravir les rochers faciles jusqu'au sommet. » Mais devant vous se dresse maintenant, en plein vent, un tas de rocs instables bien plus haut que la couenne de votre site d'escalade préféré. Et aucun spit ne brille sous le soleil levant. Tout ça n'inspire pas bien confiance. 
     * Repérer sommet
     * Ranger piolet
     * Garder crampons aux pieds
     * Assurez vous:
         * on rallonge un peu l'encordement, on passe la corde derrière tous les becquets qui se présentent, on coiffe au passage un autre becquet d'une sangle à laquelle on mousquetonne la corde ; pourquoi pas on pose l'un des deux friends qu'on a emportés. 
         * Un pas un peu plus difficile : vous le franchissez en tête avec votre second qui vous pare juste en dessous, puis vous coiffez le premier becquet rocheux qui se présente avec une sangle, un mousqueton à vis HMS dessus dans lequel vous faites passer la corde, vous prenez le mou, réalisez un demi-cabestan et vous assurez efficacement le second avant de repartir corde tendue. C'est ce que j'appelle un mini-relais.
-        * Vous pouvez également vous vacher à la sangle posée sur le becquet par un nœud de cabestan et assurer à l'épaule ou à la taille. Rappelez-vous que la corde allant  au second passe du même côté (par la même hanche) que la portion qui vous vache, pour ne pas être soumis à une rotation non maîtrisable qui vous met les bras en croix et annule tout frottement sur votre corps quand le second tend brusquement la corde.
+        * Vous pouvez également vous vacher à la sangle posée sur le becquet par un nœud de cabestan et assurer à l'épaule ou à la taille. Rappelez-vous que la corde allant au second passe du même côté (par la même hanche) que la portion qui vous vache, pour ne pas être soumis à une rotation non maîtrisable qui vous met les bras en croix et annule tout frottement sur votre corps quand le second tend brusquement la corde.
         * Plus rapide et pour enrayer une simple glissade : passer simplement la corde directement derrière un becquet assez gros pour obtenir une grande surface de freinage entre le rocher et la corde et prendre le mou sans perdre ce contact corde-rocher.
         
-* Neuvième étape: la descente
-    * Les rochers faciles se désescaladent face au vide, pieds légèrement écartés, les bras écartés également avec les paumes prenant appui sur les prises devant soi.
-    * On privilégie les passages au fond des petits dièdres, moins exposés que les dalles ou les gradins.
-    * Ponctuellement, on se retourne face au rocher pour un passage plus difficile, celui déjà descendu pouvant indiquer les prises qu'on ne voit plus.
-    * Le premier à désescalader place des protections pour le suivant sans le surestimer... Juste après chaque pas jugé plus dur : une protection, même si le leader, faisant son mariolle, prétend qu'il n'en a pas besoin.
-    * Arrivé à la neige, on plante la totalité du manche du piolet dans la neige le temps que le premier de cordée rallie et on ramène la corde à soi pour qu'il ne se prenne pas les jambes dedans.
-    * saisir votre piolet en piolet-canne à l'anglaise : lame vers l'arrière. Ainsi, le petit doigt est dirigé vers la lame, le pouce vers la panne, ce qui est la même prise que la position de réchappe qui enraye une glissade
-    * Régulièrement, on vérifie l'absence de sabot de neige sous les crampons. 
-    * Quand on rejoint le glacier ramolli donc au risque accru, on tend un peu plus la corde et on regarde loin à droite et loin à gauche de la trace, pour détecter les crevasses qui se prolongeraient cachées sous nos pas.
+### La descente
+
+* Les rochers faciles se désescaladent face au vide, pieds légèrement écartés, les bras écartés également avec les paumes prenant appui sur les prises devant soi.
+* On privilégie les passages au fond des petits dièdres, moins exposés que les dalles ou les gradins.
+* Ponctuellement, on se retourne face au rocher pour un passage plus difficile, celui déjà descendu pouvant indiquer les prises qu'on ne voit plus.
+* Le premier à désescalader place des protections pour le suivant sans le surestimer... Juste après chaque pas jugé plus dur : une protection, même si le leader, faisant son mariolle, prétend qu'il n'en a pas besoin.
+* Arrivé à la neige, on plante la totalité du manche du piolet dans la neige le temps que le premier de cordée rallie et on ramène la corde à soi pour qu'il ne se prenne pas les jambes dedans.
+* saisir votre piolet en piolet-canne à l'anglaise : lame vers l'arrière. Ainsi, le petit doigt est dirigé vers la lame, le pouce vers la panne, ce qui est la même prise que la position de réchappe qui enraye une glissade
+* Régulièrement, on vérifie l'absence de sabot de neige sous les crampons. 
+* Quand on rejoint le glacier ramolli donc au risque accru, on tend un peu plus la corde et on regarde loin à droite et loin à gauche de la trace, pour détecter les crevasses qui se prolongeraient cachées sous nos pas.
