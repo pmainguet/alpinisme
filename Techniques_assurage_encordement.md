@@ -34,17 +34,19 @@
 
 3. Y a t il un risque de GLISSADE (pente de neige raide, arêtes de neige) ?
 
-   Oui => [Progression avec encordement COURT + anneaux à la main pour le premier](#encordement-court-avec-anneau-a-la-main)
+   A - Oui avec arête non corniché => [Progression avec encordement COURT 3-5 mètres, sans anneaux à la main, sans pose de protection](#Assurage-en-mouvement-avec-encordement-COURT-3-4-m%C3%A8tres-sans-anneaux-%C3%A0-la-main-sans-pose-de-protection)
+
+   B - Oui avec arête corniché ou pente de neige raide => [Progression avec encordement COURT 2-3 mètres + anneaux à la main pour le premier](#Encordement-COURT-AVEC-ANNEAU-A-LA-MAIN)
 
 4. Pas de DIFFICULTE, de risque de GLISSADE, pas de CREVASSE ?
 
    A - Terrain moyennement difficile & Facilement protégeable (naturellement ou pose matériel), avec mini-relais ou assurage à l'épaule régulier:
 
-    * [Assurage en mouvement avec encordement LONG](#assurage-en-mouvement-avec-encordement-long-et-pose-de-protection-ou-usage-du-terrain) (15-30 mètres) et pose de PROTECTION (ou usage du terrain)
+    * [Assurage en mouvement avec encordement LONG et pose de PROTECTION (ou usage du terrain)](#Assurage-en-mouvement-avec-encordement-LONG-et-pose-de-PROTECTION-ou-usage-du-terrain) (15-30 mètres)
    
    B - Facile, régulier, ne demandant pas trop de variation de corde:
 
-    * [Assurage en mouvement avec encordement COURT](#assurage-en-mouvement-avec-encordement-court-3-4-m%C3%A8tres-sans-anneaux-%C3%A0-la-main-sans-pose-de-protection) (3-4 mètres) sans anneaux à la main, sans pose de protection
+    * [Assurage en mouvement avec encordement COURT sans anneaux à la main, sans pose de protection](#Assurage-en-mouvement-avec-encordement-COURT-3-4-m%C3%A8tres-sans-anneaux-%C3%A0-la-main-sans-pose-de-protection) 
 
 ## Anneaux de buste - Technique classique
 
@@ -71,6 +73,7 @@ Note: il existe d'autres techniques d'anneaux de buste, utilisable sur glacier e
 ## Assurage en mouvement avec encordement COURT (3-4 mètres) sans anneaux à la main, sans pose de protection
 
 PRINCIPE:
+
   * Les membres de la cordée progressent ensemble en cherchant à maintenir la corde à peu près tendue. Si l'un glisse, il est retenu par l'autre.
   * Pas de pose de protections
   * La distance entre grimpeurs est de 3 à 4 mètres.
@@ -79,15 +82,19 @@ PRINCIPE:
   * En cas d'obstacle court, le premier de cordée le franchit, paré voire poussé par le second, se cale derrière un recoin du rocher, et assure son compagnon [à l'épaule](#assurage-%C3%A0-l%C3%A9paule) ou directement sur un becquet rocheux avec un [mini-relais](#mini-relais). Le second le rejoint, puis les deux repartent corde tendue.
 
 AVANTAGES:
+
   * Technique d'assurage qui permet la progression la plus rapide sur un terrain uniforme. 
   * Le second de cordée est bien assuré, sauf dans les traversées. Le leader peut avoir intérêt pour gérer celles-ci à traverser en amont de son second pour éviter un pendule.
   * Le premier de cordée a les deux mains libres. En neige, il peut donc manier deux piolets et être capable en permanence de retenir une glissade du second. En rocher, les deux mains libres lui donnent une grande sûreté.
   * Le risque de faire tomber des pierres est minimum. Les pierres qu'enverrait le leader n'auraient pas le temps de prendre de la vitesse avant d'atteindre le second.
-* INCONVENIENTS:
+  
+INCONVENIENTS:
+
   * L'assurage en mouvement est rudimentaire et apporte nettement moins de sécurité aux grimpeurs que l'assurage par longueurs. Mais la sécurité en montagne ne se réduit pas à la sécurité d'une longueur. Il s'agit aussi de descendre au plus tôt la pente de neige raide avant que le soleil ne la rende dangereuse, de quitter le sommet avant l'orage, de rentrer avant la nuit, et tout simplement de réduire la durée totale de la course afin d'épargner la fatigue de la cordée
-* Le premier de cordée n'est assuré que par la proximité du second qui peut le parer ou caler ses pieds sur des adhérences précaires. Le leader doit donc être très sûr.
+  * Le premier de cordée n'est assuré que par la proximité du second qui peut le parer ou caler ses pieds sur des adhérences précaires. Le leader doit donc être très sûr.
 
 A UTILISER SI:
+
   * Terrains faciles pour la cordée - neige, glace, mixte ou rocher - à l'exception des glaciers enneigés en raison du risque de chute en crevasse
   * Pentes de neige raides, en montée et en descente
   * Gradins rocheux sans possibilité d'assurage, en montée et en descente
@@ -101,6 +108,7 @@ A NE PAS/PLUS UTILISER SI:
 ## Assurage en mouvement avec encordement LONG et pose de PROTECTION (ou usage du terrain) 
 
 PRINCIPE:
+
   * La distance entre les deux grimpeurs est de 12 à 15 mètres environ.
   * Le premier de cordée est devant à la montée.
   * A la descente, celui qui va devant est celui qui place le plus efficacement les protections. Celui qui va derrière est celui qui désescalade le mieux.
@@ -113,10 +121,12 @@ PRINCIPE:
   * Quand le premier de cordée a épuisé son matériel, le second le rejoint pour soit lui rendre le matériel soit passer en premier de cordée.
 
 AVANTAGES:
+
   * La méthode est rapide, mais moins que les deux méthodes précédentes.
   * Les deux grimpeurs sont efficacement protégés à la condition que le second soit suffisamment discipliné pour ne pas laisser un mou se créer entre les deux grimpeurs. Il ne doit pas non plus bloquer dans un pas d'escalade sans prévenir le premier de cordée qui pourrait se trouver stoppé au plus mauvais moment.
   
 A UTILISER SI:
+
   * Voie rocheuse assez difficile mais facilement protégeable
   * Arête rocheuse (encordement à douze mètres maximum pour s'entendre, éviter un tirage excessif et réduire le risque de chute de pierres).
   * Pente de glace (encordement à vingt mètres minimum pour éviter de brocher et débrocher sans arrêt).
@@ -124,6 +134,7 @@ A UTILISER SI:
   * Arêtes de neige faciles.
 
 A NE PAS/PLUS UTILISER SI:
+
   * Risque grandissant de chute du second. S'il chute, il risque d'entraîner le leader dans un vol en premier de cordée.
   * Quand le second se trouve trop limite dans la plupart des passages : relais.
 
@@ -138,9 +149,10 @@ A NE PAS/PLUS UTILISER SI:
 * C'EST CELUI QUI EST RECOMMANDE => encordement en N avec réserve de corde: utilisé plutôt en ski de montagne, recommandé par la FFME pour les traversées glacières, pour marche longue (car configuration figée) par Petzl
   
 PRINCIPE:
-* L'encordement pour glacier enneigé est l'encordement dit en N, c'est à dire en divisant la corde en trois parties.
-* Chaque alpiniste réalise son nœud d'encordement au tiers de la corde.
-* Pour trouver le bon endroit sur la corde, soit on a marqué les tiers au feutre, soit chaque grimpeur place provisoirement un mousqueton à son pontet, dans lequel il place une boucle de la corde. Tout en tenant chacun une extrémité de la corde, les deux grimpeurs s'éloignent l'un de l'autre, la corde coulissant dans les deux mousquetons, jusqu'à tendre la corde. On obtient ainsi les tiers.
+
+  * L'encordement pour glacier enneigé est l'encordement dit en N, c'est à dire en divisant la corde en trois parties.
+  * Chaque alpiniste réalise son nœud d'encordement au tiers de la corde.
+  * Pour trouver le bon endroit sur la corde, soit on a marqué les tiers au feutre, soit chaque grimpeur place provisoirement un mousqueton à son pontet, dans lequel il place une boucle de la corde. Tout en tenant chacun une extrémité de la corde, les deux grimpeurs s'éloignent l'un de l'autre, la corde coulissant dans les deux mousquetons, jusqu'à tendre la corde. On obtient ainsi les tiers.
 
 ![Recherche des tiers](img/recherchertiers.png)
 

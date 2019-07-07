@@ -10,7 +10,7 @@
 
 #### Météo - Orage
         
-* 2 types d'orage:
+* 2 types d'orage-
     * Orage de chaleur: phénomène météorologique localisé, reconnaissable par les cumulus qui se forment et ressemblent à des tours
         * Généralement de mai à octobre
         * L'air au niveau du sol est fortement chauffé par les rayons du soleil et, au-dessus d'une certaine température, il s'élève sous forme d'air chaud et humide car il est plus chaud et plus léger que l'air ambiant. Lorsqu’il arrive en haut dans un environnement plus froid, l'air ascendant se refroidit et se condense.

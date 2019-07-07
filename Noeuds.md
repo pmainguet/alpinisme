@@ -5,7 +5,7 @@
     - [Noeud de huit](#Noeud-de-huit)
     - [Noeud de chaise](#Noeud-de-chaise)
   - [Noeud d'aboutement](#Noeud-daboutement)
-    - [Nœuds sur mousquetons:](#N%C5%93uds-sur-mousquetons)
+    - [Nœuds sur mousquetons](#N%C5%93uds-sur-mousquetons)
     - [Autres noeuds utiles (alouette, mule, tour mort et deux demi-clés, noeud de freinage)](#Autres-noeuds-utiles-alouette-mule-tour-mort-et-deux-demi-cl%C3%A9s-noeud-de-freinage)
     - [Noeuds autobloquants](#Noeuds-autobloquants)
 
@@ -29,15 +29,11 @@ Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée
     1. Le nœud de chaise seul glisse pour des valeurs très faibles quand on tire sur la boucle d'encordement elle-même (la ganse) comme si on voulait l'agrandir. Ce cas de traction se produit quand, pour l'encordement montagne classique, on a choisi de repasser la boucle venant des anneaux de buste dans la boucle d'encordement.
     2. Un nœud d'encordement n'est pas en tension constante et peut donc facilement se desserrer. Or, un nœud de chaise qui se desserre peut également se retourner et se transformer en nœud coulant, S'il se retourne, il lâche.
 
-    ATTENTION : nœud de chaise mal fait en haut à gauche.
-
     ![Nœud de chaise mal fait en haut à gauche](img/noeudchaise.png)
 
     ![Noeud de chaise sur baudrier](img/chaise.png)
-
-    Confection d'un noeud de chaise avec noeud d'arrêt
     
-    ![noeud de chaise avec noeud d'arrêt](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Flezardevillemandeur.org%2Fwp-content%2Fuploads%2Fnoeud-de-chaise.jpg&f=1)
+    ![Confection d'un noeud de chaise avec noeud d'arrêt](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Flezardevillemandeur.org%2Fwp-content%2Fuploads%2Fnoeud-de-chaise.jpg&f=1)
 
 * Noeud de chaise en cours de corde (pour l'encordement en N par exemple)
   
@@ -49,73 +45,71 @@ Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée
 
 ## Noeud d'aboutement 
 
-Pour réunir les deux brins d'un rappel, soit pour fermer un anneau de cordelette ou de sangle)
-* nœud de jonction en huit pour le rappel
-* double nœud de pêcheur
-* triple nœud de pêcheur indiqué pour les cordelettes en dyneema
-* nœud de sangle préconisé pour les sangles.
-  ![Image](img/rabouttement.png)
-  ![image](img/doublepecheur.png)
+Pour réunir les deux brins d'un rappel, soit pour fermer un anneau de cordelette ou de sangle):
+
+  * nœud de jonction en huit pour le rappel
+  * double nœud de pêcheur
+  * triple nœud de pêcheur indiqué pour les cordelettes en dyneema
+  * nœud de sangle préconisé pour les sangles.
   
-### Nœuds sur mousquetons:
+  ![Noeud de huit pour rappel, double et triple noeud de pêcheur](img/rabouttement.png)
+  ![Double noeud de pêcheur](img/doublepecheur.png)
+  
+### Nœuds sur mousquetons
+
 * nœud de cabestan
 * nœud de demi cabestan
-![Image](img/cabestan.png)
-* nœud de cœur
+  
+![Noeud de demi-cabestan](img/cabestan.png)
 
 ### Autres noeuds utiles (alouette, mule, tour mort et deux demi-clés, noeud de freinage)
 
 * Nœud en tête d'alouette pour assujettir un anneau de cordelette ou de sangle
-  ![Image](img/tetealouette.png)
+
+![Tête d'alouette](img/tetealouette.png)
   
 * Nœud de mule, pour bloquer un demi-cabestan par exemple. Ce nœud est bien sûr serré, puis sécurisé par un nœud d'arrêt en nouant la boucle autour de la corde allant au grimpeur. Pour réaliser ce nœud de mule, tirer la petite croix marquée sur la corde en suivant le crayon.
   
-  ![Image](img/noeudcoeur.png)
+![Noeud de mule](img/noeudcoeur.png)
 
-  ![Image](img/noeudcoeur2.png)
+![Noeud de mule en cours de confection - tirer la croix marquée sur la corde en suivant le crayon](img/noeudcoeur2.png)
 
-  ![Image](img/noeudmuleconfection.png)
+![Confection du noeud de mûle](img/noeudmuleconfection.png)
   
 * Tour mort et deux demi-clefs. 
-* 
-  ![Image](img/tourmort.png)
+
+![Tour mort et eux demi-clefs](img/tourmort.png)
 
 * Noeud de freinage
-![Image](img/noeudfreinage.png) : un nœud de huit pour commencer, puis piéger un brin avec la boucle qui repart dans le nœud
+  
+![Noeud de freinage](img/noeudfreinage.png) : un nœud de huit pour commencer, puis piéger un brin avec la boucle qui repart dans le nœud
 
 ### Noeuds autobloquants
 
-* Les noeuds autobloquants Chap. 1:
+* Les noeuds autobloquants Chap. 1: voir la [vidéo Points de chute Chap1](https://www.youtube.com/watch?v=_1RG-CSgGpc) et la [vidéo Points de Chute Chap 2](https://www.youtube.com/watch?v=Lj9wNgbDs1s)  
 
-[![Les noeuds autobloquants Chap. 1](https://img.youtube.com/vi/_1RG-CSgGpc/0.jpg)](https://www.youtube.com/watch?v=_1RG-CSgGpc "Les noeuds autobloquants Chap. 1")  
+* Nœud de Prussik. Aux USA, on le réalise souvent avec six spires.
 
-* Les noeuds autobloquants Chap. 2 - Ficelou Monobrin:
-
-[![Les noeuds autobloquants Chap. 2 - Ficelou Monobrin](https://img.youtube.com/vi/Lj9wNgbDs1s/0.jpg)](https://www.youtube.com/watch?v=Lj9wNgbDs1s "Les noeuds autobloquants Chap. 2 - Ficelou Monobrin")  
-
-* Nœud de Prusik. Aux USA, on le réalise souvent avec six spires.
-
-  ![Image](img/prussike.png)
+![Noeud de Prussik](img/prussike.png)
 
 * Nœud de Machard.
 
-  ![Image](img/machard.png)
+![Noeud de Machard](img/machard.png)
 
 * Autobloquant français, dit parfois Machard français. Ne bloque que dans un sens.
 
-![Image](img/machardfrancais.png)
+![Machard Français](img/machardfrancais.png)
 
-* Nœud de cœur, très facile à réaliser. Utilisé pour assurer un second de cordée ou réaliser un auto
-bloquant lors d’une remontée sur corde fixe .
+* Nœud de cœur, très facile à réaliser. Utilisé pour assurer un second de cordée ou réaliser un autobloquant lors d’une remontée sur corde fixe.
 
-  ![Image](img/coeur.png)
+![Noeud de coeur](img/coeur.png)
 
-  ![Image](img/noeudcoeurrealisation.png)
+![Confection du noeud de coeur](img/noeudcoeurrealisation.png)
 
 * Machard sur mousqueton, très agréable à faire coulisser. Attention, en s'agrippant au mousqueton on desserre l'autobloquant.
 
-  ![Image](img/machardmousqueton.png)
+![Machard sur mousqueton](img/machardmousqueton.png)
 
-* Vous avez égaré votre anneau de cordelette ? Ne perdez pas espoir, et utilisez le machard tressé sur sangle. Éviter la sangle en dyneema pour cette utilisation (fusion facile).
+* Machard tressé sur sangle. Éviter la sangle en dyneema pour cette utilisation (fusion facile).
 
-  ![Image](img/machardsangle.png)
+![Machard sur sangle](img/machardsangle.png)
