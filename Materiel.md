@@ -6,6 +6,7 @@
     - [GRANDE VOIE ROCHER](#GRANDE-VOIE-ROCHER)
     - [Course sur NEIGE](#Course-sur-NEIGE)
     - [Course sur GLACIER](#Course-sur-GLACIER)
+  - [Piton, spit, goujon, broche scellée](#Piton-spit-goujon-broche-scell%C3%A9e)
   - [2 - Considérations générales sur le matériel](#2---Consid%C3%A9rations-g%C3%A9n%C3%A9rales-sur-le-mat%C3%A9riel)
     - [Vêtements](#V%C3%AAtements)
     - [Bonnet & Casquette](#Bonnet--Casquette)
@@ -107,6 +108,39 @@
 * CORDE - un brin de corde à double de 50 mètres
   * on peut utiliser un seul brin d'une corde à double car il s'agit d'enrayer une glissade plus que de stopper une véritable chute.
   * L'idéal est d'avoir un brin de 50 mètres de façon à disposer d'une quinzaine de mètres entre les grimpeurs. Si la corde est plus courte, on privilégie la longueur de l'encordement par rapport à la réserve de corde, qui sera alors plus courte. L'encordement n'est donc plus rigoureusement au tiers.
+
+## Piton, spit, goujon, broche scellée
+
+* Un piton à expansion (aussi appelé spit, gollot[1], goujon, ou cheville), est un système d'ancrage permanent constitué d'une tige expansive, sur laquelle est généralement vissée une plaquette.
+ * Au sens strict, un piton a la forme d'une lame qui est coincée dans une fissure.
+
+![Piton](img/piton.jpg)
+
+ * Spit ou Cheville à expansion Spit ou cheville autoforeuse: se coince dans le trou foré par percussion de la cheville sur son cône placé au fond de l'orifice. La cheville Spit se perce à 12 mm. de diamètre sur 40mm, et finition au tamponnoir pour avoir un fond plat de façon que le cône ne s'enfonce pas dans le cône fait par la mèche de perforateur.
+   * Les spits sont femelles. On peut donc enlever l'écrou pour retirer la plaquette
+   * Ne nécessite pas de perforateur pour la pose.
+   * On utilise un "tamponoir", sorte de burin fini par un filetage au bout duquel on vis le spit. 
+   * Ensuite on tape sur le tamponnoir avec un marteau en faisant tourner la cheville. 
+   * Lorsque l'on a foré le trou, on souffle pour vider toutes les poussières puis on introduit un "cône d'expansion" dans la cheville dans la cheville et on martelle la cheville.
+   * Le cône appuie au fond du trou et donc écarte la cheville qui est alors posée à demeure.
+   * Une fois le tamponoir dévissé on visse une plaquette dans le filetage.
+
+![Spit](img/spit2.jpeg)
+
+![Technique de fixation Spit](img/spit.jpg)
+
+ * Goujon: par vissage et expansion sur une forme oblongue, d'une collerette (en diamètre de vis de 8 mm.). Les goujons sont mâles. On utilise une perceuse pour faire un trou puis insérer le goujon.
+
+![Goujon](img/goujon.jpg)
+
+ * La cheville HKD8, Hilti, demande 35mm. de forage pour 10mm de diamètres, et possède un cône en son intérieur qu'il suffit de tamponner avec un outil idoine.
+  
+* Dans les trois techniques, le module de résistance dépendant du volume foré (diamètres respectivement de 12mm (Spit), 10mm (Hilti) et 8 mm pour les goujons ; et de la profondeur, selon les caractéristiques de roches on obtient des résistances à l'ancrage très différentes / le calcul de résistance pouvant se faire à partir du volume occupé par le système d'ancrage dans la roche : surface de forage et profondeur.
+  
+* Broche scellée: tige métallique avec un anneau, scellée dans un trou percé dans la roche par une résine époxy, une résine polyester, ou du ciment.
+ * Cette solution est réputée plus durable que le piton à expansion et est moins dépendante de la solidité intrinsèque de la roche, mais le recours à la résine la rend moins aisée à mettre en œuvre.
+
+![Broche scellée](img/brochescellee.jpg)
 
 ## 2 - Considérations générales sur le matériel
 

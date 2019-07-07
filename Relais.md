@@ -35,8 +35,16 @@ Les mini-relais (pour mini-longueurs) consistent à interrompre la progression s
 * Noeud de cabestan dans le mousqueton bas de la dégaine pour l'assureur (le second fera son noeud de cabestan dans le mousqueton du haut)
 * Un mousqueton à vis sur l'autre piton et une dégaine sur le mousqueton
 * Noeud de cabestan dans le mousqueton bzas de la dégaine pour l'assureur avec le deuxième brin de corde (second sur mousqueton du haut)
-* Si point non relié, les relier avec sangle: tête d'alouette (sur la plaquette ou le mousqueton de la dégaine ?) et clipée dans le mousqueton ou la dégaine de l'autre.
+* Si point non relié, les relier avec sangle: tête d'alouette (sur la plaquette ou le mousqueton de la dégaine ?) et clipée dans le mousqueton ou la dégaine de l'autre. Cas en corde à simple, où l'on peut relier les deux points directement avec la corde: [voir la vidéo](https://youtu.be/wMD6boEJYLE?t=229)
 * Installation du reverso dans le mousqueton à vis
+
+Ci-dessous, relais non triangulé avec une erreur: le mousqueton à vis devrait être dans la plaquette et la dégaine accrochée dessus. Il eut peut être été mieux de mettre un autre mousqueton à vis pour installer la plaquette.
+
+![Relais non triangulé: attention, mousqueton à vis et dégaine inversée](img/relaisnontriangule.jpg)
+
+![Relais non triangulé (détail)](img/relaisnontrianguledetail1.jpg)
+
+![Relais non triangulé (détail)](img/relaisnontrianguledetail2.jpg)
 
 A voir: vachage du second et départ (pose d'une troisième dégaine pour pouvoir éviter chute sans protection)
 
@@ -45,7 +53,16 @@ A voir: vachage du second et départ (pose d'une troisième dégaine pour pouvoi
 * Cas d'une traversée où le second se déplace rapidement.
 * On fait un relais triangulé ou non pour se vacher dessus en fonction de la qualité des points
 * Au lieu de placer le Reverso sur le mousqueton central, on assure le second au baudrier en veillant à passer la corde dans une dégaine de renvoi (afin d'éviter de se faire tirer du relais et de ne pouvoir y revenir en cas de chute du second)
-  
+
+## Choix d'un assurage du premier de cordée au pontet ou au relais
+
+* Selon l'ENSA, il est préférable d'assurer sur le relais plutôt que sur le pontet lorsque
+  * Différence de poids >=30 kg
+  * risque de chute en facteur 2
+  * risque de grande chute (points espacés) et pas de tirage dans la longueur
+
+Voir [la vidéo](https://www.youtube.com/watch?v=bOsDiov_1NY)
+
 ## Triangulation du relais
 
 ### Triangulation unidirectionnelle avec sangle trop courte

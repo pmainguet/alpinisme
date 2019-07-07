@@ -8,6 +8,7 @@
   * [Autres techniques en glace et neige - Autoassurage et sauvetage crevasse](Techniques_crevasse.md)
 * [Matériel](Matériel.md)
 * [Noeuds](Noeuds.md)
+* [Relais](Relais.md)
 * [Dangers & Secours](Dangers_&_Secours.md)
 
 ## Progression en alpinisme
@@ -31,6 +32,7 @@
 
 ### A Lire
 
+* https://alpesguides.blogspot.com/p/tecniques-et-astuces.html extrait du très bon livre "Manuel technique de l'auto-sauvetage" de B. Ballarin, édité par la Fédération française de la Montagne et de l'Escalade en 1997
 * VIDEOS A REGARDER SUR LE MOUFLAGE
   * https://www.youtube.com/channel/UCp7-0MNgXpmaG7XNlJS6Krg
   * https://www.youtube.com/watch?v=Ukhnzlh22qQ
