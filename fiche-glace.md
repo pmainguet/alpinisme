@@ -69,4 +69,4 @@
 
 ![Le coin de glace](img/coindeglace.png)
 
-![Plus classique,une pierre du glacier utilisée en corps mort.](img/coindeglace2.png)
+![Plus classique, une pierre du glacier utilisée en corps mort.](img/coindeglace2.png)
