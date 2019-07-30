@@ -1,17 +1,17 @@
 # Noeuds & Mouflages
 
-- [Noeuds & Mouflages](#Noeuds--Mouflages)
-  - [Noeuds](#Noeuds)
-    - [Noeud de huit](#Noeud-de-huit)
-    - [Noeud de chaise](#Noeud-de-chaise)
-  - [Noeud d'aboutement](#Noeud-daboutement)
-    - [Nœuds sur mousquetons](#N%C5%93uds-sur-mousquetons)
-    - [Autres noeuds utiles (alouette, mule, tour mort et deux demi-clés, noeud de freinage)](#Autres-noeuds-utiles-alouette-mule-tour-mort-et-deux-demi-cl%C3%A9s-noeud-de-freinage)
-    - [Noeuds autobloquants](#Noeuds-autobloquants)
+- [Noeuds & Mouflages](#noeuds--mouflages)
+  - [Noeuds](#noeuds)
+    - [Noeud de huit / Figure Eight Loop](#noeud-de-huit--figure-eight-loop)
+    - [Noeud de chaise](#noeud-de-chaise)
+  - [Noeud d'aboutement](#noeud-daboutement)
+    - [Nœuds sur mousquetons: Cabestan (Clove Hitch) + Demi-cabestan (Munter Hitch)](#n%c5%93uds-sur-mousquetons-cabestan-clove-hitch--demi-cabestan-munter-hitch)
+    - [Autres noeuds utiles (alouette, mule, tour mort et deux demi-clés, noeud de freinage)](#autres-noeuds-utiles-alouette-mule-tour-mort-et-deux-demi-cl%c3%a9s-noeud-de-freinage)
+    - [Noeuds autobloquants](#noeuds-autobloquants)
 
 ## Noeuds
 
-### Noeud de huit
+### Noeud de huit / Figure Eight Loop
 
 * Nœud de huit est le nœud d'encordement le plus courant car très résistant et facile à contrôler, une erreur se détectant au premier coup d’œil.
 * Pour être tranquille toute une journée de montagne, il est préférable de réaliser son nœud de huit sans croiser. Il a donc l'aspect d'une boule, en
@@ -20,6 +20,8 @@ trois dimensions, et non d'un huit à plat.
 Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée à droite.
 
 ![Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée à droite.](img/noeuxhuit.png)
+
+![Noeud de huit](img/noeudhuit.jpg)
 
 
 ### Noeud de chaise
@@ -43,6 +45,10 @@ Nœud passable pour une couenne à gauche ; nœud plus durable pour une journée
 
 ![Noeud de chaise clef Yosémite](img/noeudyosemite.png)
 
+* Au relais, le grimpeur a besoin d’un point central dans lequel passer le mousqueton pour se vacher et assurer son partenaire. Le nœud de chaise peut servir de point central. Le nœud de chaise est doublé et il exerce peu de pression sur la sangle. Il possède une très grande résistance et ne se resserre pas sous l’effet de la charge. En général, la longe est préparée avant la course en utilisant une sangle de 120 cm avec un nœud de chaise. Pendant l’ascension, il est gardé à portée de main avec deux mousquetons à verrouillage.
+
+![Noeud de chaise sur sangle pour point central relais](img/noeudchaisesangle.jpg)
+
 ## Noeud d'aboutement 
 
 Pour réunir les deux brins d'un rappel, soit pour fermer un anneau de cordelette ou de sangle):
@@ -53,20 +59,34 @@ Pour réunir les deux brins d'un rappel, soit pour fermer un anneau de cordelett
   * nœud de sangle préconisé pour les sangles.
   
   ![Noeud de huit pour rappel, double et triple noeud de pêcheur](img/rabouttement.png)
+
   ![Double noeud de pêcheur](img/doublepecheur.png)
   
-### Nœuds sur mousquetons
+Noeud de point / overhand knot: Le nœud de poing est un nœud de jonction. Il permet de rabouter les deux brins de corde et il est surtout utilisé lorsque la charge est faible, de l’ordre du poids du corps (descente en rappel, pour faire un prussik) ou pour des nœuds qui doivent être faits à partir de la position d'escalade (lunule, corde à nœud). Bien que ce nœud ait une résistance générale plutôt faible, lorsque le bout est long il suffit pour ce type de charge. Il a l'avantage de se tourner vers l'extérieur lorsque la corde passe sur une arête.
 
-* nœud de cabestan
-* nœud de demi cabestan
-  
-![Noeud de demi-cabestan](img/cabestan.png)
+![Noeud de poing](img/noeudpoing.jpg)
+
+### Nœuds sur mousquetons: Cabestan (Clove Hitch) + Demi-cabestan (Munter Hitch)
+
+![Noeud de cabestan et de demi-cabestan](img/cabestan.png)
+
+* nœud de demi cabestan / Munter Hitch: Le demi-cabestan fait partie des nœuds d’assurage et n’est pas un nœud à proprement parler mais plutôt une boucle qui permet le freinage. Il sert à assurer en tête et en second, ainsi qu’à descendre en rappel son partenaire de cordée. C’est sur un mousqueton en forme de poire spécifiquement fait pour l’assurage (mousqueton HMS) qu’il „fonctionne“ le mieux. 
+
+![Noeud de demi-cabestan / Munter Hitch](img/demicabestan.jpg)
+
+* nœud de cabestan / Clove Hitch: Le cabestan fait partie des nœuds d’assurage et constitue le nœud idéal pour s’auto-assurer au relais. Il est attaché sur le point central du relais à l’aide d’un mousqueton à verrouillage. La longueur du nœud de cabestan peut être ajustée avec précision et rapidement : il suffit de tirer sur le milieu du nœud et de déplacer la corde dans la direction souhaitée. Il évite les nœuds compliqués à délier ou le risque d’ouverture involontaire.
+
+![Noeud de cabestan](img/cabestan.jpg)
 
 ### Autres noeuds utiles (alouette, mule, tour mort et deux demi-clés, noeud de freinage)
 
-* Nœud en tête d'alouette pour assujettir un anneau de cordelette ou de sangle
+* Nœud en tête d'alouette pour assujettir un anneau de cordelette ou de sangle: La tête d'alouette est un nœud simple et rapide à faire pour relier des sangles. Le nœud de tête d'alouette permet aussi de fixer des sangles à un arbre ou de rajouter une sangle d'auto-assurage sur le harnais et dans le mousqueton.
+
+Attention: Les nœuds de jonction comme la tête d’alouette sont fragiles lorsqu'ils reposent sur la roche sous charge et subissent des frottements, par ex. si on l’utilise comme extension pour une moulinette sur une arête de rocher. Le matériau de la boucle peut ainsi être endommagé rapidement!
 
 ![Tête d'alouette](img/tetealouette.png)
+
+![Tête d'alouette](img/noeudalouette.jpg)
   
 * Nœud de mule, pour bloquer un demi-cabestan par exemple. Ce nœud est bien sûr serré, puis sécurisé par un nœud d'arrêt en nouant la boucle autour de la corde allant au grimpeur. Pour réaliser ce nœud de mule, tirer la petite croix marquée sur la corde en suivant le crayon.
   
@@ -92,9 +112,13 @@ Pour réunir les deux brins d'un rappel, soit pour fermer un anneau de cordelett
 
 ![Noeud de Prussik](img/prussike.png)
 
-* Nœud de Machard.
+![Noeud de Prussik](img/prussik.jpg)
+
+* Nœud de Machard: Le nœud de Machard est une alternative au prussik qui cependant ne tient bien que dans une direction et peut être déplacé dans l’autre. Il est particulièrement indiqué pour une sangle car il permet de bloquer même des boucles fines.
 
 ![Noeud de Machard](img/machard.png)
+
+![Noeud de Machard](img/machard.jpg)
 
 * Autobloquant français, dit parfois Machard français. Ne bloque que dans un sens.
 
