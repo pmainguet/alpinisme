@@ -1,28 +1,28 @@
 # Autres techniques en glace ou neige - Autosauvetage et glissade
 
-- [Autres techniques en glace ou neige - Autosauvetage et glissade](#Autres-techniques-en-glace-ou-neige---Autosauvetage-et-glissade)
-  - [Stopper glissade en pente raide - Position de réchappe](#Stopper-glissade-en-pente-raide---Position-de-r%C3%A9chappe)
-  - [Remontée sur corde fixe - autosauvetage](#Remont%C3%A9e-sur-corde-fixe---autosauvetage)
-    - [Deux petits prussik, une longe et une sangle](#Deux-petits-prussik-une-longe-et-une-sangle)
-    - [Une cordelette + sangle et deux mousquetons pour pédales avec anneau de coeur](#Une-cordelette--sangle-et-deux-mousquetons-pour-p%C3%A9dales-avec-anneau-de-coeur)
-    - [Autres méthodes à regarder (Points de chute)](#Autres-m%C3%A9thodes-%C3%A0-regarder-Points-de-chute)
-      - [Descendeur type Reverso et ficelou](#Descendeur-type-Reverso-et-ficelou)
-      - [Noeud de coeur et noeud autobloquant](#Noeud-de-coeur-et-noeud-autobloquant)
-    - [Avec deux ficelous](#Avec-deux-ficelous)
-    - [Deux autobloquants mais avec un ficelou et une sangle.](#Deux-autobloquants-mais-avec-un-ficelou-et-une-sangle)
-    - [Remontée sur rappel](#Remont%C3%A9e-sur-rappel)
-    - [Remontée en crevasse](#Remont%C3%A9e-en-crevasse)
-    - [Avec poignée jumar et minitraction](#Avec-poign%C3%A9e-jumar-et-minitraction)
-  - [Sauvetage en crevasse - cas où remontée pas possible](#Sauvetage-en-crevasse---cas-o%C3%B9-remont%C3%A9e-pas-possible)
-  - [Franchir la rimaye](#Franchir-la-rimaye)
-  - [Sortie de goulotte en neige : danger.](#Sortie-de-goulotte-en-neige--danger)
-  - [Piolet en tant que relais récupérable](#Piolet-en-tant-que-relais-r%C3%A9cup%C3%A9rable)
-  - [Mouflages (simple, simple de surface, Mariner)](#Mouflages-simple-simple-de-surface-Mariner)
-    - [Mouflage boucle ou simple](#Mouflage-boucle-ou-simple)
-    - [Mouflage simple de surface](#Mouflage-simple-de-surface)
-    - [Mariner simple](#Mariner-simple)
-    - [Mariner double](#Mariner-double)
-    - [Le Grand Balancier (pour l'escalade)](#Le-Grand-Balancier-pour-lescalade)
+- [Autres techniques en glace ou neige - Autosauvetage et glissade](#autres-techniques-en-glace-ou-neige---autosauvetage-et-glissade)
+  - [Stopper glissade en pente raide - Position de réchappe](#stopper-glissade-en-pente-raide---position-de-r%c3%a9chappe)
+  - [Remontée sur corde fixe - autosauvetage](#remont%c3%a9e-sur-corde-fixe---autosauvetage)
+    - [Deux petits prussik, une longe et une sangle](#deux-petits-prussik-une-longe-et-une-sangle)
+    - [Une cordelette + sangle et deux mousquetons pour pédales avec anneau de coeur](#une-cordelette--sangle-et-deux-mousquetons-pour-p%c3%a9dales-avec-anneau-de-coeur)
+    - [Autres méthodes à regarder (Points de chute)](#autres-m%c3%a9thodes-%c3%a0-regarder-points-de-chute)
+      - [Descendeur type Reverso et ficelou](#descendeur-type-reverso-et-ficelou)
+      - [Noeud de coeur et noeud autobloquant](#noeud-de-coeur-et-noeud-autobloquant)
+    - [Avec deux ficelous](#avec-deux-ficelous)
+    - [Deux autobloquants mais avec un ficelou et une sangle.](#deux-autobloquants-mais-avec-un-ficelou-et-une-sangle)
+    - [Remontée sur rappel](#remont%c3%a9e-sur-rappel)
+    - [Remontée en crevasse](#remont%c3%a9e-en-crevasse)
+    - [Avec poignée jumar et minitraction](#avec-poign%c3%a9e-jumar-et-minitraction)
+  - [Sauvetage en crevasse - cas où remontée pas possible](#sauvetage-en-crevasse---cas-o%c3%b9-remont%c3%a9e-pas-possible)
+  - [Franchir la rimaye](#franchir-la-rimaye)
+  - [Sortie de goulotte en neige : danger.](#sortie-de-goulotte-en-neige--danger)
+  - [Piolet en tant que relais récupérable](#piolet-en-tant-que-relais-r%c3%a9cup%c3%a9rable)
+  - [Mouflages (simple, simple de surface, Mariner)](#mouflages-simple-simple-de-surface-mariner)
+    - [Mouflage boucle ou simple](#mouflage-boucle-ou-simple)
+    - [Mouflage simple de surface](#mouflage-simple-de-surface)
+    - [Mariner simple](#mariner-simple)
+    - [Mariner double](#mariner-double)
+    - [Le Grand Balancier (pour l'escalade)](#le-grand-balancier-pour-lescalade)
 
 ## Stopper glissade en pente raide - Position de réchappe
 
@@ -232,6 +232,10 @@ Ce système fonctionne aussi avec des skis.
 [Voir la vidéo source](https://www.youtube.com/watch?time_continue=1&v=UjrFtLTYyNY)
 
 ![Mouflage simple, simple de surface, mariner](img/mouflage.png)
+
+Dans le cas d'un mouflage en grande voie, il est utile de pouvoir de fixer l'appareil d'assurage afin d'avoir les deux mains libres pour travailler
+
+![Noeud de mule](img/noeuddemule.jpg)
 
 ### Mouflage boucle ou simple
 

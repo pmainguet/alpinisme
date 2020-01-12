@@ -2,6 +2,8 @@
 
 ![Recap base DVA 1](img/ficherecapdva11.jpeg)
 
+![Recap base DVA 2](img/ficherecapdva12.jpeg)
+
 ## Statistiques et ordres de grandeur
 
 * 80% des avalanches avec personnes ensevelies le sont avec 1 personne (il y a plus de chance qu'une seule personne soit victime d'avalanche) => l'écartement en zone à risque permet de limiter le nombre de personnes ensevelies

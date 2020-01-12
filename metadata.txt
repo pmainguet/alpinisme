@@ -1,0 +1,11 @@
+---
+title:
+- type: main
+  text: Pay Off
+creator:
+- role: author
+  text: Dan Ariely
+description: The Hidden Logic that Shapes our Motivation
+rights: Commercial
+language: fr-FR
+...

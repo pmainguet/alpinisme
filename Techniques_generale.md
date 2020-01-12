@@ -1,12 +1,13 @@
 # Techniques générales - Rappel, réchappe, ...
 
-- [Techniques générales - Rappel, réchappe, ...](#Techniques-g%C3%A9n%C3%A9rales---Rappel-r%C3%A9chappe)
-  - [Le rappel](#Le-rappel)
-  - [La réchappe](#La-r%C3%A9chappe)
-  - [Pas d'artif](#Pas-dartif)
-  - [Pliage de corde](#Pliage-de-corde)
-  - [Hissage de sac](#Hissage-de-sac)
-  - [Poser une main courante](#Poser-une-main-courante)
+- [Techniques générales - Rappel, réchappe, ...](#techniques-g%c3%a9n%c3%a9rales---rappel-r%c3%a9chappe)
+  - [Le rappel](#le-rappel)
+  - [Descente en moulinette, alternative au rappel](#descente-en-moulinette-alternative-au-rappel)
+  - [La réchappe](#la-r%c3%a9chappe)
+  - [Pas d'artif](#pas-dartif)
+  - [Pliage de corde](#pliage-de-corde)
+  - [Hissage de sac](#hissage-de-sac)
+  - [Poser une main courante](#poser-une-main-courante)
 
 ## Le rappel
 
@@ -19,6 +20,17 @@
 * Pendant la descente du second, le premier installe déjà le brin à tirer dans l'anneau en pensant que le nœud d'aboutement doit se trouver contre le rocher, ceci pour éviter l'effet de la plaquette réverso: le brin du dessus plaqué contre le brin du dessous bloque celui-ci.
 * Quand la longueur du rappel est inconnue et qu'on a aucune visibilité sur l'extrémité basse de la corde, on peut être tenté de réaliser d'emblée un nœud en bout de corde qui relie les deux brins mais problématique en cas de coincement.
 * On recommande actuellement de lancer les deux brins dépourvus de nœud en bout de corde, de réaliser l'essentiel de la descente, puis, arrivé à une dizaine de mètres de l'extrémité, de se laisser bloquer par son autobloquant, de ramener la corde restante à soi pour faire à ce moment seulement le nœud de sécurité rassemblant les deux brins en bout de corde.
+
+## Descente en moulinette, alternative au rappel
+
+Pour descendre quelqu'un en moulinette on utilise un demi cabestan ou un descendeur à tube. Le descendeur est fixé la tête en haut, quasi sous le point de rappel. La corde utilisée doit être disposée au point de rappel de façon à entrer dans le descendeur par au dessus.
+
+Pour cela on fixe le descendeur à tube à trois mousquetons à verrouillage. On évite ainsi les crampes gênantes lors de la moulinette.
+
+ATTENTION POUR LA MOULINETTE!
+On doit veiller à fixer l'extrêmité libre de la corde quelque part avant de commencer la moulinette de façon à ne pas risquer d'arriver accidentellement au bout de la corde sans s'en apercevoir. Si on ne connait pas l'emplacement exact du prochain relais et qu'on ne peut pas le voir, garder un contact visuel et verbal avec celui qui descend afin qu'il puisse donner des instructions.
+
+![Descente en moulinette depuis le relais](img/moulinette.jpg)
 
 ## La réchappe
 

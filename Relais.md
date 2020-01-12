@@ -1,21 +1,26 @@
 # Les relais pour l'assurage par longueur
 
-- [Les relais pour l'assurage par longueur](#Les-relais-pour-lassurage-par-longueur)
-  - [MISE EN PLACE D'UN RELAIS](#MISE-EN-PLACE-DUN-RELAIS)
-    - [CAS OU RELAIS BETON NON NECESSAIRE](#CAS-OU-RELAIS-BETON-NON-NECESSAIRE)
-    - [Cas du relais en piton](#Cas-du-relais-en-piton)
-    - [Cas de points béton => triangulation non nécessaire](#Cas-de-points-b%C3%A9ton--triangulation-non-n%C3%A9cessaire)
-      - [Méthode corde à double](#M%C3%A9thode-corde-%C3%A0-double)
-      - [Méthode corde à simple](#M%C3%A9thode-corde-%C3%A0-simple)
-    - [Cas de points non béton => triangulation du relais](#Cas-de-points-non-b%C3%A9ton--triangulation-du-relais)
-      - [Triangulation unidirectionnelle avec sangle trop courte](#Triangulation-unidirectionnelle-avec-sangle-trop-courte)
-      - [Triangulation multi-directionnelle ou uni-directionnelle pour un rappel](#Triangulation-multi-directionnelle-ou-uni-directionnelle-pour-un-rappel)
-      - [Triangulation semi-directionnelle : le bon compromis](#Triangulation-semi-directionnelle--le-bon-compromis)
-    - [Cas d'une traversée où l'usage du Reverso en mode relais est trop lent](#Cas-dune-travers%C3%A9e-o%C3%B9-lusage-du-Reverso-en-mode-relais-est-trop-lent)
-    - [Cas du Relais en neige.](#Cas-du-Relais-en-neige)
-  - [Technique d'assurage au départ d'un relais](#Technique-dassurage-au-d%C3%A9part-dun-relais)
-    - [Problème de la chute de facteur 2 - Mousquetonner premier point](#Probl%C3%A8me-de-la-chute-de-facteur-2---Mousquetonner-premier-point)
-    - [Méthode britannique (Solution 7)](#M%C3%A9thode-britannique-Solution-7)
+- [Les relais pour l'assurage par longueur](#les-relais-pour-lassurage-par-longueur)
+  - [MISE EN PLACE D'UN RELAIS](#mise-en-place-dun-relais)
+    - [CAS OU RELAIS BETON NON NECESSAIRE](#cas-ou-relais-beton-non-necessaire)
+    - [Cas du relais en piton](#cas-du-relais-en-piton)
+    - [Cas de points béton => triangulation non nécessaire / connexion en série](#cas-de-points-b%c3%a9ton--triangulation-non-n%c3%a9cessaire--connexion-en-s%c3%a9rie)
+      - [Méthode corde à double](#m%c3%a9thode-corde-%c3%a0-double)
+      - [Méthode corde à simple](#m%c3%a9thode-corde-%c3%a0-simple)
+    - [Cas de points non béton => triangulation du relais](#cas-de-points-non-b%c3%a9ton--triangulation-du-relais)
+      - [Triangulation unidirectionnelle avec sangle trop courte](#triangulation-unidirectionnelle-avec-sangle-trop-courte)
+      - [Triangulation multi-directionnelle ou uni-directionnelle pour un rappel](#triangulation-multi-directionnelle-ou-uni-directionnelle-pour-un-rappel)
+      - [Triangulation semi-directionnelle : le bon compromis](#triangulation-semi-directionnelle--le-bon-compromis)
+    - [Cas d'une traversée où l'usage du Reverso en mode relais est trop lent](#cas-dune-travers%c3%a9e-o%c3%b9-lusage-du-reverso-en-mode-relais-est-trop-lent)
+    - [Cas du Relais en neige.](#cas-du-relais-en-neige)
+  - [Technique d'assurage au départ d'un relais](#technique-dassurage-au-d%c3%a9part-dun-relais)
+    - [Problème de la chute de facteur 2 - Mousquetonner premier point](#probl%c3%a8me-de-la-chute-de-facteur-2---mousquetonner-premier-point)
+    - [Méthode britannique (Solution 7)](#m%c3%a9thode-britannique-solution-7)
+  - [Choix d'un assurage du premier de cordée au pontet ou au relais](#choix-dun-assurage-du-premier-de-cord%c3%a9e-au-pontet-ou-au-relais)
+  - [Relais en neige.](#relais-en-neige)
+  - [Relais sur un arbre](#relais-sur-un-arbre)
+  - [Relais sur une lunule](#relais-sur-une-lunule)
+  - [Relais sur tête de rocher](#relais-sur-t%c3%aate-de-rocher)
 
 NOTA: En alpinisme, l'important est d'être efficace pas académique:
   * Le relais comporte un maillon primaire => Commencez par retaper les pitons puis par vous vacher n'importe où, plutôt que de vous lancer dans une longue recherche d'un éventuel maillon primaire.
@@ -42,7 +47,7 @@ NOTA: En alpinisme, l'important est d'être efficace pas académique:
 * Si relais en piton, il faut retaper les pitons.
 * Si les pitons sont douteux, parce que très rouillés, cherchez à ajouter une protection quelconque : coinceur, sangle ou piton. Puis répartissez les forces exercées sur les différents ancrages avec une longue sangle (relais triangulé)
 
-### Cas de points béton => triangulation non nécessaire
+### Cas de points béton => triangulation non nécessaire / connexion en série
 
 #### Méthode corde à double
 
@@ -55,6 +60,8 @@ NOTA: En alpinisme, l'important est d'être efficace pas académique:
 * Installation du reverso dans le mousqueton à vis
 
 Ci-dessous, relais non triangulé avec une erreur: le mousqueton à vis devrait être dans la plaquette et la dégaine accrochée dessus. Il eut peut être été mieux de mettre un autre mousqueton à vis pour installer la plaquette.
+
+![Relais avec connexion en série](img/relaisserie.png)
 
 ![Relais non triangulé: attention, mousqueton à vis et dégaine inversée](img/relaisnontriangule.jpg)
 
@@ -189,3 +196,21 @@ Voir [la vidéo](https://www.youtube.com/watch?v=bOsDiov_1NY)
         * On y place directement la corde et on fait des essais de coulissement de la corde avant que le dernier de la cordée ne descende.
         * Sa confection est assez laborieuse : de diamètre trop petit, il est fragile ; de diamètre trop grand, la corde peut refuser de coulisser.
         * Sur une neige très dure de consistance proche de la glace, sa confection plus compacte est plus facile et on peut abandonner une sangle.
+
+## Relais sur un arbre
+
+Les arbres peuvent être utilisés comme relais. Pour cela, on fixe une boucle autour de l’arbre avec un nœud de tête d’alouette afin qu'elle ne puisse pas remonter. Un arbre utilisable en relais doit toujours être vert, c'est-à-dire qu'il ne doit pas être mort ou pourri. Le diamètre de l'arbre doit être au moins l'épaisseur d'une jambe.
+
+![Relais sur un arbre](img/relaisarbre.jpg)
+
+## Relais sur une lunule
+
+Pour être en mesure de faire un relais sur une lunule, celle-ci doit être au moins de l’épaisseur d’un bras au point le plus fin et ne pas avoir de fissures. Pour cela, le grimpeur passe une sangle autour de la lunule. On n’utilise pas de nœud de tête d’alouette car il se déplacerait automatiquement vers le point le plus fin de la lunule, où la résistance est la plus faible. Au lieu de cela, le grimpeur passe une boucle de sangle dans la lunule, de sorte que sous l’effet de la charge elle repose sur sa base - le point le plus solide de la lunule. 
+
+![Relais sur une lunule](img/relaislunule.jpg)
+
+## Relais sur tête de rocher
+
+En terrain alpin, il est fréquent de faire un relais et d’assurer sur une tête de rocher. Attention: Si la sangle peut être soulevée ou déplacée lors de la chute de celui qui grimpe en tête, le point central doit être mis sous tension. Si cela n'est pas possible, il faut le mettre sous tension avec le poids du corps et utiliser un point de rappel.
+
+![Relais sur tête de rocher](img/relaisteterocher.jpg)

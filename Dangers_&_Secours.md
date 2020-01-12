@@ -1,6 +1,7 @@
 # Dangers et Secours
 
 - [Dangers et Secours](#dangers-et-secours)
+  - [A regarder !!!](#a-regarder)
   - [Conditions de la course à vérifier avant le départ](#conditions-de-la-course-%c3%a0-v%c3%a9rifier-avant-le-d%c3%a9part)
   - [L'exposition](#lexposition)
   - [Elements de météorologie](#elements-de-m%c3%a9t%c3%a9orologie)
@@ -13,6 +14,10 @@
   - [L'altitude](#laltitude)
   - [Quelques malaises simples](#quelques-malaises-simples)
   - [Organisation du secours en montagne](#organisation-du-secours-en-montagne)
+
+## A regarder !!!
+
+https://www.ortovox.com/fr/safety-academy-lab-rock/chapitre-4-methodes-de-sauvetage-en-montagne/situation-durgence-en-alpinisme/ 
 
 ## Conditions de la course à vérifier avant le départ
 
