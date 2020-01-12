@@ -22,3 +22,4 @@
 * Trousse de srecours et couverture de survie
 * Casse croute
 * A boire
+* Piles de rechange pour le DVA
