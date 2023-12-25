@@ -1,4 +1,4 @@
-# Manuel et notes escalade et alpinisme
+# Manuel et notes escalade / alpinisme / ski de randonnée
 
 ## Considérations
 
@@ -21,6 +21,17 @@
 * [Fiche Rocher](./fiche-rocher.md)
 * [Fiche Glace](./fiche-glace.md)
 * [Fiche Cascade de Glace](./fiche-cascade-de-glace.md)
+
+## Ski de randonnée
+
+* [Matériel pour ski de randonnés](./ski-randonnée.md)
+* [Préparation sortie de ski](./prepasortieski.md)
+* [Gestion des risques à ski](./gestionrisqueski.md)
+* [DVA & Secours avalanche](./secours-avalanche.md)
+
+## Nivologie & Cartographie
+
+* [Eléments de nivologie](./nivologie.md)
 
 ## Ressources
 
