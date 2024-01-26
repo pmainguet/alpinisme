@@ -72,11 +72,11 @@
   * Neige qui tombe sans vent => poudreuse, peu dense
   * Le vent donne de la cohésion si pas trop fort => plus facilement création de plaque
 * TRANSPORT
-  * Vent modéré à fort => endroit avec accumulation de neige (accumulation au côté opposé au vent mais pas que, car flux complexe en montagne)
+  * Vent modéré à fort (50-75km/h)=> gros transport - endroit avec accumulation de neige (accumulation au côté opposé au vent mais pas que, car flux complexe en montagne)
+  * Vent > 75 km/h: disparition de la neige par phénomène de sublimation
   * Neige fraiche soufflée => plaque friable se met en place 
 * CREATION DE PLAQUE A VENT
   * Du côté où le vent souffle, si très fort, tasse la neige côté vent
-
 
 ### Effet de la température sur la neige
 
@@ -84,7 +84,12 @@
 * Chaud => transformation de la neige => neige lourde
 * Froid puis chaud => 10 à 20 cm vont devenir critique (épaisseur avec cohésion qui se met sur une couche fragile)
 * Chaud puis froid => 30 à 60 cm de neige deviennent critique
-* Un temps clair d'hiver favorise la création de couches fragiles: recouvertes par de la neige fraiche ou de la neige ventée, ces couches fragiles sont moteur de déclenchement, parfois pendant de longues périodes.
+* Un temps clair d'hiver favorise la création de couches fragiles: recouvertes par de la neige fraiche ou de la neige ventée, ces couches fragiles sont moteur de déclenchement, parfois pendant de longues périodes. Mieux vaut partir du principe qu'il y a toujours des couches fragiles enfouies en tenant compte de l'ensemble de la saison ...
+
+* Gradient: différence de température entre le sol (à 0°) et la surface
+* Gradient fort = la différence de température est importante sur une distance faible
+* Gradient faible = la différence de température est faible sur une distance importante
+* Plus le gradient est fort et l'épaisseur faible, plus il y a un risque de départ mais la neige mobilisable est faible
 
 ### Effet de la surface
 
@@ -110,7 +115,6 @@
   * Attention au pluie juste après des chutes de neige => eau rentre facilement dans le manteau neigeux (danger temporaire)
 
 ## Observables
-
 
 * Départs naturels, coulées
 * Surface scintillante

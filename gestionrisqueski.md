@@ -1,36 +1,26 @@
 # EVALUATION ET PRISE DE DECISION EN MILIEU NEIGEUX
 
-3 catégories de variables permettent de déterminer le risque:
-* conditions nivo-météorologiques
-* données topographiques
-* caractéristiques du groupe.
+Plusieurs outils existent, la plus simple à mettre en oeuvre reste la grille 3x3
 
-## Méthodes d'évaluation du risque, démarche globale et prise de décision
+3 dimensions permettent de mesurer le risque:
+* CONDITIONS: conditions nivo-météorologiques
+* TERRAIN: données topographiques
+* FACTEUR HUMAIN: caractéristiques du groupe (soi-même et les autres)
 
-Démarche globale:
-* Observation
-* Analyse
-* Décision (choix d'un projet, adaptation, réduction du risque)
-* Communication (partage autour d'un projet, briefing, consignes)
-* Actions (stratégies)
+Cette mesure doit se faire à 3 moments:
+* Au moment de la PREPARATION
+* EVALUATION SUR PLACE
+* Dans LA PENTE
 
-### 3x3 de Munter
+![3x3 - Préparation](img/3x3preparation.png)
+![3x3 - Evaluation sur place](img/3x3surplace.png)
+![3x3 - Dans la pente](img/3x3lapente.png)
 
-![3x3 élargie de Munter](img/3x3elargideMunter.jpg)
+## Notes de la formation Faire la Trace
 
-* Dans cette approche, une place centrale est donnée au leader vis-à-vis du groupe
-* Autour d'une démarche cartésienne, des mécanismes de notre inconscient interfèrent avec nos décisions
-  * Pièges inconscients: habitude, obstination, position sociale, rareté de la situation et aura de l'expert
-  * Rôle central de l'intuition: système de pensée très rapide mobilisant nos expériences vécues qui prend souvent le pas sur l'approche rationnelle, gourmande en énergie.
-* Les différentes postures de meneur
-  * Le fonceur: il va au bout de son projet, dès lors qu'il a décidé d'y aller
-  * Le cartésien: il se base sur la science et aimerait tout vérifier en permanence, chose irréalisable. Il fait donc un pari ou ne décide pas.
-  * L'expérimenté, l'intuitif: il joue sur l'affect et l'expérience. Cela peut être efficace mais parfois pervers car il joue sur l'émotionnel ou s'appuie sur des perceptions vécues faussées.
-  * Le procédurier: il s'appuie surtout sur une méthode ou un outil d'analyse qu'il suit, jusqu'à ne pas s'écouter
-  * Le vigilant "encadré": il identifie des alertes (ou critères de dangers) au fi de sa progression et se place dans un mode de vigilance particulier
-* Les deux premiers profils sont plutôt dangereux et seraient plus efficaces. Le dernier est enseigné aux guides français, il est moins lourd que des check-lists ou calculs chiffrés mais plus cadrant que l'intuition.
+* Il est important de déterminer des moments dans l'ascension / descente pour prendre des décisions (noeuds décisionnels): changer d'itinéraire en fonction de la fraicheur du groupe, de la météo ...
 
-### Outils chiffrés
+### Autres outils
 
 #### Méthode de réduction de Munter
 
